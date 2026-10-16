@@ -169,3 +169,4 @@ a.sub-alt { font: 600 0.9rem var(--ui); }
 .all-group { margin-bottom: 1.6rem; }
 .all-group ul { columns: 2 16rem; column-gap: 1.5rem; padding-left: 0; list-style: none; }
 .all-group li { break-inside: avoid; font-size: 0.95rem; }
+article p.notice { font-family: var(--ui); font-size: 0.92rem; line-height: 1.5; background: var(--rail); border-left: 3px solid var(--accent); border-radius: 0 4px 4px 0; padding: 0.6rem 0.9rem; margin: 0 0 1.1rem; }

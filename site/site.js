@@ -86,7 +86,7 @@
     h += '<div><h2>Her works</h2><ul>' + li(S['Miss MacIntosh, My Darling'], 'Miss MacIntosh, My Darling') + li(S['Angel in the Forest'], 'Angel in the Forest') + li(S['Harp Song for a Radical'], 'Harp Song for a Radical') + li(S['Inviting the Muses'], 'Inviting the Muses') + li(S['The Collected Poems of Marguerite Young'], 'The Collected Poems') + '</ul></div>';
     h += '<div><h2>More About Young</h2><ul>' + li(S["Psychology in Young's Works"], "Psychology in Young's Works") + li(S["Politics in Young's Works"], "Politics in Young's Works") + li(S['Marguerite Young, Our Darling'], 'Marguerite Young, Our Darling') + li(S["Young's Interviews Analyzed"], "Young's Interviews Analyzed") + '</ul></div>';
     h += '<div id="mmmdNav" class="mmmd-nav"><div class="work-head">Inside Miss MacIntosh, My Darling</div><div><ul>' + li(S['Start Here'], 'Start Here') + '</ul></div>';
-    h += '<div><h2>Read the novel</h2><ul>' + li(S['Chapter Hubs Home'], 'Chapter Hubs') + li(S['Story Arcs Home'], 'Story Arcs') + '</ul></div>';
+    h += '<div><h2>Read the novel</h2><ul>' + li(S['Chapter Hubs Home'], 'Chapter Hubs') + li(S['Story Arcs Home'], 'Story Arcs') + li('story-in-time', 'The Story in Time') + '</ul></div>';
     h += '<div><h2>Follow an idea</h2><ul>' + li(S['Pillar Crosswalks Home'], 'Pillar Crosswalks') + li(S['Character Hubs Home'], 'Character Hubs') + '</ul></div>';
     h += '<div><h2>The books</h2><ul>' +
       li(S['Home'], 'To All My Darlings') + li(S['Guide Home'], 'A Guide to Reading MMMD') + li(S['Wheel and Spokes Home'], 'The Wheel and the Spokes') +
