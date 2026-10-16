@@ -139,7 +139,9 @@ open(os.path.join(PREVIEW, 'index.html'), 'w').write(prev)
 
 # ---------- 2. the version for the new host (one real file per page) ----------
 H = SRC
-for old in glob.glob(os.path.join(H, '*.html')): os.remove(old)
+for old in glob.glob(os.path.join(H, '*.html')):
+    # keep the Google Search Console verification file
+    if not os.path.basename(old).startswith('google'): os.remove(old)
 open(H + '/site.css', 'w').write(BASE + css)
 open(H + '/site.js', 'w').write(js)
 open(H + '/robots.txt', 'w').write('User-agent: *\nAllow: /\n\nSitemap: ' + SITE_URL + '/sitemap.xml\n')
