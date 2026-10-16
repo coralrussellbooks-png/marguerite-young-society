@@ -155,6 +155,8 @@ def write_page(fname, pid, title, desc, img, crumb, content, kind='article'):
     img = SITE_URL + '/' + img
     doc = (f'<!doctype html>\n<html lang="en" data-static="1" data-page="{pid}">\n<head>\n<meta charset="utf-8">\n'
            '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">\n'
+           '<link rel="icon" href="favicon.ico" sizes="any">\n<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">\n'
+           '<link rel="apple-touch-icon" href="apple-touch-icon.png">\n'
            f'<title>{e(full_title)}</title>\n' + head_extra + meta(title, desc, img, kind) + FONTS +
            '<link rel="stylesheet" href="site.css">\n</head>\n<body>\n' + shell(content, crumb, True) +
            '<script src="site.js"></script>\n</body>\n</html>\n')
