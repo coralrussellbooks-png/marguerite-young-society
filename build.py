@@ -5,6 +5,8 @@ import json, glob, os, re, html, shutil, sys
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(ROOT, 'site')
 PREVIEW = os.path.join(ROOT, 'preview')
+# The site's web address. Change this if the site moves to a new address, then run build.py again.
+SITE_URL = 'https://marguerite-young-society.coralrussellbooks.workers.dev'
 SITE = 'The Marguerite Young Society'
 HOME = 'the-marguerite-young-society'
 SITE_DESC = ('A home for the work of Marguerite Young (1908 to 1995): Miss MacIntosh, My Darling, '
@@ -140,13 +142,18 @@ H = SRC
 for old in glob.glob(os.path.join(H, '*.html')): os.remove(old)
 open(H + '/site.css', 'w').write(BASE + css)
 open(H + '/site.js', 'w').write(js)
-open(H + '/robots.txt', 'w').write('User-agent: *\nAllow: /\n')
+open(H + '/robots.txt', 'w').write('User-agent: *\nAllow: /\n\nSitemap: ' + SITE_URL + '/sitemap.xml\n')
+PAGE_URLS = []
 
 def write_page(fname, pid, title, desc, img, crumb, content, kind='article'):
     full_title = SITE if title == SITE else title + ' | ' + SITE
+    url = SITE_URL + '/' + ('' if fname == 'index.html' else fname[:-5])
+    PAGE_URLS.append(url)
+    head_extra = (f'<link rel="canonical" href="{e(url)}">\n<meta property="og:url" content="{e(url)}">\n')
+    img = SITE_URL + '/' + img
     doc = (f'<!doctype html>\n<html lang="en" data-static="1" data-page="{pid}">\n<head>\n<meta charset="utf-8">\n'
            '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">\n'
-           f'<title>{e(full_title)}</title>\n' + meta(title, desc, img, kind) + FONTS +
+           f'<title>{e(full_title)}</title>\n' + head_extra + meta(title, desc, img, kind) + FONTS +
            '<link rel="stylesheet" href="site.css">\n</head>\n<body>\n' + shell(content, crumb, True) +
            '<script src="site.js"></script>\n</body>\n</html>\n')
     open(H + '/' + fname, 'w').write(doc)
@@ -175,4 +182,8 @@ write_page('all-pages.html', 'all-pages', 'All pages', 'Every page of The Margue
 sub = ('<h1>Radical Immanence on Substack</h1><p>New essays, chapter readings, and reflections on Marguerite Young go out first on Substack. '
        'Subscribing is free, and each new post arrives by email.</p><p><a href="https://coralrussell.substack.com/subscribe">Subscribe on Substack</a></p>')
 write_page('substack.html', 'substack', 'Radical Immanence on Substack', 'New essays, chapter readings, and reflections on Marguerite Young, free by email.', 'img/young-portrait.jpg', 'The Society', sub)
-print('pages', count + 2)
+sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+sm += ['<url><loc>%s</loc></url>' % e(u) for u in PAGE_URLS]
+sm.append('</urlset>')
+open(H + '/sitemap.xml', 'w').write('\n'.join(sm) + '\n')
+print('pages', count + 2, '| sitemap entries', len(PAGE_URLS))

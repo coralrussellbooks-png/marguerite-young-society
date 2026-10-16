@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://marguerite-young-society.coralrussellbooks.workers.dev/sitemap.xml

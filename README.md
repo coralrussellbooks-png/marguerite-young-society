@@ -12,8 +12,8 @@ Everything on this site is free to use and share.
 - `src/` holds the site's design (`site.css`) and behavior (`site.js`).
 - `build.py` rebuilds the page files in `site/` from the text in `site/data/`.
 
-## Cloudflare Pages settings
+## Where it is published
 
-- Framework preset: None
-- Build command: leave empty
-- Build output directory: `site`
+Cloudflare publishes the `site` folder at https://marguerite-young-society.coralrussellbooks.workers.dev and updates it whenever this repository changes.
+
+If the site moves to a new address, change `SITE_URL` near the top of `build.py` and run `python3 build.py` again, so the sitemap and share links use the new address.
