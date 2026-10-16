@@ -18,7 +18,7 @@
     url: 'https://coralrussell.substack.com',
     name: 'Radical Immanence',
     author: 'The Marguerite Young Society',
-    embedForm: false,
+    embedForm: true,
     featured: [
       ['To All My Darlings', 'https://coralrussell.substack.com/p/chapter-593-b6c', 'Reading Miss MacIntosh, My Darling together.'],
       ['Harp Song for a Radical, Chapter 142', 'https://coralrussell.substack.com/p/chapter-142-part-of-144-harp-song', 'A recent chapter in the reading of Young’s life of Eugene Debs.'],
