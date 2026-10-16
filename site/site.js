@@ -81,11 +81,11 @@
   function buildSide() {
     var S = M.special, h = '';
     function li(id, label) { return '<li><a href="' + link(id) + '" data-id="' + id + '">' + esc(label) + '</a></li>'; }
-    h += '<div><ul>' + li(S['The Marguerite Young Society'], 'The Marguerite Young Society') + li('substack', 'Read on Substack') + li('audio', 'Audio') + '</ul></div>';
+    h += '<div><ul>' + li(S['The Marguerite Young Society'], 'The Marguerite Young Society') + li('substack', 'Read on Substack') + li('audio', 'Audio') + li('read-along-2028', 'Read-Along 2028') + '</ul></div>';
     h += '<div><h2>Radical Immanence</h2><ul>' + li(S['Radical Immanence the Philosophy of Marguerite Young'], 'The Philosophy of Marguerite Young') + li(S['The Eleven Pillars'], 'The Eleven Pillars') + li(S['Collection Home'], 'Radical Immanence Collection') + li(S['Writing Life Home'], 'Across Her Writing Life') + li(S['Whale Home'], 'Be Bak in a Whale') + li(S['Creative Home'], 'The Creative Radical Collection') + li(S['Art Home'], 'Art When Here Is Enough') + li(S['A Course in Radical Immanence'], 'A Course in Radical Immanence') + '</ul></div>';
     h += '<div><h2>Her works</h2><ul>' + li(S['Miss MacIntosh, My Darling'], 'Miss MacIntosh, My Darling') + li(S['Angel in the Forest'], 'Angel in the Forest') + li(S['Harp Song for a Radical'], 'Harp Song for a Radical') + li(S['Inviting the Muses'], 'Inviting the Muses') + li(S['The Collected Poems of Marguerite Young'], 'The Collected Poems') + '</ul></div>';
     h += '<div><h2>More About Young</h2><ul>' + li(S["Psychology in Young's Works"], "Psychology in Young's Works") + li(S["Politics in Young's Works"], "Politics in Young's Works") + li(S['Marguerite Young, Our Darling'], 'Marguerite Young, Our Darling') + li(S["Young's Interviews Analyzed"], "Young's Interviews Analyzed") + '</ul></div>';
-    h += '<div id="mmmdNav" class="mmmd-nav"><div class="work-head">Inside Miss MacIntosh, My Darling</div><div><ul>' + li(S['Start Here'], 'Start Here') + '</ul></div>';
+    h += '<div id="mmmdNav" class="mmmd-nav"><div class="work-head">Inside Miss MacIntosh, My Darling</div><div><ul>' + li(S['Start Here'], 'Start Here') + li('glossary', 'Glossary') + '</ul></div>';
     h += '<div><h2>Read the novel</h2><ul>' + li(S['Chapter Hubs Home'], 'Chapter Hubs') + li(S['Story Arcs Home'], 'Story Arcs') + li('story-in-time', 'The Story in Time') + '</ul></div>';
     h += '<div><h2>Follow an idea</h2><ul>' + li(S['Pillar Crosswalks Home'], 'Pillar Crosswalks') + li(S['Character Hubs Home'], 'Character Hubs') + '</ul></div>';
     h += '<div><h2>The books</h2><ul>' +
