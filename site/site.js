@@ -369,6 +369,16 @@
   });
 
   if (STATIC) {
+    /* Every link to another page opens in a new tab; links within the same page stay put. */
+    document.addEventListener('click', function (e) {
+      if (e.defaultPrevented) return;
+      var a = e.target.closest('a[href]'); if (!a || a.target) return;
+      var h = a.getAttribute('href');
+      if (!h || h.charAt(0) === '#' || /^(mailto|tel|javascript):/i.test(h)) return;
+      var here = location.pathname.split('/').pop() || 'index.html';
+      if (h.indexOf('#') > 0 && h.split('#')[0] === here) return;
+      a.target = '_blank'; a.rel = 'noopener';
+    });
     current = PAGE_ID;
     var hashNow = function () {
       var hh = decodeURIComponent(location.hash.slice(1));

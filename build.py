@@ -184,7 +184,7 @@ for g in groups:
     ap += '</ul></div>'
 write_page('all-pages.html', 'all-pages', 'All pages', 'Every page of The Marguerite Young Society, grouped by book and section.', 'img/young-portrait.jpg', 'The Society', ap)
 sub = ('<h1>Radical Immanence on Substack</h1><p>New essays, chapter readings, and reflections on Marguerite Young go out first on Substack. '
-       'Subscribing is free, and each new post arrives by email.</p><p><a href="https://coralrussell.substack.com/subscribe">Subscribe on Substack</a></p>')
+       'Subscribing is free, and each new post arrives by email.</p><p><a href="https://coralrussell.substack.com/subscribe" target="_blank" rel="noopener">Subscribe on Substack</a></p>')
 write_page('substack.html', 'substack', 'Radical Immanence on Substack', 'New essays, chapter readings, and reflections on Marguerite Young, free by email.', 'img/young-portrait.jpg', 'The Society', sub)
 sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
 sm += ['<url><loc>%s</loc></url>' % e(u) for u in PAGE_URLS]
