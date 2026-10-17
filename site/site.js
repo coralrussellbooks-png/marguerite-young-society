@@ -5,6 +5,7 @@
   /* STATIC is true on the version built for the new host, where every page has its own address (page-name.html).
      On the preview here it is false and pages live behind a "#". */
   var STATIC = document.documentElement.getAttribute('data-static') === '1';
+  var ORIG_TITLE = document.title;
   var PAGE_ID = document.documentElement.getAttribute('data-page') || '';
   var M = null, cache = {}, textCache = {}, current = null;
   var page = document.getElementById('page'), crumb = document.getElementById('crumb');
@@ -314,6 +315,7 @@
     results.hidden = true; page.hidden = false;
     var p = M && M.pages[current];
     crumb.textContent = p ? p[1] : 'The Society';
+    if (STATIC) { document.title = ORIG_TITLE; return; }
     setTitle(current === HOME ? SITE : p ? p[0] : current === 'substack' ? SUBSTACK.name + ' on Substack' : current === 'all-pages' ? 'All pages' : SITE);
   }
   q.addEventListener('input', function () {

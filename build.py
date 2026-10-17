@@ -62,14 +62,21 @@ def heading_ids(h):
         return '<%s%s id="s-%s">%s</%s>' % (tag, attrs, slug(txt), inner, tag)
     return re.sub(r'<(h2|h3)([^>]*)>(.*?)</\1>', r, h, flags=re.S)
 
-def describe(h):
-    for p in re.findall(r'<p[^>]*>(.*?)</p>', h, re.S):
+SKIP_P = re.compile(r'^(Other versions|Spoiler note|Length|Story arc|Character hubs|Source or tradition|Type|Chapters|Carriers|Named|Part of|From |Research notes|Reading guide|Pillars|Counts|Published|Talk it over|Content note|Characters|Themes|Symbols|Philosophy)\b')
+def describe(h, title, label):
+    body = re.sub(r'<p class="notice">.*?</p>', '', h, flags=re.S)
+    for p in re.findall(r'<p[^>]*>(.*?)</p>', body, re.S):
         t = html.unescape(re.sub(r'<[^>]+>', ' ', p))
         t = re.sub(r'\s+', ' ', t).strip()
-        if '←' in t or '→' in t or len(t) < 50: continue
-        if len(t) > 160: t = t[:157].rsplit(' ', 1)[0].rstrip(',;:') + '…'
+        if '←' in t or '→' in t or len(t) < 60 or SKIP_P.match(t) or t.count(' · ') >= 2: continue
+        if len(t) > 158: t = t[:155].rsplit(' ', 1)[0].rstrip(',;:') + '…'
         return t
-    return SITE_DESC
+    for li_ in re.findall(r'<li>(.*?)</li>', body, re.S):
+        t = re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', li_))).strip()
+        if len(t) >= 60 and not SKIP_P.match(t):
+            if len(t) > 120: t = t[:117].rsplit(' ', 1)[0].rstrip(',;:') + '…'
+            return title + ', from ' + label + ': ' + t
+    return title + ', from ' + label + ', on The Marguerite Young Society, a free companion to the life and work of Marguerite Young (1908 to 1995).'
 
 # share image: a book's cover for every page in that book, otherwise the portrait
 COVER_FILE = {k: 'mmmd-studies' for k in ['religion-in-mmmd-home', 'comedy-in-mmmd-home', 'history-in-mmmd-home', 'philosophy-of-mmmd-home', 'intertextuality-in-mmmd-home']}
@@ -147,6 +154,18 @@ open(H + '/site.js', 'w').write(js)
 open(H + '/robots.txt', 'w').write('User-agent: *\nAllow: /\n\nSitemap: ' + SITE_URL + '/sitemap.xml\n')
 PAGE_URLS = []
 
+def ld(pid, title, desc, img, url, crumb):
+    young = {"@type": "Person", "name": "Marguerite Young", "birthDate": "1908", "deathDate": "1995",
+             "sameAs": "https://en.wikipedia.org/wiki/Marguerite_Young"}
+    site = {"@type": "WebSite", "name": SITE, "url": SITE_URL + "/"}
+    if pid == HOME:
+        d = dict(site, **{"@context": "https://schema.org", "description": desc, "about": young, "inLanguage": "en"})
+    else:
+        d = {"@context": "https://schema.org", "@type": "Article", "headline": title[:110], "description": desc, "image": img,
+             "url": url, "inLanguage": "en", "isPartOf": site, "about": young, "articleSection": crumb,
+             "author": {"@type": "Organization", "name": SITE, "url": SITE_URL + "/"}}
+    return '<script type="application/ld+json">' + json.dumps(d, ensure_ascii=False).replace('</', '<\\/') + '</script>\n'
+
 def write_page(fname, pid, title, desc, img, crumb, content, kind='article'):
     full_title = SITE if title == SITE else title + ' | ' + SITE
     url = SITE_URL + '/' + ('' if fname == 'index.html' else fname[:-5])
@@ -157,11 +176,17 @@ def write_page(fname, pid, title, desc, img, crumb, content, kind='article'):
            '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">\n'
            '<link rel="icon" href="favicon.ico" sizes="any">\n<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">\n'
            '<link rel="apple-touch-icon" href="apple-touch-icon.png">\n'
-           f'<title>{e(full_title)}</title>\n' + head_extra + meta(title, desc, img, kind) + FONTS +
+           f'<title>{e(full_title)}</title>\n' + head_extra + meta(title, desc, img, kind) + ld(pid, title, desc, img, url, crumb) + FONTS +
            '<link rel="stylesheet" href="site.css">\n</head>\n<body>\n' + shell(content, crumb, True) +
            '<script src="site.js"></script>\n</body>\n</html>\n')
     open(H + '/' + fname, 'w').write(doc)
 
+from collections import Counter
+TC = Counter(v[0] for v in P.values())
+def page_title(title, label):
+    if TC[title] > 1 and label and label not in title: return title + ' (' + label + ')'
+    return title
+DESCS = Counter()
 count = 0
 for pid, (title, label, f) in P.items():
     raw = data[f][pid]
@@ -169,7 +194,11 @@ for pid, (title, label, f) in P.items():
     if pid == HOME:
         write_page('index.html', pid, SITE, SITE_DESC, 'img/young-portrait.jpg', label, content, 'website')
     else:
-        write_page(pid + '.html', pid, title, describe(raw), share_image(pid), label, content)
+        t2 = page_title(title, label); d2 = describe(raw, title, label)
+        if pid.startswith('character-hub-'): d2 = title + " in Marguerite Young's Miss MacIntosh, My Darling: the chapters, research notes, Masterclass portrait, and essays about this character."
+        if DESCS[d2]: d2 = (t2 + ': ' + d2)[:158].rsplit(' ', 1)[0] + ('…' if len(t2 + d2) > 156 else '')
+        DESCS[d2] += 1
+        write_page(pid + '.html', pid, t2, d2, share_image(pid), label, content)
     count += 1
 
 # All pages index
