@@ -90,6 +90,7 @@ label_cover = {}
 for cid in COVER_IDS:
     if cid in P: label_cover.setdefault(P[cid][1], 'img/covers/' + COVER_FILE.get(cid, cid) + '.jpg')
 def share_image(i):
+    if i == 'all-the-darlings': return 'img/all-the-darlings.png'
     if i in WORKS: return 'img/covers/' + WORKS[i] + '.jpg'
     if i in COVER_IDS: return 'img/covers/' + COVER_FILE.get(i, i) + '.jpg'
     if i in P and P[i][1] in label_cover: return label_cover[P[i][1]]

@@ -1,0 +1,67 @@
+/* All the Darlings: interactive character map. Used by character-hubs-home and all-the-darlings. */
+
+/* All styles are scoped to .atd so the page can sit inside the site's own template. */
+.atd{
+  --vellum:#EEE5CF; --ink:#1C1813; --minium:#B23A2C; --verdigris:#3E7D5E; --ochre:#A1722A; --gold:#E3BE5E; --rule:#B4A88C; --prose:#000000;
+  --f-letter:"IM Fell English",Georgia,"Times New Roman",serif;
+  --f-caps:"IM Fell English SC","IM Fell English",Georgia,serif;
+  --f-prose:Arial,Helvetica,sans-serif;
+  background:var(--vellum);color:var(--prose);font-family:var(--f-prose);font-size:16px;line-height:1.45;color-scheme:light;
+}
+.atd *{box-sizing:border-box}
+.atd .wrap > *{min-width:0}
+.atd .wrap{max-width:1000px;margin:0 auto;padding-block:22px 26px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:22px}
+.atd .crumbs{font-size:14px;margin:0}
+.atd .crumbs a{color:var(--minium)}
+.atd .eyebrow{font-family:var(--f-caps);color:var(--minium);letter-spacing:.08em;font-size:15px;margin:0}
+.atd h1{font-family:var(--f-letter);font-weight:400;font-size:clamp(30px,5vw,44px);line-height:1.1;margin:4px 0 10px;text-wrap:balance;color:var(--ink)}
+.atd p{max-width:68ch;margin:0 0 10px}
+.atd .note{font-size:15px}
+.atd .tally{display:flex;flex-wrap:wrap;gap:6px 26px;margin:12px 0 0;padding:0;list-style:none;font-size:15px}
+.atd .tally b{font-family:var(--f-letter);font-size:24px;font-weight:400;color:var(--minium);margin-right:5px;font-variant-numeric:tabular-nums}
+.atd .plate{margin:0;border:1px solid var(--rule);background:var(--vellum);box-shadow:inset 0 0 70px rgba(120,96,50,.14)}
+.atd .plate-head{display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px 16px;align-items:baseline;padding:12px 16px 0}
+.atd .plate-head .t{font-family:var(--f-letter);font-size:22px;color:var(--ink)}
+.atd .plate-head .s{font-family:var(--f-letter);font-style:italic;font-size:14px;color:var(--ink)}
+.atd .info{min-height:3.2em;padding:8px 16px 10px;border-bottom:1px solid var(--rule);font-size:15px}
+.atd .info strong{font-family:var(--f-letter);font-size:19px;font-weight:400;color:var(--ink);margin-right:8px}
+.atd .scroll{overflow-x:auto}
+.atd #atd-map{display:block;width:100%;min-width:780px;height:auto}
+.atd #atd-map .ch{transition:opacity .15s}
+.atd #atd-map .hit{cursor:pointer}
+.atd #atd-map.focus .ch{opacity:.14}
+.atd #atd-map.focus .ch.on{opacity:1}
+.atd #atd-map .ch.on .outer{stroke-width:6.6}
+.atd #atd-map .ch.on .inner{stroke-width:3.4}
+.atd #atd-map .ch.on circle.bead{stroke-width:2.6}
+.atd .legend{display:flex;flex-wrap:wrap;gap:6px 22px;padding:10px 16px 12px;border-top:1px solid var(--rule);font-size:14px}
+.atd .legend svg{vertical-align:-3px;margin-right:6px}
+.atd .key{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,440px),1fr));gap:24px}
+.atd .key > div{min-width:0}
+.atd h3.kh{font-family:var(--f-caps);font-weight:400;font-size:21px;margin:0 0 6px;letter-spacing:.04em}
+.atd h3{font-family:var(--f-caps);font-weight:400;font-size:19px;margin:0 0 6px;color:var(--minium)}
+.atd .k-left h3{color:var(--verdigris)} .atd .k-right h3{color:var(--ochre)}
+.atd .row{display:grid;grid-template-columns:1fr auto auto;gap:10px;align-items:baseline;border-bottom:1px solid var(--rule)}
+.atd .row:has(.cb[aria-pressed="true"]),.atd .row:hover{background:rgba(227,190,94,.35)}
+.atd .cb{text-align:left;background:none;border:0;padding:5px 2px;font:inherit;font-size:14.5px;color:var(--prose);cursor:pointer}
+.atd .cb:focus-visible,.atd .row a:focus-visible{outline:2px solid var(--minium);outline-offset:1px}
+.atd .cs{font-variant-numeric:tabular-nums;font-size:13px;text-align:right}
+.atd .one{font-family:var(--f-letter);font-style:italic;color:var(--minium);margin-left:6px;font-size:13px}
+.atd .row a{font-size:13px;color:var(--minium);padding-right:2px}
+.atd .row .nohub{width:2.4em}
+.atd .reading{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:20px 32px}
+.atd .reading > div{min-width:0}
+.atd .src{font-size:13.5px}
+.atd .src a,.atd .reading a{color:var(--minium)}
+@media (prefers-reduced-motion:reduce){.atd #atd-map .ch{transition:none}}
+
+/* Inside the site's narrow reading column, the map's leaf widens to the whole main area. */
+main:has(.atd){container-type:inline-size}
+article .atd{width:min(1040px,100cqw);margin:2rem 0 1rem calc((100% - min(1040px,100cqw)) / 2);border:1px solid var(--rule);border-radius:4px;line-height:1.45}
+.atd h1,.atd h2.atd-title{font-family:var(--f-letter);font-weight:400;color:var(--ink);border:0;padding:0;margin:4px 0 10px;text-wrap:balance}
+.atd h1{font-size:clamp(30px,5vw,44px);line-height:1.1}
+.atd h2.atd-title{font-size:clamp(26px,4vw,36px);line-height:1.15}
+.atd h3{line-height:1.2;border:0;padding:0}
+.atd ul.tally li{margin:0}
+.atd a{text-underline-offset:.15em}
+.atd .plate-head{margin:0}
