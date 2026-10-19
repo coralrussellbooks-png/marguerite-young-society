@@ -93,7 +93,7 @@
       li(S['Home'], 'To All My Darlings') + li(S['Guide Home'], 'A Guide to Reading MMMD') + li(S['Wheel and Spokes Home'], 'The Wheel and the Spokes') +
       li(S['Architecture Home'], 'The Deep Architecture') + li(S['Philosophy of MMMD Home'], 'The Philosophy in MMMD') + li(S['History in MMMD Home'], 'The History in MMMD') +
       li(S['Intertextuality in MMMD Home'], 'Intertextuality in MMMD') + li(S['Intertextual Index Home'], 'Intertextual Index') + li(S['Comedy in MMMD Home'], 'Comedy in MMMD') +
-      li(S['Religion in MMMD Home'], 'Christianity and Religion') + li(S['Index of MMMD Home'], 'Index of MMMD') + li(S['LLT Home'], 'Life, Love, and Truth') + li(S['Master Class Home'], 'Teaching a Writing Masterclass') + li(S['Woman in MMMD Home'], "Woman in Young's Magnum Opus") + li(S['Reality Home'], 'Reality and Illusion') + '</ul></div>';
+      li(S['Religion in MMMD Home'], 'Christianity and Religion') + li(S['Index of MMMD Home'], 'Index of MMMD') + li(S['LLT Home'], 'Life, Love, and Truth') + li(S['Masterclass Home'], 'Teaching a Writing Masterclass') + li(S['Woman in MMMD Home'], "Woman in Young's Magnum Opus") + li(S['Reality Home'], 'Reality and Illusion') + '</ul></div>';
     var arcs = [], seen = {};
     for (var c = 1; c <= 82; c++) {
       var a = M.arcOf[c];
