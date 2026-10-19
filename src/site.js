@@ -371,15 +371,37 @@
   });
 
   if (STATIC) {
-    /* Every link to another page opens in a new tab; links within the same page stay put. */
+    /* Links stay in the same tab so the back button works, with two exceptions that open a new tab:
+       links to other websites, and links that jump to the main page of a different section. */
+    var MAIN_PAGES = null;
+    var groupOf = function (id) {
+      if (id === 'index' || id === HOME) id = HOME;
+      return (M && M.pages && M.pages[id]) ? M.pages[id][1] : null;
+    };
+    var isMain = function (id) {
+      if (!M || !M.special) return false;
+      if (!MAIN_PAGES) { MAIN_PAGES = {}; for (var k in M.special) MAIN_PAGES[M.special[k]] = 1; }
+      return !!MAIN_PAGES[id] || /-home$/.test(id);
+    };
     document.addEventListener('click', function (e) {
       if (e.defaultPrevented) return;
       var a = e.target.closest('a[href]'); if (!a || a.target) return;
       var h = a.getAttribute('href');
       if (!h || h.charAt(0) === '#' || /^(mailto|tel|javascript):/i.test(h)) return;
+      if (/^https?:\/\//i.test(h)) {
+        if (a.host !== location.host) { a.target = '_blank'; a.rel = 'noopener'; }
+        return;
+      }
+      var file = h.split('#')[0].split('?')[0].split('/').pop();
       var here = location.pathname.split('/').pop() || 'index.html';
-      if (h.indexOf('#') > 0 && h.split('#')[0] === here) return;
-      a.target = '_blank'; a.rel = 'noopener';
+      if (!file || file === here) return;
+      var to = file.replace(/\.html$/, '');
+      var from = here.replace(/\.html$/, '');
+      if (to === 'index') to = HOME;
+      if (from === 'index' || from === '') from = HOME;
+      if (!isMain(to)) return;
+      var gTo = groupOf(to), gFrom = groupOf(from);
+      if (gTo && gTo !== gFrom) { a.target = '_blank'; a.rel = 'noopener'; }
     });
     current = PAGE_ID;
     var hashNow = function () {
