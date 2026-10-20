@@ -38,11 +38,7 @@
     }
     h += '<div class="sub-actions"><a class="sub-go" href="' + esc(S.url) + '/subscribe" target="_blank" rel="noopener">Subscribe on Substack</a>';
     h += '<a class="sub-alt" href="' + esc(S.url) + '" target="_blank" rel="noopener">Visit the newsletter</a></div></div>';
-    h += '<h2>Start reading</h2><ul class="sub-list">';
-    S.featured.forEach(function (f) {
-      h += '<li><a href="' + esc(f[1]) + '" target="_blank" rel="noopener">' + esc(f[0]) + '</a>' + (f[2] ? '<span>' + esc(f[2]) + '</span>' : '') + '</li>';
-    });
-    h += '</ul><p><a href="' + esc(S.url) + '/archive" target="_blank" rel="noopener">Browse the full archive</a></p>';
+    h += '<p><a href="' + esc(S.url) + '/archive" target="_blank" rel="noopener">Browse the full archive</a></p>';
     return h;
   }
   function renderAllPages() {
