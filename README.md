@@ -17,3 +17,7 @@ Everything on this site is free to use and share.
 Cloudflare publishes the `site` folder at https://marguerite-young-society.coralrussellbooks.workers.dev and updates it whenever this repository changes.
 
 If the site moves to a new address, change `SITE_URL` near the top of `build.py` and run `python3 build.py` again, so the sitemap and share links use the new address.
+
+## The Dictionary
+
+The Dictionary of Miss MacIntosh, My Darling (`site/dictionary.html`) is built from `src/dictionary.json`, which holds each word, its short definition, the chapters where it appears, and the chapter whose Vocabulary first defined it. After adding words to that file, run `python3 dictionary.py` and then `python3 build.py`.
