@@ -134,6 +134,31 @@
  ],
  "items": [
   {
+   "subject": "literature",
+   "chapter": 3,
+   "topic": "Marvell’s “To His Coy Mistress”"
+  },
+  {
+   "subject": "world-religions",
+   "chapter": 3,
+   "topic": "The Quaker Inner Light"
+  },
+  {
+   "subject": "astronomy-and-natural-science",
+   "chapter": 3,
+   "topic": "Luke Howard and the naming of the clouds"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 3,
+   "topic": "Sailors’ Snug Harbor"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 3,
+   "topic": "The Great Depression and unemployment"
+  },
+  {
    "subject": "scripture-and-theology",
    "chapter": 3,
    "topic": "The problem of evil and the attributes of God"
