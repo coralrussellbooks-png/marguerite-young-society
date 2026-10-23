@@ -4218,11 +4218,855 @@
    ],
    "defined_in": 2,
    "pattern": "vapid(?:ly)?"
+  },
+  {
+   "word": "Abaft",
+   "definition": "Toward the stern of a ship; behind.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "abaft"
+  },
+  {
+   "word": "Abjure",
+   "definition": "To renounce or reject solemnly.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "abjur(?:e|ed|es|ing)"
+  },
+  {
+   "word": "Ballast",
+   "definition": "Heavy material, such as stones, carried low in a ship to keep it steady.",
+   "chapters": [
+    3,
+    22,
+    46,
+    47,
+    52,
+    63
+   ],
+   "defined_in": 3,
+   "pattern": "ballast"
+  },
+  {
+   "word": "Beetling",
+   "definition": "Jutting out and overhanging, as beetling brows or cliffs.",
+   "chapters": [
+    3,
+    34,
+    35,
+    63
+   ],
+   "defined_in": 3,
+   "pattern": "beetling"
+  },
+  {
+   "word": "Brusque",
+   "definition": "Abrupt and blunt in manner.",
+   "chapters": [
+    3,
+    22
+   ],
+   "defined_in": 3,
+   "pattern": "brusque(?:ly|ness)?"
+  },
+  {
+   "word": "Canker",
+   "definition": "A blight or ulcer that eats away at a plant or the body; anything that corrupts from within.",
+   "chapters": [
+    3,
+    9,
+    17,
+    65,
+    69
+   ],
+   "defined_in": 3,
+   "pattern": "canker(?:ed|s)?"
+  },
+  {
+   "word": "Chimera",
+   "definition": "A monster of Greek myth, part lion, part goat, part serpent; any wild, impossible fancy.",
+   "chapters": [
+    3,
+    10,
+    24,
+    35,
+    39,
+    40,
+    65
+   ],
+   "defined_in": 3,
+   "pattern": "chimeras?"
+  },
+  {
+   "word": "Coiffured",
+   "definition": "With the hair carefully styled.",
+   "chapters": [
+    3,
+    6,
+    65
+   ],
+   "defined_in": 3,
+   "pattern": "coiffur(?:ed|e|es)"
+  },
+  {
+   "word": "Corpulent",
+   "definition": "Fat; stout.",
+   "chapters": [
+    3,
+    27
+   ],
+   "defined_in": 3,
+   "pattern": "corpulen(?:t|ce)"
+  },
+  {
+   "word": "Countenance",
+   "definition": "As a verb, to tolerate or approve of. As a noun, the face.",
+   "chapters": [
+    3,
+    6,
+    9,
+    14,
+    39
+   ],
+   "defined_in": 3,
+   "pattern": "countenance(?:d|s)?"
+  },
+  {
+   "word": "Cryptic",
+   "definition": "Mysterious; hard to make out.",
+   "chapters": [
+    3,
+    20,
+    25
+   ],
+   "defined_in": 3,
+   "pattern": "cryptic(?:ally)?"
+  },
+  {
+   "word": "Demoniac",
+   "definition": "Wild and frenzied, as if possessed by a demon.",
+   "chapters": [
+    3,
+    20,
+    35,
+    50,
+    55
+   ],
+   "defined_in": 3,
+   "pattern": "demoniac(?:al)?"
+  },
+  {
+   "word": "Derelict",
+   "definition": "A person or thing abandoned; a homeless outcast.",
+   "chapters": [
+    3,
+    6,
+    26,
+    30,
+    46,
+    47,
+    48,
+    53,
+    54,
+    58,
+    59,
+    62,
+    70,
+    75,
+    82
+   ],
+   "defined_in": 3,
+   "pattern": "derelicts?"
+  },
+  {
+   "word": "Despoil",
+   "definition": "To rob or strip of something valuable.",
+   "chapters": [
+    3,
+    74
+   ],
+   "defined_in": 3,
+   "pattern": "despoil(?:ed|ing|s)?"
+  },
+  {
+   "word": "Dillydally",
+   "definition": "To waste time; to dawdle.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "dilly-?dally(?:ing)?"
+  },
+  {
+   "word": "Equivocal",
+   "definition": "Open to more than one interpretation; deliberately vague.",
+   "chapters": [
+    3,
+    47,
+    59
+   ],
+   "defined_in": 3,
+   "pattern": "equivocal(?:ly)?"
+  },
+  {
+   "word": "Flinty",
+   "definition": "Hard and unyielding, like flint.",
+   "chapters": [
+    3,
+    79
+   ],
+   "defined_in": 3,
+   "pattern": "flinty"
+  },
+  {
+   "word": "Fleshpots",
+   "definition": "Places or pleasures of luxury and sensual indulgence.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "fleshpots?|flesh pots?"
+  },
+  {
+   "word": "Gregarious",
+   "definition": "Fond of company; sociable.",
+   "chapters": [
+    3,
+    14,
+    22,
+    54
+   ],
+   "defined_in": 3,
+   "pattern": "gregarious"
+  },
+  {
+   "word": "Guttural",
+   "definition": "Harsh and throaty in sound.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "guttural"
+  },
+  {
+   "word": "Harbinger",
+   "definition": "A forerunner; a sign of what is coming.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "harbingers?"
+  },
+  {
+   "word": "Hectic",
+   "definition": "Of the cheeks: flushed, as with fever. The word first described the flush of consumption.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "hectic"
+  },
+  {
+   "word": "Homespun",
+   "definition": "Simple and plain; originally, cloth spun at home.",
+   "chapters": [
+    3,
+    22,
+    65
+   ],
+   "defined_in": 3,
+   "pattern": "homespun"
+  },
+  {
+   "word": "Imbued",
+   "definition": "Filled or soaked through with a quality or feeling.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "imbu(?:ed|e|es)"
+  },
+  {
+   "word": "Inclement",
+   "definition": "Of weather: cold, wet, or stormy.",
+   "chapters": [
+    3,
+    54
+   ],
+   "defined_in": 3,
+   "pattern": "inclement"
+  },
+  {
+   "word": "Iniquity",
+   "definition": "Great wickedness or injustice.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "iniquit(?:y|ies)"
+  },
+  {
+   "word": "Kingpin",
+   "definition": "The central pin in bowling; the most important person in a group.",
+   "chapters": [
+    3,
+    65
+   ],
+   "defined_in": 3,
+   "pattern": "kingpins?"
+  },
+  {
+   "word": "Lath",
+   "definition": "A thin, narrow strip of wood. A sword of lath is a wooden stage sword.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "lath"
+  },
+  {
+   "word": "Lode",
+   "definition": "A vein of metal ore in rock.",
+   "chapters": [
+    3,
+    68
+   ],
+   "defined_in": 3,
+   "pattern": "lodes?"
+  },
+  {
+   "word": "Ménage",
+   "definition": "A household.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "m[eé]nage"
+  },
+  {
+   "word": "Miasmic",
+   "definition": "Foul-smelling and unhealthy, like a miasma, the vapor once thought to cause disease.",
+   "chapters": [
+    3,
+    25
+   ],
+   "defined_in": 3,
+   "pattern": "miasm(?:ic|a|al|as)"
+  },
+  {
+   "word": "Mien",
+   "definition": "A person’s look or manner.",
+   "chapters": [
+    3,
+    53
+   ],
+   "defined_in": 3,
+   "pattern": "mien"
+  },
+  {
+   "word": "Moonstone",
+   "definition": "A milky, pearly-blue gemstone.",
+   "chapters": [
+    3,
+    4,
+    14,
+    48,
+    49,
+    51,
+    62
+   ],
+   "defined_in": 3,
+   "pattern": "moonstones?"
+  },
+  {
+   "word": "Moribund",
+   "definition": "Dying; near death.",
+   "chapters": [
+    3,
+    14
+   ],
+   "defined_in": 3,
+   "pattern": "moribund"
+  },
+  {
+   "word": "Morassed",
+   "definition": "Bogged down, as in a morass, a swamp.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "morass(?:ed|es)?"
+  },
+  {
+   "word": "Mundane",
+   "definition": "Ordinary; of this world.",
+   "chapters": [
+    3,
+    22,
+    28,
+    31,
+    53,
+    60,
+    61,
+    62
+   ],
+   "defined_in": 3,
+   "pattern": "mundane"
+  },
+  {
+   "word": "Myopic",
+   "definition": "Nearsighted.",
+   "chapters": [
+    3,
+    29,
+    35,
+    42,
+    44,
+    51,
+    52,
+    59
+   ],
+   "defined_in": 3,
+   "pattern": "myopi(?:c|a)"
+  },
+  {
+   "word": "Nefarious",
+   "definition": "Wicked; villainous.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "nefarious(?:ly)?"
+  },
+  {
+   "word": "Obtrude",
+   "definition": "To push in where one is not wanted.",
+   "chapters": [
+    3,
+    80
+   ],
+   "defined_in": 3,
+   "pattern": "obtrud(?:e|ed|es|ing)"
+  },
+  {
+   "word": "Oilskin",
+   "definition": "Cloth made waterproof with oil; a raincoat of it.",
+   "chapters": [
+    3,
+    15,
+    19,
+    62,
+    65,
+    77
+   ],
+   "defined_in": 3,
+   "pattern": "oilskins?"
+  },
+  {
+   "word": "Opalescent",
+   "definition": "Shimmering with changing colors, like an opal.",
+   "chapters": [
+    3,
+    14,
+    19,
+    25,
+    29,
+    32,
+    37,
+    41,
+    45,
+    46,
+    47,
+    48,
+    49,
+    51,
+    52,
+    62,
+    72,
+    76,
+    81
+   ],
+   "defined_in": 3,
+   "pattern": "opalescen(?:t|ce)"
+  },
+  {
+   "word": "Oxfords",
+   "definition": "Low, laced leather shoes.",
+   "chapters": [
+    3,
+    9
+   ],
+   "defined_in": 3,
+   "pattern": "oxfords"
+  },
+  {
+   "word": "Palings",
+   "definition": "Pointed wooden stakes, or a fence made of them.",
+   "chapters": [
+    3,
+    22,
+    47,
+    49,
+    71
+   ],
+   "defined_in": 3,
+   "pattern": "palings?"
+  },
+  {
+   "word": "Periwinkle",
+   "definition": "A small edible sea snail.",
+   "chapters": [
+    3,
+    47,
+    61
+   ],
+   "defined_in": 3,
+   "pattern": "periwinkles?"
+  },
+  {
+   "word": "Pine-marten",
+   "definition": "A weasel-like animal of northern forests, prized for its fur.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "pine-?martens?"
+  },
+  {
+   "word": "Pippin",
+   "definition": "An old variety of eating apple.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "pippins?"
+  },
+  {
+   "word": "Pumice",
+   "definition": "A light, porous, grey volcanic stone.",
+   "chapters": [
+    3,
+    5,
+    47,
+    53
+   ],
+   "defined_in": 3,
+   "pattern": "pumice"
+  },
+  {
+   "word": "Raucous",
+   "definition": "Harsh and loud.",
+   "chapters": [
+    2,
+    3,
+    25,
+    26,
+    63,
+    64
+   ],
+   "defined_in": 3,
+   "pattern": "raucous(?:ly)?"
+  },
+  {
+   "word": "Romish",
+   "definition": "An old, hostile Protestant word for Roman Catholic.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "romish"
+  },
+  {
+   "word": "Russet",
+   "definition": "A reddish-brown color; also an apple with rough, brownish skin.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "russets?"
+  },
+  {
+   "word": "Salt-and-pepper",
+   "definition": "Of cloth or hair: flecked with black and white.",
+   "chapters": [
+    3,
+    19,
+    23
+   ],
+   "defined_in": 3,
+   "pattern": "salt[ -]and[ -]pepper"
+  },
+  {
+   "word": "Sand dollar",
+   "definition": "A flat, round sea urchin whose white skeleton is found on beaches.",
+   "chapters": [
+    3,
+    47,
+    54,
+    55,
+    60,
+    62,
+    66
+   ],
+   "defined_in": 3,
+   "pattern": "sand dollars?"
+  },
+  {
+   "word": "Seraphim",
+   "definition": "The highest order of angels, each with six wings. The singular is seraph.",
+   "chapters": [
+    3,
+    40,
+    55
+   ],
+   "defined_in": 3,
+   "pattern": "seraph(?:im|s)?"
+  },
+  {
+   "word": "Sequester",
+   "definition": "To set apart or hold in safekeeping.",
+   "chapters": [
+    3,
+    36,
+    49,
+    50
+   ],
+   "defined_in": 3,
+   "pattern": "sequester(?:ed|s)?"
+  },
+  {
+   "word": "Shirtwaist",
+   "definition": "A woman’s blouse tailored like a man’s shirt.",
+   "chapters": [
+    3,
+    12,
+    19,
+    21
+   ],
+   "defined_in": 3,
+   "pattern": "shirt[ -]?waists?"
+  },
+  {
+   "word": "Skulking",
+   "definition": "Lurking or moving about in a sneaking way.",
+   "chapters": [
+    3,
+    15
+   ],
+   "defined_in": 3,
+   "pattern": "skulk(?:ing|ed|s)?"
+  },
+  {
+   "word": "Somnolent",
+   "definition": "Sleepy; causing sleep.",
+   "chapters": [
+    3,
+    4,
+    6,
+    29,
+    36,
+    38,
+    40,
+    41,
+    47,
+    49,
+    51,
+    52,
+    58,
+    61,
+    65,
+    82
+   ],
+   "defined_in": 3,
+   "pattern": "somnolen(?:t|ce)"
+  },
+  {
+   "word": "Soporific",
+   "definition": "Causing sleep; dulling the senses.",
+   "chapters": [
+    3,
+    29,
+    34
+   ],
+   "defined_in": 3,
+   "pattern": "soporific"
+  },
+  {
+   "word": "Soughing",
+   "definition": "Making a soft sighing or rushing sound, like wind in trees.",
+   "chapters": [
+    3,
+    42,
+    46,
+    47,
+    49,
+    61
+   ],
+   "defined_in": 3,
+   "pattern": "sough(?:ing|ed|s)?"
+  },
+  {
+   "word": "Spindrift",
+   "definition": "Spray blown from the tops of waves.",
+   "chapters": [
+    3,
+    22,
+    45,
+    51,
+    82
+   ],
+   "defined_in": 3,
+   "pattern": "spindrift"
+  },
+  {
+   "word": "Spume",
+   "definition": "Foam or froth on the sea.",
+   "chapters": [
+    3,
+    45,
+    62
+   ],
+   "defined_in": 3,
+   "pattern": "spume"
+  },
+  {
+   "word": "Squall",
+   "definition": "A sudden, violent gust of wind, often with rain or snow.",
+   "chapters": [
+    3,
+    4,
+    27,
+    45,
+    51,
+    61,
+    81,
+    82
+   ],
+   "defined_in": 3,
+   "pattern": "squalls?"
+  },
+  {
+   "word": "Starboard",
+   "definition": "The right-hand side of a ship, facing forward.",
+   "chapters": [
+    3,
+    22,
+    29,
+    35,
+    42,
+    46,
+    48,
+    49,
+    50,
+    54,
+    61,
+    82
+   ],
+   "defined_in": 3,
+   "pattern": "starboard"
+  },
+  {
+   "word": "Stygian",
+   "definition": "Of the river Styx in the Greek underworld; dark and gloomy.",
+   "chapters": [
+    3,
+    29,
+    35,
+    45,
+    47
+   ],
+   "defined_in": 3,
+   "pattern": "stygian"
+  },
+  {
+   "word": "Trumpery",
+   "definition": "Showy things of no value; nonsense.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "trumper(?:y|ies)"
+  },
+  {
+   "word": "Turncoat",
+   "definition": "One who switches sides.",
+   "chapters": [
+    3,
+    19
+   ],
+   "defined_in": 3,
+   "pattern": "turncoats?"
+  },
+  {
+   "word": "Tweed",
+   "definition": "A rough woolen cloth, often of mixed colors, first woven in Scotland.",
+   "chapters": [
+    3,
+    19,
+    23,
+    53,
+    56
+   ],
+   "defined_in": 3,
+   "pattern": "tweeds?"
+  },
+  {
+   "word": "Vagrant",
+   "definition": "Wandering, with no settled home.",
+   "chapters": [
+    3,
+    18,
+    38,
+    47
+   ],
+   "defined_in": 3,
+   "pattern": "vagrants?|vagrancy"
+  },
+  {
+   "word": "Vociferously",
+   "definition": "Loudly and forcefully.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "vociferous(?:ly)?"
+  },
+  {
+   "word": "Woolpack",
+   "definition": "A bale of wool; a heaped white cloud.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "wool-?packs?"
+  },
+  {
+   "word": "Wraith",
+   "definition": "A ghost; a faint, pale shape.",
+   "chapters": [
+    3,
+    34,
+    36,
+    44,
+    47,
+    49,
+    54,
+    58,
+    73,
+    81
+   ],
+   "defined_in": 3,
+   "pattern": "wraiths?"
   }
  ],
  "vocab_chapters": [
   1,
   2,
+  3,
   43
  ]
 }
