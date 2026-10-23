@@ -1,110 +1,507 @@
 {
  "subjects": [
-  {"id": "scripture-and-theology", "title": "Scripture and Theology", "group": "The humanities",
+  {
+   "id": "scripture-and-theology",
+   "title": "Scripture and Theology",
+   "group": "The humanities",
    "blurb": "The Bible is the book Young quotes most often, from Genesis to Revelation, along with the Church Fathers who shaped her, Saint Augustine above all.",
-   "related": ["the-bible", "augustine-and-christian-theology", "genesis", "the-book-of-job", "ecclesiastes", "revelation-and-the-apocalypse", "angels-and-archangels"]},
-  {"id": "world-religions", "title": "World Religions", "group": "The humanities",
+   "related": [
+    "the-bible",
+    "augustine-and-christian-theology",
+    "genesis",
+    "the-book-of-job",
+    "ecclesiastes",
+    "revelation-and-the-apocalypse",
+    "angels-and-archangels"
+   ]
+  },
+  {
+   "id": "world-religions",
+   "title": "World Religions",
+   "group": "The humanities",
    "blurb": "Judaism, Islam, Hinduism, Buddhism, and the American religious movements, with their calendars, rituals, and sacred images.",
-   "related": ["judaism", "hinduism", "buddhism", "american-religious-movements", "spiritualism-and-the-occult"]},
-  {"id": "classical-mythology", "title": "Classical Mythology", "group": "The humanities",
+   "related": [
+    "judaism",
+    "hinduism",
+    "buddhism",
+    "american-religious-movements",
+    "spiritualism-and-the-occult"
+   ]
+  },
+  {
+   "id": "classical-mythology",
+   "title": "Classical Mythology",
+   "group": "The humanities",
    "blurb": "The gods, monsters, and underworlds of Greece and Rome, which Young’s characters meet in their dreams and deliriums.",
-   "related": ["greek-mythology", "homers-epics", "fairy-tales-and-folklore"]},
-  {"id": "history", "title": "History", "group": "The humanities",
+   "related": [
+    "greek-mythology",
+    "homers-epics",
+    "fairy-tales-and-folklore"
+   ]
+  },
+  {
+   "id": "history",
+   "title": "History",
+   "group": "The humanities",
    "blurb": "The ancient Near East, Rome, the Middle Ages, and the empires of Europe and Asia, as they surface in the novel’s visions and memories.",
-   "related": ["ancient-egypt", "napoleon-and-wellington"]},
-  {"id": "american-history-and-life", "title": "American History and Life", "group": "The humanities",
+   "related": [
+    "ancient-egypt",
+    "napoleon-and-wellington"
+   ]
+  },
+  {
+   "id": "american-history-and-life",
+   "title": "American History and Life",
+   "group": "The humanities",
    "blurb": "The United States of the nineteenth and twentieth centuries: the suffrage movement, the Civil War, the Midwest, and the habits and objects of everyday life.",
-   "related": ["womens-suffrage", "the-civil-war", "iowa-indiana-and-the-midwest", "the-history-of-opium", "gambling-and-playing-cards"]},
-  {"id": "literature", "title": "Literature", "group": "The arts of language",
+   "related": [
+    "womens-suffrage",
+    "the-civil-war",
+    "iowa-indiana-and-the-midwest",
+    "the-history-of-opium",
+    "gambling-and-playing-cards"
+   ]
+  },
+  {
+   "id": "literature",
+   "title": "Literature",
+   "group": "The arts of language",
    "blurb": "The poems, plays, and novels the book is built from, from Homer and Dante to Shakespeare, Milton, the Romantics, and the American writers.",
-   "related": ["shakespeare", "dante", "milton", "romantic-poets", "american-writers", "homers-epics"]},
-  {"id": "philosophy-and-psychology", "title": "Philosophy and Psychology", "group": "The arts of language",
+   "related": [
+    "shakespeare",
+    "dante",
+    "milton",
+    "romantic-poets",
+    "american-writers",
+    "homers-epics"
+   ]
+  },
+  {
+   "id": "philosophy-and-psychology",
+   "title": "Philosophy and Psychology",
+   "group": "The arts of language",
    "blurb": "Questions of time, perception, the self, and the mind, from Plato and Augustine to Kant, William James, Freud, and Jung.",
-   "related": ["plato-and-platonism", "empiricism-locke-berkeley-hume", "kant-and-hegel", "phenomenology", "existentialism", "freud-and-jung", "stoicism"]},
-  {"id": "mathematics-and-logic", "title": "Mathematics and Logic", "group": "The arts of number",
+   "related": [
+    "plato-and-platonism",
+    "empiricism-locke-berkeley-hume",
+    "kant-and-hegel",
+    "phenomenology",
+    "existentialism",
+    "freud-and-jung",
+    "stoicism"
+   ]
+  },
+  {
+   "id": "mathematics-and-logic",
+   "title": "Mathematics and Logic",
+   "group": "The arts of number",
    "blurb": "Geometry, number, paradox, and the rules of argument, the first arts of the old quadrivium and the trivium.",
-   "related": ["pythagoras-and-the-music-of-the-spheres", "time-physics-and-chaos-theory"]},
-  {"id": "astronomy-and-natural-science", "title": "Astronomy and Natural Science", "group": "The arts of number",
+   "related": [
+    "pythagoras-and-the-music-of-the-spheres",
+    "time-physics-and-chaos-theory"
+   ]
+  },
+  {
+   "id": "astronomy-and-natural-science",
+   "title": "Astronomy and Natural Science",
+   "group": "The arts of number",
    "blurb": "The stars and constellations, the moon and tides, the earth’s volcanoes and ice, and the birds, insects, and sea creatures that fill the book.",
-   "related": ["astronomy", "time-physics-and-chaos-theory"]},
-  {"id": "music-and-the-arts", "title": "Music and the Arts", "group": "The arts of number",
+   "related": [
+    "astronomy",
+    "time-physics-and-chaos-theory"
+   ]
+  },
+  {
+   "id": "music-and-the-arts",
+   "title": "Music and the Arts",
+   "group": "The arts of number",
    "blurb": "Music was a mathematical art in the old curriculum. This subject gathers the instruments, composers, paintings, and performance traditions the novel calls on.",
-   "related": ["music-and-composers", "music-and-instruments", "pythagoras-and-the-music-of-the-spheres"]},
-  {"id": "geography-and-the-sea", "title": "Geography and the Sea", "group": "The humanities",
+   "related": [
+    "music-and-composers",
+    "music-and-instruments",
+    "pythagoras-and-the-music-of-the-spheres"
+   ]
+  },
+  {
+   "id": "geography-and-the-sea",
+   "title": "Geography and the Sea",
+   "group": "The humanities",
    "blurb": "The places of the world, the voyages of explorers, and the language of ships and sailing that runs through the whole novel.",
-   "related": ["exploration-and-the-poles"]}
+   "related": [
+    "exploration-and-the-poles"
+   ]
+  }
  ],
  "items": [
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "Isaiah 21:11, “Watchman, what of the night?”"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "Isaiah 41:7, the hammer and anvil of the idol-makers"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "Exodus 33:20, no one may see the face of God and live"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "Joshua 6, the ram’s horns and the walls of Jericho"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "1 Samuel 16:23, David playing the harp for King Saul"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "Luke 16, the beggar Lazarus and the word lazar"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "John 5 and Acts 3, the healing of the lame"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "Acts 1:26, Matthias, and Paul as the thirteenth apostle"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "2 Corinthians 4:18, the things that are not seen"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "2 Corinthians 5:1, the body as a tent"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "Revelation 8, the angels with trumpets"},
-  {"subject": "scripture-and-theology", "chapter": 43, "topic": "Augustine’s City of God and “the eighth and eternal day”"},
-  {"subject": "world-religions", "chapter": 43, "topic": "Ramadan, the ninth month of the Islamic calendar"},
-  {"subject": "world-religions", "chapter": 43, "topic": "Shiva’s third eye and the ajna chakra"},
-  {"subject": "world-religions", "chapter": 43, "topic": "The eight-day week of Burmese Theravada Buddhism"},
-  {"subject": "world-religions", "chapter": 43, "topic": "The Hebrew leap month, the second Adar"},
-  {"subject": "world-religions", "chapter": 43, "topic": "The shofar and Rosh Hashanah"},
-  {"subject": "classical-mythology", "chapter": 43, "topic": "Triton and his conch shell"},
-  {"subject": "classical-mythology", "chapter": 43, "topic": "Bacchus, the satyrs, and the nymphs"},
-  {"subject": "classical-mythology", "chapter": 43, "topic": "Hephaestus, god of blacksmiths"},
-  {"subject": "classical-mythology", "chapter": 43, "topic": "The Asphodel Meadows of the underworld"},
-  {"subject": "classical-mythology", "chapter": 43, "topic": "The phoenix, from Herodotus to Christian symbol"},
-  {"subject": "classical-mythology", "chapter": 43, "topic": "The halcyon, the Chimera, the centaurs, and Medusa"},
-  {"subject": "history", "chapter": 43, "topic": "Ur of the Chaldees and Leonard Woolley’s excavation"},
-  {"subject": "history", "chapter": 43, "topic": "Nineveh, Babylon, and Minoan Crete"},
-  {"subject": "history", "chapter": 43, "topic": "The emperor Tiberius and imperial purple"},
-  {"subject": "history", "chapter": 43, "topic": "Julius Caesar and the Rubicon"},
-  {"subject": "history", "chapter": 43, "topic": "The Roman saying “abiit ad plures,” joining the majority"},
-  {"subject": "history", "chapter": 43, "topic": "Medieval palmers and the Crusades"},
-  {"subject": "history", "chapter": 43, "topic": "The Moors of North Africa, Spain, and Sicily"},
-  {"subject": "history", "chapter": 43, "topic": "The Ottoman harem and its odalisques"},
-  {"subject": "history", "chapter": 43, "topic": "The Forbidden City of imperial China"},
-  {"subject": "history", "chapter": 43, "topic": "The Basel rooster trial of 1474"},
-  {"subject": "history", "chapter": 43, "topic": "The Scythians and the first trousers"},
-  {"subject": "american-history-and-life", "chapter": 43, "topic": "Amelia Bloomer and the politics of dress"},
-  {"subject": "american-history-and-life", "chapter": 43, "topic": "The suffragette and the suffragist"},
-  {"subject": "american-history-and-life", "chapter": 43, "topic": "Churchill Downs and the Kentucky Derby"},
-  {"subject": "american-history-and-life", "chapter": 43, "topic": "The lamplighter and the gas-lit street"},
-  {"subject": "american-history-and-life", "chapter": 43, "topic": "The silk hat, the barouche, and the surrey"},
-  {"subject": "literature", "chapter": 43, "topic": "Shakespeare’s Othello, “Put out the light”"},
-  {"subject": "literature", "chapter": 43, "topic": "Don Juan, from Tirso de Molina to Mozart"},
-  {"subject": "literature", "chapter": 43, "topic": "Browning’s “Childe Roland to the Dark Tower Came”"},
-  {"subject": "literature", "chapter": 43, "topic": "Omar Khayyam’s Rubáiyát in FitzGerald’s translation"},
-  {"subject": "literature", "chapter": 43, "topic": "Edward Young’s The Revenge, “the great majority”"},
-  {"subject": "literature", "chapter": 43, "topic": "Petronius’s Satyricon"},
-  {"subject": "literature", "chapter": 43, "topic": "The proverb of the whistling woman and the crowing hen"},
-  {"subject": "philosophy-and-psychology", "chapter": 43, "topic": "Eternalism and the block universe"},
-  {"subject": "philosophy-and-psychology", "chapter": 43, "topic": "If a tree falls in the forest: perception and reality"},
-  {"subject": "philosophy-and-psychology", "chapter": 43, "topic": "Jung on dreams and the collective unconscious"},
-  {"subject": "mathematics-and-logic", "chapter": 43, "topic": "Euclid’s fifth postulate and parallel lines"},
-  {"subject": "mathematics-and-logic", "chapter": 43, "topic": "Non-Euclidean geometry: Lobachevsky and Riemann"},
-  {"subject": "mathematics-and-logic", "chapter": 43, "topic": "Projective geometry and the point at infinity"},
-  {"subject": "mathematics-and-logic", "chapter": 43, "topic": "Fallacy and paradox"},
-  {"subject": "astronomy-and-natural-science", "chapter": 43, "topic": "The Pleiades"},
-  {"subject": "astronomy-and-natural-science", "chapter": 43, "topic": "The Southern Cross and the Northern Cross in Cygnus"},
-  {"subject": "astronomy-and-natural-science", "chapter": 43, "topic": "Neap tides and the lunar month"},
-  {"subject": "astronomy-and-natural-science", "chapter": 43, "topic": "Moon haloes and ice crystals"},
-  {"subject": "astronomy-and-natural-science", "chapter": 43, "topic": "Mt. Hekla, Iceland’s volcano"},
-  {"subject": "astronomy-and-natural-science", "chapter": 43, "topic": "The great auk and its extinction in 1844"},
-  {"subject": "astronomy-and-natural-science", "chapter": 43, "topic": "The will-o’-the-wisp and marsh gas"},
-  {"subject": "astronomy-and-natural-science", "chapter": 43, "topic": "Edelweiss, the alpine flower"},
-  {"subject": "music-and-the-arts", "chapter": 43, "topic": "The lute and the harp"},
-  {"subject": "music-and-the-arts", "chapter": 43, "topic": "Mozart’s Don Giovanni"},
-  {"subject": "music-and-the-arts", "chapter": 43, "topic": "Ingres’s Grande Odalisque"},
-  {"subject": "music-and-the-arts", "chapter": 43, "topic": "The danse macabre in medieval art"},
-  {"subject": "music-and-the-arts", "chapter": 43, "topic": "Pierrot and the commedia dell’arte"},
-  {"subject": "geography-and-the-sea", "chapter": 43, "topic": "Shiraz, the Persian city of poets and roses"},
-  {"subject": "geography-and-the-sea", "chapter": 43, "topic": "Iceland and the island of Eldey"},
-  {"subject": "geography-and-the-sea", "chapter": 43, "topic": "Mesopotamia, the land between the rivers"},
-  {"subject": "geography-and-the-sea", "chapter": 43, "topic": "Caulking, the figurehead, and the crow’s-nest"},
-  {"subject": "geography-and-the-sea", "chapter": 43, "topic": "Keeling, listing, and the forecastle"}
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "Isaiah 21:11, “Watchman, what of the night?”"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "Isaiah 41:7, the hammer and anvil of the idol-makers"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "Exodus 33:20, no one may see the face of God and live"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "Joshua 6, the ram’s horns and the walls of Jericho"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "1 Samuel 16:23, David playing the harp for King Saul"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "Luke 16, the beggar Lazarus and the word lazar"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "John 5 and Acts 3, the healing of the lame"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "Acts 1:26, Matthias, and Paul as the thirteenth apostle"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "2 Corinthians 4:18, the things that are not seen"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "2 Corinthians 5:1, the body as a tent"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "Revelation 8, the angels with trumpets"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 43,
+   "topic": "Augustine’s City of God and “the eighth and eternal day”"
+  },
+  {
+   "subject": "world-religions",
+   "chapter": 43,
+   "topic": "Ramadan, the ninth month of the Islamic calendar"
+  },
+  {
+   "subject": "world-religions",
+   "chapter": 43,
+   "topic": "Shiva’s third eye and the ajna chakra"
+  },
+  {
+   "subject": "world-religions",
+   "chapter": 43,
+   "topic": "The eight-day week of Burmese Theravada Buddhism"
+  },
+  {
+   "subject": "world-religions",
+   "chapter": 43,
+   "topic": "The Hebrew leap month, the second Adar"
+  },
+  {
+   "subject": "world-religions",
+   "chapter": 43,
+   "topic": "The shofar and Rosh Hashanah"
+  },
+  {
+   "subject": "classical-mythology",
+   "chapter": 43,
+   "topic": "Triton and his conch shell"
+  },
+  {
+   "subject": "classical-mythology",
+   "chapter": 43,
+   "topic": "Bacchus, the satyrs, and the nymphs"
+  },
+  {
+   "subject": "classical-mythology",
+   "chapter": 43,
+   "topic": "Hephaestus, god of blacksmiths"
+  },
+  {
+   "subject": "classical-mythology",
+   "chapter": 43,
+   "topic": "The Asphodel Meadows of the underworld"
+  },
+  {
+   "subject": "classical-mythology",
+   "chapter": 43,
+   "topic": "The phoenix, from Herodotus to Christian symbol"
+  },
+  {
+   "subject": "classical-mythology",
+   "chapter": 43,
+   "topic": "The halcyon, the Chimera, the centaurs, and Medusa"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "Ur of the Chaldees and Leonard Woolley’s excavation"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "Nineveh, Babylon, and Minoan Crete"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "The emperor Tiberius and imperial purple"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "Julius Caesar and the Rubicon"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "The Roman saying “abiit ad plures,” joining the majority"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "Medieval palmers and the Crusades"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "The Moors of North Africa, Spain, and Sicily"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "The Ottoman harem and its odalisques"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "The Forbidden City of imperial China"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "The Basel rooster trial of 1474"
+  },
+  {
+   "subject": "history",
+   "chapter": 43,
+   "topic": "The Scythians and the first trousers"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 43,
+   "topic": "Amelia Bloomer and the politics of dress"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 43,
+   "topic": "The suffragette and the suffragist"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 43,
+   "topic": "Churchill Downs and the Kentucky Derby"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 43,
+   "topic": "The lamplighter and the gas-lit street"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 43,
+   "topic": "The silk hat, the barouche, and the surrey"
+  },
+  {
+   "subject": "literature",
+   "chapter": 43,
+   "topic": "Shakespeare’s Othello, “Put out the light”"
+  },
+  {
+   "subject": "literature",
+   "chapter": 43,
+   "topic": "Don Juan, from Tirso de Molina to Mozart"
+  },
+  {
+   "subject": "literature",
+   "chapter": 43,
+   "topic": "Browning’s “Childe Roland to the Dark Tower Came”"
+  },
+  {
+   "subject": "literature",
+   "chapter": 43,
+   "topic": "Omar Khayyam’s Rubáiyát in FitzGerald’s translation"
+  },
+  {
+   "subject": "literature",
+   "chapter": 43,
+   "topic": "Edward Young’s The Revenge, “the great majority”"
+  },
+  {
+   "subject": "literature",
+   "chapter": 43,
+   "topic": "Petronius’s Satyricon"
+  },
+  {
+   "subject": "literature",
+   "chapter": 43,
+   "topic": "The proverb of the whistling woman and the crowing hen"
+  },
+  {
+   "subject": "literature",
+   "chapter": 43,
+   "topic": "Grammar and rhetoric: the long, looping sentences and the torrent of questions. See <a href=\"#nearly-four-thousand-questions\">Nearly Four Thousand Questions</a>."
+  },
+  {
+   "subject": "philosophy-and-psychology",
+   "chapter": 43,
+   "topic": "Eternalism and the block universe"
+  },
+  {
+   "subject": "philosophy-and-psychology",
+   "chapter": 43,
+   "topic": "If a tree falls in the forest: perception and reality"
+  },
+  {
+   "subject": "philosophy-and-psychology",
+   "chapter": 43,
+   "topic": "Jung on dreams and the collective unconscious"
+  },
+  {
+   "subject": "mathematics-and-logic",
+   "chapter": 43,
+   "topic": "Euclid’s fifth postulate and parallel lines"
+  },
+  {
+   "subject": "mathematics-and-logic",
+   "chapter": 43,
+   "topic": "Non-Euclidean geometry: Lobachevsky and Riemann"
+  },
+  {
+   "subject": "mathematics-and-logic",
+   "chapter": 43,
+   "topic": "Projective geometry and the point at infinity"
+  },
+  {
+   "subject": "mathematics-and-logic",
+   "chapter": 43,
+   "topic": "Fallacy and paradox: “the whole thing’s full of fallacies” and “when nothing was possible, all things were made possible”"
+  },
+  {
+   "subject": "mathematics-and-logic",
+   "chapter": 43,
+   "topic": "Counting the lines a box requires"
+  },
+  {
+   "subject": "astronomy-and-natural-science",
+   "chapter": 43,
+   "topic": "The Pleiades"
+  },
+  {
+   "subject": "astronomy-and-natural-science",
+   "chapter": 43,
+   "topic": "The Southern Cross and the Northern Cross in Cygnus"
+  },
+  {
+   "subject": "astronomy-and-natural-science",
+   "chapter": 43,
+   "topic": "Neap tides and the lunar month"
+  },
+  {
+   "subject": "astronomy-and-natural-science",
+   "chapter": 43,
+   "topic": "Moon haloes and ice crystals"
+  },
+  {
+   "subject": "astronomy-and-natural-science",
+   "chapter": 43,
+   "topic": "Mt. Hekla, Iceland’s volcano"
+  },
+  {
+   "subject": "astronomy-and-natural-science",
+   "chapter": 43,
+   "topic": "The great auk and its extinction in 1844"
+  },
+  {
+   "subject": "astronomy-and-natural-science",
+   "chapter": 43,
+   "topic": "The will-o’-the-wisp and marsh gas"
+  },
+  {
+   "subject": "astronomy-and-natural-science",
+   "chapter": 43,
+   "topic": "Edelweiss, the alpine flower"
+  },
+  {
+   "subject": "music-and-the-arts",
+   "chapter": 43,
+   "topic": "The lute and the harp"
+  },
+  {
+   "subject": "music-and-the-arts",
+   "chapter": 43,
+   "topic": "Mozart’s Don Giovanni"
+  },
+  {
+   "subject": "music-and-the-arts",
+   "chapter": 43,
+   "topic": "Ingres’s Grande Odalisque"
+  },
+  {
+   "subject": "music-and-the-arts",
+   "chapter": 43,
+   "topic": "The danse macabre in medieval art"
+  },
+  {
+   "subject": "music-and-the-arts",
+   "chapter": 43,
+   "topic": "Pierrot and the commedia dell’arte"
+  },
+  {
+   "subject": "music-and-the-arts",
+   "chapter": 43,
+   "topic": "The court musician, the ringing bells, and Mr. Spitzer “voicing the music of the dead”"
+  },
+  {
+   "subject": "geography-and-the-sea",
+   "chapter": 43,
+   "topic": "Shiraz, the Persian city of poets and roses"
+  },
+  {
+   "subject": "geography-and-the-sea",
+   "chapter": 43,
+   "topic": "Iceland and the island of Eldey"
+  },
+  {
+   "subject": "geography-and-the-sea",
+   "chapter": 43,
+   "topic": "Mesopotamia, the land between the rivers"
+  },
+  {
+   "subject": "geography-and-the-sea",
+   "chapter": 43,
+   "topic": "Caulking, the figurehead, and the crow’s-nest"
+  },
+  {
+   "subject": "geography-and-the-sea",
+   "chapter": 43,
+   "topic": "Keeling, listing, and the forecastle"
+  }
  ]
 }
