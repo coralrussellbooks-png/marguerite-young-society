@@ -2906,6 +2906,129 @@
    ],
    "defined_in": 1,
    "pattern": "wigwams?"
+  },
+  {
+   "word": "Curdled",
+   "definition": "Thickened into lumps, like soured milk.",
+   "chapters": [
+    1,
+    8,
+    22,
+    49,
+    52,
+    81
+   ],
+   "defined_in": 1,
+   "pattern": "curdl(?:ed|ing|es|e)"
+  },
+  {
+   "word": "Daft",
+   "definition": "Silly or crazy.",
+   "chapters": [
+    1,
+    3,
+    72
+   ],
+   "defined_in": 1,
+   "pattern": "daft"
+  },
+  {
+   "word": "Fly-specked",
+   "definition": "Spotted with the tiny marks left by flies.",
+   "chapters": [
+    1,
+    22,
+    63,
+    65,
+    71
+   ],
+   "defined_in": 1,
+   "pattern": "fly[ -]?speck(?:ed|s)?"
+  },
+  {
+   "word": "Girded",
+   "definition": "Encircled or bound tightly, as with a belt or girdle.",
+   "chapters": [
+    1,
+    9,
+    17,
+    31
+   ],
+   "defined_in": 1,
+   "pattern": "gird(?:ed|ing|s)?"
+  },
+  {
+   "word": "Hale",
+   "definition": "Healthy and strong, especially said of someone older.",
+   "chapters": [
+    1,
+    3,
+    20
+   ],
+   "defined_in": 1,
+   "pattern": "hale"
+  },
+  {
+   "word": "Listlessly",
+   "definition": "Without energy or interest.",
+   "chapters": [
+    1,
+    2,
+    65
+   ],
+   "defined_in": 1,
+   "pattern": "listless(?:ly|ness)?"
+  },
+  {
+   "word": "Plaintive",
+   "definition": "Sad and mournful in sound.",
+   "chapters": [
+    1,
+    6,
+    10,
+    14,
+    18,
+    20,
+    25,
+    26,
+    35,
+    38,
+    44,
+    47,
+    48,
+    49,
+    51,
+    52,
+    54,
+    58,
+    59,
+    61,
+    62,
+    64
+   ],
+   "defined_in": 1,
+   "pattern": "plaintive(?:ly)?"
+  },
+  {
+   "word": "Remorseless",
+   "definition": "Without pity; relentless.",
+   "chapters": [
+    1,
+    47,
+    77,
+    80
+   ],
+   "defined_in": 1,
+   "pattern": "remorseless(?:ly)?"
+  },
+  {
+   "word": "Unpresuming",
+   "definition": "Modest; not putting oneself forward.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "unpresuming"
   }
  ],
  "vocab_chapters": [
