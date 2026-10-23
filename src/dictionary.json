@@ -4095,6 +4095,129 @@
    ],
    "defined_in": 2,
    "pattern": "untrammel(?:l)?ed"
+  },
+  {
+   "word": "Carrozza",
+   "definition": "Italian for a carriage.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "carrozz(?:a|e)"
+  },
+  {
+   "word": "Conformation",
+   "definition": "The shape and proportions of an animal’s body, especially a horse’s.",
+   "chapters": [
+    2,
+    29,
+    48,
+    49,
+    50,
+    52,
+    53,
+    56,
+    59,
+    80
+   ],
+   "defined_in": 2,
+   "pattern": "conformations?"
+  },
+  {
+   "word": "Contiguous",
+   "definition": "Touching or next to one another.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "contiguous"
+  },
+  {
+   "word": "Effaced",
+   "definition": "Erased; wiped out.",
+   "chapters": [
+    2,
+    6,
+    8,
+    14,
+    15,
+    47,
+    50,
+    54,
+    57,
+    65,
+    80
+   ],
+   "defined_in": 2,
+   "pattern": "effac(?:e|ed|es|ing)"
+  },
+  {
+   "word": "Fatuous",
+   "definition": "Silly and pointless; foolishly self-satisfied.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "fatuous(?:ly)?"
+  },
+  {
+   "word": "Laundress",
+   "definition": "A woman who washes and irons clothes for a living.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "laundress(?:es)?"
+  },
+  {
+   "word": "Mercantile",
+   "definition": "Of merchants and trade; commercial.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "mercantile"
+  },
+  {
+   "word": "Palpable",
+   "definition": "Able to be touched or felt; plain to see.",
+   "chapters": [
+    2,
+    14,
+    21,
+    49,
+    72,
+    73,
+    76
+   ],
+   "defined_in": 2,
+   "pattern": "palpabl(?:e|y)"
+  },
+  {
+   "word": "Shade",
+   "definition": "A ghost; the spirit of a dead person. The underworld is “that dark abode of shades.”",
+   "chapters": [
+    1,
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "each shade|abode of shades|realm of shades|land of shades"
+  },
+  {
+   "word": "Vapid",
+   "definition": "Dull and empty of life or interest.",
+   "chapters": [
+    2,
+    4,
+    14,
+    18,
+    21,
+    25,
+    59,
+    70
+   ],
+   "defined_in": 2,
+   "pattern": "vapid(?:ly)?"
   }
  ],
  "vocab_chapters": [
