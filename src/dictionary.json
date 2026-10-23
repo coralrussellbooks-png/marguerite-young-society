@@ -3029,10 +3029,1077 @@
    ],
    "defined_in": 1,
    "pattern": "unpresuming"
+  },
+  {
+   "word": "Abscond",
+   "definition": "To leave secretly and in a hurry, often to escape the law or to make off with something.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "abscond(?:ed|ing|s)?"
+  },
+  {
+   "word": "Abstruse",
+   "definition": "Hard to understand; obscure.",
+   "chapters": [
+    2,
+    27
+   ],
+   "defined_in": 2,
+   "pattern": "abstruse"
+  },
+  {
+   "word": "Adagio",
+   "definition": "In music, a slow, leisurely tempo, or a piece played that way.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "adagios?"
+  },
+  {
+   "word": "Ambivalently",
+   "definition": "With mixed or contradictory feelings or meanings.",
+   "chapters": [
+    2,
+    44,
+    45,
+    47,
+    49,
+    52,
+    54,
+    61,
+    82
+   ],
+   "defined_in": 2,
+   "pattern": "ambivalen(?:t|tly|ce)"
+  },
+  {
+   "word": "Arabesque",
+   "definition": "An ornament of intertwined flowing lines, leaves, and tendrils.",
+   "chapters": [
+    2,
+    61,
+    65
+   ],
+   "defined_in": 2,
+   "pattern": "arabesques?"
+  },
+  {
+   "word": "Athwart",
+   "definition": "Across, from side to side; also, against.",
+   "chapters": [
+    2,
+    3,
+    15,
+    42,
+    45,
+    47
+   ],
+   "defined_in": 2,
+   "pattern": "athwart"
+  },
+  {
+   "word": "Attaché case",
+   "definition": "A slim, hard-sided briefcase.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "attach[eé] cases?"
+  },
+  {
+   "word": "Augury",
+   "definition": "A sign or omen of what is to come, or the art of reading such signs.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "auguri(?:es)|augury"
+  },
+  {
+   "word": "Bang-tail",
+   "definition": "Slang for a racehorse, from the custom of cutting a horse’s tail straight across.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "bang-?tails?"
+  },
+  {
+   "word": "Barometer",
+   "definition": "An instrument that measures air pressure, used to forecast the weather.",
+   "chapters": [
+    2,
+    32,
+    35
+   ],
+   "defined_in": 2,
+   "pattern": "barometers?"
+  },
+  {
+   "word": "Bellrope",
+   "definition": "A rope pulled to ring a bell, such as one that summons a servant.",
+   "chapters": [
+    2,
+    11,
+    16,
+    28,
+    39,
+    40,
+    41,
+    43,
+    47,
+    48,
+    49,
+    51,
+    55,
+    58,
+    61,
+    70
+   ],
+   "defined_in": 2,
+   "pattern": "bell-?ropes?"
+  },
+  {
+   "word": "Burro",
+   "definition": "A small donkey.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "burros?"
+  },
+  {
+   "word": "Camphor",
+   "definition": "A strong-smelling white substance from the camphor tree, used in medicines and to keep moths from clothes.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "camphor"
+  },
+  {
+   "word": "Chagrin",
+   "definition": "Distress or annoyance at having failed or been humiliated.",
+   "chapters": [
+    2,
+    14,
+    25,
+    33,
+    41,
+    45,
+    53,
+    54
+   ],
+   "defined_in": 2,
+   "pattern": "chagrin(?:ed)?"
+  },
+  {
+   "word": "Chameleon",
+   "definition": "A lizard that can change the color of its skin.",
+   "chapters": [
+    2,
+    14,
+    51,
+    52,
+    53,
+    56,
+    65
+   ],
+   "defined_in": 2,
+   "pattern": "chameleons?"
+  },
+  {
+   "word": "Colloquy",
+   "definition": "A conversation or formal discussion. Young writes “colloquies of angels.”",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "colloqu(?:y|ies)"
+  },
+  {
+   "word": "Corpuscle",
+   "definition": "A blood cell.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "corpuscles?"
+  },
+  {
+   "word": "Counterpane",
+   "definition": "A bedspread.",
+   "chapters": [
+    2,
+    22,
+    35,
+    51
+   ],
+   "defined_in": 2,
+   "pattern": "counterpanes?"
+  },
+  {
+   "word": "Couturier",
+   "definition": "A designer and maker of fine clothes for women.",
+   "chapters": [
+    2,
+    46,
+    47,
+    51
+   ],
+   "defined_in": 2,
+   "pattern": "couturi(?:er|ers|ere)"
+  },
+  {
+   "word": "Coverlet",
+   "definition": "A bedspread, usually a light one.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "coverlets?"
+  },
+  {
+   "word": "Crepuscular",
+   "definition": "Of twilight; dim.",
+   "chapters": [
+    2,
+    49
+   ],
+   "defined_in": 2,
+   "pattern": "crepuscular"
+  },
+  {
+   "word": "Cubit",
+   "definition": "An ancient measure of length, from the elbow to the tip of the middle finger, about eighteen inches.",
+   "chapters": [
+    2,
+    20,
+    34,
+    39,
+    52
+   ],
+   "defined_in": 2,
+   "pattern": "cubits?"
+  },
+  {
+   "word": "Defunct",
+   "definition": "No longer living or in existence.",
+   "chapters": [
+    2,
+    51,
+    54
+   ],
+   "defined_in": 2,
+   "pattern": "defunct"
+  },
+  {
+   "word": "Denizen",
+   "definition": "An inhabitant of a place.",
+   "chapters": [
+    2,
+    31,
+    49,
+    63
+   ],
+   "defined_in": 2,
+   "pattern": "denizens?"
+  },
+  {
+   "word": "Desultory",
+   "definition": "Done without purpose or plan; halfhearted.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "desultor(?:y|ily)"
+  },
+  {
+   "word": "Discrown",
+   "definition": "To take the crown from; to depose a king.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "discrown(?:ed|s)?"
+  },
+  {
+   "word": "Dope sheet",
+   "definition": "A racing sheet giving information and tips on the horses running.",
+   "chapters": [
+    2,
+    22
+   ],
+   "defined_in": 2,
+   "pattern": "dope sheets?"
+  },
+  {
+   "word": "Effigy",
+   "definition": "A sculpture or model of a person, especially one lying on a tomb.",
+   "chapters": [
+    2,
+    16,
+    29,
+    45,
+    70
+   ],
+   "defined_in": 2,
+   "pattern": "effig(?:y|ies)"
+  },
+  {
+   "word": "Egregiously",
+   "definition": "Outstandingly; shockingly.",
+   "chapters": [
+    2,
+    9,
+    13,
+    25,
+    42,
+    47,
+    49
+   ],
+   "defined_in": 2,
+   "pattern": "egregious(?:ly)?"
+  },
+  {
+   "word": "Elegiac",
+   "definition": "Mournful, like an elegy, a poem of lament for the dead.",
+   "chapters": [
+    2,
+    5,
+    20,
+    26,
+    27,
+    33,
+    35,
+    36,
+    38,
+    42,
+    47,
+    49,
+    54,
+    55,
+    58,
+    59,
+    60,
+    61,
+    63,
+    82
+   ],
+   "defined_in": 2,
+   "pattern": "elegiac"
+  },
+  {
+   "word": "Ephemeral",
+   "definition": "Lasting a very short time.",
+   "chapters": [
+    2,
+    18,
+    28,
+    34,
+    47,
+    54,
+    59,
+    62,
+    73
+   ],
+   "defined_in": 2,
+   "pattern": "ephemeral"
+  },
+  {
+   "word": "Equipoise",
+   "definition": "A state of balance.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "equipoise"
+  },
+  {
+   "word": "Euchred",
+   "definition": "Outwitted or cheated, from the card game euchre.",
+   "chapters": [
+    2,
+    18,
+    48,
+    53,
+    59,
+    71
+   ],
+   "defined_in": 2,
+   "pattern": "euchred?"
+  },
+  {
+   "word": "Evanescent",
+   "definition": "Quickly fading or vanishing.",
+   "chapters": [
+    2,
+    6,
+    29,
+    32,
+    34,
+    51,
+    62
+   ],
+   "defined_in": 2,
+   "pattern": "evanescen(?:t|ce)"
+  },
+  {
+   "word": "Excrescence",
+   "definition": "An abnormal outgrowth, such as a wart; anything ugly that sticks out.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "excrescen(?:ce|ces|t)"
+  },
+  {
+   "word": "Eyeshade",
+   "definition": "A visor worn to shield the eyes from light.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "eye-?shades?"
+  },
+  {
+   "word": "Fichu",
+   "definition": "A triangular scarf of lace or muslin worn over the shoulders and knotted at the breast.",
+   "chapters": [
+    2,
+    3
+   ],
+   "defined_in": 2,
+   "pattern": "fichus?"
+  },
+  {
+   "word": "Four-flusher",
+   "definition": "A bluffer or cheat. In poker, a four flush is a worthless hand of four cards of one suit passed off as five.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "four-?flushers?"
+  },
+  {
+   "word": "Gate-leg table",
+   "definition": "A table with hinged leaves held up by legs that swing out like gates.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "gate-?leg(?:ged)? tables?"
+  },
+  {
+   "word": "Glow-worm",
+   "definition": "A beetle whose wingless female and larvae give off a greenish light.",
+   "chapters": [
+    2,
+    23,
+    46,
+    47,
+    48,
+    49,
+    59,
+    63
+   ],
+   "defined_in": 2,
+   "pattern": "glow-?worms?"
+  },
+  {
+   "word": "Griffin",
+   "definition": "A mythical beast with the head and wings of an eagle and the body of a lion.",
+   "chapters": [
+    2,
+    22,
+    28,
+    40,
+    44,
+    49,
+    54,
+    62
+   ],
+   "defined_in": 2,
+   "pattern": "griff(?:in|ins|on|ons)"
+  },
+  {
+   "word": "Gumshoe",
+   "definition": "Slang for a detective, from the soft rubber-soled shoes that let one follow quietly.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "gumshoes?"
+  },
+  {
+   "word": "Heraldic",
+   "definition": "Of heraldry, the coats of arms and emblems of noble families.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "heraldic|heraldry"
+  },
+  {
+   "word": "Infinitesimal",
+   "definition": "Extremely small.",
+   "chapters": [
+    2,
+    25,
+    41,
+    45,
+    54,
+    62
+   ],
+   "defined_in": 2,
+   "pattern": "infinitesimal(?:ly)?"
+  },
+  {
+   "word": "Ineffable",
+   "definition": "Too great or wonderful to be put into words.",
+   "chapters": [
+    2,
+    12,
+    29,
+    31,
+    33,
+    38,
+    41,
+    48,
+    53,
+    54,
+    58,
+    65
+   ],
+   "defined_in": 2,
+   "pattern": "ineffabl(?:e|y)"
+  },
+  {
+   "word": "Inner sanctum",
+   "definition": "A private, secret room; originally, the holiest room of a temple.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "inner sanctums?"
+  },
+  {
+   "word": "Insouciant",
+   "definition": "Carefree; unconcerned.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "insoucian(?:t|ce)"
+  },
+  {
+   "word": "Ketch",
+   "definition": "A two-masted sailboat with the smaller mast set behind the main mast.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "ketch(?:es)?"
+  },
+  {
+   "word": "Labyrinthine",
+   "definition": "Like a labyrinth; intricate and confusing.",
+   "chapters": [
+    2,
+    38
+   ],
+   "defined_in": 2,
+   "pattern": "labyrinthine"
+  },
+  {
+   "word": "Lorgnette",
+   "definition": "A pair of eyeglasses held up to the eyes by a long handle.",
+   "chapters": [
+    2,
+    52
+   ],
+   "defined_in": 2,
+   "pattern": "lorgnettes?"
+  },
+  {
+   "word": "Maelstrom",
+   "definition": "A powerful whirlpool; any violent, confused situation.",
+   "chapters": [
+    2,
+    34,
+    63
+   ],
+   "defined_in": 2,
+   "pattern": "maelstr[oö]ms?"
+  },
+  {
+   "word": "Malingering",
+   "definition": "Pretending to be ill to avoid work.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "malinger(?:ing|er|ers|ed)?"
+  },
+  {
+   "word": "Mesa",
+   "definition": "A flat-topped hill with steep sides. Young writes of a “mesa of snow.”",
+   "chapters": [
+    2,
+    36,
+    54
+   ],
+   "defined_in": 2,
+   "pattern": "mesas?"
+  },
+  {
+   "word": "Metropolitan",
+   "definition": "In the Orthodox churches, a bishop who presides over the other bishops of a province.",
+   "chapters": [
+    2,
+    9
+   ],
+   "defined_in": 2,
+   "pattern": "greek metropolitans?"
+  },
+  {
+   "word": "Milliner",
+   "definition": "A maker or seller of women’s hats.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "milliners?|millinery"
+  },
+  {
+   "word": "Minuscular",
+   "definition": "Tiny. Young’s form of minuscule.",
+   "chapters": [
+    2,
+    3,
+    35,
+    40,
+    42,
+    47,
+    54,
+    55
+   ],
+   "defined_in": 2,
+   "pattern": "minuscul(?:ar|e)"
+  },
+  {
+   "word": "Modicum",
+   "definition": "A small amount.",
+   "chapters": [
+    2,
+    63,
+    72
+   ],
+   "defined_in": 2,
+   "pattern": "modicum"
+  },
+  {
+   "word": "Moleskin",
+   "definition": "A heavy cotton fabric with a soft, short nap like the fur of a mole.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "moleskins?"
+  },
+  {
+   "word": "Morosely",
+   "definition": "Gloomily, sullenly.",
+   "chapters": [
+    2,
+    22,
+    37,
+    53,
+    68
+   ],
+   "defined_in": 2,
+   "pattern": "moros(?:e|ely)"
+  },
+  {
+   "word": "Mother-of-pearl",
+   "definition": "The shining, rainbow-colored lining of some shells, used for inlay.",
+   "chapters": [
+    2,
+    3,
+    6,
+    14,
+    16,
+    29,
+    31,
+    35,
+    36,
+    37,
+    40,
+    42,
+    44,
+    45,
+    46,
+    47,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    59,
+    61,
+    62,
+    64
+   ],
+   "defined_in": 2,
+   "pattern": "mother[ -]of[ -]pearl"
+  },
+  {
+   "word": "Motor veil",
+   "definition": "A long veil tied over a woman’s hat and face to keep off dust in an open automobile.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "motor veils?"
+  },
+  {
+   "word": "Mush",
+   "definition": "To travel by dogsled; also the command that starts sled dogs running.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "mush(?:es|ed|ing)? ahead|mushing"
+  },
+  {
+   "word": "Ne’er-do-well",
+   "definition": "A lazy, worthless person.",
+   "chapters": [
+    2,
+    54
+   ],
+   "defined_in": 2,
+   "pattern": "ne'er-do-wells?"
+  },
+  {
+   "word": "Numbers racket",
+   "definition": "An illegal lottery in which bettors pick numbers, usually run by organized crime. Young writes “a number’s racket.”",
+   "chapters": [
+    2,
+    53
+   ],
+   "defined_in": 2,
+   "pattern": "number'?s'? rackets?"
+  },
+  {
+   "word": "Nuncio",
+   "definition": "An ambassador of the Pope; any messenger.",
+   "chapters": [
+    2,
+    52
+   ],
+   "defined_in": 2,
+   "pattern": "nuncios?"
+  },
+  {
+   "word": "Obfuscation",
+   "definition": "The act of making something unclear or obscure.",
+   "chapters": [
+    2,
+    82
+   ],
+   "defined_in": 2,
+   "pattern": "obfuscat(?:ion|ed|e|ing)"
+  },
+  {
+   "word": "Octogenarian",
+   "definition": "A person in their eighties.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "octogenarians?"
+  },
+  {
+   "word": "Papyrus",
+   "definition": "Writing material the ancient Egyptians made from the stems of the papyrus reed.",
+   "chapters": [
+    2,
+    44
+   ],
+   "defined_in": 2,
+   "pattern": "papyr(?:us|i)"
+  },
+  {
+   "word": "Phantasmagoric",
+   "definition": "Like a phantasmagoria, a shifting series of dreamlike or nightmarish images. A phantasmagoria was an eighteenth-century magic-lantern ghost show.",
+   "chapters": [
+    2,
+    3,
+    17,
+    23,
+    25,
+    27,
+    34,
+    39,
+    56,
+    66,
+    82
+   ],
+   "defined_in": 2,
+   "pattern": "phantasmagori(?:c|a|al)"
+  },
+  {
+   "word": "Piebald",
+   "definition": "Of a horse: with irregular patches of two colors, usually black and white.",
+   "chapters": [
+    2,
+    29
+   ],
+   "defined_in": 2,
+   "pattern": "piebald"
+  },
+  {
+   "word": "Protean",
+   "definition": "Able to change shape or form readily, like the sea god Proteus.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "protean"
+  },
+  {
+   "word": "Refulgent",
+   "definition": "Shining brightly; radiant.",
+   "chapters": [
+    2,
+    12,
+    20,
+    49,
+    51,
+    61
+   ],
+   "defined_in": 2,
+   "pattern": "refulgen(?:t|tly|ce)"
+  },
+  {
+   "word": "Regatta",
+   "definition": "A series of boat races.",
+   "chapters": [
+    2,
+    22,
+    39,
+    51
+   ],
+   "defined_in": 2,
+   "pattern": "regattas?"
+  },
+  {
+   "word": "Rice powder",
+   "definition": "A fine face powder made from rice, used to whiten the skin.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "rice powder"
+  },
+  {
+   "word": "Riding habit",
+   "definition": "A woman’s outfit for riding horseback.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "riding habits?"
+  },
+  {
+   "word": "Ritualist",
+   "definition": "One devoted to the strict observance of rituals.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "ritualists?"
+  },
+  {
+   "word": "Roan",
+   "definition": "Of a horse: with a solid-colored coat sprinkled with white hairs.",
+   "chapters": [
+    2,
+    6
+   ],
+   "defined_in": 2,
+   "pattern": "roans?"
+  },
+  {
+   "word": "Sarcophagus",
+   "definition": "A stone coffin, often carved, placed above ground. The plural is sarcophagi.",
+   "chapters": [
+    2,
+    14,
+    39,
+    47,
+    48,
+    55,
+    56,
+    61
+   ],
+   "defined_in": 2,
+   "pattern": "sarcophag(?:us|i|uses)"
+  },
+  {
+   "word": "Sexton",
+   "definition": "A church officer who looks after the building and churchyard and often digs the graves.",
+   "chapters": [
+    2,
+    6,
+    7,
+    52,
+    79
+   ],
+   "defined_in": 2,
+   "pattern": "sextons?"
+  },
+  {
+   "word": "Sloop",
+   "definition": "A sailboat with one mast.",
+   "chapters": [
+    2,
+    39,
+    41,
+    42,
+    47,
+    48,
+    53
+   ],
+   "defined_in": 2,
+   "pattern": "sloops?"
+  },
+  {
+   "word": "Smelling salts",
+   "definition": "A strong-smelling mixture, chiefly ammonium carbonate, sniffed to revive someone who feels faint.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "smelling salts"
+  },
+  {
+   "word": "Soothsayer",
+   "definition": "One who claims to foretell the future.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "soothsayers?"
+  },
+  {
+   "word": "Stalactite",
+   "definition": "An icicle-shaped formation of minerals hanging from the roof of a cave.",
+   "chapters": [
+    2,
+    41,
+    69
+   ],
+   "defined_in": 2,
+   "pattern": "stalactites?"
+  },
+  {
+   "word": "Subterfuge",
+   "definition": "A trick or deception used to hide something.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "subterfuges?"
+  },
+  {
+   "word": "Supposititiously",
+   "definition": "Supposedly, by supposition; also, falsely.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "supposititious(?:ly)?"
+  },
+  {
+   "word": "Surreptitiously",
+   "definition": "Secretly, by stealth.",
+   "chapters": [
+    2,
+    14,
+    51,
+    54,
+    59
+   ],
+   "defined_in": 2,
+   "pattern": "surreptitious(?:ly)?"
+  },
+  {
+   "word": "Taciturn",
+   "definition": "Habitually silent; saying little.",
+   "chapters": [
+    2,
+    14,
+    25,
+    27,
+    61,
+    70,
+    82
+   ],
+   "defined_in": 2,
+   "pattern": "taciturn(?:ity)?"
+  },
+  {
+   "word": "Transom",
+   "definition": "A small window above a door, often hinged to open.",
+   "chapters": [
+    2,
+    48
+   ],
+   "defined_in": 2,
+   "pattern": "transoms?"
+  },
+  {
+   "word": "Trihedron",
+   "definition": "A figure formed by three planes meeting at a point, like the corner of a box.",
+   "chapters": [
+    2
+   ],
+   "defined_in": 2,
+   "pattern": "trihedr(?:on|al|a)"
+  },
+  {
+   "word": "Tureen",
+   "definition": "A deep covered dish for serving soup.",
+   "chapters": [
+    2,
+    22,
+    71
+   ],
+   "defined_in": 2,
+   "pattern": "tureens?"
+  },
+  {
+   "word": "Untrammeled",
+   "definition": "Not restricted or hampered.",
+   "chapters": [
+    2,
+    35
+   ],
+   "defined_in": 2,
+   "pattern": "untrammel(?:l)?ed"
   }
  ],
  "vocab_chapters": [
   1,
+  2,
   43
  ]
 }
