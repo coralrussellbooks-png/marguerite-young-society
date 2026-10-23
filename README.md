@@ -21,3 +21,7 @@ If the site moves to a new address, change `SITE_URL` near the top of `build.py`
 ## The Dictionary
 
 The Dictionary of Miss MacIntosh, My Darling (`site/dictionary.html`) is built from `src/dictionary.json`, which holds each word, its short definition, the chapters where it appears, and the chapter whose Vocabulary first defined it. After adding words to that file, run `python3 dictionary.py` and then `python3 build.py`.
+
+## The liberal arts course catalog
+
+The subject pages linked from "The Novel as a Liberal Arts Education" (`site/liberal-arts-*.html`) are built from `src/curriculum.json`, which lists the subjects and, for each chapter, the topics its Resources teach. After adding a chapter's topics to that file, run `python3 curriculum.py` and then `python3 build.py`.
