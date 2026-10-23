@@ -5380,7 +5380,7 @@
   },
   {
    "word": "Hectagonal",
-   "definition": "Young’s word for six-sided; the usual word is hexagonal.",
+   "definition": "Young’s word, probably a slip for hexagonal (six-sided) or heptagonal (seven-sided). Quartz crystals grow in six-sided columns.",
    "chapters": [
     4
    ],
@@ -5597,6 +5597,24 @@
    ],
    "defined_in": 4,
    "pattern": "wayfarers?"
+  },
+  {
+   "word": "Handlebar",
+   "definition": "A mustache with long ends curled upward like the handlebars of a bicycle.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "handlebars?"
+  },
+  {
+   "word": "Husbanded",
+   "definition": "Kept carefully; conserved.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "husbanded"
   }
  ],
  "vocab_chapters": [
