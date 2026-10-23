@@ -134,6 +134,31 @@
  ],
  "items": [
   {
+   "subject": "classical-mythology",
+   "chapter": 2,
+   "topic": "Leda and the swan, and the swan maidens"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 2,
+   "topic": "Jack Johnson and the “Great White Hope”"
+  },
+  {
+   "subject": "philosophy-and-psychology",
+   "chapter": 2,
+   "topic": "Lucretius and the motes in the sunbeam"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 2,
+   "topic": "Women’s archery and the early Olympic Games"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 2,
+   "topic": "Elijah and the prophets of Baal"
+  },
+  {
    "subject": "scripture-and-theology",
    "chapter": 2,
    "topic": "Ezekiel’s “wheel in the middle of a wheel”"
