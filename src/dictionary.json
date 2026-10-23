@@ -5198,12 +5198,412 @@
    ],
    "defined_in": 3,
    "pattern": "visages?"
+  },
+  {
+   "word": "Awl",
+   "definition": "A small pointed tool for piercing leather, used by shoemakers.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "awls?"
+  },
+  {
+   "word": "Belfry",
+   "definition": "A bell tower, or the room in a tower where the bells hang.",
+   "chapters": [
+    4,
+    7,
+    8,
+    35,
+    46,
+    54,
+    61
+   ],
+   "defined_in": 4,
+   "pattern": "belfr(?:y|ies)"
+  },
+  {
+   "word": "Brackish",
+   "definition": "Of water: slightly salty, as where a river meets the sea.",
+   "chapters": [
+    4,
+    14,
+    16,
+    74
+   ],
+   "defined_in": 4,
+   "pattern": "brackish"
+  },
+  {
+   "word": "Brimstone",
+   "definition": "Sulfur. The brimstone butterfly is named for its sulfur-yellow wings.",
+   "chapters": [
+    4,
+    7,
+    28
+   ],
+   "defined_in": 4,
+   "pattern": "brimstone"
+  },
+  {
+   "word": "Cat’s eye",
+   "definition": "A gemstone, such as chrysoberyl, with a band of light across it like the slit of a cat’s eye.",
+   "chapters": [
+    2,
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "cat's[ -]eyes?"
+  },
+  {
+   "word": "Cistern",
+   "definition": "A tank for storing water, often underground.",
+   "chapters": [
+    4,
+    63
+   ],
+   "defined_in": 4,
+   "pattern": "cisterns?"
+  },
+  {
+   "word": "Crow’s feet",
+   "definition": "The small wrinkles at the outer corners of the eyes.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "crow's[ -]feet"
+  },
+  {
+   "word": "Debutante",
+   "definition": "A young woman making her formal entrance into society.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "d[eé]butantes?"
+  },
+  {
+   "word": "Diadem",
+   "definition": "A jeweled crown or headband worn as a sign of royalty.",
+   "chapters": [
+    4,
+    12,
+    14,
+    20,
+    47
+   ],
+   "defined_in": 4,
+   "pattern": "diadems?"
+  },
+  {
+   "word": "Ear trumpet",
+   "definition": "A horn-shaped tube held to the ear to help the hard of hearing.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "ear[ -]trumpets?"
+  },
+  {
+   "word": "Festering",
+   "definition": "Rotting and oozing; growing more corrupt.",
+   "chapters": [
+    4,
+    8,
+    22,
+    23
+   ],
+   "defined_in": 4,
+   "pattern": "fester(?:ing|ings|ed|s)?"
+  },
+  {
+   "word": "Filigree",
+   "definition": "Delicate ornamental work of fine twisted wire. Young writes “filagreed.”",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "fil[ai]gree(?:d|s)?"
+  },
+  {
+   "word": "Fire opal",
+   "definition": "A red, orange, or yellow opal with flashes of color.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "fire[ -]opals?"
+  },
+  {
+   "word": "Fishmonger",
+   "definition": "A seller of fish.",
+   "chapters": [
+    4,
+    54
+   ],
+   "defined_in": 4,
+   "pattern": "fishmongers?'?"
+  },
+  {
+   "word": "Foolhardy",
+   "definition": "Recklessly bold.",
+   "chapters": [
+    4,
+    9,
+    34,
+    54
+   ],
+   "defined_in": 4,
+   "pattern": "foolhardy"
+  },
+  {
+   "word": "Freighter",
+   "definition": "A ship that carries cargo.",
+   "chapters": [
+    4,
+    62
+   ],
+   "defined_in": 4,
+   "pattern": "freighters?"
+  },
+  {
+   "word": "Hawking",
+   "definition": "Hunting with trained hawks or falcons.",
+   "chapters": [
+    4,
+    14
+   ],
+   "defined_in": 4,
+   "pattern": "hawking"
+  },
+  {
+   "word": "Hectagonal",
+   "definition": "Young’s word for six-sided; the usual word is hexagonal.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "hectagonal"
+  },
+  {
+   "word": "Hoar-frost",
+   "definition": "White frost formed as feathery ice crystals.",
+   "chapters": [
+    4,
+    37,
+    44,
+    63,
+    65,
+    72,
+    81
+   ],
+   "defined_in": 4,
+   "pattern": "hoar[ -]?frost"
+  },
+  {
+   "word": "Ice floe",
+   "definition": "A sheet of floating ice.",
+   "chapters": [
+    4,
+    23,
+    29,
+    37,
+    45,
+    47,
+    54,
+    61,
+    62,
+    63,
+    72,
+    74,
+    75,
+    77,
+    80
+   ],
+   "defined_in": 4,
+   "pattern": "ice[ -]floes?"
+  },
+  {
+   "word": "Imperceptibly",
+   "definition": "So slowly or slightly as to go unnoticed.",
+   "chapters": [
+    4,
+    25,
+    34,
+    41,
+    47,
+    50,
+    53,
+    54,
+    55,
+    79,
+    82
+   ],
+   "defined_in": 4,
+   "pattern": "imperceptibl(?:y|e)"
+  },
+  {
+   "word": "Indolent",
+   "definition": "Lazy; avoiding effort.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "indolen(?:t|ce)"
+  },
+  {
+   "word": "Lapis lazuli",
+   "definition": "A deep-blue stone, ground by painters to make the pigment ultramarine.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "lapis lazuli"
+  },
+  {
+   "word": "Matrimony",
+   "definition": "Marriage.",
+   "chapters": [
+    4,
+    10
+   ],
+   "defined_in": 4,
+   "pattern": "matrimony"
+  },
+  {
+   "word": "Née",
+   "definition": "Born; used before a woman’s maiden name. Young writes “nee.”",
+   "chapters": [
+    4,
+    33
+   ],
+   "defined_in": 4,
+   "pattern": "n[eé]e"
+  },
+  {
+   "word": "Noxious",
+   "definition": "Harmful or poisonous.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "noxious"
+  },
+  {
+   "word": "Owlishly",
+   "definition": "Like an owl; staring wide-eyed and solemn.",
+   "chapters": [
+    4,
+    41
+   ],
+   "defined_in": 4,
+   "pattern": "owlish(?:ly)?"
+  },
+  {
+   "word": "Slumberous",
+   "definition": "Sleepy; inducing sleep.",
+   "chapters": [
+    2,
+    4,
+    9,
+    13,
+    14,
+    25,
+    29,
+    70,
+    72,
+    82
+   ],
+   "defined_in": 4,
+   "pattern": "slumberous"
+  },
+  {
+   "word": "Tallow",
+   "definition": "Animal fat used for candles and soap. Tallow-colored is a dull, yellowish white.",
+   "chapters": [
+    4,
+    18,
+    22,
+    52,
+    53,
+    56,
+    61,
+    62,
+    63,
+    64,
+    77
+   ],
+   "defined_in": 4,
+   "pattern": "tallow"
+  },
+  {
+   "word": "Tributary",
+   "definition": "A stream or river that flows into a larger one.",
+   "chapters": [
+    4,
+    54
+   ],
+   "defined_in": 4,
+   "pattern": "tributar(?:y|ies)"
+  },
+  {
+   "word": "Turtle-dove",
+   "definition": "A small wild dove. The “turtle” of the Bible’s “voice of the turtle” is this bird.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "turtle-?doves?"
+  },
+  {
+   "word": "Undulating",
+   "definition": "Rising and falling in waves.",
+   "chapters": [
+    2,
+    4,
+    29,
+    46,
+    47,
+    51,
+    61,
+    73,
+    74
+   ],
+   "defined_in": 4,
+   "pattern": "undulat(?:ing|ed|ion|e)"
+  },
+  {
+   "word": "Vaunted",
+   "definition": "Boasted of; praised highly.",
+   "chapters": [
+    4
+   ],
+   "defined_in": 4,
+   "pattern": "vaunt(?:ed|ing)?"
+  },
+  {
+   "word": "Wayfarer",
+   "definition": "A traveler, especially on foot.",
+   "chapters": [
+    4,
+    18,
+    45,
+    48,
+    49,
+    51,
+    68
+   ],
+   "defined_in": 4,
+   "pattern": "wayfarers?"
   }
  ],
  "vocab_chapters": [
   1,
   2,
   3,
+  4,
   43
  ]
 }
