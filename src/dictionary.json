@@ -5061,6 +5061,143 @@
    ],
    "defined_in": 3,
    "pattern": "wraiths?"
+  },
+  {
+   "word": "Deluge",
+   "definition": "A great flood or downpour. The Deluge is Noah’s flood.",
+   "chapters": [
+    3,
+    5,
+    8,
+    52,
+    55,
+    65,
+    72,
+    81
+   ],
+   "defined_in": 3,
+   "pattern": "deluges?"
+  },
+  {
+   "word": "Divan",
+   "definition": "A long, low couch without a back or arms.",
+   "chapters": [
+    2,
+    3,
+    16,
+    35,
+    36,
+    39,
+    41,
+    47,
+    48,
+    51,
+    52,
+    56,
+    61,
+    82
+   ],
+   "defined_in": 3,
+   "pattern": "divans?"
+  },
+  {
+   "word": "Estuary",
+   "definition": "The wide mouth of a river, where fresh water meets the tide.",
+   "chapters": [
+    3,
+    41,
+    47,
+    62
+   ],
+   "defined_in": 3,
+   "pattern": "estuar(?:y|ies)"
+  },
+  {
+   "word": "Frumpery",
+   "definition": "Dowdy, old-fashioned finery. Young pairs it with trumpery.",
+   "chapters": [
+    3
+   ],
+   "defined_in": 3,
+   "pattern": "frumpery"
+  },
+  {
+   "word": "Mottled",
+   "definition": "Marked with spots or blotches of different colors.",
+   "chapters": [
+    2,
+    3,
+    7,
+    29,
+    38,
+    46,
+    49,
+    51,
+    61,
+    64,
+    69,
+    72,
+    74,
+    79
+   ],
+   "defined_in": 3,
+   "pattern": "mottled"
+  },
+  {
+   "word": "Perchance",
+   "definition": "Perhaps; by chance.",
+   "chapters": [
+    3,
+    76
+   ],
+   "defined_in": 3,
+   "pattern": "perchance"
+  },
+  {
+   "word": "Sea nettle",
+   "definition": "A stinging jellyfish.",
+   "chapters": [
+    3,
+    49
+   ],
+   "defined_in": 3,
+   "pattern": "sea[ -]nettles?"
+  },
+  {
+   "word": "Vagaries",
+   "definition": "Unpredictable changes or whims.",
+   "chapters": [
+    3,
+    53,
+    63,
+    73
+   ],
+   "defined_in": 3,
+   "pattern": "vagar(?:y|ies)"
+  },
+  {
+   "word": "Vainglorious",
+   "definition": "Excessively proud and boastful.",
+   "chapters": [
+    3,
+    22,
+    23,
+    48
+   ],
+   "defined_in": 3,
+   "pattern": "vainglori(?:ous|ously)"
+  },
+  {
+   "word": "Visage",
+   "definition": "A person’s face or expression.",
+   "chapters": [
+    3,
+    22,
+    27,
+    31
+   ],
+   "defined_in": 3,
+   "pattern": "visages?"
   }
  ],
  "vocab_chapters": [
