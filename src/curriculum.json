@@ -135,6 +135,211 @@
  "items": [
   {
    "subject": "scripture-and-theology",
+   "chapter": 1,
+   "topic": "Genesis 1:2, the Spirit of God upon the face of the waters"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 1,
+   "topic": "Psalm 42, “deep calleth unto deep”"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 1,
+   "topic": "Hosea 8:7, sowing the wind and reaping the whirlwind"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 1,
+   "topic": "Matthew 5:13 and 6:22, the salt of the earth and the eye full of light"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 1,
+   "topic": "The letters of Peter and the light that enters the soul"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 1,
+   "topic": "The palm leaves of Palm Sunday and the rosary"
+  },
+  {
+   "subject": "world-religions",
+   "chapter": 1,
+   "topic": "Jehovah’s Witnesses and the Bible Student movement"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 1,
+   "topic": "Pascal’s wager"
+  },
+  {
+   "subject": "scripture-and-theology",
+   "chapter": 1,
+   "topic": "The legend of Our Lady’s Juggler"
+  },
+  {
+   "subject": "classical-mythology",
+   "chapter": 1,
+   "topic": "Tantalus and his punishment"
+  },
+  {
+   "subject": "classical-mythology",
+   "chapter": 1,
+   "topic": "Cadmus, Jason, and the sowing of dragon’s teeth"
+  },
+  {
+   "subject": "classical-mythology",
+   "chapter": 1,
+   "topic": "Psyche and Cupid in Apuleius"
+  },
+  {
+   "subject": "history",
+   "chapter": 1,
+   "topic": "Coal mining, the Monongah disaster of 1907, and the Ludlow Massacre of 1914"
+  },
+  {
+   "subject": "history",
+   "chapter": 1,
+   "topic": "Ether anesthesia and William Morton, 1846"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 1,
+   "topic": "Southern Indiana, Young’s home state"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 1,
+   "topic": "Novelty roadside architecture and Route 66"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 1,
+   "topic": "Coca-Cola and aspirin signboards"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 1,
+   "topic": "The “See America First” movement of 1906"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 1,
+   "topic": "“Gray Goose,” the prison bus, and the Greyhound"
+  },
+  {
+   "subject": "american-history-and-life",
+   "chapter": 1,
+   "topic": "The ten cent store"
+  },
+  {
+   "subject": "history",
+   "chapter": 1,
+   "topic": "The de Havilland Comet, the first jet airliner"
+  },
+  {
+   "subject": "literature",
+   "chapter": 1,
+   "topic": "Cervantes’s Don Quixote, with Harold Bloom and Edith Grossman"
+  },
+  {
+   "subject": "literature",
+   "chapter": 1,
+   "topic": "Longfellow’s “Ships that pass in the night”"
+  },
+  {
+   "subject": "literature",
+   "chapter": 1,
+   "topic": "The epic simile of souls like autumn leaves: Homer, Virgil, Dante, Milton"
+  },
+  {
+   "subject": "literature",
+   "chapter": 1,
+   "topic": "Gogol’s Dead Souls"
+  },
+  {
+   "subject": "literature",
+   "chapter": 1,
+   "topic": "Virgil’s Palinurus, the drowned helmsman"
+  },
+  {
+   "subject": "literature",
+   "chapter": 1,
+   "topic": "Bunyan’s Pilgrim’s Progress in Welsh"
+  },
+  {
+   "subject": "literature",
+   "chapter": 1,
+   "topic": "The Mother Goose rhyme of the old woman who lived in a shoe"
+  },
+  {
+   "subject": "literature",
+   "chapter": 1,
+   "topic": "The meanings of the names Vera, Cartwheel, Madge, Homer, Capehorn, Georgia, and MacIntosh"
+  },
+  {
+   "subject": "philosophy-and-psychology",
+   "chapter": 1,
+   "topic": "Phenomenology"
+  },
+  {
+   "subject": "philosophy-and-psychology",
+   "chapter": 1,
+   "topic": "Hegel’s “circle of circles”"
+  },
+  {
+   "subject": "philosophy-and-psychology",
+   "chapter": 1,
+   "topic": "Logic, formal and informal"
+  },
+  {
+   "subject": "philosophy-and-psychology",
+   "chapter": 1,
+   "topic": "Dialectic"
+  },
+  {
+   "subject": "philosophy-and-psychology",
+   "chapter": 1,
+   "topic": "Pascal on the imagination"
+  },
+  {
+   "subject": "mathematics-and-logic",
+   "chapter": 1,
+   "topic": "Formal logic and valid inference"
+  },
+  {
+   "subject": "astronomy-and-natural-science",
+   "chapter": 1,
+   "topic": "The planetarium and the night sky"
+  },
+  {
+   "subject": "music-and-the-arts",
+   "chapter": 1,
+   "topic": "Myron’s Discobolus and the Apollo Belvedere"
+  },
+  {
+   "subject": "music-and-the-arts",
+   "chapter": 1,
+   "topic": "Ruskin, “truth to nature,” and the Pre-Raphaelites"
+  },
+  {
+   "subject": "geography-and-the-sea",
+   "chapter": 1,
+   "topic": "Cape Horn"
+  },
+  {
+   "subject": "geography-and-the-sea",
+   "chapter": 1,
+   "topic": "Charles Macintosh and the waterproof coat"
+  },
+  {
+   "subject": "geography-and-the-sea",
+   "chapter": 1,
+   "topic": "The harbor cities and the waterfront"
+  },
+  {
+   "subject": "scripture-and-theology",
    "chapter": 43,
    "topic": "Isaiah 21:11, “Watchman, what of the night?”"
   },

@@ -1850,15 +1850,25 @@
    "word": "Turret",
    "definition": "A small tower on a building or castle.",
    "chapters": [
+    1,
     2,
     3,
+    16,
+    26,
+    29,
+    30,
     31,
+    32,
+    36,
+    38,
     39,
+    40,
     41,
     43,
     45,
     47,
     49,
+    50,
     52,
     55,
     58,
@@ -1868,7 +1878,7 @@
     82
    ],
    "defined_in": 43,
-   "pattern": "turret(?:s|es|'s)?"
+   "pattern": "turret(?:s|ed)?"
   },
   {
    "word": "Untenable",
@@ -1892,6 +1902,1014 @@
    ],
    "defined_in": 43,
    "pattern": "vigils?"
+  },
+  {
+   "word": "Allée",
+   "definition": "A walk or path lined with trees or tall hedges. Young writes “allees.”",
+   "chapters": [
+    1,
+    16
+   ],
+   "defined_in": 1,
+   "pattern": "all[eé]es?"
+  },
+  {
+   "word": "Anarchic",
+   "definition": "Without order or control; lawless.",
+   "chapters": [
+    1,
+    70
+   ],
+   "defined_in": 1,
+   "pattern": "anarchic"
+  },
+  {
+   "word": "Archaic",
+   "definition": "Very old; belonging to a much earlier time.",
+   "chapters": [
+    1,
+    3,
+    47,
+    49,
+    54,
+    55
+   ],
+   "defined_in": 1,
+   "pattern": "archaic"
+  },
+  {
+   "word": "Asphodel",
+   "definition": "A lily-like flower that, in Greek myth, covers the meadows of the underworld where ordinary souls go after death.",
+   "chapters": [
+    1,
+    3,
+    42,
+    43,
+    46
+   ],
+   "defined_in": 1,
+   "pattern": "asphodels?"
+  },
+  {
+   "word": "Avid",
+   "definition": "Eager or greedy.",
+   "chapters": [
+    1,
+    14,
+    72
+   ],
+   "defined_in": 1,
+   "pattern": "avid(?:ly)?"
+  },
+  {
+   "word": "Bisect",
+   "definition": "To cut or divide into two parts.",
+   "chapters": [
+    1,
+    18,
+    25,
+    37,
+    38,
+    49,
+    52,
+    54,
+    55
+   ],
+   "defined_in": 1,
+   "pattern": "bisect(?:s|ed|ing)?"
+  },
+  {
+   "word": "Cameo",
+   "definition": "A carved gem or shell with a raised profile, usually a head, set against a background of a different color.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "cameos?"
+  },
+  {
+   "word": "Cherubim",
+   "definition": "Winged angelic beings. In art they are often shown as chubby winged children. The singular is cherub.",
+   "chapters": [
+    1,
+    2,
+    3,
+    5,
+    13,
+    16,
+    19,
+    22,
+    31,
+    34,
+    39,
+    42,
+    45,
+    47,
+    49,
+    51,
+    52,
+    53,
+    54,
+    59,
+    61,
+    65,
+    68,
+    69,
+    70,
+    72,
+    76
+   ],
+   "defined_in": 1,
+   "pattern": "cherub(?:im|s)?"
+  },
+  {
+   "word": "Chiffon",
+   "definition": "A sheer, lightweight fabric of silk or nylon.",
+   "chapters": [
+    1,
+    31,
+    70
+   ],
+   "defined_in": 1,
+   "pattern": "chiffons?"
+  },
+  {
+   "word": "Chinese puzzle",
+   "definition": "An intricate puzzle, such as a set of interlocking pieces; anything baffling and complicated.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "chinese puzzles?"
+  },
+  {
+   "word": "Clothes horse",
+   "definition": "A wooden frame for drying or airing clothes.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "clothes'? ?horses?"
+  },
+  {
+   "word": "Constitutional",
+   "definition": "A walk taken regularly for the sake of one’s health.",
+   "chapters": [
+    1,
+    3,
+    9,
+    13,
+    14,
+    18,
+    21,
+    22,
+    63,
+    64
+   ],
+   "defined_in": 1,
+   "pattern": "(?:her|his|their|a|morning|evening|daily) constitutionals?"
+  },
+  {
+   "word": "Cornice",
+   "definition": "A decorative molding that runs along the top of a wall or building.",
+   "chapters": [
+    1,
+    3,
+    19,
+    71,
+    82
+   ],
+   "defined_in": 1,
+   "pattern": "cornices?"
+  },
+  {
+   "word": "Corset",
+   "definition": "A close-fitting undergarment, stiffened with whalebone or steel and laced tight, worn to shape the waist.",
+   "chapters": [
+    1,
+    3,
+    6,
+    7,
+    9,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    53,
+    57,
+    63,
+    65,
+    66,
+    67
+   ],
+   "defined_in": 1,
+   "pattern": "corsets?(?:ed)?"
+  },
+  {
+   "word": "Delusive",
+   "definition": "Misleading; giving a false impression.",
+   "chapters": [
+    1,
+    2,
+    13,
+    22,
+    28,
+    42,
+    49,
+    65
+   ],
+   "defined_in": 1,
+   "pattern": "delusive"
+  },
+  {
+   "word": "Denuded",
+   "definition": "Stripped bare.",
+   "chapters": [
+    1,
+    22,
+    64,
+    65,
+    72
+   ],
+   "defined_in": 1,
+   "pattern": "denud(?:ed|e|es|ing)"
+  },
+  {
+   "word": "Discursive",
+   "definition": "Rambling from one subject to another.",
+   "chapters": [
+    1,
+    22,
+    26,
+    55
+   ],
+   "defined_in": 1,
+   "pattern": "discursive"
+  },
+  {
+   "word": "Dismembered",
+   "definition": "With the limbs cut off; torn apart.",
+   "chapters": [
+    1,
+    71
+   ],
+   "defined_in": 1,
+   "pattern": "dismember(?:ed|ing|ment)?"
+  },
+  {
+   "word": "Ducal",
+   "definition": "Belonging to a duke.",
+   "chapters": [
+    1,
+    29
+   ],
+   "defined_in": 1,
+   "pattern": "ducal"
+  },
+  {
+   "word": "Dungarees",
+   "definition": "Work trousers or overalls of heavy cotton denim.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "dungarees?"
+  },
+  {
+   "word": "Emanation",
+   "definition": "Something that flows out from a source.",
+   "chapters": [
+    1,
+    2,
+    29
+   ],
+   "defined_in": 1,
+   "pattern": "emanations?"
+  },
+  {
+   "word": "Ermine",
+   "definition": "The white winter fur of the stoat, used to trim the robes of kings and nobles.",
+   "chapters": [
+    1,
+    2,
+    3,
+    4,
+    32
+   ],
+   "defined_in": 1,
+   "pattern": "ermines?"
+  },
+  {
+   "word": "Erratically",
+   "definition": "Unpredictably; irregularly.",
+   "chapters": [
+    1,
+    5,
+    10,
+    36,
+    49,
+    52,
+    54
+   ],
+   "defined_in": 1,
+   "pattern": "erratic(?:ally)?"
+  },
+  {
+   "word": "Ethereal",
+   "definition": "Light, airy, and delicate, as if not of this world; heavenly.",
+   "chapters": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    12,
+    16,
+    18,
+    25,
+    28,
+    29,
+    33,
+    46,
+    47,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    61,
+    70
+   ],
+   "defined_in": 1,
+   "pattern": "ethereal(?:ly)?"
+  },
+  {
+   "word": "Fusty",
+   "definition": "Old-fashioned and musty.",
+   "chapters": [
+    1,
+    2
+   ],
+   "defined_in": 1,
+   "pattern": "fusty"
+  },
+  {
+   "word": "Gargoyle",
+   "definition": "A carved grotesque figure on a building, often serving as a waterspout.",
+   "chapters": [
+    1,
+    2,
+    13,
+    16,
+    22,
+    37,
+    41,
+    45,
+    47,
+    49,
+    52,
+    54,
+    57,
+    59,
+    61,
+    62,
+    70
+   ],
+   "defined_in": 1,
+   "pattern": "gargoyles?"
+  },
+  {
+   "word": "Garter",
+   "definition": "A band worn around the leg to hold up a stocking.",
+   "chapters": [
+    1,
+    72,
+    79
+   ],
+   "defined_in": 1,
+   "pattern": "garters?"
+  },
+  {
+   "word": "Gauze",
+   "definition": "A thin, transparent fabric.",
+   "chapters": [
+    1,
+    2,
+    6,
+    8,
+    29,
+    49,
+    51,
+    61,
+    64,
+    75,
+    76
+   ],
+   "defined_in": 1,
+   "pattern": "gauz(?:e|es|y)"
+  },
+  {
+   "word": "Helmsman",
+   "definition": "The person who steers a ship.",
+   "chapters": [
+    1,
+    45,
+    47
+   ],
+   "defined_in": 1,
+   "pattern": "helms(?:man|men)"
+  },
+  {
+   "word": "Imploring",
+   "definition": "Begging earnestly.",
+   "chapters": [
+    1,
+    2,
+    3,
+    12,
+    20,
+    22,
+    30,
+    63,
+    70,
+    74
+   ],
+   "defined_in": 1,
+   "pattern": "implor(?:e|ed|es|ing)"
+  },
+  {
+   "word": "Incongruous",
+   "definition": "Out of place; not in keeping with its surroundings.",
+   "chapters": [
+    1,
+    14,
+    53,
+    63
+   ],
+   "defined_in": 1,
+   "pattern": "incongru(?:ous|ously|ity)"
+  },
+  {
+   "word": "Inexactitude",
+   "definition": "Lack of exactness.",
+   "chapters": [
+    1,
+    2
+   ],
+   "defined_in": 1,
+   "pattern": "inexactitudes?"
+  },
+  {
+   "word": "Laggard",
+   "definition": "Slow; falling behind.",
+   "chapters": [
+    1,
+    3,
+    9,
+    22
+   ],
+   "defined_in": 1,
+   "pattern": "laggards?"
+  },
+  {
+   "word": "Languorous",
+   "definition": "Oppressive stillness or tiredness, inactivity of a pleasurable kind. Young spells it “langorous.”",
+   "chapters": [
+    1,
+    13,
+    27,
+    71
+   ],
+   "defined_in": 1,
+   "pattern": "lang(?:u)?orous(?:ly)?"
+  },
+  {
+   "word": "Lumbering",
+   "definition": "Moving heavily and clumsily.",
+   "chapters": [
+    1,
+    7,
+    25,
+    49,
+    51,
+    61,
+    78
+   ],
+   "defined_in": 1,
+   "pattern": "lumber(?:ing|ed|s)"
+  },
+  {
+   "word": "Moccasins",
+   "definition": "Soft leather shoes first made by Native American peoples.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "moccasins?"
+  },
+  {
+   "word": "Mortality rate",
+   "definition": "The number of deaths in a population over a given period.",
+   "chapters": [
+    1,
+    55
+   ],
+   "defined_in": 1,
+   "pattern": "mortality rates?"
+  },
+  {
+   "word": "Oblivion",
+   "definition": "The state of being forgotten, or of being unaware of everything.",
+   "chapters": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    12,
+    18,
+    23,
+    25,
+    26,
+    30,
+    31,
+    32,
+    36,
+    37,
+    42,
+    44,
+    45,
+    46,
+    47,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    59,
+    63,
+    65,
+    75,
+    82
+   ],
+   "defined_in": 1,
+   "pattern": "oblivion"
+  },
+  {
+   "word": "Omniscient",
+   "definition": "All-knowing.",
+   "chapters": [
+    1,
+    2,
+    6,
+    12,
+    14,
+    25,
+    27,
+    37,
+    39,
+    47,
+    49,
+    54,
+    55,
+    56,
+    70
+   ],
+   "defined_in": 1,
+   "pattern": "omniscien(?:t|ce)"
+  },
+  {
+   "word": "Petticoat",
+   "definition": "An underskirt.",
+   "chapters": [
+    1,
+    3,
+    6,
+    7,
+    41,
+    42,
+    44,
+    52
+   ],
+   "defined_in": 1,
+   "pattern": "petticoats?"
+  },
+  {
+   "word": "Planetarium",
+   "definition": "A domed theater in which images of the night sky are projected onto the ceiling.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "planetari(?:um|ums|a)"
+  },
+  {
+   "word": "Pretender",
+   "definition": "Someone who claims a throne or title, often without a rightful claim.",
+   "chapters": [
+    1,
+    9,
+    17,
+    18
+   ],
+   "defined_in": 1,
+   "pattern": "pretenders?"
+  },
+  {
+   "word": "Protuberance",
+   "definition": "A bulge or swelling.",
+   "chapters": [
+    1,
+    59,
+    65
+   ],
+   "defined_in": 1,
+   "pattern": "protuberances?"
+  },
+  {
+   "word": "Quail",
+   "definition": "A small, plump ground bird hunted as game.",
+   "chapters": [
+    1,
+    6,
+    22,
+    35,
+    50,
+    61,
+    69,
+    75
+   ],
+   "defined_in": 1,
+   "pattern": "quails?"
+  },
+  {
+   "word": "Rabbit warren",
+   "definition": "A network of rabbit burrows. Figuratively, a crowded building full of small, maze-like rooms.",
+   "chapters": [
+    1,
+    2
+   ],
+   "defined_in": 1,
+   "pattern": "rabbit warrens?"
+  },
+  {
+   "word": "Refuse",
+   "definition": "Garbage or trash. As a noun it is pronounced REF-yoos.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "among refuse|the refuse|of refuse|refuse heaps?|refuse cans?"
+  },
+  {
+   "word": "Resonant",
+   "definition": "Echoing; deep and full in sound.",
+   "chapters": [
+    1,
+    18,
+    55,
+    60
+   ],
+   "defined_in": 1,
+   "pattern": "resonan(?:t|ce)"
+  },
+  {
+   "word": "Reticule",
+   "definition": "A small drawstring handbag.",
+   "chapters": [
+    1,
+    3
+   ],
+   "defined_in": 1,
+   "pattern": "reticules?"
+  },
+  {
+   "word": "Rouge",
+   "definition": "A red powder or cream used to color the cheeks or lips.",
+   "chapters": [
+    1,
+    6,
+    76
+   ],
+   "defined_in": 1,
+   "pattern": "rouged?"
+  },
+  {
+   "word": "Scalloped",
+   "definition": "Edged with a series of curves like the rim of a scallop shell.",
+   "chapters": [
+    1,
+    3,
+    7,
+    16,
+    36,
+    37,
+    51,
+    52,
+    56,
+    59,
+    62,
+    68,
+    81,
+    82
+   ],
+   "defined_in": 1,
+   "pattern": "scallop(?:ed|s)?"
+  },
+  {
+   "word": "Scudding",
+   "definition": "Moving fast before the wind.",
+   "chapters": [
+    1,
+    4,
+    6,
+    7,
+    9,
+    40,
+    43,
+    46,
+    54,
+    57,
+    61
+   ],
+   "defined_in": 1,
+   "pattern": "scud(?:ding|ded|s)?"
+  },
+  {
+   "word": "Sensorium",
+   "definition": "The whole of a person’s senses; the seat of sensation in the brain.",
+   "chapters": [
+    1,
+    50
+   ],
+   "defined_in": 1,
+   "pattern": "sensori(?:um|a)"
+  },
+  {
+   "word": "Sentient",
+   "definition": "Able to feel and perceive.",
+   "chapters": [
+    1,
+    2,
+    13,
+    40,
+    65
+   ],
+   "defined_in": 1,
+   "pattern": "sentien(?:t|ce)"
+  },
+  {
+   "word": "Skein",
+   "definition": "A loosely coiled length of yarn or thread.",
+   "chapters": [
+    1,
+    29,
+    41,
+    52
+   ],
+   "defined_in": 1,
+   "pattern": "skeins?"
+  },
+  {
+   "word": "Slag",
+   "definition": "The stony waste left over when metal is smelted from ore.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "slag"
+  },
+  {
+   "word": "Sleazy",
+   "definition": "Of cloth: thin and flimsy. This was the word’s first meaning; the sense of sordid came later.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "sleazy"
+  },
+  {
+   "word": "Sleight of hand",
+   "definition": "Skillful tricks done with the hands, such as a magician’s.",
+   "chapters": [
+    1,
+    14,
+    47,
+    49,
+    61
+   ],
+   "defined_in": 1,
+   "pattern": "sleight[ -]of[ -]hand"
+  },
+  {
+   "word": "Spangled",
+   "definition": "Covered with spangles, small glittering ornaments.",
+   "chapters": [
+    1,
+    42,
+    52
+   ],
+   "defined_in": 1,
+   "pattern": "spangl(?:ed|es|e)"
+  },
+  {
+   "word": "Spectral",
+   "definition": "Ghostly.",
+   "chapters": [
+    1,
+    3,
+    8,
+    9,
+    17,
+    21,
+    27,
+    31,
+    41,
+    51,
+    53,
+    59,
+    61,
+    81
+   ],
+   "defined_in": 1,
+   "pattern": "spectral"
+  },
+  {
+   "word": "Spinster",
+   "definition": "An unmarried woman, especially an older one. The word first meant a woman who spun thread.",
+   "chapters": [
+    1,
+    2,
+    3,
+    5,
+    12,
+    26,
+    34,
+    66
+   ],
+   "defined_in": 1,
+   "pattern": "spinsters?(?:hood)?"
+  },
+  {
+   "word": "Stolidity",
+   "definition": "Calm, unemotional dullness.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "stolid(?:ity|ly)?"
+  },
+  {
+   "word": "Sycophant",
+   "definition": "A flatterer who seeks favor. As an adjective, fawning and flattering.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "sycophan(?:t|ts|tic|cy)"
+  },
+  {
+   "word": "Taloned",
+   "definition": "Having talons, the sharp claws of a bird of prey.",
+   "chapters": [
+    1,
+    30,
+    36,
+    52
+   ],
+   "defined_in": 1,
+   "pattern": "talon(?:ed|s)?"
+  },
+  {
+   "word": "Ten cent store",
+   "definition": "A five-and-ten, a store selling cheap goods, such as Woolworth’s.",
+   "chapters": [
+    1,
+    70
+   ],
+   "defined_in": 1,
+   "pattern": "ten[ -]cent stores?"
+  },
+  {
+   "word": "Tenement",
+   "definition": "A crowded, run-down apartment building.",
+   "chapters": [
+    1,
+    2,
+    14,
+    22,
+    39,
+    49,
+    53,
+    54,
+    70
+   ],
+   "defined_in": 1,
+   "pattern": "tenements?"
+  },
+  {
+   "word": "Tethered",
+   "definition": "Tied with a rope or chain.",
+   "chapters": [
+    1,
+    30,
+    75
+   ],
+   "defined_in": 1,
+   "pattern": "tether(?:ed|s)?"
+  },
+  {
+   "word": "Transfusion",
+   "definition": "The transfer of blood into a person’s veins.",
+   "chapters": [
+    1,
+    67
+   ],
+   "defined_in": 1,
+   "pattern": "transfusions?"
+  },
+  {
+   "word": "Urn",
+   "definition": "A tall vase; also a large metal container with a tap, for serving coffee or tea.",
+   "chapters": [
+    1,
+    3,
+    6,
+    22,
+    31,
+    51,
+    53,
+    70,
+    71,
+    72,
+    73,
+    79,
+    80,
+    82
+   ],
+   "defined_in": 1,
+   "pattern": "urns?"
+  },
+  {
+   "word": "Vanity case",
+   "definition": "A small case for carrying makeup.",
+   "chapters": [
+    1,
+    6
+   ],
+   "defined_in": 1,
+   "pattern": "vanity cases?"
+  },
+  {
+   "word": "Waterproof",
+   "definition": "An old word for a raincoat, as in Miss MacIntosh’s “plaid, faded waterproof.”",
+   "chapters": [
+    1,
+    3,
+    63,
+    65,
+    70,
+    82
+   ],
+   "defined_in": 1,
+   "pattern": "waterproofs?"
+  },
+  {
+   "word": "Whalebone",
+   "definition": "Baleen, the flexible plates from the mouths of certain whales, once used to stiffen corsets.",
+   "chapters": [
+    1,
+    3,
+    17,
+    19,
+    23,
+    53
+   ],
+   "defined_in": 1,
+   "pattern": "whale[ -]?bone(?:d|s)?"
+  },
+  {
+   "word": "Wigwam",
+   "definition": "A domed dwelling of the Algonquian peoples of the Northeast and Great Lakes, framed with bent poles and covered with bark or mats.",
+   "chapters": [
+    1
+   ],
+   "defined_in": 1,
+   "pattern": "wigwams?"
   }
+ ],
+ "vocab_chapters": [
+  1,
+  43
  ]
 }

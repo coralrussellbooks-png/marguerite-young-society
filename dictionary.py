@@ -14,9 +14,11 @@ SRC = os.path.join(ROOT, 'src', 'dictionary.json')
 DATA = os.path.join(ROOT, 'site', 'data')
 PID, TITLE, LABEL, FILE = 'dictionary', 'Dictionary', 'To All My Darlings', 'chapters'
 
-words = json.load(open(SRC, encoding='utf-8'))['words']
-words.sort(key=lambda w: w['word'].replace('’', '').lower())
-covered = sorted({w['defined_in'] for w in words})
+src = json.load(open(SRC, encoding='utf-8'))
+words = src['words']
+words.sort(key=lambda w: w['word'].replace('’', '').replace('é', 'e').lower())
+# chapters whose Vocabulary sections are finished (falls back to where words were first defined)
+covered = sorted(set(src.get('vocab_chapters', [])) | {w['defined_in'] for w in words})
 
 def chap_link(n):
     return '<a href="#chapter-%02d">%d</a>' % (n, n)
