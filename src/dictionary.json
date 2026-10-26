@@ -7653,6 +7653,277 @@
    ],
    "defined_in": 9,
    "pattern": "thimbles?"
+  },
+  {
+   "word": "Cacophonous",
+   "definition": "Harsh and jarring in sound.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "cacophonous"
+  },
+  {
+   "word": "Consumeth",
+   "definition": "Archaic for consumes; wastes away.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "consumeth"
+  },
+  {
+   "word": "Dervish",
+   "definition": "A member of a Sufi order known for whirling in worship.",
+   "chapters": [
+    3,
+    10,
+    23,
+    29,
+    40
+   ],
+   "defined_in": 10,
+   "pattern": "dervishes"
+  },
+  {
+   "word": "Diffusedly",
+   "definition": "In a scattered, spread-out way.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "diffusedly"
+  },
+  {
+   "word": "Dubious",
+   "definition": "Doubtful.",
+   "chapters": [
+    2,
+    10,
+    14,
+    42,
+    43,
+    45,
+    47,
+    49,
+    50,
+    61,
+    70,
+    82
+   ],
+   "defined_in": 10,
+   "pattern": "dubious"
+  },
+  {
+   "word": "Embryonic",
+   "definition": "In its earliest stage.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "embryonic"
+  },
+  {
+   "word": "Gorgon",
+   "definition": "In Greek myth, one of three snake-haired sisters whose gaze turned men to stone.",
+   "chapters": [
+    10,
+    59
+   ],
+   "defined_in": 10,
+   "pattern": "gorgons?"
+  },
+  {
+   "word": "Helpmeet",
+   "definition": "A helper and companion, especially a wife.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "helpmeet"
+  },
+  {
+   "word": "Hereditament",
+   "definition": "Property that can be inherited.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "hereditaments?"
+  },
+  {
+   "word": "Hydra",
+   "definition": "A many-headed serpent of Greek myth.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "hydras?"
+  },
+  {
+   "word": "Impoverished",
+   "definition": "Made poor.",
+   "chapters": [
+    9,
+    10,
+    20,
+    35,
+    47,
+    55,
+    63
+   ],
+   "defined_in": 10,
+   "pattern": "impoverished"
+  },
+  {
+   "word": "Incorporeal",
+   "definition": "Without a body; not physical.",
+   "chapters": [
+    10,
+    22,
+    28,
+    36
+   ],
+   "defined_in": 10,
+   "pattern": "incorporeal"
+  },
+  {
+   "word": "Indetermination",
+   "definition": "Indecision.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "indetermination"
+  },
+  {
+   "word": "Legion",
+   "definition": "A vast number.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "legion"
+  },
+  {
+   "word": "Manifold",
+   "definition": "Many and various.",
+   "chapters": [
+    10,
+    14,
+    56
+   ],
+   "defined_in": 10,
+   "pattern": "manifold"
+  },
+  {
+   "word": "Necromancer",
+   "definition": "One who calls up the dead.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "necromancers?"
+  },
+  {
+   "word": "Negation",
+   "definition": "Denial; saying no.",
+   "chapters": [
+    10,
+    20
+   ],
+   "defined_in": 10,
+   "pattern": "negation"
+  },
+  {
+   "word": "Nether",
+   "definition": "Lower; under.",
+   "chapters": [
+    2,
+    10,
+    45,
+    55,
+    63
+   ],
+   "defined_in": 10,
+   "pattern": "nether"
+  },
+  {
+   "word": "Rheumatism",
+   "definition": "Pain and stiffness in the joints and muscles.",
+   "chapters": [
+    10
+   ],
+   "defined_in": 10,
+   "pattern": "rheumatism"
+  },
+  {
+   "word": "Selah",
+   "definition": "A Hebrew word in the Psalms, perhaps a pause.",
+   "chapters": [
+    10,
+    65
+   ],
+   "defined_in": 10,
+   "pattern": "selah"
+  },
+  {
+   "word": "Stubble",
+   "definition": "The short stalks left after a harvest.",
+   "chapters": [
+    10,
+    65,
+    79
+   ],
+   "defined_in": 10,
+   "pattern": "stubble"
+  },
+  {
+   "word": "Transpired",
+   "definition": "Happened; took place.",
+   "chapters": [
+    10,
+    25,
+    33,
+    40,
+    41,
+    42,
+    45,
+    50,
+    51,
+    52,
+    55,
+    57,
+    64,
+    79,
+    81
+   ],
+   "defined_in": 10,
+   "pattern": "transpired"
+  },
+  {
+   "word": "Wall-eyed",
+   "definition": "With eyes that turn outward, staring.",
+   "chapters": [
+    10,
+    37
+   ],
+   "defined_in": 10,
+   "pattern": "wall-eyed"
+  },
+  {
+   "word": "Zenith",
+   "definition": "The highest point.",
+   "chapters": [
+    10,
+    47,
+    49,
+    50,
+    62,
+    74
+   ],
+   "defined_in": 10,
+   "pattern": "zenith"
   }
  ],
  "vocab_chapters": [
@@ -7665,6 +7936,7 @@
   7,
   8,
   9,
+  10,
   43
  ]
 }
