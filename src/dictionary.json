@@ -7924,6 +7924,254 @@
    ],
    "defined_in": 10,
    "pattern": "zenith"
+  },
+  {
+   "word": "Atheistic",
+   "definition": "Denying the existence of God.",
+   "chapters": [
+    11
+   ],
+   "defined_in": 11,
+   "pattern": "atheistic"
+  },
+  {
+   "word": "Brussels lace",
+   "definition": "Fine lace made by hand in Brussels, Belgium, from linen thread.",
+   "chapters": [
+    11
+   ],
+   "defined_in": 11,
+   "pattern": "brussels lace"
+  },
+  {
+   "word": "Congealed",
+   "definition": "Thickened or stiffened, as with cold.",
+   "chapters": [
+    2,
+    11,
+    13,
+    34,
+    39,
+    42,
+    51,
+    52,
+    53,
+    63
+   ],
+   "defined_in": 11,
+   "pattern": "congeal(?:ed|s|ing)?"
+  },
+  {
+   "word": "Courtier",
+   "definition": "An attendant at a royal court.",
+   "chapters": [
+    11,
+    46
+   ],
+   "defined_in": 11,
+   "pattern": "courtiers?"
+  },
+  {
+   "word": "Frigid",
+   "definition": "Very cold; stiffly unfriendly.",
+   "chapters": [
+    11,
+    38,
+    53
+   ],
+   "defined_in": 11,
+   "pattern": "frigid"
+  },
+  {
+   "word": "Glacial",
+   "definition": "Icy; like a glacier.",
+   "chapters": [
+    6,
+    11,
+    21,
+    25,
+    31,
+    35,
+    42,
+    45,
+    52,
+    55,
+    59,
+    61,
+    62
+   ],
+   "defined_in": 11,
+   "pattern": "glacial"
+  },
+  {
+   "word": "Goldeneye",
+   "definition": "A diving duck with bright yellow eyes, called a whistler for the sound of its wings.",
+   "chapters": [
+    11,
+    22
+   ],
+   "defined_in": 11,
+   "pattern": "goldeneyes?"
+  },
+  {
+   "word": "Gyrfalcon",
+   "definition": "The largest falcon, a bird of the Arctic.",
+   "chapters": [
+    11
+   ],
+   "defined_in": 11,
+   "pattern": "gyrfalcons?"
+  },
+  {
+   "word": "Imperious",
+   "definition": "Proud and commanding.",
+   "chapters": [
+    2,
+    11,
+    34,
+    36,
+    38
+   ],
+   "defined_in": 11,
+   "pattern": "imperious(?:ly)?"
+  },
+  {
+   "word": "Lustrous",
+   "definition": "Shining with a soft glow.",
+   "chapters": [
+    11,
+    72,
+    73
+   ],
+   "defined_in": 11,
+   "pattern": "lustrous"
+  },
+  {
+   "word": "Opiate",
+   "definition": "A drug made from opium; anything that dulls the senses.",
+   "chapters": [
+    11
+   ],
+   "defined_in": 11,
+   "pattern": "opiates?"
+  },
+  {
+   "word": "Parabolic",
+   "definition": "Curved like a parabola; also, like a parable.",
+   "chapters": [
+    11
+   ],
+   "defined_in": 11,
+   "pattern": "parabolic"
+  },
+  {
+   "word": "Plumed",
+   "definition": "Decorated with feathers.",
+   "chapters": [
+    1,
+    6,
+    11,
+    35,
+    43,
+    44,
+    49,
+    59,
+    61,
+    62
+   ],
+   "defined_in": 11,
+   "pattern": "plumed"
+  },
+  {
+   "word": "Proposition",
+   "definition": "A statement put forward as true, to be argued.",
+   "chapters": [
+    11,
+    56
+   ],
+   "defined_in": 11,
+   "pattern": "propositions?"
+  },
+  {
+   "word": "Red-cap",
+   "definition": "A railroad porter who carries luggage.",
+   "chapters": [
+    11
+   ],
+   "defined_in": 11,
+   "pattern": "red-caps?"
+  },
+  {
+   "word": "Rose window",
+   "definition": "A round church window of stained glass, with tracery spreading from the center like petals.",
+   "chapters": [
+    7,
+    11,
+    51
+   ],
+   "defined_in": 11,
+   "pattern": "rose windows?"
+  },
+  {
+   "word": "Roulade",
+   "definition": "A rapid run of notes sung to one syllable.",
+   "chapters": [
+    11
+   ],
+   "defined_in": 11,
+   "pattern": "roulades?"
+  },
+  {
+   "word": "Royal mast",
+   "definition": "The topmost section of a sailing ship’s mast, above the topgallant.",
+   "chapters": [
+    11
+   ],
+   "defined_in": 11,
+   "pattern": "royal masts?"
+  },
+  {
+   "word": "Rubric",
+   "definition": "A heading or instruction printed in red, as in a prayer book.",
+   "chapters": [
+    11
+   ],
+   "defined_in": 11,
+   "pattern": "rubrics?"
+  },
+  {
+   "word": "Rune",
+   "definition": "A letter of the old Germanic alphabets, often thought to hold magic.",
+   "chapters": [
+    11
+   ],
+   "defined_in": 11,
+   "pattern": "runes?"
+  },
+  {
+   "word": "Seed pearl",
+   "definition": "A very small pearl.",
+   "chapters": [
+    6,
+    9,
+    11,
+    21,
+    65
+   ],
+   "defined_in": 11,
+   "pattern": "seed pearls?"
+  },
+  {
+   "word": "Tactlessly",
+   "definition": "Without tact; bluntly.",
+   "chapters": [
+    11,
+    27,
+    43,
+    53
+   ],
+   "defined_in": 11,
+   "pattern": "tactless(?:ly)?"
   }
  ],
  "vocab_chapters": [
@@ -7937,6 +8185,7 @@
   8,
   9,
   10,
+  11,
   43
  ]
 }
