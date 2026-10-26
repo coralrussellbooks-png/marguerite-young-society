@@ -8172,6 +8172,413 @@
    ],
    "defined_in": 11,
    "pattern": "tactless(?:ly)?"
+  },
+  {
+   "word": "Candor",
+   "definition": "Frankness; openness.",
+   "chapters": [
+    12,
+    14
+   ],
+   "defined_in": 12,
+   "pattern": "candor"
+  },
+  {
+   "word": "Caustic",
+   "definition": "Biting and sarcastic; also, able to burn.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "caustic"
+  },
+  {
+   "word": "Clammy",
+   "definition": "Damp, cold, and sticky.",
+   "chapters": [
+    6,
+    12,
+    21,
+    72,
+    75
+   ],
+   "defined_in": 12,
+   "pattern": "clammy"
+  },
+  {
+   "word": "Cognizance",
+   "definition": "Awareness; notice.",
+   "chapters": [
+    12,
+    62,
+    63
+   ],
+   "defined_in": 12,
+   "pattern": "cognizance"
+  },
+  {
+   "word": "Commingling",
+   "definition": "Mixing together.",
+   "chapters": [
+    12,
+    39
+   ],
+   "defined_in": 12,
+   "pattern": "commingl(?:e|ed|es|ing)"
+  },
+  {
+   "word": "Concavity",
+   "definition": "A hollow; an inward curve.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "concavit(?:y|ies)"
+  },
+  {
+   "word": "Errant",
+   "definition": "Wandering; straying from the proper course.",
+   "chapters": [
+    3,
+    8,
+    12,
+    18,
+    22,
+    39,
+    40,
+    55,
+    63,
+    70
+   ],
+   "defined_in": 12,
+   "pattern": "errant"
+  },
+  {
+   "word": "Filament",
+   "definition": "A fine thread or fiber.",
+   "chapters": [
+    3,
+    12,
+    50,
+    52,
+    53,
+    56,
+    59,
+    60,
+    61,
+    72
+   ],
+   "defined_in": 12,
+   "pattern": "filaments?"
+  },
+  {
+   "word": "Fortitude",
+   "definition": "Courage in bearing pain or trouble.",
+   "chapters": [
+    12,
+    35,
+    38
+   ],
+   "defined_in": 12,
+   "pattern": "fortitude"
+  },
+  {
+   "word": "Frugal",
+   "definition": "Sparing; careful with money.",
+   "chapters": [
+    12,
+    64
+   ],
+   "defined_in": 12,
+   "pattern": "frugal(?:ly)?"
+  },
+  {
+   "word": "Horologer",
+   "definition": "A clockmaker.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "horologers?"
+  },
+  {
+   "word": "Humbug",
+   "definition": "A fraud; nonsense.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "humbugs?"
+  },
+  {
+   "word": "Imposture",
+   "definition": "A deception; passing oneself off as someone else.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "impostures?"
+  },
+  {
+   "word": "Inconspicuous",
+   "definition": "Not easily noticed.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "inconspicuous"
+  },
+  {
+   "word": "Innocuous",
+   "definition": "Harmless.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "innocuous"
+  },
+  {
+   "word": "Iridescence",
+   "definition": "A rainbow shimmer of colors that change with the angle of view.",
+   "chapters": [
+    12,
+    23,
+    28,
+    29,
+    31,
+    32,
+    33,
+    40,
+    47,
+    49,
+    51,
+    53,
+    54,
+    57,
+    58,
+    61,
+    65,
+    68,
+    70
+   ],
+   "defined_in": 12,
+   "pattern": "iridescen(?:ce|t)"
+  },
+  {
+   "word": "Malignance",
+   "definition": "Deadly harmfulness; the quality of a disease that spreads.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "malignance"
+  },
+  {
+   "word": "Mazurka",
+   "definition": "A lively Polish dance in triple time.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "mazurkas?"
+  },
+  {
+   "word": "Middlebrow",
+   "definition": "Of conventional, middling taste.",
+   "chapters": [
+    3,
+    12,
+    23
+   ],
+   "defined_in": 12,
+   "pattern": "middle ?brows?"
+  },
+  {
+   "word": "Peruke",
+   "definition": "A powdered wig of the seventeenth and eighteenth centuries.",
+   "chapters": [
+    12,
+    16,
+    41
+   ],
+   "defined_in": 12,
+   "pattern": "perukes?"
+  },
+  {
+   "word": "Polka",
+   "definition": "A lively couple dance from Bohemia.",
+   "chapters": [
+    12,
+    55,
+    56,
+    69
+   ],
+   "defined_in": 12,
+   "pattern": "polkas?"
+  },
+  {
+   "word": "Pontiff",
+   "definition": "A high priest; the pope.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "pontiffs?"
+  },
+  {
+   "word": "Preternatural",
+   "definition": "Beyond what is natural.",
+   "chapters": [
+    12,
+    17,
+    29,
+    38,
+    48
+   ],
+   "defined_in": 12,
+   "pattern": "preternatural"
+  },
+  {
+   "word": "Quiescent",
+   "definition": "Still; at rest.",
+   "chapters": [
+    12,
+    25,
+    28,
+    65
+   ],
+   "defined_in": 12,
+   "pattern": "quiescent"
+  },
+  {
+   "word": "Retribution",
+   "definition": "Punishment given in return for a wrong.",
+   "chapters": [
+    12,
+    18,
+    53,
+    80
+   ],
+   "defined_in": 12,
+   "pattern": "retribution"
+  },
+  {
+   "word": "Rueful",
+   "definition": "Sorrowful; regretful.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "rueful"
+  },
+  {
+   "word": "Saffron",
+   "definition": "Orange-yellow, the color of the spice.",
+   "chapters": [
+    12,
+    49,
+    54,
+    61,
+    62,
+    65,
+    81
+   ],
+   "defined_in": 12,
+   "pattern": "saffron"
+  },
+  {
+   "word": "Stamen",
+   "definition": "The pollen-bearing part of a flower.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "stamens?"
+  },
+  {
+   "word": "Suffusion",
+   "definition": "A spreading through, as of color or light.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "suffusion"
+  },
+  {
+   "word": "Tentative",
+   "definition": "Hesitant; not certain.",
+   "chapters": [
+    3,
+    6,
+    7,
+    12,
+    20,
+    21,
+    27,
+    28,
+    30,
+    31,
+    42,
+    43,
+    48,
+    49,
+    59,
+    63
+   ],
+   "defined_in": 12,
+   "pattern": "tentative"
+  },
+  {
+   "word": "Tramontane",
+   "definition": "Beyond the mountains; foreign.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "tramontane"
+  },
+  {
+   "word": "Transmogrified",
+   "definition": "Changed completely, often strangely.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "transmogrif(?:y|ied|ies)"
+  },
+  {
+   "word": "Triton",
+   "definition": "A sea god of Greek myth, half man and half fish, who blows a conch shell.",
+   "chapters": [
+    9,
+    12,
+    16,
+    43,
+    44,
+    47,
+    61
+   ],
+   "defined_in": 12,
+   "pattern": "tritons?"
+  },
+  {
+   "word": "Voluble",
+   "definition": "Talkative.",
+   "chapters": [
+    12,
+    36
+   ],
+   "defined_in": 12,
+   "pattern": "voluble"
+  },
+  {
+   "word": "Whorl",
+   "definition": "A spiral or ring of leaves or petals.",
+   "chapters": [
+    12
+   ],
+   "defined_in": 12,
+   "pattern": "whorls?"
   }
  ],
  "vocab_chapters": [
@@ -8186,6 +8593,7 @@
   9,
   10,
   11,
+  12,
   43
  ]
 }
