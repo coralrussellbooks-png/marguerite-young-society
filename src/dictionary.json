@@ -5615,6 +5615,264 @@
    ],
    "defined_in": 4,
    "pattern": "husbanded"
+  },
+  {
+   "word": "Attenuated",
+   "definition": "Having been reduced in force, effect, or value; thinned out.",
+   "chapters": [
+    5
+   ],
+   "defined_in": 5,
+   "pattern": "attenuat(?:ed|e|ion)"
+  },
+  {
+   "word": "Conciliatory",
+   "definition": "Meant to soothe or win someone over.",
+   "chapters": [
+    5
+   ],
+   "defined_in": 5,
+   "pattern": "conciliatory"
+  },
+  {
+   "word": "Coxcomb",
+   "definition": "The red crest of a rooster, or the jester’s cap shaped like one; also a vain, foolish man.",
+   "chapters": [
+    5,
+    7,
+    29,
+    55
+   ],
+   "defined_in": 5,
+   "pattern": "coxcombs?"
+  },
+  {
+   "word": "Dead-beat",
+   "definition": "One who does not pay his debts.",
+   "chapters": [
+    5
+   ],
+   "defined_in": 5,
+   "pattern": "dead-?beats?"
+  },
+  {
+   "word": "Distaff side",
+   "definition": "The female side of a family. A distaff is the staff that holds wool for spinning, long women’s work.",
+   "chapters": [
+    5,
+    35
+   ],
+   "defined_in": 5,
+   "pattern": "distaff side"
+  },
+  {
+   "word": "Ere",
+   "definition": "Before.",
+   "chapters": [
+    5,
+    6,
+    52
+   ],
+   "defined_in": 5,
+   "pattern": "ere"
+  },
+  {
+   "word": "Fogdog",
+   "definition": "A bright patch of light seen in a bank of fog.",
+   "chapters": [
+    5
+   ],
+   "defined_in": 5,
+   "pattern": "fog-?dogs?"
+  },
+  {
+   "word": "Forceps",
+   "definition": "A pincer-like instrument for grasping, used in delivering babies.",
+   "chapters": [
+    5,
+    71
+   ],
+   "defined_in": 5,
+   "pattern": "forceps"
+  },
+  {
+   "word": "Gnashing",
+   "definition": "Grinding the teeth together in anger or pain.",
+   "chapters": [
+    5,
+    6
+   ],
+   "defined_in": 5,
+   "pattern": "gnash(?:ing|ed|es)?"
+  },
+  {
+   "word": "Inanition",
+   "definition": "Exhaustion caused by lack of nourishment, or lack of mental or spiritual vigor and enthusiasm.",
+   "chapters": [
+    5,
+    34,
+    54
+   ],
+   "defined_in": 5,
+   "pattern": "inanition"
+  },
+  {
+   "word": "Molt",
+   "definition": "To shed hair or feathers.",
+   "chapters": [
+    5,
+    6,
+    49,
+    51
+   ],
+   "defined_in": 5,
+   "pattern": "molt(?:ed|ing|s)?"
+  },
+  {
+   "word": "Pallbearer",
+   "definition": "One who helps carry a coffin at a funeral.",
+   "chapters": [
+    5,
+    6,
+    7,
+    16,
+    56,
+    57
+   ],
+   "defined_in": 5,
+   "pattern": "pallbearers?"
+  },
+  {
+   "word": "Parturition",
+   "definition": "The act of giving birth.",
+   "chapters": [
+    5
+   ],
+   "defined_in": 5,
+   "pattern": "parturition"
+  },
+  {
+   "word": "Perdition",
+   "definition": "Damnation; eternal ruin.",
+   "chapters": [
+    5
+   ],
+   "defined_in": 5,
+   "pattern": "perdition"
+  },
+  {
+   "word": "Pinion",
+   "definition": "A bird’s wing, or the outer part of it.",
+   "chapters": [
+    5,
+    50,
+    51,
+    58
+   ],
+   "defined_in": 5,
+   "pattern": "pinions?"
+  },
+  {
+   "word": "Razorback",
+   "definition": "A wild hog with a sharp ridge of bristles along its back; also a sharp-ridged hill.",
+   "chapters": [
+    5
+   ],
+   "defined_in": 5,
+   "pattern": "razorbacks?"
+  },
+  {
+   "word": "Sceptre",
+   "definition": "A staff carried by a ruler as a sign of power. Also spelled scepter.",
+   "chapters": [
+    5,
+    45,
+    51,
+    58
+   ],
+   "defined_in": 5,
+   "pattern": "scept(?:re|er)s?"
+  },
+  {
+   "word": "Senile",
+   "definition": "Weakened in mind by old age.",
+   "chapters": [
+    5,
+    69,
+    71,
+    72
+   ],
+   "defined_in": 5,
+   "pattern": "senil(?:e|ity)"
+  },
+  {
+   "word": "Spavined",
+   "definition": "Of a horse: lame from a swelling of the hock; decrepit or broken down.",
+   "chapters": [
+    5
+   ],
+   "defined_in": 5,
+   "pattern": "spavined"
+  },
+  {
+   "word": "Stethoscope",
+   "definition": "An instrument for listening to the heart and lungs.",
+   "chapters": [
+    5,
+    8,
+    71
+   ],
+   "defined_in": 5,
+   "pattern": "stethoscopes?"
+  },
+  {
+   "word": "Thatched",
+   "definition": "Covered with straw or reeds, like a roof; of hair, thick and shaggy.",
+   "chapters": [
+    5,
+    64,
+    67
+   ],
+   "defined_in": 5,
+   "pattern": "thatch(?:ed)?"
+  },
+  {
+   "word": "Voluminous",
+   "definition": "Large, full, or great in volume.",
+   "chapters": [
+    5,
+    9,
+    22,
+    32,
+    34,
+    42,
+    47
+   ],
+   "defined_in": 5,
+   "pattern": "voluminous"
+  },
+  {
+   "word": "Wind-broken",
+   "definition": "Of a horse: short of breath from damaged lungs.",
+   "chapters": [
+    5,
+    16
+   ],
+   "defined_in": 5,
+   "pattern": "wind-broken"
+  },
+  {
+   "word": "Wrack",
+   "definition": "Wreck or ruin, as in “wrack and ruin.”",
+   "chapters": [
+    5,
+    7,
+    48,
+    59,
+    69
+   ],
+   "defined_in": 5,
+   "pattern": "wrack"
   }
  ],
  "vocab_chapters": [
@@ -5622,6 +5880,7 @@
   2,
   3,
   4,
+  5,
   43
  ]
 }
