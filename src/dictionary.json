@@ -7009,6 +7009,334 @@
    ],
    "defined_in": 7,
    "pattern": "whippersnapper"
+  },
+  {
+   "word": "Aberration",
+   "definition": "A departure from what is normal or expected.",
+   "chapters": [
+    8,
+    22,
+    23
+   ],
+   "defined_in": 8,
+   "pattern": "aberrations?"
+  },
+  {
+   "word": "Amok",
+   "definition": "In a wild, uncontrolled frenzy.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "amok"
+  },
+  {
+   "word": "Antidote",
+   "definition": "A remedy that counteracts a poison.",
+   "chapters": [
+    8,
+    41
+   ],
+   "defined_in": 8,
+   "pattern": "antidotes?"
+  },
+  {
+   "word": "Barmy",
+   "definition": "Crazy, foolish.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "barmy"
+  },
+  {
+   "word": "Benighted",
+   "definition": "Overtaken by darkness; ignorant.",
+   "chapters": [
+    8,
+    63
+   ],
+   "defined_in": 8,
+   "pattern": "benighted"
+  },
+  {
+   "word": "Bole",
+   "definition": "The trunk of a tree.",
+   "chapters": [
+    8,
+    51,
+    80
+   ],
+   "defined_in": 8,
+   "pattern": "boles?"
+  },
+  {
+   "word": "Cardiac",
+   "definition": "Having to do with the heart.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "cardiac"
+  },
+  {
+   "word": "Chamber pot",
+   "definition": "A bowl kept under the bed for use as a toilet at night.",
+   "chapters": [
+    8,
+    19,
+    65
+   ],
+   "defined_in": 8,
+   "pattern": "chamber pots?"
+  },
+  {
+   "word": "Cyclops",
+   "definition": "In Greek myth, a one-eyed giant.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "cyclops"
+  },
+  {
+   "word": "Delirium tremens",
+   "definition": "The trembling delirium of alcohol withdrawal.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "delirium tremens"
+  },
+  {
+   "word": "Flagstone",
+   "definition": "A flat paving stone.",
+   "chapters": [
+    8,
+    31,
+    38,
+    43,
+    47,
+    48,
+    50,
+    55
+   ],
+   "defined_in": 8,
+   "pattern": "flagstones?"
+  },
+  {
+   "word": "Gullet",
+   "definition": "The throat.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "gullet"
+  },
+  {
+   "word": "Hulk",
+   "definition": "The body of an old ship; a big, clumsy person or thing.",
+   "chapters": [
+    8,
+    22,
+    29,
+    53,
+    82
+   ],
+   "defined_in": 8,
+   "pattern": "hulks?"
+  },
+  {
+   "word": "Impregnable",
+   "definition": "Unable to be captured or broken into.",
+   "chapters": [
+    8,
+    32,
+    79
+   ],
+   "defined_in": 8,
+   "pattern": "impregnable"
+  },
+  {
+   "word": "Innumerable",
+   "definition": "Too many to count.",
+   "chapters": [
+    3,
+    8,
+    9,
+    14,
+    26,
+    27,
+    33,
+    38,
+    41,
+    42,
+    45,
+    49,
+    53,
+    54,
+    56,
+    57,
+    59,
+    68,
+    70,
+    76,
+    77
+   ],
+   "defined_in": 8,
+   "pattern": "innumerable"
+  },
+  {
+   "word": "Knight errant",
+   "definition": "A medieval knight who wandered in search of adventure.",
+   "chapters": [
+    8,
+    39
+   ],
+   "defined_in": 8,
+   "pattern": "knight errant"
+  },
+  {
+   "word": "Leviathan",
+   "definition": "A sea monster in the Bible; anything huge.",
+   "chapters": [
+    8,
+    22
+   ],
+   "defined_in": 8,
+   "pattern": "leviathan"
+  },
+  {
+   "word": "Marauding",
+   "definition": "Roaming in search of plunder.",
+   "chapters": [
+    8,
+    49
+   ],
+   "defined_in": 8,
+   "pattern": "marauding"
+  },
+  {
+   "word": "Morsel",
+   "definition": "A small piece, especially of food.",
+   "chapters": [
+    8,
+    79
+   ],
+   "defined_in": 8,
+   "pattern": "morsels?"
+  },
+  {
+   "word": "Ossification",
+   "definition": "Turning to bone; hardening.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "ossification"
+  },
+  {
+   "word": "Porous",
+   "definition": "Full of tiny holes that let water through.",
+   "chapters": [
+    3,
+    8,
+    47,
+    52,
+    53,
+    59,
+    69,
+    81
+   ],
+   "defined_in": 8,
+   "pattern": "porous"
+  },
+  {
+   "word": "Prophylactic",
+   "definition": "Preventing disease.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "prophylactic"
+  },
+  {
+   "word": "Rejuvenation",
+   "definition": "Making young again.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "rejuvenation"
+  },
+  {
+   "word": "Sonorous",
+   "definition": "Deep and full in sound.",
+   "chapters": [
+    8,
+    45,
+    49,
+    51,
+    54,
+    58,
+    59,
+    61,
+    62,
+    82
+   ],
+   "defined_in": 8,
+   "pattern": "sonorous"
+  },
+  {
+   "word": "Substratum",
+   "definition": "An underlying layer or foundation.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "substratum"
+  },
+  {
+   "word": "Sundered",
+   "definition": "Split apart.",
+   "chapters": [
+    8
+   ],
+   "defined_in": 8,
+   "pattern": "sunder(?:ed)?"
+  },
+  {
+   "word": "Tenacious",
+   "definition": "Holding fast.",
+   "chapters": [
+    8,
+    44
+   ],
+   "defined_in": 8,
+   "pattern": "tenacious"
+  },
+  {
+   "word": "Turnstone",
+   "definition": "A shorebird that turns over stones to find food.",
+   "chapters": [
+    8,
+    14,
+    22,
+    40,
+    61
+   ],
+   "defined_in": 8,
+   "pattern": "turnstones?"
+  },
+  {
+   "word": "Wan",
+   "definition": "Pale and sickly.",
+   "chapters": [
+    8,
+    21
+   ],
+   "defined_in": 8,
+   "pattern": "wan"
   }
  ],
  "vocab_chapters": [
@@ -7019,6 +7347,7 @@
   5,
   6,
   7,
+  8,
   43
  ]
 }
