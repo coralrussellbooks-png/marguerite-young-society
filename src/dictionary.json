@@ -8847,6 +8847,358 @@
    ],
    "defined_in": 13,
    "pattern": "whalers?"
+  },
+  {
+   "word": "Acquiescence",
+   "definition": "Quiet acceptance; going along without protest.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "acquiescence"
+  },
+  {
+   "word": "Antinomy",
+   "definition": "A contradiction between two conclusions that both seem true.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "antinom(?:y|ies)"
+  },
+  {
+   "word": "Capacious",
+   "definition": "Roomy; able to hold much.",
+   "chapters": [
+    14,
+    20,
+    25,
+    28,
+    48,
+    55,
+    59,
+    70,
+    73
+   ],
+   "defined_in": 14,
+   "pattern": "capacious(?:ly)?"
+  },
+  {
+   "word": "Clavichord",
+   "definition": "An early keyboard instrument with a soft, delicate sound.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "clavichords?"
+  },
+  {
+   "word": "Codicil",
+   "definition": "An amendment added to a will.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "codicils?"
+  },
+  {
+   "word": "Cortege",
+   "definition": "A funeral procession.",
+   "chapters": [
+    14,
+    70,
+    82
+   ],
+   "defined_in": 14,
+   "pattern": "corteges?"
+  },
+  {
+   "word": "Covert",
+   "definition": "Hidden; secret.",
+   "chapters": [
+    14,
+    49
+   ],
+   "defined_in": 14,
+   "pattern": "covert"
+  },
+  {
+   "word": "Crenelated",
+   "definition": "Having battlements, with gaps along the top of a wall.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "crenell?ated"
+  },
+  {
+   "word": "Cuttlefish",
+   "definition": "A sea creature related to the squid that can change color and squirt ink.",
+   "chapters": [
+    14,
+    23
+   ],
+   "defined_in": 14,
+   "pattern": "cuttlefish"
+  },
+  {
+   "word": "Executor",
+   "definition": "The person named to carry out a will.",
+   "chapters": [
+    14,
+    46
+   ],
+   "defined_in": 14,
+   "pattern": "executors?"
+  },
+  {
+   "word": "Flaccid",
+   "definition": "Soft and limp.",
+   "chapters": [
+    14,
+    36,
+    54
+   ],
+   "defined_in": 14,
+   "pattern": "flaccid"
+  },
+  {
+   "word": "Hermit crab",
+   "definition": "A crab that lives in an empty shell borrowed from another creature.",
+   "chapters": [
+    3,
+    14,
+    39,
+    61
+   ],
+   "defined_in": 14,
+   "pattern": "hermit crabs?"
+  },
+  {
+   "word": "Hubbub",
+   "definition": "A noisy commotion.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "hubbub"
+  },
+  {
+   "word": "Hypothetical",
+   "definition": "Supposed; existing only as an idea.",
+   "chapters": [
+    2,
+    14,
+    39,
+    42,
+    54
+   ],
+   "defined_in": 14,
+   "pattern": "hypothetical"
+  },
+  {
+   "word": "Interstellar",
+   "definition": "Between the stars.",
+   "chapters": [
+    2,
+    14,
+    53
+   ],
+   "defined_in": 14,
+   "pattern": "interstellar"
+  },
+  {
+   "word": "Knave",
+   "definition": "A dishonest man; a rogue. Also the jack in a deck of cards.",
+   "chapters": [
+    14,
+    40
+   ],
+   "defined_in": 14,
+   "pattern": "knaves?"
+  },
+  {
+   "word": "Livery",
+   "definition": "The uniform worn by a servant, such as a coachman.",
+   "chapters": [
+    14,
+    31,
+    54
+   ],
+   "defined_in": 14,
+   "pattern": "livery"
+  },
+  {
+   "word": "Magnate",
+   "definition": "A wealthy, powerful businessman.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "magnates?"
+  },
+  {
+   "word": "Mitre",
+   "definition": "The tall pointed hat of a bishop.",
+   "chapters": [
+    14,
+    28,
+    48,
+    49,
+    54
+   ],
+   "defined_in": 14,
+   "pattern": "mitres?"
+  },
+  {
+   "word": "Palimpsest",
+   "definition": "A parchment scraped and written over, the old writing still faintly visible.",
+   "chapters": [
+    14,
+    47
+   ],
+   "defined_in": 14,
+   "pattern": "palimpsests?"
+  },
+  {
+   "word": "Parimutuel",
+   "definition": "A form of betting in which the winners share the total amount bet.",
+   "chapters": [
+    14,
+    55
+   ],
+   "defined_in": 14,
+   "pattern": "parimutuel"
+  },
+  {
+   "word": "Pettifogger",
+   "definition": "A petty, quibbling, or dishonest lawyer.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "pettifoggers?"
+  },
+  {
+   "word": "Ponderous",
+   "definition": "Heavy; slow and labored.",
+   "chapters": [
+    2,
+    14,
+    27,
+    33,
+    71,
+    72
+   ],
+   "defined_in": 14,
+   "pattern": "ponderous(?:ly)?"
+  },
+  {
+   "word": "Porte-cochere",
+   "definition": "A covered entrance where a carriage stops to let passengers out.",
+   "chapters": [
+    14,
+    24,
+    41,
+    55,
+    70,
+    71
+   ],
+   "defined_in": 14,
+   "pattern": "porte-cocheres?"
+  },
+  {
+   "word": "Postern",
+   "definition": "A back or side gate.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "posterns?"
+  },
+  {
+   "word": "Roué",
+   "definition": "A pleasure-seeking man of loose morals.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "rou[eé]s?"
+  },
+  {
+   "word": "Sepulchral",
+   "definition": "Of the tomb; gloomy and deathly.",
+   "chapters": [
+    14,
+    34,
+    40,
+    41,
+    53,
+    61,
+    72,
+    74,
+    81
+   ],
+   "defined_in": 14,
+   "pattern": "sepulchral"
+  },
+  {
+   "word": "Simulacrum",
+   "definition": "An image or likeness; a mere imitation.",
+   "chapters": [
+    14,
+    21,
+    63
+   ],
+   "defined_in": 14,
+   "pattern": "simulacrum"
+  },
+  {
+   "word": "Stultified",
+   "definition": "Dulled; made foolish or useless.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "stultified"
+  },
+  {
+   "word": "Tatterdemalion",
+   "definition": "A ragged person; tattered.",
+   "chapters": [
+    14,
+    54,
+    82
+   ],
+   "defined_in": 14,
+   "pattern": "tatterdemalions?"
+  },
+  {
+   "word": "Tetrachord",
+   "definition": "A series of four notes, the building block of Greek scales.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "tetrachords?"
+  },
+  {
+   "word": "Turbid",
+   "definition": "Muddy, cloudy; confused.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "turbid"
+  },
+  {
+   "word": "Verbatim",
+   "definition": "Word for word.",
+   "chapters": [
+    14
+   ],
+   "defined_in": 14,
+   "pattern": "verbatim"
   }
  ],
  "vocab_chapters": [
@@ -8863,6 +9215,7 @@
   11,
   12,
   13,
+  14,
   43
  ]
 }
