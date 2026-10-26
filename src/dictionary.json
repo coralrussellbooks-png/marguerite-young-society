@@ -9199,6 +9199,274 @@
    ],
    "defined_in": 14,
    "pattern": "verbatim"
+  },
+  {
+   "word": "Aphorism",
+   "definition": "A short, pointed saying that states a general truth.",
+   "chapters": [
+    15
+   ],
+   "defined_in": 15,
+   "pattern": "aphorisms?"
+  },
+  {
+   "word": "Bayberry",
+   "definition": "A shrub of the Atlantic coast whose waxy berries were boiled to make fragrant candles.",
+   "chapters": [
+    15,
+    22,
+    23,
+    63
+   ],
+   "defined_in": 15,
+   "pattern": "bayberr(?:y|ies)"
+  },
+  {
+   "word": "Bespeak",
+   "definition": "To show or indicate.",
+   "chapters": [
+    15,
+    63
+   ],
+   "defined_in": 15,
+   "pattern": "bespeak"
+  },
+  {
+   "word": "Blear",
+   "definition": "Dim and watery, as eyes are with age or weeping.",
+   "chapters": [
+    15,
+    37,
+    72
+   ],
+   "defined_in": 15,
+   "pattern": "blear"
+  },
+  {
+   "word": "Corpuscular",
+   "definition": "Made of tiny particles.",
+   "chapters": [
+    15
+   ],
+   "defined_in": 15,
+   "pattern": "corpuscular"
+  },
+  {
+   "word": "Crazy quilt",
+   "definition": "A quilt pieced from irregular scraps of fabric.",
+   "chapters": [
+    15
+   ],
+   "defined_in": 15,
+   "pattern": "crazy quilts?"
+  },
+  {
+   "word": "Curlicue",
+   "definition": "A fancy twist or curl.",
+   "chapters": [
+    15
+   ],
+   "defined_in": 15,
+   "pattern": "curlicues?"
+  },
+  {
+   "word": "Equivocation",
+   "definition": "The use of vague or double-edged words to avoid committing oneself.",
+   "chapters": [
+    15,
+    45,
+    54
+   ],
+   "defined_in": 15,
+   "pattern": "equivocation"
+  },
+  {
+   "word": "Hackneyed",
+   "definition": "Worn out by overuse; trite.",
+   "chapters": [
+    15
+   ],
+   "defined_in": 15,
+   "pattern": "hackneyed"
+  },
+  {
+   "word": "Harpoonist",
+   "definition": "One who hurls a harpoon.",
+   "chapters": [
+    15
+   ],
+   "defined_in": 15,
+   "pattern": "harpoonists?"
+  },
+  {
+   "word": "Headland",
+   "definition": "A high point of land jutting into the sea.",
+   "chapters": [
+    2,
+    9,
+    15,
+    29,
+    45
+   ],
+   "defined_in": 15,
+   "pattern": "headlands?"
+  },
+  {
+   "word": "Laconically",
+   "definition": "Using very few words.",
+   "chapters": [
+    15,
+    22
+   ],
+   "defined_in": 15,
+   "pattern": "laconically"
+  },
+  {
+   "word": "Myriad",
+   "definition": "A countless number.",
+   "chapters": [
+    15,
+    17,
+    29,
+    45
+   ],
+   "defined_in": 15,
+   "pattern": "myriads?"
+  },
+  {
+   "word": "Nimbus",
+   "definition": "A halo or glow of light.",
+   "chapters": [
+    15,
+    55,
+    81,
+    82
+   ],
+   "defined_in": 15,
+   "pattern": "nimbus"
+  },
+  {
+   "word": "Paddock",
+   "definition": "A small field where horses are kept.",
+   "chapters": [
+    3,
+    15,
+    16,
+    28
+   ],
+   "defined_in": 15,
+   "pattern": "paddocks?"
+  },
+  {
+   "word": "Postulated",
+   "definition": "Assumed as true, as the basis for an argument.",
+   "chapters": [
+    15,
+    61
+   ],
+   "defined_in": 15,
+   "pattern": "postulat(?:e|ed|es|ing)"
+  },
+  {
+   "word": "Poultice",
+   "definition": "A soft, warm mass spread on cloth and laid on the body as a remedy.",
+   "chapters": [
+    15
+   ],
+   "defined_in": 15,
+   "pattern": "poultices?"
+  },
+  {
+   "word": "Queen Anne’s lace",
+   "definition": "Wild carrot, a weed with flat white flower clusters like lace.",
+   "chapters": [
+    15,
+    61
+   ],
+   "defined_in": 15,
+   "pattern": "queen anne's lace"
+  },
+  {
+   "word": "Sheet anchor",
+   "definition": "A ship’s largest anchor, kept for emergencies; a last hope.",
+   "chapters": [
+    15
+   ],
+   "defined_in": 15,
+   "pattern": "sheet anchors?"
+  },
+  {
+   "word": "Shingle",
+   "definition": "A beach of small, rounded stones.",
+   "chapters": [
+    15,
+    47
+   ],
+   "defined_in": 15,
+   "pattern": "shingles?"
+  },
+  {
+   "word": "Tumultuous",
+   "definition": "Loud, wild, and disorderly.",
+   "chapters": [
+    15,
+    22,
+    29,
+    35,
+    41,
+    52,
+    57,
+    60,
+    62
+   ],
+   "defined_in": 15,
+   "pattern": "tumultuous"
+  },
+  {
+   "word": "Undertow",
+   "definition": "A current beneath the surface that pulls back out to sea.",
+   "chapters": [
+    9,
+    15,
+    18,
+    27,
+    47
+   ],
+   "defined_in": 15,
+   "pattern": "undertows?"
+  },
+  {
+   "word": "Wayward",
+   "definition": "Willful and hard to control.",
+   "chapters": [
+    15
+   ],
+   "defined_in": 15,
+   "pattern": "wayward"
+  },
+  {
+   "word": "Weathervane",
+   "definition": "A turning device on a roof that shows the direction of the wind.",
+   "chapters": [
+    3,
+    15,
+    18,
+    32,
+    36,
+    47,
+    52,
+    53,
+    54,
+    55,
+    56,
+    58,
+    59,
+    61,
+    62,
+    65
+   ],
+   "defined_in": 15,
+   "pattern": "weathervanes?"
   }
  ],
  "vocab_chapters": [
@@ -9216,6 +9484,7 @@
   12,
   13,
   14,
+  15,
   43
  ]
 }
