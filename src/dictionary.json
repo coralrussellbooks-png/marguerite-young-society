@@ -7337,6 +7337,322 @@
    ],
    "defined_in": 8,
    "pattern": "wan"
+  },
+  {
+   "word": "Archipelago",
+   "definition": "A group of islands.",
+   "chapters": [
+    9,
+    61
+   ],
+   "defined_in": 9,
+   "pattern": "archipelagos?"
+  },
+  {
+   "word": "Basting",
+   "definition": "Long, loose temporary stitches.",
+   "chapters": [
+    9,
+    56,
+    70
+   ],
+   "defined_in": 9,
+   "pattern": "basting"
+  },
+  {
+   "word": "Becalmed",
+   "definition": "Of a ship: stopped for lack of wind.",
+   "chapters": [
+    9,
+    12
+   ],
+   "defined_in": 9,
+   "pattern": "becalmed"
+  },
+  {
+   "word": "Cambric",
+   "definition": "A fine, thin white linen or cotton cloth.",
+   "chapters": [
+    9,
+    65
+   ],
+   "defined_in": 9,
+   "pattern": "cambric"
+  },
+  {
+   "word": "Carapace",
+   "definition": "The hard upper shell of a turtle.",
+   "chapters": [
+    9,
+    20,
+    21
+   ],
+   "defined_in": 9,
+   "pattern": "carapace"
+  },
+  {
+   "word": "Chastisement",
+   "definition": "Punishment.",
+   "chapters": [
+    9
+   ],
+   "defined_in": 9,
+   "pattern": "chastisement"
+  },
+  {
+   "word": "Circumspect",
+   "definition": "Careful; wary.",
+   "chapters": [
+    9,
+    25
+   ],
+   "defined_in": 9,
+   "pattern": "circumspect"
+  },
+  {
+   "word": "Conflagration",
+   "definition": "A great, destructive fire.",
+   "chapters": [
+    9
+   ],
+   "defined_in": 9,
+   "pattern": "conflagrations?"
+  },
+  {
+   "word": "Contraband",
+   "definition": "Forbidden; smuggled.",
+   "chapters": [
+    9,
+    20,
+    42,
+    48,
+    52
+   ],
+   "defined_in": 9,
+   "pattern": "contraband"
+  },
+  {
+   "word": "Darning egg",
+   "definition": "An egg-shaped form slipped into a stocking to darn it.",
+   "chapters": [
+    9
+   ],
+   "defined_in": 9,
+   "pattern": "darning egg"
+  },
+  {
+   "word": "Dilatory",
+   "definition": "Slow; given to delay.",
+   "chapters": [
+    9
+   ],
+   "defined_in": 9,
+   "pattern": "dilatory"
+  },
+  {
+   "word": "Drouth",
+   "definition": "Drought.",
+   "chapters": [
+    9,
+    15,
+    22
+   ],
+   "defined_in": 9,
+   "pattern": "drouths?"
+  },
+  {
+   "word": "Ephemera",
+   "definition": "Things that last a very short time; the mayflies.",
+   "chapters": [
+    9,
+    29
+   ],
+   "defined_in": 9,
+   "pattern": "ephemera"
+  },
+  {
+   "word": "Eyrie",
+   "definition": "The nest of an eagle or other bird of prey, built high up.",
+   "chapters": [
+    9
+   ],
+   "defined_in": 9,
+   "pattern": "eyries?"
+  },
+  {
+   "word": "Genealogy",
+   "definition": "A record of a family’s descent.",
+   "chapters": [
+    9,
+    10,
+    15,
+    18,
+    20,
+    22,
+    30,
+    52
+   ],
+   "defined_in": 9,
+   "pattern": "genealog(?:y|ies)"
+  },
+  {
+   "word": "Hobnailed",
+   "definition": "Studded with short nails on the sole.",
+   "chapters": [
+    9,
+    68,
+    79
+   ],
+   "defined_in": 9,
+   "pattern": "hob-?nailed"
+  },
+  {
+   "word": "Hooligan",
+   "definition": "A rough, lawless young man.",
+   "chapters": [
+    9,
+    17
+   ],
+   "defined_in": 9,
+   "pattern": "hooligans?"
+  },
+  {
+   "word": "Hummock",
+   "definition": "A small hill or mound.",
+   "chapters": [
+    9,
+    56,
+    59,
+    61
+   ],
+   "defined_in": 9,
+   "pattern": "hummocks?"
+  },
+  {
+   "word": "Imprecation",
+   "definition": "A spoken curse.",
+   "chapters": [
+    9
+   ],
+   "defined_in": 9,
+   "pattern": "imprecations?"
+  },
+  {
+   "word": "Insolent",
+   "definition": "Rude and disrespectful.",
+   "chapters": [
+    2,
+    9,
+    26,
+    57,
+    74
+   ],
+   "defined_in": 9,
+   "pattern": "insolen(?:t|ce)"
+  },
+  {
+   "word": "Jersey",
+   "definition": "A soft knitted cloth.",
+   "chapters": [
+    9,
+    18,
+    19,
+    55
+   ],
+   "defined_in": 9,
+   "pattern": "jersey"
+  },
+  {
+   "word": "Leghorn",
+   "definition": "A breed of chicken.",
+   "chapters": [
+    9,
+    66
+   ],
+   "defined_in": 9,
+   "pattern": "leghorns?"
+  },
+  {
+   "word": "Marcelled",
+   "definition": "Set in deep, regular waves with heated irons.",
+   "chapters": [
+    2,
+    3,
+    9,
+    22
+   ],
+   "defined_in": 9,
+   "pattern": "marcelled"
+  },
+  {
+   "word": "Preadamite",
+   "definition": "Before Adam.",
+   "chapters": [
+    9
+   ],
+   "defined_in": 9,
+   "pattern": "pre-?adamite"
+  },
+  {
+   "word": "Pseudopsia",
+   "definition": "A false or deluded vision.",
+   "chapters": [
+    9
+   ],
+   "defined_in": 9,
+   "pattern": "pseudopsias?"
+  },
+  {
+   "word": "Pseudosmia",
+   "definition": "A false sense of smell.",
+   "chapters": [
+    9
+   ],
+   "defined_in": 9,
+   "pattern": "pseudosmias?"
+  },
+  {
+   "word": "Quizzically",
+   "definition": "In a puzzled or questioning way.",
+   "chapters": [
+    9,
+    14
+   ],
+   "defined_in": 9,
+   "pattern": "quizzical(?:ly)?"
+  },
+  {
+   "word": "Shorthorn",
+   "definition": "A breed of cattle with short horns.",
+   "chapters": [
+    9
+   ],
+   "defined_in": 9,
+   "pattern": "shorthorns?"
+  },
+  {
+   "word": "Tares",
+   "definition": "Weeds among the grain.",
+   "chapters": [
+    9,
+    65
+   ],
+   "defined_in": 9,
+   "pattern": "tares"
+  },
+  {
+   "word": "Thimble",
+   "definition": "A small cap worn on the finger to push the needle in sewing.",
+   "chapters": [
+    9,
+    12,
+    62,
+    65,
+    78,
+    81
+   ],
+   "defined_in": 9,
+   "pattern": "thimbles?"
   }
  ],
  "vocab_chapters": [
@@ -7348,6 +7664,7 @@
   6,
   7,
   8,
+  9,
   43
  ]
 }
