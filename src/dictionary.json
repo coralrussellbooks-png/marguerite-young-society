@@ -6068,6 +6068,558 @@
    ],
    "defined_in": 5,
    "pattern": "shunt(?:ing|ed|s)?"
+  },
+  {
+   "word": "Affable",
+   "definition": "Friendly and easy to talk to.",
+   "chapters": [
+    6
+   ],
+   "defined_in": 6,
+   "pattern": "affabl[ey]"
+  },
+  {
+   "word": "Aloof",
+   "definition": "Distant; not friendly or involved.",
+   "chapters": [
+    6,
+    33
+   ],
+   "defined_in": 6,
+   "pattern": "aloof"
+  },
+  {
+   "word": "Artifice",
+   "definition": "Clever trickery, or the art of making things seem other than they are.",
+   "chapters": [
+    6,
+    27,
+    31,
+    43,
+    47,
+    49,
+    61,
+    63,
+    66,
+    70
+   ],
+   "defined_in": 6,
+   "pattern": "artifices?"
+  },
+  {
+   "word": "Chivalry",
+   "definition": "The code of the medieval knight; courtesy and protection shown by a man toward a woman.",
+   "chapters": [
+    6,
+    45,
+    47,
+    51
+   ],
+   "defined_in": 6,
+   "pattern": "chivalry|chivalrous"
+  },
+  {
+   "word": "Crabbed",
+   "definition": "Bent and cramped, or bad-tempered.",
+   "chapters": [
+    6
+   ],
+   "defined_in": 6,
+   "pattern": "crabbed"
+  },
+  {
+   "word": "Deflowered",
+   "definition": "Robbed of virginity.",
+   "chapters": [
+    6,
+    18,
+    47,
+    73,
+    74,
+    79
+   ],
+   "defined_in": 6,
+   "pattern": "deflower(?:ed)?"
+  },
+  {
+   "word": "Demented",
+   "definition": "Out of one’s mind.",
+   "chapters": [
+    6,
+    29,
+    37,
+    39,
+    51,
+    54,
+    55,
+    56,
+    59,
+    61,
+    66
+   ],
+   "defined_in": 6,
+   "pattern": "demented"
+  },
+  {
+   "word": "Dirge",
+   "definition": "A slow song of mourning.",
+   "chapters": [
+    6,
+    8,
+    14,
+    22,
+    27,
+    39,
+    42,
+    45,
+    47,
+    49,
+    50,
+    54,
+    55,
+    58,
+    59,
+    61,
+    62
+   ],
+   "defined_in": 6,
+   "pattern": "dirges?(?:-like)?"
+  },
+  {
+   "word": "Disrelation",
+   "definition": "A lack of relation between things.",
+   "chapters": [
+    1,
+    6,
+    12
+   ],
+   "defined_in": 6,
+   "pattern": "disrelations?"
+  },
+  {
+   "word": "Extricate",
+   "definition": "To free from a trap or difficulty.",
+   "chapters": [
+    6,
+    51,
+    59
+   ],
+   "defined_in": 6,
+   "pattern": "extricat(?:e|ed|ing)"
+  },
+  {
+   "word": "Fitful",
+   "definition": "Starting and stopping; irregular.",
+   "chapters": [
+    6,
+    36,
+    38,
+    42,
+    45,
+    49,
+    51,
+    53,
+    70
+   ],
+   "defined_in": 6,
+   "pattern": "fitful(?:ly)?"
+  },
+  {
+   "word": "Glazier",
+   "definition": "One who sets glass in windows.",
+   "chapters": [
+    6,
+    47,
+    59
+   ],
+   "defined_in": 6,
+   "pattern": "glaziers?"
+  },
+  {
+   "word": "Gossamer",
+   "definition": "A fine film of cobweb; anything light and delicate.",
+   "chapters": [
+    6,
+    13,
+    17,
+    28,
+    47,
+    48,
+    49,
+    58,
+    79,
+    80
+   ],
+   "defined_in": 6,
+   "pattern": "gossamer"
+  },
+  {
+   "word": "Grizzled",
+   "definition": "Streaked with grey.",
+   "chapters": [
+    6,
+    29,
+    32,
+    67
+   ],
+   "defined_in": 6,
+   "pattern": "grizzled"
+  },
+  {
+   "word": "Harebell",
+   "definition": "A wildflower with nodding blue bell-shaped flowers.",
+   "chapters": [
+    6,
+    45,
+    63,
+    82
+   ],
+   "defined_in": 6,
+   "pattern": "harebells?"
+  },
+  {
+   "word": "Indeterminate",
+   "definition": "Not clearly fixed or defined.",
+   "chapters": [
+    6,
+    45,
+    49,
+    52
+   ],
+   "defined_in": 6,
+   "pattern": "indeterminate"
+  },
+  {
+   "word": "Intricacy",
+   "definition": "Complexity; many interwoven parts.",
+   "chapters": [
+    6,
+    37
+   ],
+   "defined_in": 6,
+   "pattern": "intricac(?:y|ies)"
+  },
+  {
+   "word": "Irredeemable",
+   "definition": "Beyond saving or repair.",
+   "chapters": [
+    6
+   ],
+   "defined_in": 6,
+   "pattern": "irredeemabl[ey]"
+  },
+  {
+   "word": "Lucid",
+   "definition": "Clear; clear-headed.",
+   "chapters": [
+    2,
+    6,
+    14,
+    19,
+    22,
+    53,
+    81
+   ],
+   "defined_in": 6,
+   "pattern": "lucid(?:ly)?"
+  },
+  {
+   "word": "Palanquin",
+   "definition": "A covered litter carried on poles on the shoulders of bearers.",
+   "chapters": [
+    6
+   ],
+   "defined_in": 6,
+   "pattern": "palanquins?"
+  },
+  {
+   "word": "Palsy",
+   "definition": "Paralysis or uncontrollable trembling.",
+   "chapters": [
+    6,
+    7,
+    48,
+    58
+   ],
+   "defined_in": 6,
+   "pattern": "palsy|palsied"
+  },
+  {
+   "word": "Patent leather",
+   "definition": "Leather with a hard, glossy finish.",
+   "chapters": [
+    1,
+    6,
+    53,
+    81
+   ],
+   "defined_in": 6,
+   "pattern": "patent leather"
+  },
+  {
+   "word": "Petulantly",
+   "definition": "In a sulky, impatient way.",
+   "chapters": [
+    6
+   ],
+   "defined_in": 6,
+   "pattern": "petulant(?:ly)?"
+  },
+  {
+   "word": "Philanderer",
+   "definition": "A man who carries on many love affairs.",
+   "chapters": [
+    6
+   ],
+   "defined_in": 6,
+   "pattern": "philanderers?"
+  },
+  {
+   "word": "Phosphorescent",
+   "definition": "Glowing faintly in the dark.",
+   "chapters": [
+    6,
+    15,
+    16,
+    25,
+    47,
+    63,
+    72
+   ],
+   "defined_in": 6,
+   "pattern": "phosphorescen(?:t|ce)"
+  },
+  {
+   "word": "Pinochle",
+   "definition": "A card game for two to four players, played with a 48-card deck.",
+   "chapters": [
+    6,
+    72
+   ],
+   "defined_in": 6,
+   "pattern": "pinochle"
+  },
+  {
+   "word": "Pirouetting",
+   "definition": "Spinning on one foot, as in ballet.",
+   "chapters": [
+    6,
+    49
+   ],
+   "defined_in": 6,
+   "pattern": "pirouett(?:e|es|ed|ing)"
+  },
+  {
+   "word": "Prescience",
+   "definition": "Knowledge of events before they happen.",
+   "chapters": [
+    6,
+    30,
+    52
+   ],
+   "defined_in": 6,
+   "pattern": "prescien(?:ce|t)"
+  },
+  {
+   "word": "Retrospect",
+   "definition": "A looking back on the past.",
+   "chapters": [
+    3,
+    6,
+    12,
+    25,
+    27,
+    29,
+    36,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    47,
+    50,
+    51,
+    54,
+    62,
+    63,
+    65,
+    73,
+    74
+   ],
+   "defined_in": 6,
+   "pattern": "retrospect"
+  },
+  {
+   "word": "Scalpel",
+   "definition": "A small, sharp surgeon’s knife.",
+   "chapters": [
+    6
+   ],
+   "defined_in": 6,
+   "pattern": "scalpels?"
+  },
+  {
+   "word": "Snood",
+   "definition": "A hairnet or band worn to hold the hair at the back of the head.",
+   "chapters": [
+    6,
+    13,
+    29
+   ],
+   "defined_in": 6,
+   "pattern": "snoods?"
+  },
+  {
+   "word": "Solder",
+   "definition": "Melted metal used to join metal parts; to join them with it.",
+   "chapters": [
+    6,
+    52
+   ],
+   "defined_in": 6,
+   "pattern": "solder(?:ed|ing)?"
+  },
+  {
+   "word": "Spindle",
+   "definition": "A rod on which thread is twisted and wound in spinning.",
+   "chapters": [
+    2,
+    6,
+    28,
+    36,
+    37,
+    39,
+    47,
+    49,
+    50,
+    52,
+    54,
+    56,
+    59,
+    61
+   ],
+   "defined_in": 6,
+   "pattern": "spindles?"
+  },
+  {
+   "word": "Strumpet",
+   "definition": "A prostitute; a woman thought immoral.",
+   "chapters": [
+    6
+   ],
+   "defined_in": 6,
+   "pattern": "strumpets?"
+  },
+  {
+   "word": "Sulky",
+   "definition": "A light two-wheeled cart for one driver, used in harness racing.",
+   "chapters": [
+    6,
+    49,
+    55
+   ],
+   "defined_in": 6,
+   "pattern": "sulky"
+  },
+  {
+   "word": "Teamster",
+   "definition": "A driver of a team of horses; later, a truck driver.",
+   "chapters": [
+    6
+   ],
+   "defined_in": 6,
+   "pattern": "teamsters?"
+  },
+  {
+   "word": "Tracery",
+   "definition": "Delicate lacework of interlacing lines.",
+   "chapters": [
+    6,
+    14,
+    52
+   ],
+   "defined_in": 6,
+   "pattern": "tracery"
+  },
+  {
+   "word": "Trousseau",
+   "definition": "The clothes and linens a bride gathers for her marriage.",
+   "chapters": [
+    6
+   ],
+   "defined_in": 6,
+   "pattern": "trousseaux?"
+  },
+  {
+   "word": "Tuberose",
+   "definition": "A Mexican plant with heavily fragrant white flowers.",
+   "chapters": [
+    6,
+    14,
+    25,
+    29
+   ],
+   "defined_in": 6,
+   "pattern": "tuberoses?"
+  },
+  {
+   "word": "Vaporous",
+   "definition": "Full of mist or vapor.",
+   "chapters": [
+    6,
+    43,
+    47,
+    55,
+    56,
+    59,
+    62
+   ],
+   "defined_in": 6,
+   "pattern": "vaporous"
+  },
+  {
+   "word": "Vicariously",
+   "definition": "Experienced through another person.",
+   "chapters": [
+    6,
+    14,
+    25,
+    33,
+    34,
+    45
+   ],
+   "defined_in": 6,
+   "pattern": "vicarious(?:ly)?"
+  },
+  {
+   "word": "Vivacity",
+   "definition": "Liveliness.",
+   "chapters": [
+    6,
+    28,
+    49
+   ],
+   "defined_in": 6,
+   "pattern": "vivacity"
+  },
+  {
+   "word": "Winding sheet",
+   "definition": "The cloth a corpse is wrapped in for burial.",
+   "chapters": [
+    6,
+    14,
+    29,
+    41,
+    44,
+    45,
+    54,
+    61,
+    64,
+    65
+   ],
+   "defined_in": 6,
+   "pattern": "winding[- ]sheets?"
   }
  ],
  "vocab_chapters": [
@@ -6076,6 +6628,7 @@
   3,
   4,
   5,
+  6,
   43
  ]
 }
