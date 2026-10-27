@@ -2515,7 +2515,7 @@
   },
   {
    "word": "Pretender",
-   "definition": "Someone who claims a throne or title, often without a rightful claim.",
+   "definition": "One who pretends; also, someone who claims a throne or title without a rightful claim.",
    "chapters": [
     1,
     9,
@@ -2576,12 +2576,10 @@
    "definition": "Echoing; deep and full in sound.",
    "chapters": [
     1,
-    18,
-    55,
-    60
+    55
    ],
    "defined_in": 1,
-   "pattern": "resonan(?:t|ce)"
+   "pattern": "resonant"
   },
   {
    "word": "Reticule",
@@ -3423,14 +3421,10 @@
    "definition": "Outwitted or cheated, from the card game euchre.",
    "chapters": [
     2,
-    18,
-    48,
-    53,
-    59,
-    71
+    53
    ],
    "defined_in": 2,
-   "pattern": "euchred?"
+   "pattern": "euchred"
   },
   {
    "word": "Evanescent",
@@ -10377,6 +10371,93 @@
    ],
    "defined_in": 18,
    "pattern": "vestments"
+  },
+  {
+   "word": "Foghorn",
+   "definition": "A deep horn sounded to warn ships in fog.",
+   "chapters": [
+    14,
+    18,
+    25,
+    36,
+    41,
+    47,
+    49,
+    53,
+    54,
+    58,
+    59,
+    60,
+    61,
+    64
+   ],
+   "defined_in": 18,
+   "pattern": "fog-?horns?"
+  },
+  {
+   "word": "Gannet",
+   "definition": "A large white seabird that dives for fish.",
+   "chapters": [
+    18,
+    29,
+    62,
+    63,
+    82
+   ],
+   "defined_in": 18,
+   "pattern": "gannets?"
+  },
+  {
+   "word": "Nautilus",
+   "definition": "A sea creature with a spiral shell. The paper nautilus is a small octopus whose female makes a thin, papery shell.",
+   "chapters": [
+    3,
+    18,
+    42,
+    47,
+    49,
+    50,
+    55,
+    82
+   ],
+   "defined_in": 18,
+   "pattern": "nautilus(?:es)?"
+  },
+  {
+   "word": "Seamy",
+   "definition": "Sordid; the rough, unpleasant side of life.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "seamy"
+  },
+  {
+   "word": "Shipshape",
+   "definition": "Neat and in good order.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "ship-?shape"
+  },
+  {
+   "word": "Sumac",
+   "definition": "A shrub with red autumn leaves and clusters of red berries.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "sumac(?:h|s)?"
+  },
+  {
+   "word": "Tenpins",
+   "definition": "Bowling played with ten pins.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "ten-?pins?"
   }
  ],
  "vocab_chapters": [
