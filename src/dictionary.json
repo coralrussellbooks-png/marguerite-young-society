@@ -10005,6 +10005,378 @@
    ],
    "defined_in": 17,
    "pattern": "zero hour"
+  },
+  {
+   "word": "Antagonist",
+   "definition": "An opponent; one who struggles against another.",
+   "chapters": [
+    18,
+    41
+   ],
+   "defined_in": 18,
+   "pattern": "antagonists?"
+  },
+  {
+   "word": "Awry",
+   "definition": "Askew; turned or twisted to one side.",
+   "chapters": [
+    12,
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "awry"
+  },
+  {
+   "word": "Balderdash",
+   "definition": "Nonsense.",
+   "chapters": [
+    18,
+    22,
+    63
+   ],
+   "defined_in": 18,
+   "pattern": "balderdash"
+  },
+  {
+   "word": "Bloomers",
+   "definition": "Loose trousers gathered at the knee, worn by women.",
+   "chapters": [
+    9,
+    18,
+    19,
+    43
+   ],
+   "defined_in": 18,
+   "pattern": "bloomers"
+  },
+  {
+   "word": "Castanets",
+   "definition": "Pairs of small wooden shells clicked together in the hand, as in Spanish dance.",
+   "chapters": [
+    18,
+    22,
+    59
+   ],
+   "defined_in": 18,
+   "pattern": "castanets"
+  },
+  {
+   "word": "Distraught",
+   "definition": "Deeply upset.",
+   "chapters": [
+    18,
+    36,
+    39,
+    42,
+    55,
+    58,
+    63
+   ],
+   "defined_in": 18,
+   "pattern": "distraught"
+  },
+  {
+   "word": "Dupe",
+   "definition": "A person who is easily fooled.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "dupes?"
+  },
+  {
+   "word": "Eaves",
+   "definition": "The edges of a roof that overhang the walls.",
+   "chapters": [
+    18,
+    48,
+    52,
+    57,
+    61
+   ],
+   "defined_in": 18,
+   "pattern": "eaves"
+  },
+  {
+   "word": "Euchre",
+   "definition": "A card game for four players, for which the joker was first added to the deck.",
+   "chapters": [
+    18,
+    48,
+    59,
+    71
+   ],
+   "defined_in": 18,
+   "pattern": "euchre"
+  },
+  {
+   "word": "Facetious",
+   "definition": "Joking at an inappropriate time.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "facetious"
+  },
+  {
+   "word": "Greaves",
+   "definition": "Armor for the shins.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "greaves"
+  },
+  {
+   "word": "Harrowed",
+   "definition": "Distressed; tormented.",
+   "chapters": [
+    18,
+    61
+   ],
+   "defined_in": 18,
+   "pattern": "harrowed"
+  },
+  {
+   "word": "Interstices",
+   "definition": "Small gaps or spaces between things.",
+   "chapters": [
+    18,
+    49,
+    72
+   ],
+   "defined_in": 18,
+   "pattern": "interstices"
+  },
+  {
+   "word": "Leeward",
+   "definition": "On the side sheltered from the wind.",
+   "chapters": [
+    18,
+    22,
+    30,
+    48,
+    49
+   ],
+   "defined_in": 18,
+   "pattern": "leeward"
+  },
+  {
+   "word": "Loping",
+   "definition": "Moving with long, easy strides.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "loping"
+  },
+  {
+   "word": "Makeshift",
+   "definition": "Serving as a rough, temporary substitute.",
+   "chapters": [
+    18,
+    26,
+    71
+   ],
+   "defined_in": 18,
+   "pattern": "makeshift"
+  },
+  {
+   "word": "Marcel",
+   "definition": "A hairstyle of deep, regular waves made with a heated iron.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "marcel"
+  },
+  {
+   "word": "Monitor",
+   "definition": "One who watches over and warns.",
+   "chapters": [
+    18,
+    68
+   ],
+   "defined_in": 18,
+   "pattern": "monitor"
+  },
+  {
+   "word": "Paltry",
+   "definition": "Small and worthless.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "paltry"
+  },
+  {
+   "word": "Paraphernalia",
+   "definition": "Personal belongings or equipment.",
+   "chapters": [
+    18,
+    22,
+    27
+   ],
+   "defined_in": 18,
+   "pattern": "paraphernalia"
+  },
+  {
+   "word": "Proximity",
+   "definition": "Nearness.",
+   "chapters": [
+    2,
+    3,
+    18,
+    22,
+    55,
+    66
+   ],
+   "defined_in": 18,
+   "pattern": "proximity"
+  },
+  {
+   "word": "Recessive",
+   "definition": "Tending to recede; hidden or held back.",
+   "chapters": [
+    14,
+    18,
+    72,
+    79
+   ],
+   "defined_in": 18,
+   "pattern": "recessive"
+  },
+  {
+   "word": "Resonance",
+   "definition": "Deep, full, echoing sound.",
+   "chapters": [
+    18,
+    60
+   ],
+   "defined_in": 18,
+   "pattern": "resonance"
+  },
+  {
+   "word": "Retrospection",
+   "definition": "A looking back on the past.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "retrospection"
+  },
+  {
+   "word": "Seine",
+   "definition": "To fish with a large hanging net.",
+   "chapters": [
+    18,
+    22,
+    38,
+    42,
+    50,
+    82
+   ],
+   "defined_in": 18,
+   "pattern": "seine"
+  },
+  {
+   "word": "Solstice",
+   "definition": "Either of the two days of the year when the sun is farthest north or south, the longest and shortest days.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "solstice"
+  },
+  {
+   "word": "Sprightly",
+   "definition": "Lively and energetic.",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "sprightly"
+  },
+  {
+   "word": "Swooned",
+   "definition": "Fainted.",
+   "chapters": [
+    18,
+    36,
+    41,
+    42
+   ],
+   "defined_in": 18,
+   "pattern": "swoon(?:ed)?"
+  },
+  {
+   "word": "Tempus fugit",
+   "definition": "Latin for “time flies.”",
+   "chapters": [
+    18
+   ],
+   "defined_in": 18,
+   "pattern": "tempus fugit"
+  },
+  {
+   "word": "Timbre",
+   "definition": "The quality or tone of a voice or sound.",
+   "chapters": [
+    9,
+    18,
+    60
+   ],
+   "defined_in": 18,
+   "pattern": "timbre"
+  },
+  {
+   "word": "Transient",
+   "definition": "Passing quickly; not lasting.",
+   "chapters": [
+    2,
+    14,
+    18,
+    20,
+    38,
+    41,
+    58,
+    63,
+    69
+   ],
+   "defined_in": 18,
+   "pattern": "transient"
+  },
+  {
+   "word": "Tumult",
+   "definition": "A loud, confused uproar.",
+   "chapters": [
+    14,
+    18,
+    22,
+    42,
+    49,
+    52,
+    54,
+    55,
+    60,
+    61,
+    81
+   ],
+   "defined_in": 18,
+   "pattern": "tumult"
+  },
+  {
+   "word": "Vestments",
+   "definition": "Robes or garments, especially ceremonial ones.",
+   "chapters": [
+    3,
+    4,
+    18,
+    28,
+    49
+   ],
+   "defined_in": 18,
+   "pattern": "vestments"
   }
  ],
  "vocab_chapters": [
@@ -10025,6 +10397,7 @@
   15,
   16,
   17,
+  18,
   43
  ]
 }
