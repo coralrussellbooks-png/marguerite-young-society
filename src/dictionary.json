@@ -9467,6 +9467,262 @@
    ],
    "defined_in": 15,
    "pattern": "weathervanes?"
+  },
+  {
+   "word": "Bareback",
+   "definition": "Riding a horse without a saddle.",
+   "chapters": [
+    9,
+    16
+   ],
+   "defined_in": 16,
+   "pattern": "bareback"
+  },
+  {
+   "word": "Cabriole",
+   "definition": "A curved furniture leg shaped like an animal’s leg, from the French for a goat’s leap.",
+   "chapters": [
+    16
+   ],
+   "defined_in": 16,
+   "pattern": "cabriole"
+  },
+  {
+   "word": "Canter",
+   "definition": "A horse’s easy three-beat gait, between a trot and a gallop.",
+   "chapters": [
+    16,
+    48
+   ],
+   "defined_in": 16,
+   "pattern": "canter(?:ed|s|ing)?"
+  },
+  {
+   "word": "Cheval glass",
+   "definition": "A tall mirror swung in a frame so that it can be tilted.",
+   "chapters": [
+    16,
+    72
+   ],
+   "defined_in": 16,
+   "pattern": "cheval glass(?:es)?"
+  },
+  {
+   "word": "Chippendale",
+   "definition": "Furniture in the style of the English cabinetmaker Thomas Chippendale (1718-1779).",
+   "chapters": [
+    16
+   ],
+   "defined_in": 16,
+   "pattern": "chippendale"
+  },
+  {
+   "word": "Cuirass",
+   "definition": "Armor for the chest and back.",
+   "chapters": [
+    16,
+    42
+   ],
+   "defined_in": 16,
+   "pattern": "cuirass(?:es)?"
+  },
+  {
+   "word": "Dank",
+   "definition": "Unpleasantly damp and cold.",
+   "chapters": [
+    16,
+    39
+   ],
+   "defined_in": 16,
+   "pattern": "dank"
+  },
+  {
+   "word": "Doge",
+   "definition": "The elected ruler of Venice.",
+   "chapters": [
+    16,
+    18,
+    54
+   ],
+   "defined_in": 16,
+   "pattern": "doges?"
+  },
+  {
+   "word": "Equine",
+   "definition": "A horse; of horses.",
+   "chapters": [
+    16,
+    36
+   ],
+   "defined_in": 16,
+   "pattern": "equines?"
+  },
+  {
+   "word": "Exultant",
+   "definition": "Triumphantly joyful.",
+   "chapters": [
+    16
+   ],
+   "defined_in": 16,
+   "pattern": "exultant"
+  },
+  {
+   "word": "Gable",
+   "definition": "The triangular upper end of a wall under a pitched roof.",
+   "chapters": [
+    16,
+    54
+   ],
+   "defined_in": 16,
+   "pattern": "gables?"
+  },
+  {
+   "word": "Jaunty",
+   "definition": "Lively and self-confident; set at a rakish angle.",
+   "chapters": [
+    14,
+    16,
+    53,
+    54,
+    58
+   ],
+   "defined_in": 16,
+   "pattern": "jaunty"
+  },
+  {
+   "word": "Marquee",
+   "definition": "A large tent or awning.",
+   "chapters": [
+    16
+   ],
+   "defined_in": 16,
+   "pattern": "marquees?"
+  },
+  {
+   "word": "Mollusk",
+   "definition": "A soft-bodied creature, such as a snail or clam, usually with a shell.",
+   "chapters": [
+    3,
+    16,
+    18,
+    27,
+    36,
+    44,
+    47,
+    48,
+    50,
+    51,
+    55,
+    56,
+    59,
+    61,
+    63,
+    82
+   ],
+   "defined_in": 16,
+   "pattern": "mollusks?"
+  },
+  {
+   "word": "Oracle",
+   "definition": "A message from the gods; a source of prophecy.",
+   "chapters": [
+    16
+   ],
+   "defined_in": 16,
+   "pattern": "oracles?"
+  },
+  {
+   "word": "Parable",
+   "definition": "A short story that teaches a lesson.",
+   "chapters": [
+    14,
+    16,
+    17,
+    34,
+    40
+   ],
+   "defined_in": 16,
+   "pattern": "parables?"
+  },
+  {
+   "word": "Pedigree",
+   "definition": "The recorded line of descent of an animal or person.",
+   "chapters": [
+    16
+   ],
+   "defined_in": 16,
+   "pattern": "pedigree"
+  },
+  {
+   "word": "Phaeton",
+   "definition": "A light, open, four-wheeled carriage; also a name for some seashells.",
+   "chapters": [
+    16,
+    29,
+    35,
+    44,
+    47,
+    48,
+    61,
+    62,
+    82
+   ],
+   "defined_in": 16,
+   "pattern": "phaeton"
+  },
+  {
+   "word": "Portico",
+   "definition": "A porch with a roof supported by columns.",
+   "chapters": [
+    16
+   ],
+   "defined_in": 16,
+   "pattern": "porticos?"
+  },
+  {
+   "word": "Tapestry",
+   "definition": "A heavy cloth woven with pictures, hung on walls.",
+   "chapters": [
+    2,
+    4,
+    9,
+    16,
+    19,
+    29,
+    34,
+    41,
+    42,
+    43,
+    48,
+    49,
+    55,
+    61,
+    64,
+    65
+   ],
+   "defined_in": 16,
+   "pattern": "tapestr(?:y|ies)"
+  },
+  {
+   "word": "Tendon",
+   "definition": "A tough cord that joins muscle to bone.",
+   "chapters": [
+    16,
+    55
+   ],
+   "defined_in": 16,
+   "pattern": "tendons?"
+  },
+  {
+   "word": "Whinny",
+   "definition": "A horse’s gentle neigh.",
+   "chapters": [
+    16,
+    31,
+    56
+   ],
+   "defined_in": 16,
+   "pattern": "whinn(?:y|ied|ies|ying)"
   }
  ],
  "vocab_chapters": [
@@ -9485,6 +9741,7 @@
   13,
   14,
   15,
+  16,
   43
  ]
 }
