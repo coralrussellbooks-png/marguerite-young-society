@@ -10458,6 +10458,330 @@
    ],
    "defined_in": 18,
    "pattern": "ten-?pins?"
+  },
+  {
+   "word": "Acanthus",
+   "definition": "A Mediterranean plant whose deeply cut leaves are carved as ornament, especially on Corinthian columns.",
+   "chapters": [
+    19,
+    22
+   ],
+   "defined_in": 19,
+   "pattern": "acanthus"
+  },
+  {
+   "word": "Alabaster",
+   "definition": "A fine, smooth, white stone used for carving.",
+   "chapters": [
+    19,
+    42,
+    52
+   ],
+   "defined_in": 19,
+   "pattern": "alabaster"
+  },
+  {
+   "word": "Ascetic",
+   "definition": "Severe and self-denying; giving up comfort and pleasure.",
+   "chapters": [
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "ascetics?"
+  },
+  {
+   "word": "Broncho",
+   "definition": "An old spelling of bronco, a wild or half-tamed horse of the American West.",
+   "chapters": [
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "bronchos?"
+  },
+  {
+   "word": "Burnished",
+   "definition": "Polished until shining.",
+   "chapters": [
+    2,
+    14,
+    19,
+    20,
+    22,
+    29,
+    79
+   ],
+   "defined_in": 19,
+   "pattern": "burnish(?:ed|es|ing)?"
+  },
+  {
+   "word": "Deuce",
+   "definition": "A playing card or die with two spots.",
+   "chapters": [
+    14,
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "deuces?"
+  },
+  {
+   "word": "Dominoes",
+   "definition": "A game played with small oblong tiles marked with spots.",
+   "chapters": [
+    1,
+    9,
+    17,
+    19,
+    29,
+    37,
+    41,
+    48,
+    52,
+    53,
+    55,
+    56,
+    77
+   ],
+   "defined_in": 19,
+   "pattern": "domino(?:es|s)?"
+  },
+  {
+   "word": "Fedora",
+   "definition": "A soft felt hat with a brim and a crease along the crown.",
+   "chapters": [
+    3,
+    19,
+    56
+   ],
+   "defined_in": 19,
+   "pattern": "fedoras?"
+  },
+  {
+   "word": "Gnarled",
+   "definition": "Knobbly and twisted, as old trees or hands.",
+   "chapters": [
+    19,
+    21,
+    57,
+    64
+   ],
+   "defined_in": 19,
+   "pattern": "gnarled"
+  },
+  {
+   "word": "Mackintosh",
+   "definition": "A raincoat of rubberized cloth, named for its inventor, Charles Macintosh.",
+   "chapters": [
+    3,
+    9,
+    19,
+    22,
+    63,
+    64,
+    65,
+    66
+   ],
+   "defined_in": 19,
+   "pattern": "mackintosh(?:es)?"
+  },
+  {
+   "word": "Nocturnal",
+   "definition": "Of or happening in the night.",
+   "chapters": [
+    2,
+    6,
+    19,
+    25,
+    29,
+    30,
+    35,
+    37,
+    42,
+    48,
+    49,
+    53,
+    80
+   ],
+   "defined_in": 19,
+   "pattern": "nocturnal"
+  },
+  {
+   "word": "Pedestal",
+   "definition": "The base on which a statue or bust stands.",
+   "chapters": [
+    19,
+    26,
+    41
+   ],
+   "defined_in": 19,
+   "pattern": "pedestals?"
+  },
+  {
+   "word": "Perpendicular",
+   "definition": "Upright; at a right angle to the horizon.",
+   "chapters": [
+    2,
+    19,
+    34,
+    37,
+    39,
+    42
+   ],
+   "defined_in": 19,
+   "pattern": "perpendicular"
+  },
+  {
+   "word": "Plumage",
+   "definition": "A bird’s feathers.",
+   "chapters": [
+    19,
+    29,
+    41,
+    57
+   ],
+   "defined_in": 19,
+   "pattern": "plumages?"
+  },
+  {
+   "word": "Pristine",
+   "definition": "Fresh and pure, as if new.",
+   "chapters": [
+    19,
+    29,
+    47,
+    49
+   ],
+   "defined_in": 19,
+   "pattern": "pristine"
+  },
+  {
+   "word": "Scrutiny",
+   "definition": "Close, searching examination.",
+   "chapters": [
+    3,
+    19,
+    42,
+    52,
+    54,
+    63
+   ],
+   "defined_in": 19,
+   "pattern": "scrutiny"
+  },
+  {
+   "word": "Sealing wax",
+   "definition": "A wax that is melted to seal letters.",
+   "chapters": [
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "sealing wax"
+  },
+  {
+   "word": "Serge",
+   "definition": "A sturdy twilled woolen cloth.",
+   "chapters": [
+    3,
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "serge"
+  },
+  {
+   "word": "Sloth",
+   "definition": "Laziness; one of the seven deadly sins.",
+   "chapters": [
+    18,
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "sloth"
+  },
+  {
+   "word": "Soapstone",
+   "definition": "A soft, smooth stone that feels like soap, carved into dishes and ornaments.",
+   "chapters": [
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "soapstone"
+  },
+  {
+   "word": "Tarpaulin",
+   "definition": "A heavy waterproof cloth for covering things.",
+   "chapters": [
+    19,
+    22,
+    23,
+    54,
+    64
+   ],
+   "defined_in": 19,
+   "pattern": "tarpaulins?"
+  },
+  {
+   "word": "Threadbare",
+   "definition": "Worn so thin the threads show.",
+   "chapters": [
+    19,
+    48,
+    54,
+    56
+   ],
+   "defined_in": 19,
+   "pattern": "threadbare"
+  },
+  {
+   "word": "Ticking",
+   "definition": "A strong striped cotton cloth used to cover pillows and mattresses.",
+   "chapters": [
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "striped ticking"
+  },
+  {
+   "word": "Tiddlywinks",
+   "definition": "A game of flicking small discs into a cup by pressing their edges with a larger disc.",
+   "chapters": [
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "tiddlywinks"
+  },
+  {
+   "word": "Tremulous",
+   "definition": "Trembling; quivering.",
+   "chapters": [
+    14,
+    19,
+    20,
+    26,
+    29,
+    51,
+    55,
+    56,
+    60,
+    75
+   ],
+   "defined_in": 19,
+   "pattern": "tremulous(?:ly)?"
+  },
+  {
+   "word": "Weathercock",
+   "definition": "A weathervane shaped like a rooster; also, a person who changes with every wind.",
+   "chapters": [
+    16,
+    17,
+    18,
+    19,
+    22,
+    28,
+    49,
+    54,
+    63
+   ],
+   "defined_in": 19,
+   "pattern": "weathercocks?"
   }
  ],
  "vocab_chapters": [
@@ -10479,6 +10803,7 @@
   16,
   17,
   18,
+  19,
   43
  ]
 }
