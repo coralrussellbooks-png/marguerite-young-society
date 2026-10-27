@@ -9723,6 +9723,288 @@
    ],
    "defined_in": 16,
    "pattern": "whinn(?:y|ied|ies|ying)"
+  },
+  {
+   "word": "Abyss",
+   "definition": "A bottomless pit or chasm.",
+   "chapters": [
+    14,
+    17,
+    18,
+    25,
+    36,
+    41,
+    42,
+    43,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    58,
+    62,
+    63,
+    65,
+    74,
+    76,
+    81
+   ],
+   "defined_in": 17,
+   "pattern": "abyss"
+  },
+  {
+   "word": "Anesthesia",
+   "definition": "Loss of feeling or sensation, natural or induced.",
+   "chapters": [
+    17,
+    77
+   ],
+   "defined_in": 17,
+   "pattern": "anesthesia"
+  },
+  {
+   "word": "Battledore",
+   "definition": "A small paddle used to hit a shuttlecock; also the game itself.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "battledore"
+  },
+  {
+   "word": "Beseechment",
+   "definition": "Earnest pleading.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "beseechment"
+  },
+  {
+   "word": "Biceps",
+   "definition": "The large muscle at the front of the upper arm.",
+   "chapters": [
+    17,
+    69,
+    73
+   ],
+   "defined_in": 17,
+   "pattern": "biceps"
+  },
+  {
+   "word": "Clinch",
+   "definition": "In boxing, a hold in which the fighters grip each other.",
+   "chapters": [
+    17,
+    53
+   ],
+   "defined_in": 17,
+   "pattern": "clinch"
+  },
+  {
+   "word": "Codfish",
+   "definition": "A large food fish of cold northern seas.",
+   "chapters": [
+    4,
+    17,
+    30,
+    37,
+    82
+   ],
+   "defined_in": 17,
+   "pattern": "codfish"
+  },
+  {
+   "word": "Combatant",
+   "definition": "One who fights.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "combatants?"
+  },
+  {
+   "word": "Corrugated",
+   "definition": "Shaped into ridges and furrows.",
+   "chapters": [
+    2,
+    14,
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "corrugated"
+  },
+  {
+   "word": "Gladiator",
+   "definition": "A fighter in the arenas of ancient Rome.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "gladiators?"
+  },
+  {
+   "word": "Goose pimples",
+   "definition": "Bumps on the skin raised by cold or fear.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "goose pimples"
+  },
+  {
+   "word": "Hoary",
+   "definition": "Gray or white with age.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "hoary"
+  },
+  {
+   "word": "Invulnerable",
+   "definition": "Unable to be wounded or harmed.",
+   "chapters": [
+    3,
+    17,
+    18,
+    20,
+    34,
+    36,
+    67
+   ],
+   "defined_in": 17,
+   "pattern": "invulnerable"
+  },
+  {
+   "word": "Irrevocably",
+   "definition": "In a way that cannot be undone.",
+   "chapters": [
+    17,
+    36,
+    55
+   ],
+   "defined_in": 17,
+   "pattern": "irrevocabl[ey]"
+  },
+  {
+   "word": "Jab",
+   "definition": "A quick, short punch.",
+   "chapters": [
+    17,
+    70
+   ],
+   "defined_in": 17,
+   "pattern": "jabs?"
+  },
+  {
+   "word": "Pinioned",
+   "definition": "Held or bound fast, especially by the arms.",
+   "chapters": [
+    17,
+    18,
+    73,
+    79,
+    82
+   ],
+   "defined_in": 17,
+   "pattern": "pinioned"
+  },
+  {
+   "word": "Rabbit punch",
+   "definition": "An illegal blow to the back of the neck.",
+   "chapters": [
+    17,
+    22
+   ],
+   "defined_in": 17,
+   "pattern": "rabbit punch"
+  },
+  {
+   "word": "Ravishing",
+   "definition": "Enchanting; also, seizing by force.",
+   "chapters": [
+    6,
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "ravishing"
+  },
+  {
+   "word": "Shuttlecock",
+   "definition": "A feathered cork struck back and forth in battledore or badminton.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "shuttlecocks?"
+  },
+  {
+   "word": "Southpaw",
+   "definition": "A left-handed boxer.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "southpaw"
+  },
+  {
+   "word": "Speculative",
+   "definition": "Thoughtful and wondering; based on guesswork.",
+   "chapters": [
+    2,
+    6,
+    17,
+    45,
+    55,
+    70,
+    74
+   ],
+   "defined_in": 17,
+   "pattern": "speculative"
+  },
+  {
+   "word": "Stays",
+   "definition": "Strips of whalebone or steel that stiffen a corset.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "corset stays"
+  },
+  {
+   "word": "Sunday punch",
+   "definition": "A boxer’s hardest, best blow.",
+   "chapters": [
+    17,
+    22
+   ],
+   "defined_in": 17,
+   "pattern": "sunday punch"
+  },
+  {
+   "word": "Vanquish",
+   "definition": "To defeat thoroughly.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "vanquish"
+  },
+  {
+   "word": "Zero hour",
+   "definition": "The hour set for an attack to begin.",
+   "chapters": [
+    17
+   ],
+   "defined_in": 17,
+   "pattern": "zero hour"
   }
  ],
  "vocab_chapters": [
@@ -9742,6 +10024,7 @@
   14,
   15,
   16,
+  17,
   43
  ]
 }
