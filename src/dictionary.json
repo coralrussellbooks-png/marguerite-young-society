@@ -10782,6 +10782,36 @@
    ],
    "defined_in": 19,
    "pattern": "weathercocks?"
+  },
+  {
+   "word": "Coverlid",
+   "definition": "An old form of coverlet, a bedspread.",
+   "chapters": [
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "coverlids?"
+  },
+  {
+   "word": "Storm lamp",
+   "definition": "A lantern shielded against the wind.",
+   "chapters": [
+    1,
+    17,
+    19,
+    47
+   ],
+   "defined_in": 19,
+   "pattern": "storm lamps?"
+  },
+  {
+   "word": "Supporters",
+   "definition": "Garters attached to a corset to hold up stockings.",
+   "chapters": [
+    19
+   ],
+   "defined_in": 19,
+   "pattern": "metallic supporters"
   }
  ],
  "vocab_chapters": [
