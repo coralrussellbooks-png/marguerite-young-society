@@ -11300,6 +11300,233 @@
    ],
    "defined_in": 21,
    "pattern": "vizors?"
+  },
+  {
+   "word": "Aloes",
+   "definition": "A fragrant resin or wood used in perfume.",
+   "chapters": [
+    22
+   ],
+   "defined_in": 22,
+   "pattern": "aloes"
+  },
+  {
+   "word": "Bellwether",
+   "definition": "The lead sheep of a flock, which wears a bell.",
+   "chapters": [
+    22,
+    45,
+    50,
+    58
+   ],
+   "defined_in": 22,
+   "pattern": "bellwethers?"
+  },
+  {
+   "word": "Camisole",
+   "definition": "A woman’s light undergarment for the upper body. The text has “camesoles.”",
+   "chapters": [
+    22
+   ],
+   "defined_in": 22,
+   "pattern": "cam[ei]soles?"
+  },
+  {
+   "word": "Candelabra",
+   "definition": "A branched candlestick.",
+   "chapters": [
+    22,
+    34,
+    55,
+    62
+   ],
+   "defined_in": 22,
+   "pattern": "candelabras?"
+  },
+  {
+   "word": "Cassia",
+   "definition": "A spice bark like cinnamon.",
+   "chapters": [
+    22
+   ],
+   "defined_in": 22,
+   "pattern": "cassia"
+  },
+  {
+   "word": "Celluloid",
+   "definition": "An early plastic.",
+   "chapters": [
+    22,
+    47,
+    68,
+    71
+   ],
+   "defined_in": 22,
+   "pattern": "celluloid"
+  },
+  {
+   "word": "Chattels",
+   "definition": "Movable possessions.",
+   "chapters": [
+    22,
+    51,
+    52
+   ],
+   "defined_in": 22,
+   "pattern": "chattels?"
+  },
+  {
+   "word": "Dory",
+   "definition": "A small flat-bottomed fishing boat.",
+   "chapters": [
+    22
+   ],
+   "defined_in": 22,
+   "pattern": "dor(?:y|ies)"
+  },
+  {
+   "word": "Emissary",
+   "definition": "A messenger or agent.",
+   "chapters": [
+    22,
+    24,
+    41
+   ],
+   "defined_in": 22,
+   "pattern": "emissar(?:y|ies)"
+  },
+  {
+   "word": "Forelock",
+   "definition": "A lock of hair over the forehead.",
+   "chapters": [
+    22,
+    36
+   ],
+   "defined_in": 22,
+   "pattern": "forelock"
+  },
+  {
+   "word": "Gelding",
+   "definition": "A castrated male horse.",
+   "chapters": [
+    22
+   ],
+   "defined_in": 22,
+   "pattern": "geldings?"
+  },
+  {
+   "word": "Inordinately",
+   "definition": "Excessively.",
+   "chapters": [
+    22,
+    31
+   ],
+   "defined_in": 22,
+   "pattern": "inordinate(?:ly)?"
+  },
+  {
+   "word": "Invidious",
+   "definition": "Hateful; likely to cause resentment.",
+   "chapters": [
+    22
+   ],
+   "defined_in": 22,
+   "pattern": "invidious"
+  },
+  {
+   "word": "Larboard",
+   "definition": "The old word for the left side of a ship.",
+   "chapters": [
+    22,
+    42,
+    46,
+    49,
+    50,
+    52,
+    54,
+    61
+   ],
+   "defined_in": 22,
+   "pattern": "larboard"
+  },
+  {
+   "word": "Myrrh",
+   "definition": "A fragrant resin used in incense and embalming.",
+   "chapters": [
+    22,
+    29,
+    66,
+    78
+   ],
+   "defined_in": 22,
+   "pattern": "myrrh"
+  },
+  {
+   "word": "Obsolescence",
+   "definition": "The process of going out of use.",
+   "chapters": [
+    22
+   ],
+   "defined_in": 22,
+   "pattern": "obsolescen(?:ce|t)"
+  },
+  {
+   "word": "Patrimonial",
+   "definition": "Inherited from one’s father.",
+   "chapters": [
+    22,
+    55
+   ],
+   "defined_in": 22,
+   "pattern": "patrimon(?:y|ial)"
+  },
+  {
+   "word": "Percale",
+   "definition": "A fine, closely woven cotton.",
+   "chapters": [
+    22
+   ],
+   "defined_in": 22,
+   "pattern": "percale"
+  },
+  {
+   "word": "Stridently",
+   "definition": "Harshly and loudly.",
+   "chapters": [
+    22,
+    32
+   ],
+   "defined_in": 22,
+   "pattern": "strident(?:ly)?"
+  },
+  {
+   "word": "Supernal",
+   "definition": "Heavenly.",
+   "chapters": [
+    22
+   ],
+   "defined_in": 22,
+   "pattern": "supernal"
+  },
+  {
+   "word": "Widow walk",
+   "definition": "A railed platform on a coastal roof, from which to watch for ships.",
+   "chapters": [
+    22,
+    35,
+    48
+   ],
+   "defined_in": 22,
+   "pattern": "widow walks?"
+  },
+  {
+   "word": "Woolgathering",
+   "definition": "Idle daydreaming.",
+   "chapters": [
+    22
+   ],
+   "defined_in": 22,
+   "pattern": "woolgathering"
   }
  ],
  "vocab_chapters": [
@@ -11324,6 +11551,7 @@
   19,
   20,
   21,
+  22,
   43
  ]
 }
