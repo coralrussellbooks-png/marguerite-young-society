@@ -11527,6 +11527,110 @@
    ],
    "defined_in": 22,
    "pattern": "woolgathering"
+  },
+  {
+   "word": "Epicure",
+   "definition": "One who takes refined pleasure in food and drink.",
+   "chapters": [
+    23
+   ],
+   "defined_in": 23,
+   "pattern": "epicures?"
+  },
+  {
+   "word": "Fluorescent",
+   "definition": "Giving off light through a glowing gas in a tube.",
+   "chapters": [
+    23
+   ],
+   "defined_in": 23,
+   "pattern": "fluorescen(?:t|ce)"
+  },
+  {
+   "word": "Fuliginous",
+   "definition": "Sooty; dusky.",
+   "chapters": [
+    23
+   ],
+   "defined_in": 23,
+   "pattern": "fuliginous"
+  },
+  {
+   "word": "Igloo",
+   "definition": "An Inuit house built of snow blocks.",
+   "chapters": [
+    15,
+    18,
+    23,
+    63,
+    66,
+    70
+   ],
+   "defined_in": 23,
+   "pattern": "igloos?"
+  },
+  {
+   "word": "Lugubrious",
+   "definition": "Mournful; gloomy.",
+   "chapters": [
+    23,
+    63
+   ],
+   "defined_in": 23,
+   "pattern": "lugubrious(?:ly)?"
+  },
+  {
+   "word": "Precipitous",
+   "definition": "Very steep; headlong.",
+   "chapters": [
+    23,
+    25,
+    42
+   ],
+   "defined_in": 23,
+   "pattern": "precipitous(?:ly)?"
+  },
+  {
+   "word": "Snuffers",
+   "definition": "A scissor-like tool for trimming or putting out a candle.",
+   "chapters": [
+    9,
+    23,
+    55
+   ],
+   "defined_in": 23,
+   "pattern": "snuffers"
+  },
+  {
+   "word": "Spruce",
+   "definition": "An evergreen tree of northern forests.",
+   "chapters": [
+    3,
+    14,
+    15,
+    16,
+    23,
+    29,
+    47,
+    48,
+    56,
+    58,
+    59
+   ],
+   "defined_in": 23,
+   "pattern": "spruces?"
+  },
+  {
+   "word": "Transcended",
+   "definition": "Went beyond.",
+   "chapters": [
+    6,
+    23,
+    34,
+    52
+   ],
+   "defined_in": 23,
+   "pattern": "transcend(?:s|ed|ing)?"
   }
  ],
  "vocab_chapters": [
@@ -11552,6 +11656,7 @@
   20,
   21,
   22,
+  23,
   43
  ]
 }
