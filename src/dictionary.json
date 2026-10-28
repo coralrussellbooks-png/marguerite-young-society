@@ -11640,6 +11640,82 @@
    ],
    "defined_in": 23,
    "pattern": "moss-?backs?"
+  },
+  {
+   "word": "Comme il faut",
+   "definition": "French for “as it should be”; proper, correct.",
+   "chapters": [
+    24
+   ],
+   "defined_in": 24,
+   "pattern": "comme il faut"
+  },
+  {
+   "word": "Concatenation",
+   "definition": "A linked series.",
+   "chapters": [
+    24,
+    51
+   ],
+   "defined_in": 24,
+   "pattern": "concatenations?"
+  },
+  {
+   "word": "Cormorant",
+   "definition": "A large black diving seabird.",
+   "chapters": [
+    24
+   ],
+   "defined_in": 24,
+   "pattern": "cormorants?"
+  },
+  {
+   "word": "Euphemistic",
+   "definition": "Using a mild word in place of a harsh one.",
+   "chapters": [
+    24
+   ],
+   "defined_in": 24,
+   "pattern": "euphemistic(?:ally)?"
+  },
+  {
+   "word": "Obsequies",
+   "definition": "Funeral rites.",
+   "chapters": [
+    24,
+    59
+   ],
+   "defined_in": 24,
+   "pattern": "obsequies"
+  },
+  {
+   "word": "Roundhouse",
+   "definition": "A circular building for storing and turning locomotives.",
+   "chapters": [
+    24
+   ],
+   "defined_in": 24,
+   "pattern": "roundhouses?"
+  },
+  {
+   "word": "Taffeta",
+   "definition": "A crisp, shiny silk.",
+   "chapters": [
+    24,
+    54,
+    63
+   ],
+   "defined_in": 24,
+   "pattern": "taffetas?"
+  },
+  {
+   "word": "Trackwalker",
+   "definition": "A railway worker who walks the line to inspect it.",
+   "chapters": [
+    24
+   ],
+   "defined_in": 24,
+   "pattern": "trackwalkers?"
   }
  ],
  "vocab_chapters": [
@@ -11666,6 +11742,7 @@
   21,
   22,
   23,
+  24,
   43
  ]
 }
