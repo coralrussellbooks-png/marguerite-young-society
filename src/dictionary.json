@@ -11059,6 +11059,247 @@
    ],
    "defined_in": 20,
    "pattern": "whimsicalit(?:y|ies)"
+  },
+  {
+   "word": "Baleful",
+   "definition": "Threatening harm; menacing.",
+   "chapters": [
+    21
+   ],
+   "defined_in": 21,
+   "pattern": "baleful"
+  },
+  {
+   "word": "Breeches",
+   "definition": "Short trousers fastened at or below the knee.",
+   "chapters": [
+    12,
+    21,
+    56,
+    61
+   ],
+   "defined_in": 21,
+   "pattern": "breeches"
+  },
+  {
+   "word": "Chandelier",
+   "definition": "A branched hanging light.",
+   "chapters": [
+    2,
+    3,
+    4,
+    12,
+    14,
+    21,
+    22,
+    24,
+    25,
+    27,
+    29,
+    34,
+    36,
+    37,
+    38,
+    39,
+    41,
+    42,
+    43,
+    47,
+    49,
+    51,
+    52,
+    53,
+    62,
+    63,
+    64,
+    70,
+    82
+   ],
+   "defined_in": 21,
+   "pattern": "chandeliers?"
+  },
+  {
+   "word": "Cobalt",
+   "definition": "A deep blue.",
+   "chapters": [
+    6,
+    21,
+    25
+   ],
+   "defined_in": 21,
+   "pattern": "cobalt"
+  },
+  {
+   "word": "Denudement",
+   "definition": "A stripping bare.",
+   "chapters": [
+    21,
+    63
+   ],
+   "defined_in": 21,
+   "pattern": "denudement"
+  },
+  {
+   "word": "Hypocrisies",
+   "definition": "Pretenses of virtue or feeling one does not have.",
+   "chapters": [
+    21,
+    72
+   ],
+   "defined_in": 21,
+   "pattern": "hypocris(?:y|ies)"
+  },
+  {
+   "word": "Immoderate",
+   "definition": "Excessive; beyond reasonable limits.",
+   "chapters": [
+    9,
+    21,
+    70
+   ],
+   "defined_in": 21,
+   "pattern": "immoderate(?:ly)?"
+  },
+  {
+   "word": "Impartial",
+   "definition": "Fair; favoring no side.",
+   "chapters": [
+    21
+   ],
+   "defined_in": 21,
+   "pattern": "impartial(?:ly)?"
+  },
+  {
+   "word": "Impersonations",
+   "definition": "Acts of pretending to be someone else.",
+   "chapters": [
+    21
+   ],
+   "defined_in": 21,
+   "pattern": "impersonations?"
+  },
+  {
+   "word": "Inarticulate",
+   "definition": "Unable to express oneself clearly.",
+   "chapters": [
+    21,
+    43,
+    45,
+    49,
+    51,
+    52,
+    53,
+    54,
+    61,
+    75,
+    82
+   ],
+   "defined_in": 21,
+   "pattern": "inarticulate"
+  },
+  {
+   "word": "Jester",
+   "definition": "A clown kept at a royal court.",
+   "chapters": [
+    3,
+    5,
+    21,
+    25
+   ],
+   "defined_in": 21,
+   "pattern": "jester(?:s|'s)?"
+  },
+  {
+   "word": "Mauve",
+   "definition": "A pale purple.",
+   "chapters": [
+    21,
+    23,
+    41,
+    55,
+    57,
+    63,
+    64,
+    65
+   ],
+   "defined_in": 21,
+   "pattern": "mauve"
+  },
+  {
+   "word": "Mediocrity",
+   "definition": "The state of being ordinary or second-rate.",
+   "chapters": [
+    21,
+    82
+   ],
+   "defined_in": 21,
+   "pattern": "mediocrit(?:y|ies)"
+  },
+  {
+   "word": "Ribald",
+   "definition": "Coarsely humorous.",
+   "chapters": [
+    14,
+    21
+   ],
+   "defined_in": 21,
+   "pattern": "ribald(?:ry)?"
+  },
+  {
+   "word": "Robust",
+   "definition": "Strong and healthy.",
+   "chapters": [
+    3,
+    20,
+    21,
+    68,
+    73
+   ],
+   "defined_in": 21,
+   "pattern": "robust"
+  },
+  {
+   "word": "Rosette",
+   "definition": "A rose-shaped decoration of ribbon or lace.",
+   "chapters": [
+    4,
+    21,
+    52,
+    70
+   ],
+   "defined_in": 21,
+   "pattern": "rosettes?"
+  },
+  {
+   "word": "Transfixed",
+   "definition": "Pierced through; held motionless.",
+   "chapters": [
+    21,
+    49
+   ],
+   "defined_in": 21,
+   "pattern": "transfixed"
+  },
+  {
+   "word": "Turtleneck",
+   "definition": "A high, close, turned-over collar on a sweater.",
+   "chapters": [
+    21,
+    63
+   ],
+   "defined_in": 21,
+   "pattern": "turtle-?neck"
+  },
+  {
+   "word": "Vizor",
+   "definition": "An old spelling of visor, the movable front of a helmet.",
+   "chapters": [
+    21,
+    40,
+    63
+   ],
+   "defined_in": 21,
+   "pattern": "vizors?"
   }
  ],
  "vocab_chapters": [
@@ -11082,6 +11323,7 @@
   18,
   19,
   20,
+  21,
   43
  ]
 }
