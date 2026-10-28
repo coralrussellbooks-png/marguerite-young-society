@@ -1587,7 +1587,7 @@
   },
   {
    "word": "Rubicon",
-   "definition": "A small river in northern Italy. Julius Caesar crossed it with his army in 49 B.C., starting a civil war, so “crossing the Rubicon” means passing a point of no return. See <a href=\"#crossing-the-rubicon-ch-23\">Crossing the Rubicon (Ch 23)</a>.",
+   "definition": "A small river in northern Italy. Julius Caesar crossed it with his army in 49 BC, starting a civil war, so “crossing the Rubicon” means passing a point of no return. See <a href=\"#crossing-the-rubicon-ch-23\">Crossing the Rubicon (Ch 23)</a>.",
    "chapters": [
     23,
     43
@@ -11631,6 +11631,15 @@
    ],
    "defined_in": 23,
    "pattern": "transcend(?:s|ed|ing)?"
+  },
+  {
+   "word": "Mossback",
+   "definition": "An old-fashioned person; literally, an old turtle with moss on its back.",
+   "chapters": [
+    23
+   ],
+   "defined_in": 23,
+   "pattern": "moss-?backs?"
   }
  ],
  "vocab_chapters": [
