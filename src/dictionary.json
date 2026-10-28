@@ -10812,6 +10812,253 @@
    ],
    "defined_in": 19,
    "pattern": "metallic supporters"
+  },
+  {
+   "word": "Alacrity",
+   "definition": "Cheerful eagerness.",
+   "chapters": [
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "alacrity"
+  },
+  {
+   "word": "Antediluvian",
+   "definition": "Before the Flood; very old.",
+   "chapters": [
+    20,
+    22
+   ],
+   "defined_in": 20,
+   "pattern": "antediluvian"
+  },
+  {
+   "word": "Aureole",
+   "definition": "A ring or field of radiant light around a sacred figure.",
+   "chapters": [
+    20,
+    81
+   ],
+   "defined_in": 20,
+   "pattern": "aureoles?"
+  },
+  {
+   "word": "Bemused",
+   "definition": "Puzzled and lost in thought.",
+   "chapters": [
+    11,
+    20,
+    25,
+    53,
+    62,
+    65,
+    70,
+    71,
+    77,
+    79
+   ],
+   "defined_in": 20,
+   "pattern": "bemused(?:ly)?"
+  },
+  {
+   "word": "Celestial",
+   "definition": "Heavenly; of the sky.",
+   "chapters": [
+    1,
+    2,
+    3,
+    6,
+    14,
+    20,
+    24,
+    32,
+    33,
+    35,
+    37,
+    41,
+    42,
+    43,
+    47,
+    49,
+    51,
+    54,
+    55,
+    58,
+    59,
+    62,
+    63,
+    82
+   ],
+   "defined_in": 20,
+   "pattern": "celestial"
+  },
+  {
+   "word": "Culmination",
+   "definition": "The highest point; the final result.",
+   "chapters": [
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "culminations?"
+  },
+  {
+   "word": "Deprivation",
+   "definition": "The lack or loss of something needed.",
+   "chapters": [
+    1,
+    2,
+    3,
+    4,
+    20,
+    27,
+    42,
+    63,
+    66,
+    70,
+    71
+   ],
+   "defined_in": 20,
+   "pattern": "deprivations?"
+  },
+  {
+   "word": "Drachma",
+   "definition": "A silver coin of ancient Greece.",
+   "chapters": [
+    20,
+    54,
+    60,
+    62
+   ],
+   "defined_in": 20,
+   "pattern": "drachmas?"
+  },
+  {
+   "word": "Extraneous",
+   "definition": "Coming from outside; not essential.",
+   "chapters": [
+    2,
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "extraneous"
+  },
+  {
+   "word": "Fathom",
+   "definition": "A measure of six feet, used for the depth of water.",
+   "chapters": [
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "fathoms?"
+  },
+  {
+   "word": "Fuller",
+   "definition": "One who cleans and thickens cloth.",
+   "chapters": [
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "fuller's soap"
+  },
+  {
+   "word": "Immemorial",
+   "definition": "Older than memory.",
+   "chapters": [
+    2,
+    20,
+    35
+   ],
+   "defined_in": 20,
+   "pattern": "immemorial"
+  },
+  {
+   "word": "Necessitous",
+   "definition": "Needy; forced by necessity.",
+   "chapters": [
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "necessitous"
+  },
+  {
+   "word": "Parti-colored",
+   "definition": "Made of patches of different colors.",
+   "chapters": [
+    3,
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "parti-colou?red"
+  },
+  {
+   "word": "Proclivities",
+   "definition": "Natural leanings or tendencies.",
+   "chapters": [
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "proclivit(?:y|ies)"
+  },
+  {
+   "word": "Regnant",
+   "definition": "Reigning; ruling.",
+   "chapters": [
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "regnant"
+  },
+  {
+   "word": "Renunciation",
+   "definition": "The act of giving something up.",
+   "chapters": [
+    20,
+    38,
+    46,
+    63
+   ],
+   "defined_in": 20,
+   "pattern": "renunciations?"
+  },
+  {
+   "word": "Sackcloth",
+   "definition": "A coarse cloth worn in mourning or penance.",
+   "chapters": [
+    20,
+    77
+   ],
+   "defined_in": 20,
+   "pattern": "sackcloth"
+  },
+  {
+   "word": "Surmise",
+   "definition": "A guess, without proof.",
+   "chapters": [
+    2,
+    20,
+    54,
+    58
+   ],
+   "defined_in": 20,
+   "pattern": "surmise[sd]?"
+  },
+  {
+   "word": "Wady",
+   "definition": "An old spelling of wadi, a desert valley that fills with water only after rain.",
+   "chapters": [
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "wady"
+  },
+  {
+   "word": "Whimsicalities",
+   "definition": "Odd, playful fancies.",
+   "chapters": [
+    20
+   ],
+   "defined_in": 20,
+   "pattern": "whimsicalit(?:y|ies)"
   }
  ],
  "vocab_chapters": [
@@ -10834,6 +11081,7 @@
   17,
   18,
   19,
+  20,
   43
  ]
 }
