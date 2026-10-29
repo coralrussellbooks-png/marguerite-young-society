@@ -12597,6 +12597,350 @@
    ],
    "defined_in": 28,
    "pattern": "wastrels?"
+  },
+  {
+   "word": "Ambient",
+   "definition": "Surrounding.",
+   "chapters": [
+    29,
+    30,
+    32,
+    39,
+    50
+   ],
+   "defined_in": 29,
+   "pattern": "ambient"
+  },
+  {
+   "word": "Amalgamation",
+   "definition": "A blending into one.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "amalgamations?"
+  },
+  {
+   "word": "Aperture",
+   "definition": "An opening.",
+   "chapters": [
+    29,
+    47,
+    49,
+    52,
+    54,
+    61
+   ],
+   "defined_in": 29,
+   "pattern": "apertures?"
+  },
+  {
+   "word": "Apocryphal",
+   "definition": "Of doubtful truth.",
+   "chapters": [
+    29,
+    42,
+    50
+   ],
+   "defined_in": 29,
+   "pattern": "apocryphal"
+  },
+  {
+   "word": "Attar",
+   "definition": "A fragrant oil of roses.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "attar"
+  },
+  {
+   "word": "Banshee",
+   "definition": "In Irish folklore, a spirit whose wail foretells a death.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "banshees?"
+  },
+  {
+   "word": "Bindlestiff",
+   "definition": "A hobo who carries his belongings in a bundle.",
+   "chapters": [
+    29,
+    48,
+    61
+   ],
+   "defined_in": 29,
+   "pattern": "bindlestiffs?"
+  },
+  {
+   "word": "Coalescence",
+   "definition": "A growing together.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "coalescences?"
+  },
+  {
+   "word": "Diaphanous",
+   "definition": "Delicate and translucent.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "diaphanous"
+  },
+  {
+   "word": "Diminuendo",
+   "definition": "A gradual softening in music.",
+   "chapters": [
+    29,
+    54
+   ],
+   "defined_in": 29,
+   "pattern": "diminuendos?"
+  },
+  {
+   "word": "Empyreal",
+   "definition": "Of the highest heaven.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "empyreal"
+  },
+  {
+   "word": "Epitome",
+   "definition": "A perfect example; a summary.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "epitome"
+  },
+  {
+   "word": "Extant",
+   "definition": "Still existing.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "extant"
+  },
+  {
+   "word": "Extempore",
+   "definition": "Spoken or done without preparation.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "extempore"
+  },
+  {
+   "word": "Harpy",
+   "definition": "In Greek myth, a monster with a woman’s face and a bird’s body.",
+   "chapters": [
+    29,
+    34
+   ],
+   "defined_in": 29,
+   "pattern": "harp(?:y|ies)"
+  },
+  {
+   "word": "Incongruent",
+   "definition": "Not in agreement.",
+   "chapters": [
+    14,
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "incongruent"
+  },
+  {
+   "word": "Inviolable",
+   "definition": "Never to be broken or harmed.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "inviolable"
+  },
+  {
+   "word": "Lambent",
+   "definition": "Softly glowing or flickering.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "lambent"
+  },
+  {
+   "word": "Mountebank",
+   "definition": "A swindling showman.",
+   "chapters": [
+    29,
+    37,
+    46
+   ],
+   "defined_in": 29,
+   "pattern": "mountebanks?"
+  },
+  {
+   "word": "Mutable",
+   "definition": "Changeable.",
+   "chapters": [
+    29,
+    57
+   ],
+   "defined_in": 29,
+   "pattern": "mutable"
+  },
+  {
+   "word": "Nadir",
+   "definition": "The lowest point.",
+   "chapters": [
+    29,
+    47,
+    49,
+    50
+   ],
+   "defined_in": 29,
+   "pattern": "nadir"
+  },
+  {
+   "word": "Oscillate",
+   "definition": "To swing back and forth.",
+   "chapters": [
+    29,
+    35
+   ],
+   "defined_in": 29,
+   "pattern": "oscillat(?:e|es|ed|ing)"
+  },
+  {
+   "word": "Pander",
+   "definition": "A go-between in love affairs.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "panders?"
+  },
+  {
+   "word": "Protracted",
+   "definition": "Drawn out.",
+   "chapters": [
+    12,
+    14,
+    29,
+    34,
+    41,
+    47,
+    70,
+    71
+   ],
+   "defined_in": 29,
+   "pattern": "protracted"
+  },
+  {
+   "word": "Quixotic",
+   "definition": "Idealistic and impractical, like Don Quixote.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "quixotic"
+  },
+  {
+   "word": "Reciprocation",
+   "definition": "A return in kind.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "reciprocation"
+  },
+  {
+   "word": "Revivification",
+   "definition": "A bringing back to life.",
+   "chapters": [
+    29,
+    38
+   ],
+   "defined_in": 29,
+   "pattern": "revivification"
+  },
+  {
+   "word": "Scintillation",
+   "definition": "A spark or flash.",
+   "chapters": [
+    14,
+    29,
+    51,
+    52
+   ],
+   "defined_in": 29,
+   "pattern": "scintillations?"
+  },
+  {
+   "word": "Similitude",
+   "definition": "A likeness.",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "similitude"
+  },
+  {
+   "word": "Spectre",
+   "definition": "A ghost.",
+   "chapters": [
+    22,
+    29,
+    35,
+    38,
+    45,
+    49,
+    51,
+    52
+   ],
+   "defined_in": 29,
+   "pattern": "spectres?|specters?"
+  },
+  {
+   "word": "Tincture",
+   "definition": "To tinge.",
+   "chapters": [
+    29,
+    64
+   ],
+   "defined_in": 29,
+   "pattern": "tinctur(?:e|es|ed)"
+  },
+  {
+   "word": "Unctuous",
+   "definition": "Oily and soothing. Young spells it “unctious.”",
+   "chapters": [
+    29
+   ],
+   "defined_in": 29,
+   "pattern": "unctuous|unctious"
+  },
+  {
+   "word": "Volatile",
+   "definition": "Changeable; quick to evaporate.",
+   "chapters": [
+    14,
+    29,
+    37,
+    39,
+    40,
+    53
+   ],
+   "defined_in": 29,
+   "pattern": "volatile"
   }
  ],
  "vocab_chapters": [
@@ -12628,6 +12972,7 @@
   26,
   27,
   28,
+  29,
   43
  ]
 }
