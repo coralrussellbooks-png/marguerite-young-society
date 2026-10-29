@@ -11716,6 +11716,185 @@
    ],
    "defined_in": 24,
    "pattern": "trackwalkers?"
+  },
+  {
+   "word": "Acrid",
+   "definition": "Sharp and bitter to taste or smell.",
+   "chapters": [
+    25,
+    36,
+    68
+   ],
+   "defined_in": 25,
+   "pattern": "acrid"
+  },
+  {
+   "word": "Bracken",
+   "definition": "A large coarse fern.",
+   "chapters": [
+    25,
+    64
+   ],
+   "defined_in": 25,
+   "pattern": "bracken"
+  },
+  {
+   "word": "Bulwark",
+   "definition": "A defensive wall; a protection.",
+   "chapters": [
+    14,
+    25
+   ],
+   "defined_in": 25,
+   "pattern": "bulwarks?"
+  },
+  {
+   "word": "Concave",
+   "definition": "Curved inward.",
+   "chapters": [
+    25,
+    54
+   ],
+   "defined_in": 25,
+   "pattern": "concave"
+  },
+  {
+   "word": "Convex",
+   "definition": "Curved outward.",
+   "chapters": [
+    25,
+    40,
+    54
+   ],
+   "defined_in": 25,
+   "pattern": "convex"
+  },
+  {
+   "word": "Elegy",
+   "definition": "A poem or song of mourning.",
+   "chapters": [
+    25,
+    31,
+    42,
+    46,
+    47,
+    51,
+    53,
+    54,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    64,
+    82
+   ],
+   "defined_in": 25,
+   "pattern": "elegy|elegies"
+  },
+  {
+   "word": "Fecundity",
+   "definition": "Fertility; the power to produce abundantly.",
+   "chapters": [
+    25
+   ],
+   "defined_in": 25,
+   "pattern": "fecundity"
+  },
+  {
+   "word": "Fortuitous",
+   "definition": "Happening by chance.",
+   "chapters": [
+    25
+   ],
+   "defined_in": 25,
+   "pattern": "fortuitous(?:ly)?"
+  },
+  {
+   "word": "Heterogeneous",
+   "definition": "Made of unlike parts; mixed.",
+   "chapters": [
+    25,
+    28,
+    29,
+    45,
+    54
+   ],
+   "defined_in": 25,
+   "pattern": "heterogeneous"
+  },
+  {
+   "word": "Inane",
+   "definition": "Silly; empty of meaning.",
+   "chapters": [
+    25,
+    29
+   ],
+   "defined_in": 25,
+   "pattern": "inane"
+  },
+  {
+   "word": "Insensate",
+   "definition": "Without feeling or sense.",
+   "chapters": [
+    25
+   ],
+   "defined_in": 25,
+   "pattern": "insensate"
+  },
+  {
+   "word": "Lethean",
+   "definition": "Of Lethe, the river of forgetfulness; causing oblivion.",
+   "chapters": [
+    25
+   ],
+   "defined_in": 25,
+   "pattern": "lethean"
+  },
+  {
+   "word": "Madcap",
+   "definition": "A reckless, impulsive person.",
+   "chapters": [
+    25
+   ],
+   "defined_in": 25,
+   "pattern": "madcaps?"
+  },
+  {
+   "word": "Nullification",
+   "definition": "The act of making something void.",
+   "chapters": [
+    25
+   ],
+   "defined_in": 25,
+   "pattern": "nullification"
+  },
+  {
+   "word": "Obtuse",
+   "definition": "Slow to understand.",
+   "chapters": [
+    25,
+    28,
+    35,
+    36,
+    38,
+    49,
+    51,
+    53,
+    54
+   ],
+   "defined_in": 25,
+   "pattern": "obtuse"
+  },
+  {
+   "word": "Tacitly",
+   "definition": "Silently; without being said.",
+   "chapters": [
+    25
+   ],
+   "defined_in": 25,
+   "pattern": "tacit(?:ly)?"
   }
  ],
  "vocab_chapters": [
@@ -11743,6 +11922,7 @@
   22,
   23,
   24,
+  25,
   43
  ]
 }
