@@ -11895,6 +11895,261 @@
    ],
    "defined_in": 25,
    "pattern": "tacit(?:ly)?"
+  },
+  {
+   "word": "Allay",
+   "definition": "To ease or quiet.",
+   "chapters": [
+    26,
+    39
+   ],
+   "defined_in": 26,
+   "pattern": "allay(?:s|ed|ing)?"
+  },
+  {
+   "word": "Conscientious",
+   "definition": "Careful to do what is right; thorough.",
+   "chapters": [
+    3,
+    20,
+    25,
+    26,
+    47,
+    54,
+    55,
+    59
+   ],
+   "defined_in": 26,
+   "pattern": "conscientious(?:ly)?"
+  },
+  {
+   "word": "Disdain",
+   "definition": "Scorn; contempt.",
+   "chapters": [
+    3,
+    9,
+    26,
+    53,
+    64
+   ],
+   "defined_in": 26,
+   "pattern": "disdain(?:s|ed|ful)?"
+  },
+  {
+   "word": "Dour",
+   "definition": "Stern and gloomy.",
+   "chapters": [
+    26,
+    54,
+    65
+   ],
+   "defined_in": 26,
+   "pattern": "dour"
+  },
+  {
+   "word": "Enigmatic",
+   "definition": "Mysterious; puzzling.",
+   "chapters": [
+    26,
+    43,
+    44,
+    53,
+    54,
+    58,
+    63
+   ],
+   "defined_in": 26,
+   "pattern": "enigmatic(?:al(?:ly)?)?"
+  },
+  {
+   "word": "Grudgingly",
+   "definition": "Unwillingly.",
+   "chapters": [
+    2,
+    6,
+    14,
+    26,
+    54,
+    70
+   ],
+   "defined_in": 26,
+   "pattern": "grudging(?:ly)?"
+  },
+  {
+   "word": "Incorruptible",
+   "definition": "Not subject to decay or to bribery.",
+   "chapters": [
+    2,
+    22,
+    26,
+    35,
+    49,
+    54,
+    63
+   ],
+   "defined_in": 26,
+   "pattern": "incorruptible"
+  },
+  {
+   "word": "Irremediable",
+   "definition": "Impossible to cure or put right.",
+   "chapters": [
+    26
+   ],
+   "defined_in": 26,
+   "pattern": "irremediable"
+  },
+  {
+   "word": "Issue",
+   "definition": "In law, a person’s children or descendants.",
+   "chapters": [
+    26
+   ],
+   "defined_in": 26,
+   "pattern": "heirs or issue"
+  },
+  {
+   "word": "Morgue",
+   "definition": "A place where the bodies of the dead are kept for identification.",
+   "chapters": [
+    25,
+    26,
+    27,
+    29,
+    54
+   ],
+   "defined_in": 26,
+   "pattern": "morgues?"
+  },
+  {
+   "word": "Mummified",
+   "definition": "Preserved by embalming and drying, as in ancient Egypt.",
+   "chapters": [
+    2,
+    26,
+    42
+   ],
+   "defined_in": 26,
+   "pattern": "mummif(?:y|ied)"
+  },
+  {
+   "word": "Narcotize",
+   "definition": "To dull with a drug.",
+   "chapters": [
+    26
+   ],
+   "defined_in": 26,
+   "pattern": "narcoti[sz](?:e|es|ed|ing)"
+  },
+  {
+   "word": "Perpetuity",
+   "definition": "Endless time; in law, an interest meant to last forever.",
+   "chapters": [
+    26
+   ],
+   "defined_in": 26,
+   "pattern": "perpetuity|perpetuities"
+  },
+  {
+   "word": "Pigeon-hole",
+   "definition": "A small open compartment in a desk for papers.",
+   "chapters": [
+    26,
+    44,
+    52,
+    57
+   ],
+   "defined_in": 26,
+   "pattern": "pigeon-holes?"
+  },
+  {
+   "word": "Proffered",
+   "definition": "Held out; offered.",
+   "chapters": [
+    2,
+    26,
+    54,
+    55,
+    59
+   ],
+   "defined_in": 26,
+   "pattern": "proffer(?:s|ed|ing)?"
+  },
+  {
+   "word": "Recluse",
+   "definition": "A person who lives shut away from others.",
+   "chapters": [
+    26,
+    39
+   ],
+   "defined_in": 26,
+   "pattern": "recluses?"
+  },
+  {
+   "word": "Restive",
+   "definition": "Restless; resisting control.",
+   "chapters": [
+    26
+   ],
+   "defined_in": 26,
+   "pattern": "restive"
+  },
+  {
+   "word": "Scrupulous",
+   "definition": "Very careful to do what is right.",
+   "chapters": [
+    14,
+    26,
+    52,
+    57,
+    65,
+    79
+   ],
+   "defined_in": 26,
+   "pattern": "scrupulous(?:ly)?"
+  },
+  {
+   "word": "Secretary",
+   "definition": "A writing desk with drawers and pigeon-holes; also a person who handles another’s letters.",
+   "chapters": [
+    24,
+    26,
+    54
+   ],
+   "defined_in": 26,
+   "pattern": "secretar(?:y|ies)"
+  },
+  {
+   "word": "Sibyl",
+   "definition": "A prophetess of the ancient world.",
+   "chapters": [
+    26,
+    29
+   ],
+   "defined_in": 26,
+   "pattern": "sibyls?"
+  },
+  {
+   "word": "Sombre",
+   "definition": "Dark and grave.",
+   "chapters": [
+    14,
+    26,
+    29,
+    36,
+    76
+   ],
+   "defined_in": 26,
+   "pattern": "sombre|somber"
+  },
+  {
+   "word": "Unilateral",
+   "definition": "One-sided.",
+   "chapters": [
+    26
+   ],
+   "defined_in": 26,
+   "pattern": "unilateral"
   }
  ],
  "vocab_chapters": [
@@ -11923,6 +12178,7 @@
   23,
   24,
   25,
+  26,
   43
  ]
 }
