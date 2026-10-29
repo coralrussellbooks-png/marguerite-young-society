@@ -12150,6 +12150,234 @@
    ],
    "defined_in": 26,
    "pattern": "unilateral"
+  },
+  {
+   "word": "Aggregate",
+   "definition": "A whole formed by combining parts.",
+   "chapters": [
+    27
+   ],
+   "defined_in": 27,
+   "pattern": "aggregates?"
+  },
+  {
+   "word": "Avoirdupois",
+   "definition": "The system of weights based on a pound of 16 ounces; humorously, body weight.",
+   "chapters": [
+    27
+   ],
+   "defined_in": 27,
+   "pattern": "avoirdupois"
+  },
+  {
+   "word": "Blatant",
+   "definition": "Loud and showy; obvious.",
+   "chapters": [
+    27,
+    53
+   ],
+   "defined_in": 27,
+   "pattern": "blatant(?:ly)?"
+  },
+  {
+   "word": "Bravado",
+   "definition": "A show of boldness.",
+   "chapters": [
+    14,
+    27,
+    54
+   ],
+   "defined_in": 27,
+   "pattern": "bravado"
+  },
+  {
+   "word": "Chancel",
+   "definition": "The part of a church near the altar, for clergy and choir.",
+   "chapters": [
+    27
+   ],
+   "defined_in": 27,
+   "pattern": "chancels?"
+  },
+  {
+   "word": "Consummate",
+   "definition": "Complete; perfect in its kind.",
+   "chapters": [
+    27
+   ],
+   "defined_in": 27,
+   "pattern": "consummate"
+  },
+  {
+   "word": "Cranium",
+   "definition": "The skull.",
+   "chapters": [
+    27,
+    73
+   ],
+   "defined_in": 27,
+   "pattern": "cranium"
+  },
+  {
+   "word": "Derision",
+   "definition": "Mockery; scorn.",
+   "chapters": [
+    27
+   ],
+   "defined_in": 27,
+   "pattern": "derision"
+  },
+  {
+   "word": "Devious",
+   "definition": "Winding; straying from the direct way.",
+   "chapters": [
+    27,
+    29,
+    35,
+    52,
+    54
+   ],
+   "defined_in": 27,
+   "pattern": "devious"
+  },
+  {
+   "word": "Distilled",
+   "definition": "Purified or concentrated, as by boiling and condensing.",
+   "chapters": [
+    27,
+    35,
+    39,
+    49
+   ],
+   "defined_in": 27,
+   "pattern": "distill(?:s|ed|ing)?"
+  },
+  {
+   "word": "Elephantine",
+   "definition": "Huge and heavy.",
+   "chapters": [
+    27,
+    34
+   ],
+   "defined_in": 27,
+   "pattern": "elephantine"
+  },
+  {
+   "word": "Epithalamium",
+   "definition": "A song or poem celebrating a marriage.",
+   "chapters": [
+    27,
+    42,
+    45
+   ],
+   "defined_in": 27,
+   "pattern": "epithalami(?:um|ums|a|on)"
+  },
+  {
+   "word": "Immunized",
+   "definition": "Made safe against something.",
+   "chapters": [
+    27
+   ],
+   "defined_in": 27,
+   "pattern": "immuni[sz]ed"
+  },
+  {
+   "word": "Impassive",
+   "definition": "Showing no emotion.",
+   "chapters": [
+    27
+   ],
+   "defined_in": 27,
+   "pattern": "impassive(?:ly)?"
+  },
+  {
+   "word": "Incalculable",
+   "definition": "Too great to be counted.",
+   "chapters": [
+    3,
+    22,
+    25,
+    27,
+    28,
+    37,
+    42,
+    43,
+    44,
+    46,
+    47,
+    51,
+    55,
+    58,
+    60,
+    61
+   ],
+   "defined_in": 27,
+   "pattern": "incalculable"
+  },
+  {
+   "word": "Intermittent",
+   "definition": "Stopping and starting.",
+   "chapters": [
+    27,
+    49,
+    53,
+    59,
+    61
+   ],
+   "defined_in": 27,
+   "pattern": "intermittent(?:ly)?"
+  },
+  {
+   "word": "Pacific",
+   "definition": "Peaceful.",
+   "chapters": [
+    27,
+    41,
+    54,
+    61
+   ],
+   "defined_in": 27,
+   "pattern": "pacific"
+  },
+  {
+   "word": "Paucity",
+   "definition": "Scarcity.",
+   "chapters": [
+    27
+   ],
+   "defined_in": 27,
+   "pattern": "paucity"
+  },
+  {
+   "word": "Perennial",
+   "definition": "Lasting or returning year after year.",
+   "chapters": [
+    27,
+    38
+   ],
+   "defined_in": 27,
+   "pattern": "perennial(?:ly)?"
+  },
+  {
+   "word": "Recessional",
+   "definition": "A hymn sung as the clergy and choir leave the chancel.",
+   "chapters": [
+    27
+   ],
+   "defined_in": 27,
+   "pattern": "recessionals?"
+  },
+  {
+   "word": "Thoroughfare",
+   "definition": "A main road.",
+   "chapters": [
+    27,
+    36,
+    71
+   ],
+   "defined_in": 27,
+   "pattern": "thoroughfares?"
   }
  ],
  "vocab_chapters": [
@@ -12179,6 +12407,7 @@
   24,
   25,
   26,
+  27,
   43
  ]
 }
