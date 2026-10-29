@@ -32,6 +32,13 @@ for f in glob.glob(SRC + '/data/*.json'):
 
 def e(s): return html.escape(s, quote=True)
 
+import geo
+TITLES = geo.seo_titles(P)
+DATES = geo.Dates(os.path.join(ROOT, 'src/updated.json'))
+HUB_OF = {}
+for _pid, _v in P.items():
+    if _pid.endswith('home') and _v[1] not in HUB_OF: HUB_OF[_v[1]] = _pid
+
 def link(i, sec='', find=''):
     u = 'index.html' if i == HOME else i + '.html'
     if find: return u + '#~f=' + find
@@ -152,54 +159,52 @@ for old in glob.glob(os.path.join(H, '*.html')):
     if not os.path.basename(old).startswith('google'): os.remove(old)
 open(H + '/site.css', 'w').write(BASE + css)
 open(H + '/site.js', 'w').write(js)
-open(H + '/robots.txt', 'w').write('User-agent: *\nAllow: /\n\nSitemap: ' + SITE_URL + '/sitemap.xml\n')
+open(H + '/robots.txt', 'w').write(geo.robots(SITE_URL))
+open(H + '/llms.txt', 'w').write(geo.llms(SITE_URL, P, ROOT))
 PAGE_URLS = []
 
-def ld(pid, title, desc, img, url, crumb):
-    young = {"@type": "Person", "name": "Marguerite Young", "birthDate": "1908", "deathDate": "1995",
-             "sameAs": "https://en.wikipedia.org/wiki/Marguerite_Young"}
-    site = {"@type": "WebSite", "name": SITE, "url": SITE_URL + "/"}
-    if pid == HOME:
-        d = dict(site, **{"@context": "https://schema.org", "description": desc, "about": young, "inLanguage": "en"})
+def ld(pid, title, desc, img, url, crumb, iso=None, raw=''):
+    if pid == HOME: d = geo.home_ld(SITE, SITE_URL, desc, raw)
     else:
-        d = {"@context": "https://schema.org", "@type": "Article", "headline": title[:110], "description": desc, "image": img,
-             "url": url, "inLanguage": "en", "isPartOf": site, "about": young, "articleSection": crumb,
-             "author": {"@type": "Organization", "name": SITE, "url": SITE_URL + "/"}}
+        d = geo.page_ld(SITE, SITE_URL, url, title, desc, img, crumb, iso,
+                        'miss-macintosh-my-darling' if (pid in P and (P[pid][2] in geo.NOVEL_FILES or 'MMMD' in P[pid][1])) else None)
     return '<script type="application/ld+json">' + json.dumps(d, ensure_ascii=False).replace('</', '<\\/') + '</script>\n'
 
-def write_page(fname, pid, title, desc, img, crumb, content, kind='article'):
+def write_page(fname, pid, title, desc, img, crumb, content, kind='article', iso=None, raw=''):
     full_title = SITE if title == SITE else title + ' | ' + SITE
     url = SITE_URL + '/' + ('' if fname == 'index.html' else fname[:-5])
-    PAGE_URLS.append(url)
+    PAGE_URLS.append((url, iso))
+    if iso and pid != HOME:
+        content = content + geo.cite_line(P[pid][0] if pid in P else title, url, iso)
     head_extra = (f'<link rel="canonical" href="{e(url)}">\n<meta property="og:url" content="{e(url)}">\n')
     img = SITE_URL + '/' + img
     doc = (f'<!doctype html>\n<html lang="en" data-static="1" data-page="{pid}">\n<head>\n<meta charset="utf-8">\n'
            '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">\n'
            '<link rel="icon" href="favicon.ico" sizes="any">\n<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">\n'
            '<link rel="apple-touch-icon" href="apple-touch-icon.png">\n'
-           f'<title>{e(full_title)}</title>\n' + head_extra + meta(title, desc, img, kind) + ld(pid, title, desc, img, url, crumb) + FONTS +
+           f'<title>{e(full_title)}</title>\n' + head_extra + meta(title, desc, img, kind) + ld(pid, title, desc, img, url, crumb, iso, raw) + FONTS +
            '<link rel="stylesheet" href="site.css">\n</head>\n<body>\n' + shell(content, crumb, True) +
            '<script src="site.js"></script>\n</body>\n</html>\n')
     open(H + '/' + fname, 'w').write(doc)
 
 from collections import Counter
-TC = Counter(v[0] for v in P.values())
-def page_title(title, label):
-    if TC[title] > 1 and label and label not in title: return title + ' (' + label + ')'
-    return title
 DESCS = Counter()
 count = 0
 for pid, (title, label, f) in P.items():
     raw = data[f][pid]
     content = heading_ids(rewrite(raw))
+    iso = DATES.get(pid, raw)
     if pid == HOME:
-        write_page('index.html', pid, SITE, SITE_DESC, 'img/young-portrait.jpg', label, content, 'website')
+        write_page('index.html', pid, SITE, SITE_DESC, 'img/young-portrait.jpg', label, content, 'website', iso, raw)
     else:
-        t2 = page_title(title, label); d2 = describe(raw, title, label)
+        hub = HUB_OF.get(label)
+        ctx = geo.context_line(pid, title, label, f, link(hub) if hub and hub != pid else '')
+        content = geo.add_after_h1(content, geo.page_meta(ctx, iso))
+        t2 = TITLES[pid]; d2 = describe(raw, title, label)
         if pid.startswith('character-hub-'): d2 = title + " in Marguerite Young's Miss MacIntosh, My Darling: the chapters, research notes, Masterclass portrait, and essays about this character."
         if DESCS[d2]: d2 = (t2 + ': ' + d2)[:158].rsplit(' ', 1)[0] + ('…' if len(t2 + d2) > 156 else '')
         DESCS[d2] += 1
-        write_page(pid + '.html', pid, t2, d2, share_image(pid), label, content)
+        write_page(pid + '.html', pid, t2, d2, share_image(pid), label, content, iso=iso)
     count += 1
 
 # All pages index
@@ -217,7 +222,8 @@ sub = ('<h1>Radical Immanence on Substack</h1><p>New essays, chapter readings, a
        'Subscribing is free, and each new post arrives by email.</p><p><a href="https://coralrussell.substack.com/subscribe" target="_blank" rel="noopener">Subscribe on Substack</a></p>')
 write_page('substack.html', 'substack', 'Radical Immanence on Substack', 'New essays, chapter readings, and reflections on Marguerite Young, free by email.', 'img/young-portrait.jpg', 'The Society', sub)
 sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-sm += ['<url><loc>%s</loc></url>' % e(u) for u in PAGE_URLS]
+sm += ['<url><loc>%s</loc>%s</url>' % (e(u), '<lastmod>%s</lastmod>' % d if d else '') for u, d in PAGE_URLS]
 sm.append('</urlset>')
 open(H + '/sitemap.xml', 'w').write('\n'.join(sm) + '\n')
+DATES.save()
 print('pages', count + 2, '| sitemap entries', len(PAGE_URLS))

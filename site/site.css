@@ -174,3 +174,11 @@ article p.notice { font-family: var(--ui); font-size: 0.92rem; line-height: 1.5;
 article dl.gloss { margin: 0 0 1.4rem; }
 article dl.gloss dt { font-weight: 600; margin-top: 0.8rem; }
 article dl.gloss dd { margin: 0.1rem 0 0; }
+
+/* The line under each page heading (what the page is part of, author, date) and the citation line at the end. */
+.pagemeta { font-family: var(--ui); font-size: 0.9rem; line-height: 1.45; color: var(--ink-2); margin: -0.4rem 0 1.4rem; }
+.pagemeta span { font-size: 0.85rem; }
+.pagemeta cite, .cite cite { font-style: italic; }
+.cite { font-family: var(--ui); font-size: 0.85rem; line-height: 1.45; color: var(--ink-2); margin-top: 2.4rem; padding-top: 0.9rem; border-top: 1px solid var(--rule); overflow-wrap: anywhere; }
+/* Questions and answers on the home page */
+.faq h3 { margin-bottom: 0.2rem; }
