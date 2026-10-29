@@ -11,6 +11,10 @@ Everything on this site is free to use and share.
 - `site/img/` holds the images.
 - `src/` holds the site's design (`site.css`) and behavior (`site.js`).
 - `build.py` rebuilds the page files in `site/` from the text in `site/data/`.
+- `geo.py` helps AI search tools (ChatGPT, Perplexity, Claude, Gemini, Google AI Overviews) understand and cite the site. It sets each page's title so it names the book, adds the line under each heading (what the page is part of, the author, the date it was last updated) and the "Cite this page" line, and writes the structured data, `robots.txt` and `llms.txt`.
+- `src/llms.txt` is the plain summary of the site written for AI tools. Edit it there; `build.py` copies it into `site/`.
+- `src/updated.json` records when each page's text last changed. `build.py` updates it on its own, so leave it alone and commit it with your other changes.
+- The questions and answers on the home page live in the home page text (`site/data/society.json`). The structured data is read from them, so edit the visible text and the two stay matched.
 
 ## Where it is published
 

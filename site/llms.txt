@@ -1,0 +1,54 @@
+# The Marguerite Young Society
+
+> A free, non-commercial reference site on Marguerite Young (1908 to 1995), the Indianapolis-born American novelist, historian and poet best known for Miss MacIntosh, My Darling (Scribner, 1965; now published by Dalkey Archive Press), a novel of nearly 1,200 pages that took her eighteen years to write. The site holds a biography, a review history of every book, chapter-by-chapter reading guides to all 82 chapters of the novel, character and theme indexes, and Coral Russell's account of Young's philosophy, which she calls Radical Immanence. Everything on the site is free to use and share.
+
+Key facts:
+- Marguerite Young was born in Indianapolis, Indiana, in 1908 and died in 1995 at eighty-seven.
+- Her books: Prismatic Ground (poems), Angel in the Forest (1945), Miss MacIntosh, My Darling (1965), Inviting the Muses (1994), Harp Song for a Radical (1999, posthumous), The Collected Poems of Marguerite Young (2022).
+- Angel in the Forest, a history of the two failed utopias at New Harmony, Indiana, won her a Guggenheim Fellowship.
+- She lived in Greenwich Village for most of her life, taught at the New School and the Iowa Writers' Workshop (1954 to 1957), and was championed by Anaïs Nin.
+- The novel follows a narrator, Vera Cartwheel, riding a bus across the Midwest in search of her lost nursemaid, Miss MacIntosh.
+- "MMMD" on this site is short for Miss MacIntosh, My Darling.
+
+## Start here
+- [Home and biography](https://marguerite-young-society.coralrussellbooks.workers.dev/): who Marguerite Young was, her life, reviews of each book, and where to buy them
+- [Start Here](https://marguerite-young-society.coralrussellbooks.workers.dev/start-here): the front door to every study book on the novel
+- [A Guide to Reading Miss MacIntosh, My Darling](https://marguerite-young-society.coralrussellbooks.workers.dev/guide-home): a plain account of what happens, chapter by chapter
+- [Glossary](https://marguerite-young-society.coralrussellbooks.workers.dev/glossary): terms used across the site
+- [Audio](https://marguerite-young-society.coralrussellbooks.workers.dev/audio): the novel read aloud, chapter by chapter
+
+## Her works
+- [Miss MacIntosh, My Darling (1965)](https://marguerite-young-society.coralrussellbooks.workers.dev/miss-macintosh-my-darling): the novel and every study book about it
+- [Angel in the Forest (1945)](https://marguerite-young-society.coralrussellbooks.workers.dev/angel-in-the-forest): the two utopias at New Harmony, Indiana
+- [Harp Song for a Radical (1999)](https://marguerite-young-society.coralrussellbooks.workers.dev/harp-song-for-a-radical): her life of Eugene Victor Debs
+- [Inviting the Muses (1994)](https://marguerite-young-society.coralrussellbooks.workers.dev/inviting-the-muses): stories, essays and reviews
+- [The Collected Poems of Marguerite Young (2022)](https://marguerite-young-society.coralrussellbooks.workers.dev/the-collected-poems-of-marguerite-young)
+
+## Her philosophy
+- [Radical Immanence: The Philosophy of Marguerite Young](https://marguerite-young-society.coralrussellbooks.workers.dev/radical-immanence-the-philosophy-of-marguerite-young)
+- [The Eleven Pillars](https://marguerite-young-society.coralrussellbooks.workers.dev/the-eleven-pillars): the eleven ideas of Radical Immanence, each defined
+- [The Wheel and the Spokes](https://marguerite-young-society.coralrussellbooks.workers.dev/wheel-and-spokes-home): the Eleven Pillars traced chapter by chapter through the novel
+- [Pillar Crosswalks](https://marguerite-young-society.coralrussellbooks.workers.dev/pillar-crosswalks-home): each pillar across every study book
+
+## Study of the novel
+- [Chapter Hubs](https://marguerite-young-society.coralrussellbooks.workers.dev/chapter-hubs-home): one page per chapter with a summary
+- [Character Hubs](https://marguerite-young-society.coralrussellbooks.workers.dev/character-hubs-home): every major figure in the novel
+- [Comedy in the novel](https://marguerite-young-society.coralrussellbooks.workers.dev/comedy-in-mmmd-home)
+- [History in the novel](https://marguerite-young-society.coralrussellbooks.workers.dev/history-in-mmmd-home)
+- [Philosophy in the novel](https://marguerite-young-society.coralrussellbooks.workers.dev/philosophy-of-mmmd-home)
+- [Intertextual Index](https://marguerite-young-society.coralrussellbooks.workers.dev/intertextual-index-home): every literary, biblical, historical and mythological reference, chapter by chapter
+- [Story Arcs](https://marguerite-young-society.coralrussellbooks.workers.dev/story-arcs-home): the novel in nine movements
+- [The Deep Architecture of Miss MacIntosh, My Darling](https://marguerite-young-society.coralrussellbooks.workers.dev/architecture-home): structure and formal devices
+- [Index to Miss MacIntosh, My Darling](https://marguerite-young-society.coralrussellbooks.workers.dev/index-of-mmmd-home): characters, places, allusions, objects and animals
+- [Christianity and Religion in the novel](https://marguerite-young-society.coralrussellbooks.workers.dev/religion-in-mmmd-home)
+- [Women in the novel](https://marguerite-young-society.coralrussellbooks.workers.dev/woman-in-mmmd-home)
+
+## More about Young
+- [Psychology in Young's Works](https://marguerite-young-society.coralrussellbooks.workers.dev/psychology-in-youngs-works)
+- [Politics in Young's Works](https://marguerite-young-society.coralrussellbooks.workers.dev/politics-in-youngs-works)
+- [Young's Interviews Analyzed](https://marguerite-young-society.coralrussellbooks.workers.dev/youngs-interviews-analyzed)
+- [Marguerite Young, Our Darling](https://marguerite-young-society.coralrussellbooks.workers.dev/marguerite-young-our-darling): tributes and essays, 1994
+
+## Optional
+- [All pages](https://marguerite-young-society.coralrussellbooks.workers.dev/all-pages): every page on the site, grouped by section
+- [The Marguerite Young Society on Substack](https://coralrussell.substack.com/): essays by Coral Russell
