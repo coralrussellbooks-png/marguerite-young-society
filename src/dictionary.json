@@ -12378,6 +12378,225 @@
    ],
    "defined_in": 27,
    "pattern": "thoroughfares?"
+  },
+  {
+   "word": "Belie",
+   "definition": "To show to be false.",
+   "chapters": [
+    14,
+    28,
+    63
+   ],
+   "defined_in": 28,
+   "pattern": "belie(?:s|d)?"
+  },
+  {
+   "word": "Bittern",
+   "definition": "A marsh heron with a booming call.",
+   "chapters": [
+    28,
+    39,
+    61
+   ],
+   "defined_in": 28,
+   "pattern": "bitterns?"
+  },
+  {
+   "word": "Croupier",
+   "definition": "The attendant who runs a gambling table.",
+   "chapters": [
+    28,
+    55,
+    56
+   ],
+   "defined_in": 28,
+   "pattern": "croupiers?"
+  },
+  {
+   "word": "Derangement",
+   "definition": "Disorder, especially of the mind.",
+   "chapters": [
+    26,
+    28,
+    54,
+    70,
+    71,
+    72
+   ],
+   "defined_in": 28,
+   "pattern": "derangements?"
+  },
+  {
+   "word": "Expiration",
+   "definition": "A last breath; death.",
+   "chapters": [
+    14,
+    28,
+    51,
+    54
+   ],
+   "defined_in": 28,
+   "pattern": "expiration"
+  },
+  {
+   "word": "Hallucination",
+   "definition": "Something seen or heard that is not there.",
+   "chapters": [
+    2,
+    3,
+    4,
+    10,
+    14,
+    28,
+    34,
+    37,
+    39,
+    42,
+    43,
+    45,
+    47,
+    50,
+    54,
+    55,
+    57,
+    60,
+    66,
+    68,
+    71
+   ],
+   "defined_in": 28,
+   "pattern": "hallucinations?"
+  },
+  {
+   "word": "Harlequin",
+   "definition": "The patched, masked trickster of Italian comedy.",
+   "chapters": [
+    3,
+    28,
+    56,
+    61
+   ],
+   "defined_in": 28,
+   "pattern": "harlequins?"
+  },
+  {
+   "word": "Impalpable",
+   "definition": "Unable to be touched or grasped.",
+   "chapters": [
+    28
+   ],
+   "defined_in": 28,
+   "pattern": "impalpable"
+  },
+  {
+   "word": "Luminous",
+   "definition": "Giving off light.",
+   "chapters": [
+    2,
+    5,
+    6,
+    12,
+    14,
+    23,
+    28,
+    29,
+    33,
+    34,
+    37,
+    38,
+    39,
+    43,
+    47,
+    53,
+    54,
+    55,
+    58,
+    59,
+    64,
+    65,
+    72,
+    73,
+    74,
+    81
+   ],
+   "defined_in": 28,
+   "pattern": "luminous(?:ly)?"
+  },
+  {
+   "word": "Macabre",
+   "definition": "Grim and concerned with death.",
+   "chapters": [
+    28,
+    34
+   ],
+   "defined_in": 28,
+   "pattern": "macabre"
+  },
+  {
+   "word": "Motley",
+   "definition": "Of many mixed kinds; the fool’s patched dress.",
+   "chapters": [
+    28,
+    59
+   ],
+   "defined_in": 28,
+   "pattern": "motley"
+  },
+  {
+   "word": "Problematical",
+   "definition": "Doubtful; hard to settle.",
+   "chapters": [
+    20,
+    22,
+    25,
+    28,
+    29,
+    30,
+    43,
+    48,
+    55,
+    61
+   ],
+   "defined_in": 28,
+   "pattern": "problematical"
+  },
+  {
+   "word": "Torpid",
+   "definition": "Sluggish; inactive.",
+   "chapters": [
+    28,
+    43,
+    48,
+    49,
+    56,
+    61,
+    78
+   ],
+   "defined_in": 28,
+   "pattern": "torpid"
+  },
+  {
+   "word": "Vortex",
+   "definition": "A whirlpool or whirlwind.",
+   "chapters": [
+    2,
+    28,
+    45,
+    46,
+    64,
+    77
+   ],
+   "defined_in": 28,
+   "pattern": "vortex(?:es)?|vortices"
+  },
+  {
+   "word": "Wastrel",
+   "definition": "Wasteful; a good-for-nothing.",
+   "chapters": [
+    28
+   ],
+   "defined_in": 28,
+   "pattern": "wastrels?"
   }
  ],
  "vocab_chapters": [
@@ -12408,6 +12627,7 @@
   25,
   26,
   27,
+  28,
   43
  ]
 }
