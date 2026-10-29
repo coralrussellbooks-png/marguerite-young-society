@@ -177,6 +177,8 @@ def write_page(fname, pid, title, desc, img, crumb, content, kind='article', iso
     if iso and pid != HOME:
         content = content + geo.cite_line(P[pid][0] if pid in P else title, url, iso)
     head_extra = (f'<link rel="canonical" href="{e(url)}">\n<meta property="og:url" content="{e(url)}">\n')
+    # Bing Webmaster Tools ownership check (site/BingSiteAuth.xml holds the same code)
+    if fname == 'index.html': head_extra += '<meta name="msvalidate.01" content="7F28441BE7C4ACF884D82F5A97F5FFEE">\n'
     img = SITE_URL + '/' + img
     doc = (f'<!doctype html>\n<html lang="en" data-static="1" data-page="{pid}">\n<head>\n<meta charset="utf-8">\n'
            '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">\n'
