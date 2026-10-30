@@ -13294,6 +13294,247 @@
    ],
    "defined_in": 31,
    "pattern": "thralldom"
+  },
+  {
+   "word": "Abeyance",
+   "definition": "A state of temporary suspension.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "abeyance"
+  },
+  {
+   "word": "Cavalier",
+   "definition": "A horseman or gallant gentleman; also offhand and disdainful.",
+   "chapters": [
+    32,
+    35,
+    38,
+    40,
+    45,
+    48,
+    55,
+    59
+   ],
+   "defined_in": 32,
+   "pattern": "cavaliers?"
+  },
+  {
+   "word": "Consanguineous",
+   "definition": "Related by blood, descended from the same ancestor.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "consanguineous"
+  },
+  {
+   "word": "Cosmographer",
+   "definition": "One who maps or describes the universe or the earth.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "cosmographers?"
+  },
+  {
+   "word": "Denouement",
+   "definition": "The final outcome of the main complication in a story.",
+   "chapters": [
+    32,
+    71
+   ],
+   "defined_in": 32,
+   "pattern": "denouement"
+  },
+  {
+   "word": "Escarpment",
+   "definition": "A long, steep slope or cliff.",
+   "chapters": [
+    32,
+    39,
+    54,
+    55
+   ],
+   "defined_in": 32,
+   "pattern": "escarpments?"
+  },
+  {
+   "word": "Extemporal",
+   "definition": "Done on the spur of the moment.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "extemporal"
+  },
+  {
+   "word": "Femme fatale",
+   "definition": "A seductive woman who leads men to ruin.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "femmes? fatales?"
+  },
+  {
+   "word": "Fusilier",
+   "definition": "A soldier armed with a light musket.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "fusiliers?"
+  },
+  {
+   "word": "Imbroglio",
+   "definition": "A confused or complicated situation.",
+   "chapters": [
+    32,
+    40
+   ],
+   "defined_in": 32,
+   "pattern": "imbroglios?"
+  },
+  {
+   "word": "Khan",
+   "definition": "A title of rulers in Central Asia.",
+   "chapters": [
+    30,
+    32,
+    35,
+    39
+   ],
+   "defined_in": 32,
+   "pattern": "khans?"
+  },
+  {
+   "word": "Libertine",
+   "definition": "One who lives without moral restraint, especially in love.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "libertines?"
+  },
+  {
+   "word": "Neuralgia",
+   "definition": "Sharp nerve pain.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "neuralgia"
+  },
+  {
+   "word": "Nugatory",
+   "definition": "Of no value or importance.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "nugatory"
+  },
+  {
+   "word": "Pasha",
+   "definition": "A high Ottoman title for a governor or general.",
+   "chapters": [
+    32,
+    36,
+    37
+   ],
+   "defined_in": 32,
+   "pattern": "pashas?"
+  },
+  {
+   "word": "Patrician",
+   "definition": "Aristocratic; in Rome, a member of the noble class.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "patricians?"
+  },
+  {
+   "word": "Peruked",
+   "definition": "Wearing a peruke, a wig popular from the 17th to the 19th century.",
+   "chapters": [
+    12,
+    16,
+    32,
+    41
+   ],
+   "defined_in": 32,
+   "pattern": "peruked|perukes?"
+  },
+  {
+   "word": "Propitiate",
+   "definition": "To win over or appease.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "propitiat(?:e|ed|ing)"
+  },
+  {
+   "word": "Requiem",
+   "definition": "A Mass or song for the dead.",
+   "chapters": [
+    32,
+    37,
+    49,
+    61,
+    62
+   ],
+   "defined_in": 32,
+   "pattern": "requiems?"
+  },
+  {
+   "word": "Sheik",
+   "definition": "An Arab chief or elder.",
+   "chapters": [
+    30,
+    31,
+    32,
+    35,
+    37,
+    42,
+    44,
+    45,
+    49
+   ],
+   "defined_in": 32,
+   "pattern": "sh(?:ei|ie)ks?"
+  },
+  {
+   "word": "Supine",
+   "definition": "Lying face up; also passive.",
+   "chapters": [
+    32,
+    35,
+    37
+   ],
+   "defined_in": 32,
+   "pattern": "supine"
+  },
+  {
+   "word": "Temporize",
+   "definition": "To delay or evade in order to gain time.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "temporiz(?:e|ed|ing)"
+  },
+  {
+   "word": "Vestibule",
+   "definition": "An entrance hall.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "vestibules?"
   }
  ],
  "vocab_chapters": [
@@ -13328,6 +13569,7 @@
   29,
   30,
   31,
+  32,
   43
  ]
 }
