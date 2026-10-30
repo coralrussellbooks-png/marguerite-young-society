@@ -13127,6 +13127,173 @@
    ],
    "defined_in": 30,
    "pattern": "whist"
+  },
+  {
+   "word": "Aerie",
+   "definition": "An eagle’s nest on a height.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "aeries?"
+  },
+  {
+   "word": "Aggrievedly",
+   "definition": "With a sense of being wronged.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "aggrievedly"
+  },
+  {
+   "word": "Bedaubed",
+   "definition": "Smeared with paint or dirt.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "bedaub(?:ed)?"
+  },
+  {
+   "word": "Besmeared",
+   "definition": "Smeared over.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "besmear(?:ed)?"
+  },
+  {
+   "word": "Bivouac",
+   "definition": "A temporary camp without tents.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "bivouacs?"
+  },
+  {
+   "word": "Cognomen",
+   "definition": "A surname; in Rome, a third, family name.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "cognomen"
+  },
+  {
+   "word": "Coup de grâce",
+   "definition": "The final, merciful blow.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "coup de gr[aâ]ce"
+  },
+  {
+   "word": "Cuirassed",
+   "definition": "Armored in a breastplate.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "cuirass(?:ed)?"
+  },
+  {
+   "word": "Detonation",
+   "definition": "An explosion.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "detonations?"
+  },
+  {
+   "word": "Dissembling",
+   "definition": "Hiding one’s true feelings.",
+   "chapters": [
+    31,
+    32,
+    47
+   ],
+   "defined_in": 31,
+   "pattern": "dissembl(?:e|ing|ed)"
+  },
+  {
+   "word": "Elicit",
+   "definition": "To draw out.",
+   "chapters": [
+    3,
+    22,
+    31,
+    41,
+    42,
+    63
+   ],
+   "defined_in": 31,
+   "pattern": "elicit(?:s|ed)?"
+  },
+  {
+   "word": "Gratuitous",
+   "definition": "Uncalled for; without cause.",
+   "chapters": [
+    14,
+    31,
+    44,
+    54
+   ],
+   "defined_in": 31,
+   "pattern": "gratuitous(?:ly)?"
+  },
+  {
+   "word": "Indubitably",
+   "definition": "Beyond doubt.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "indubitabl[ey]"
+  },
+  {
+   "word": "Nomadic",
+   "definition": "Wandering from place to place.",
+   "chapters": [
+    31,
+    38
+   ],
+   "defined_in": 31,
+   "pattern": "nomadic"
+  },
+  {
+   "word": "Portiere",
+   "definition": "A curtain hung across a doorway.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "portieres?"
+  },
+  {
+   "word": "Ramification",
+   "definition": "A branching consequence.",
+   "chapters": [
+    14,
+    31,
+    44,
+    63
+   ],
+   "defined_in": 31,
+   "pattern": "ramifications?"
+  },
+  {
+   "word": "Thralldom",
+   "definition": "Bondage; slavery.",
+   "chapters": [
+    31
+   ],
+   "defined_in": 31,
+   "pattern": "thralldom"
   }
  ],
  "vocab_chapters": [
@@ -13160,6 +13327,7 @@
   28,
   29,
   30,
+  31,
   43
  ]
 }
