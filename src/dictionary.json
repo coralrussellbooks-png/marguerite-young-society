@@ -12941,6 +12941,192 @@
    ],
    "defined_in": 29,
    "pattern": "volatile"
+  },
+  {
+   "word": "Alpenhorn",
+   "definition": "A long wooden horn of the Alps.",
+   "chapters": [
+    30,
+    31,
+    46
+   ],
+   "defined_in": 30,
+   "pattern": "alpenhorns?"
+  },
+  {
+   "word": "Apprised",
+   "definition": "Informed.",
+   "chapters": [
+    14,
+    30,
+    70
+   ],
+   "defined_in": 30,
+   "pattern": "appris(?:e|ed)"
+  },
+  {
+   "word": "Argosy",
+   "definition": "A large merchant ship, or a fleet of them.",
+   "chapters": [
+    30,
+    42,
+    47,
+    49,
+    50
+   ],
+   "defined_in": 30,
+   "pattern": "argos(?:y|ies)"
+  },
+  {
+   "word": "Blunderbuss",
+   "definition": "A short gun with a flared muzzle.",
+   "chapters": [
+    30
+   ],
+   "defined_in": 30,
+   "pattern": "blunderbus(?:s|ses|es)"
+  },
+  {
+   "word": "Brigand",
+   "definition": "A bandit of the hills.",
+   "chapters": [
+    30,
+    31,
+    37,
+    41,
+    47,
+    48
+   ],
+   "defined_in": 30,
+   "pattern": "brigands?"
+  },
+  {
+   "word": "Cavalcade",
+   "definition": "A procession on horseback.",
+   "chapters": [
+    30,
+    41
+   ],
+   "defined_in": 30,
+   "pattern": "cavalcades?"
+  },
+  {
+   "word": "Deign",
+   "definition": "To condescend.",
+   "chapters": [
+    30,
+    35
+   ],
+   "defined_in": 30,
+   "pattern": "deign(?:s|ed)?"
+  },
+  {
+   "word": "Duplicity",
+   "definition": "Double-dealing.",
+   "chapters": [
+    30,
+    36,
+    47,
+    52,
+    53
+   ],
+   "defined_in": 30,
+   "pattern": "duplicity"
+  },
+  {
+   "word": "Emancipated",
+   "definition": "Set free.",
+   "chapters": [
+    30,
+    35
+   ],
+   "defined_in": 30,
+   "pattern": "emancipat(?:ed|ion)"
+  },
+  {
+   "word": "Grazier",
+   "definition": "One who grazes cattle. Here it means the herds.",
+   "chapters": [
+    30
+   ],
+   "defined_in": 30,
+   "pattern": "graziers?"
+  },
+  {
+   "word": "Loo",
+   "definition": "An old card game played for stakes.",
+   "chapters": [
+    30
+   ],
+   "defined_in": 30,
+   "pattern": "loo"
+  },
+  {
+   "word": "Muezzin",
+   "definition": "The man who calls Muslims to prayer.",
+   "chapters": [
+    30,
+    35,
+    42
+   ],
+   "defined_in": 30,
+   "pattern": "muezzins?"
+  },
+  {
+   "word": "Profligate",
+   "definition": "A reckless, immoral spendthrift.",
+   "chapters": [
+    30,
+    53,
+    59
+   ],
+   "defined_in": 30,
+   "pattern": "profligates?"
+  },
+  {
+   "word": "Sangfroid",
+   "definition": "Coolness in danger.",
+   "chapters": [
+    30
+   ],
+   "defined_in": 30,
+   "pattern": "sangfroid"
+  },
+  {
+   "word": "Satrap",
+   "definition": "A Persian provincial governor.",
+   "chapters": [
+    30
+   ],
+   "defined_in": 30,
+   "pattern": "satraps?"
+  },
+  {
+   "word": "Solicitous",
+   "definition": "Anxious and attentive.",
+   "chapters": [
+    30
+   ],
+   "defined_in": 30,
+   "pattern": "solicitous"
+  },
+  {
+   "word": "Stanchly",
+   "definition": "Firmly; loyally.",
+   "chapters": [
+    30
+   ],
+   "defined_in": 30,
+   "pattern": "stanchly|staunchly"
+  },
+  {
+   "word": "Whist",
+   "definition": "A card game for four players in pairs.",
+   "chapters": [
+    30
+   ],
+   "defined_in": 30,
+   "pattern": "whist"
   }
  ],
  "vocab_chapters": [
@@ -12973,6 +13159,7 @@
   27,
   28,
   29,
+  30,
   43
  ]
 }
