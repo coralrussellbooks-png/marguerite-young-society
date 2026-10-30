@@ -825,7 +825,7 @@
   },
   {
    "word": "Halo",
-   "definition": "A ring of light around the sun or moon, caused by ice crystals high in thin clouds.",
+   "definition": "A ring of light around the sun or moon, caused by ice crystals high in thin clouds. In art, a ring of light around the head of a saint.",
    "chapters": [
     24,
     32,
@@ -13535,6 +13535,52 @@
    ],
    "defined_in": 32,
    "pattern": "vestibules?"
+  },
+  {
+   "word": "Ambivalence",
+   "definition": "Mixed or contradictory feelings.",
+   "chapters": [
+    3,
+    32,
+    44,
+    45,
+    46,
+    47,
+    49,
+    52,
+    53,
+    82
+   ],
+   "defined_in": 32,
+   "pattern": "ambivalences?"
+  },
+  {
+   "word": "Ewe-necked",
+   "definition": "Having a thin neck that curves upward like a ewe’s.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "ewe-necked"
+  },
+  {
+   "word": "Extensible",
+   "definition": "Able to be extended.",
+   "chapters": [
+    32
+   ],
+   "defined_in": 32,
+   "pattern": "extensible"
+  },
+  {
+   "word": "Spiritous",
+   "definition": "Alcoholic; an old spelling of spirituous.",
+   "chapters": [
+    32,
+    65
+   ],
+   "defined_in": 32,
+   "pattern": "spiritous"
   }
  ],
  "vocab_chapters": [
