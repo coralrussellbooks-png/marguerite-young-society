@@ -14411,6 +14411,96 @@
    ],
    "defined_in": 36,
    "pattern": "wherry|wherries"
+  },
+  {
+   "word": "Despotic",
+   "definition": "Tyrannical.",
+   "chapters": [
+    36,
+    42,
+    62
+   ],
+   "defined_in": 36,
+   "pattern": "despotic"
+  },
+  {
+   "word": "Equestrian",
+   "definition": "On horseback.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "equestrian"
+  },
+  {
+   "word": "Hieroglyph",
+   "definition": "A picture-sign of a writing system, as in ancient Egypt.",
+   "chapters": [
+    2,
+    14,
+    29,
+    36,
+    40,
+    44,
+    49,
+    51,
+    52,
+    54,
+    55,
+    58,
+    60,
+    61,
+    63
+   ],
+   "defined_in": 36,
+   "pattern": "hieroglyphs?|hieroglyphics?"
+  },
+  {
+   "word": "Inscrutably",
+   "definition": "In a way that cannot be understood.",
+   "chapters": [
+    2,
+    9,
+    10,
+    14,
+    20,
+    23,
+    30,
+    31,
+    36,
+    43,
+    45,
+    47,
+    48,
+    55,
+    65
+   ],
+   "defined_in": 36,
+   "pattern": "inscrutabl[ey]"
+  },
+  {
+   "word": "Oblique",
+   "definition": "Indirect; slanting.",
+   "chapters": [
+    36,
+    38,
+    40,
+    79
+   ],
+   "defined_in": 36,
+   "pattern": "oblique"
+  },
+  {
+   "word": "Ogre",
+   "definition": "A man-eating giant of folktale.",
+   "chapters": [
+    36,
+    38,
+    39,
+    42
+   ],
+   "defined_in": 36,
+   "pattern": "ogres?"
   }
  ],
  "vocab_chapters": [
