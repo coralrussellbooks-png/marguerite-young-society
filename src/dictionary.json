@@ -13977,6 +13977,44 @@
    ],
    "defined_in": 34,
    "pattern": "wainscoting"
+  },
+  {
+   "word": "Centrifugal",
+   "definition": "Moving or pulling outward from a center.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "centrifugal"
+  },
+  {
+   "word": "Circumvent",
+   "definition": "To find a way around.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "circumvent(?:s|ed|ing)?"
+  },
+  {
+   "word": "Incisive",
+   "definition": "Sharp and clear in thought.",
+   "chapters": [
+    34,
+    38
+   ],
+   "defined_in": 34,
+   "pattern": "incisive"
+  },
+  {
+   "word": "Vivacious",
+   "definition": "Lively, animated.",
+   "chapters": [
+    34,
+    35
+   ],
+   "defined_in": 34,
+   "pattern": "vivacious"
   }
  ],
  "vocab_chapters": [
