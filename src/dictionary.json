@@ -14179,6 +14179,36 @@
    ],
    "defined_in": 35,
    "pattern": "unconscionabl[ey]"
+  },
+  {
+   "word": "Amulet",
+   "definition": "A charm worn against evil.",
+   "chapters": [
+    35,
+    38,
+    48,
+    52
+   ],
+   "defined_in": 35,
+   "pattern": "amulets?"
+  },
+  {
+   "word": "Brocade",
+   "definition": "A rich fabric woven with a raised pattern.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "brocades?|brocaded"
+  },
+  {
+   "word": "Purling",
+   "definition": "Knitting in purl, the reverse of a plain stitch.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "purl(?:s|ed|ing)?"
   }
  ],
  "vocab_chapters": [
