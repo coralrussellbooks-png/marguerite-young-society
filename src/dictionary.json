@@ -13581,6 +13581,164 @@
    ],
    "defined_in": 32,
    "pattern": "spiritous"
+  },
+  {
+   "word": "Belligerence",
+   "definition": "Hostility; eagerness to fight.",
+   "chapters": [
+    33,
+    54
+   ],
+   "defined_in": 33,
+   "pattern": "belligerence"
+  },
+  {
+   "word": "Coexistent",
+   "definition": "Existing at the same time.",
+   "chapters": [
+    33,
+    35,
+    62
+   ],
+   "defined_in": 33,
+   "pattern": "coexistent"
+  },
+  {
+   "word": "Diffused",
+   "definition": "Spread out widely.",
+   "chapters": [
+    2,
+    18,
+    33,
+    37,
+    41,
+    42,
+    45,
+    47,
+    48,
+    51,
+    53,
+    56,
+    57,
+    70,
+    76,
+    77,
+    81
+   ],
+   "defined_in": 33,
+   "pattern": "diffused?"
+  },
+  {
+   "word": "Fallible",
+   "definition": "Capable of error.",
+   "chapters": [
+    33
+   ],
+   "defined_in": 33,
+   "pattern": "fallible"
+  },
+  {
+   "word": "Finis",
+   "definition": "The end.",
+   "chapters": [
+    33,
+    47
+   ],
+   "defined_in": 33,
+   "pattern": "finis"
+  },
+  {
+   "word": "Furtive",
+   "definition": "Secretive; sly.",
+   "chapters": [
+    22,
+    33,
+    59,
+    78
+   ],
+   "defined_in": 33,
+   "pattern": "furtive(?:ly)?"
+  },
+  {
+   "word": "Incredulity",
+   "definition": "Disbelief.",
+   "chapters": [
+    33
+   ],
+   "defined_in": 33,
+   "pattern": "incredulity"
+  },
+  {
+   "word": "Leathern",
+   "definition": "Made of or like leather.",
+   "chapters": [
+    33
+   ],
+   "defined_in": 33,
+   "pattern": "leathern"
+  },
+  {
+   "word": "Mercurially",
+   "definition": "Changeably, unpredictably.",
+   "chapters": [
+    33
+   ],
+   "defined_in": 33,
+   "pattern": "mercurially"
+  },
+  {
+   "word": "Omnivorous",
+   "definition": "Eating everything; taking in everything.",
+   "chapters": [
+    33,
+    71,
+    72
+   ],
+   "defined_in": 33,
+   "pattern": "omnivorous"
+  },
+  {
+   "word": "Ratiocination",
+   "definition": "Exact, logical reasoning.",
+   "chapters": [
+    33
+   ],
+   "defined_in": 33,
+   "pattern": "ratiocination"
+  },
+  {
+   "word": "Sere",
+   "definition": "Dry and withered.",
+   "chapters": [
+    33
+   ],
+   "defined_in": 33,
+   "pattern": "sere"
+  },
+  {
+   "word": "Stovepipe",
+   "definition": "A tall silk hat.",
+   "chapters": [
+    14,
+    33,
+    68,
+    80
+   ],
+   "defined_in": 33,
+   "pattern": "stovepipe"
+  },
+  {
+   "word": "Velocity",
+   "definition": "Speed in a given direction.",
+   "chapters": [
+    33,
+    37,
+    53,
+    54,
+    58
+   ],
+   "defined_in": 33,
+   "pattern": "velocit(?:y|ies)"
   }
  ],
  "vocab_chapters": [
@@ -13616,6 +13774,7 @@
   30,
   31,
   32,
+  33,
   43
  ]
 }
