@@ -14501,6 +14501,168 @@
    ],
    "defined_in": 36,
    "pattern": "ogres?"
+  },
+  {
+   "word": "Abject",
+   "definition": "Wretched; downcast.",
+   "chapters": [
+    2,
+    37
+   ],
+   "defined_in": 37,
+   "pattern": "abject"
+  },
+  {
+   "word": "Assuage",
+   "definition": "To ease or soothe.",
+   "chapters": [
+    37,
+    54,
+    72
+   ],
+   "defined_in": 37,
+   "pattern": "assuage"
+  },
+  {
+   "word": "Burnoose",
+   "definition": "A hooded Arab cloak.",
+   "chapters": [
+    37,
+    42
+   ],
+   "defined_in": 37,
+   "pattern": "burnoos?e"
+  },
+  {
+   "word": "Demarcation",
+   "definition": "A boundary line.",
+   "chapters": [
+    37
+   ],
+   "defined_in": 37,
+   "pattern": "demarcation"
+  },
+  {
+   "word": "Exhume",
+   "definition": "To dig up from the grave.",
+   "chapters": [
+    37
+   ],
+   "defined_in": 37,
+   "pattern": "exhume"
+  },
+  {
+   "word": "Fetters",
+   "definition": "Chains for the feet.",
+   "chapters": [
+    37,
+    41
+   ],
+   "defined_in": 37,
+   "pattern": "fetters?"
+  },
+  {
+   "word": "Gibbet",
+   "definition": "A gallows on which a body was hung in chains.",
+   "chapters": [
+    37,
+    54
+   ],
+   "defined_in": 37,
+   "pattern": "gibbets?"
+  },
+  {
+   "word": "Hoar frost",
+   "definition": "White frost.",
+   "chapters": [
+    37,
+    44,
+    63,
+    65,
+    72,
+    81
+   ],
+   "defined_in": 37,
+   "pattern": "hoar ?frost"
+  },
+  {
+   "word": "Incipient",
+   "definition": "Just beginning.",
+   "chapters": [
+    37,
+    54
+   ],
+   "defined_in": 37,
+   "pattern": "incipient"
+  },
+  {
+   "word": "Involuted",
+   "definition": "Intricate; curled inward.",
+   "chapters": [
+    37
+   ],
+   "defined_in": 37,
+   "pattern": "involuted"
+  },
+  {
+   "word": "Lodestar",
+   "definition": "A guiding star, especially the polestar.",
+   "chapters": [
+    37,
+    54,
+    63
+   ],
+   "defined_in": 37,
+   "pattern": "lodestars?"
+  },
+  {
+   "word": "Postilion",
+   "definition": "One who rides the near horse of a carriage team.",
+   "chapters": [
+    37
+   ],
+   "defined_in": 37,
+   "pattern": "postill?ions?"
+  },
+  {
+   "word": "Scimitar",
+   "definition": "A curved Eastern sword.",
+   "chapters": [
+    37,
+    44,
+    45
+   ],
+   "defined_in": 37,
+   "pattern": "scimitars?"
+  },
+  {
+   "word": "Specious",
+   "definition": "Seeming true but false.",
+   "chapters": [
+    37
+   ],
+   "defined_in": 37,
+   "pattern": "specious"
+  },
+  {
+   "word": "Treble",
+   "definition": "The highest part in music.",
+   "chapters": [
+    29,
+    37,
+    48
+   ],
+   "defined_in": 37,
+   "pattern": "trebles?"
+  },
+  {
+   "word": "Usurping",
+   "definition": "Seizing without right.",
+   "chapters": [
+    37
+   ],
+   "defined_in": 37,
+   "pattern": "usurp(?:s|ed|ing)?"
   }
  ],
  "vocab_chapters": [
@@ -14540,6 +14702,7 @@
   34,
   35,
   36,
+  37,
   43
  ]
 }
