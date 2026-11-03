@@ -14714,6 +14714,166 @@
    ],
    "defined_in": 37,
    "pattern": "transience"
+  },
+  {
+   "word": "Conquistador",
+   "definition": "A Spanish conqueror of the Americas.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "conquistadors?"
+  },
+  {
+   "word": "Courtesan",
+   "definition": "A mistress of a rich or noble man.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "courtesans?"
+  },
+  {
+   "word": "Divertissement",
+   "definition": "A diversion or entertainment.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "divertissements?"
+  },
+  {
+   "word": "Donjon",
+   "definition": "The great tower or innermost keep of a castle.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "donjons?"
+  },
+  {
+   "word": "Espousal",
+   "definition": "The taking up of a cause; also marriage.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "espousals?"
+  },
+  {
+   "word": "Freebooter",
+   "definition": "A pirate or plunderer.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "freebooters?"
+  },
+  {
+   "word": "Insurrectionist",
+   "definition": "A rebel.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "insurrectionists?"
+  },
+  {
+   "word": "Jasper",
+   "definition": "An opaque, often red, variety of quartz.",
+   "chapters": [
+    22,
+    29,
+    38,
+    42
+   ],
+   "defined_in": 38,
+   "pattern": "jasper"
+  },
+  {
+   "word": "Limitary",
+   "definition": "Of or at a limit.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "limitary"
+  },
+  {
+   "word": "Misanthrope",
+   "definition": "A hater of humankind.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "misanthropes?"
+  },
+  {
+   "word": "Obdurate",
+   "definition": "Stubborn, unyielding.",
+   "chapters": [
+    38,
+    82
+   ],
+   "defined_in": 38,
+   "pattern": "obdurate"
+  },
+  {
+   "word": "Rivulet",
+   "definition": "A small stream.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "rivulets?"
+  },
+  {
+   "word": "Sahib",
+   "definition": "Master, a title for Europeans in colonial India.",
+   "chapters": [
+    38,
+    39
+   ],
+   "defined_in": 38,
+   "pattern": "sahibs?"
+  },
+  {
+   "word": "Tenebrous",
+   "definition": "Dark, shadowy, obscure.",
+   "chapters": [
+    38,
+    44
+   ],
+   "defined_in": 38,
+   "pattern": "tenebrous"
+  },
+  {
+   "word": "Trenchant",
+   "definition": "Sharp, incisive.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "trenchant"
+  },
+  {
+   "word": "Tryst",
+   "definition": "An appointed meeting, as of lovers.",
+   "chapters": [
+    38,
+    49
+   ],
+   "defined_in": 38,
+   "pattern": "trysts?"
+  },
+  {
+   "word": "Turnkey",
+   "definition": "A jailer.",
+   "chapters": [
+    38
+   ],
+   "defined_in": 38,
+   "pattern": "turnkeys?"
   }
  ],
  "vocab_chapters": [
@@ -14754,6 +14914,7 @@
   35,
   36,
   37,
+  38,
   43
  ]
 }
