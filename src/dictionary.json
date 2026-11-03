@@ -14015,6 +14015,170 @@
    ],
    "defined_in": 34,
    "pattern": "vivacious"
+  },
+  {
+   "word": "Affrighted",
+   "definition": "Frightened.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "affright(?:ed)?"
+  },
+  {
+   "word": "Arroyo",
+   "definition": "A steep-sided gully cut by water in dry country.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "arroyos?"
+  },
+  {
+   "word": "Astringently",
+   "definition": "Sharply, severely.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "astringently"
+  },
+  {
+   "word": "Casehardened",
+   "definition": "Hardened on the surface; made callous by experience.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "case-?hardened"
+  },
+  {
+   "word": "Cupola",
+   "definition": "A small dome on a roof.",
+   "chapters": [
+    35,
+    47,
+    54,
+    57,
+    72
+   ],
+   "defined_in": 35,
+   "pattern": "cupolas?"
+  },
+  {
+   "word": "Diffident",
+   "definition": "Shy; lacking confidence.",
+   "chapters": [
+    35,
+    36,
+    54
+   ],
+   "defined_in": 35,
+   "pattern": "diffident"
+  },
+  {
+   "word": "Discarnate",
+   "definition": "Without a body.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "discarnate"
+  },
+  {
+   "word": "Dovecote",
+   "definition": "A house for doves or pigeons.",
+   "chapters": [
+    35,
+    55
+   ],
+   "defined_in": 35,
+   "pattern": "dove-?cotes?"
+  },
+  {
+   "word": "Emblazoned",
+   "definition": "Decorated conspicuously, as with a coat of arms.",
+   "chapters": [
+    10,
+    31,
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "emblazon(?:ed)?"
+  },
+  {
+   "word": "Emirate",
+   "definition": "The realm of an emir.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "emirates?"
+  },
+  {
+   "word": "Homunculus",
+   "definition": "A tiny man.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "homunculi|homunculus"
+  },
+  {
+   "word": "Inverness",
+   "definition": "A man’s overcoat with a detachable cape.",
+   "chapters": [
+    2,
+    35,
+    56
+   ],
+   "defined_in": 35,
+   "pattern": "inverness"
+  },
+  {
+   "word": "Liveried",
+   "definition": "Dressed in the uniform of a household servant.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "liveried"
+  },
+  {
+   "word": "Mannikin",
+   "definition": "A little man; a dwarf.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "mann?ikins?"
+  },
+  {
+   "word": "Mettlesome",
+   "definition": "Spirited, high-mettled.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "mettlesome"
+  },
+  {
+   "word": "Regnancy",
+   "definition": "The state of reigning; rule.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "regnancy"
+  },
+  {
+   "word": "Unconscionable",
+   "definition": "Unreasonable, excessive; without conscience.",
+   "chapters": [
+    35
+   ],
+   "defined_in": 35,
+   "pattern": "unconscionabl[ey]"
   }
  ],
  "vocab_chapters": [
@@ -14052,6 +14216,7 @@
   32,
   33,
   34,
+  35,
   43
  ]
 }
