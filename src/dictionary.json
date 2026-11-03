@@ -13739,6 +13739,15 @@
    ],
    "defined_in": 33,
    "pattern": "velocit(?:y|ies)"
+  },
+  {
+   "word": "Ascensionist",
+   "definition": "One who goes up in a balloon.",
+   "chapters": [
+    33
+   ],
+   "defined_in": 33,
+   "pattern": "ascensionists?"
   }
  ],
  "vocab_chapters": [
