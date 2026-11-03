@@ -14209,6 +14209,208 @@
    ],
    "defined_in": 35,
    "pattern": "purl(?:s|ed|ing)?"
+  },
+  {
+   "word": "Aggrandized",
+   "definition": "Made greater.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "aggrandi[sz]ed"
+  },
+  {
+   "word": "Barque",
+   "definition": "A sailing ship.",
+   "chapters": [
+    36,
+    47
+   ],
+   "defined_in": 36,
+   "pattern": "barques?"
+  },
+  {
+   "word": "Bulrush",
+   "definition": "A tall rush of marshes.",
+   "chapters": [
+    29,
+    36,
+    52,
+    68
+   ],
+   "defined_in": 36,
+   "pattern": "bull?rush(?:es)?"
+  },
+  {
+   "word": "Cannonade",
+   "definition": "A long bombardment by cannon.",
+   "chapters": [
+    32,
+    34,
+    36,
+    45
+   ],
+   "defined_in": 36,
+   "pattern": "cannonades?"
+  },
+  {
+   "word": "Cockleshell",
+   "definition": "The shell of a cockle; a small, frail boat.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "cockleshells?"
+  },
+  {
+   "word": "Emaciated",
+   "definition": "Wasted away, very thin.",
+   "chapters": [
+    36,
+    42,
+    73
+   ],
+   "defined_in": 36,
+   "pattern": "emaciated"
+  },
+  {
+   "word": "Frenetic",
+   "definition": "Frantic.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "frenetic"
+  },
+  {
+   "word": "Houri",
+   "definition": "A beautiful maiden of the Muslim paradise.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "houris?"
+  },
+  {
+   "word": "Incorrigible",
+   "definition": "Beyond correction.",
+   "chapters": [
+    36,
+    41,
+    70
+   ],
+   "defined_in": 36,
+   "pattern": "incorrigible"
+  },
+  {
+   "word": "Mailed",
+   "definition": "Armored in chain mail.",
+   "chapters": [
+    4,
+    6,
+    33,
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "mailed"
+  },
+  {
+   "word": "Peregrine",
+   "definition": "A wanderer or pilgrim; also a falcon.",
+   "chapters": [
+    36,
+    42,
+    64
+   ],
+   "defined_in": 36,
+   "pattern": "peregrines?"
+  },
+  {
+   "word": "Purlieus",
+   "definition": "Outskirts; haunts.",
+   "chapters": [
+    36,
+    46,
+    49,
+    52,
+    62
+   ],
+   "defined_in": 36,
+   "pattern": "purlieus"
+  },
+  {
+   "word": "Rushlight",
+   "definition": "A cheap candle of rush pith dipped in fat.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "rush ?lights?"
+  },
+  {
+   "word": "Salutary",
+   "definition": "Beneficial; healthful.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "salutary"
+  },
+  {
+   "word": "Sulphurous",
+   "definition": "Of sulphur; hellish.",
+   "chapters": [
+    36,
+    48
+   ],
+   "defined_in": 36,
+   "pattern": "sulph?urous"
+  },
+  {
+   "word": "Tactician",
+   "definition": "One skilled in tactics.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "tacti[ct]ians?"
+  },
+  {
+   "word": "Tinderbox",
+   "definition": "A box holding tinder, flint, and steel for kindling fire.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "tinder-?box(?:es)?"
+  },
+  {
+   "word": "Travesty",
+   "definition": "A grotesque imitation.",
+   "chapters": [
+    36,
+    56
+   ],
+   "defined_in": 36,
+   "pattern": "travesty"
+  },
+  {
+   "word": "Weltering",
+   "definition": "Rolling and tossing, as waves.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "welter(?:ing)?"
+  },
+  {
+   "word": "Wherry",
+   "definition": "A light rowboat.",
+   "chapters": [
+    36
+   ],
+   "defined_in": 36,
+   "pattern": "wherry|wherries"
   }
  ],
  "vocab_chapters": [
@@ -14247,6 +14449,7 @@
   33,
   34,
   35,
+  36,
   43
  ]
 }
