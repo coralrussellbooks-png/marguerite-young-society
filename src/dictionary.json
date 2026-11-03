@@ -13748,6 +13748,235 @@
    ],
    "defined_in": 33,
    "pattern": "ascensionists?"
+  },
+  {
+   "word": "Adamantine",
+   "definition": "Unbreakable; hard as diamond.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "adamantine"
+  },
+  {
+   "word": "Alarum",
+   "definition": "An old word for alarm, a call to arms.",
+   "chapters": [
+    34,
+    45
+   ],
+   "defined_in": 34,
+   "pattern": "alarums?"
+  },
+  {
+   "word": "Amalgam",
+   "definition": "A mixture or blend.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "amalgams?"
+  },
+  {
+   "word": "Aquiline",
+   "definition": "Hooked like an eagle’s beak.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "aquiline"
+  },
+  {
+   "word": "Campanile",
+   "definition": "A bell tower.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "campaniles?"
+  },
+  {
+   "word": "Chamois",
+   "definition": "A goat-antelope of the Alps.",
+   "chapters": [
+    34,
+    38,
+    44
+   ],
+   "defined_in": 34,
+   "pattern": "chamois"
+  },
+  {
+   "word": "Chasseur",
+   "definition": "A huntsman; a light infantryman.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "chasseurs?"
+  },
+  {
+   "word": "Debacle",
+   "definition": "A sudden collapse or disaster.",
+   "chapters": [
+    34,
+    40
+   ],
+   "defined_in": 34,
+   "pattern": "debacles?"
+  },
+  {
+   "word": "Deciduous",
+   "definition": "Falling off at a season, as leaves do.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "deciduous"
+  },
+  {
+   "word": "Declivity",
+   "definition": "A downward slope.",
+   "chapters": [
+    34,
+    35,
+    42
+   ],
+   "defined_in": 34,
+   "pattern": "declivit(?:y|ies)"
+  },
+  {
+   "word": "Eclat",
+   "definition": "Brilliance; showy success.",
+   "chapters": [
+    34,
+    42
+   ],
+   "defined_in": 34,
+   "pattern": "[eé]clat"
+  },
+  {
+   "word": "Fop",
+   "definition": "A man vain of his clothes.",
+   "chapters": [
+    34,
+    56
+   ],
+   "defined_in": 34,
+   "pattern": "fops?"
+  },
+  {
+   "word": "Galvanized",
+   "definition": "Shocked into action, as by electricity.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "galvaniz(?:e|ed|ing)"
+  },
+  {
+   "word": "Halberdier",
+   "definition": "A soldier armed with a halberd, a spear and axe on a long pole.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "halberdiers?"
+  },
+  {
+   "word": "Integer",
+   "definition": "A whole number.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "integers?"
+  },
+  {
+   "word": "Lounge lizard",
+   "definition": "A man who idles in fashionable places seeking rich women.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "lounge lizards?"
+  },
+  {
+   "word": "Puissance",
+   "definition": "Power, might.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "puissance"
+  },
+  {
+   "word": "Purdah",
+   "definition": "The seclusion of women from public sight.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "purdah"
+  },
+  {
+   "word": "Scintilla",
+   "definition": "A spark; a tiny trace.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "scintillas?"
+  },
+  {
+   "word": "Spurious",
+   "definition": "False.",
+   "chapters": [
+    34,
+    50,
+    51,
+    82
+   ],
+   "defined_in": 34,
+   "pattern": "spurious"
+  },
+  {
+   "word": "Timorous",
+   "definition": "Timid.",
+   "chapters": [
+    34,
+    54
+   ],
+   "defined_in": 34,
+   "pattern": "timorous"
+  },
+  {
+   "word": "Titubation",
+   "definition": "Staggering; unsteadiness.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "titubation"
+  },
+  {
+   "word": "Ululation",
+   "definition": "Howling or wailing.",
+   "chapters": [
+    34,
+    59
+   ],
+   "defined_in": 34,
+   "pattern": "ululations?"
+  },
+  {
+   "word": "Wainscoting",
+   "definition": "Wooden paneling on the lower part of a wall.",
+   "chapters": [
+    34
+   ],
+   "defined_in": 34,
+   "pattern": "wainscoting"
   }
  ],
  "vocab_chapters": [
@@ -13784,6 +14013,7 @@
   31,
   32,
   33,
+  34,
   43
  ]
 }
