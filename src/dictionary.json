@@ -14663,6 +14663,57 @@
    ],
    "defined_in": 37,
    "pattern": "usurp(?:s|ed|ing)?"
+  },
+  {
+   "word": "Refraction",
+   "definition": "The bending of light as it passes from one medium to another.",
+   "chapters": [
+    24,
+    37,
+    40,
+    45,
+    49,
+    53,
+    59,
+    61
+   ],
+   "defined_in": 37,
+   "pattern": "refractions?"
+  },
+  {
+   "word": "Sable",
+   "definition": "Black.",
+   "chapters": [
+    2,
+    35,
+    37,
+    65
+   ],
+   "defined_in": 37,
+   "pattern": "sable"
+  },
+  {
+   "word": "Throttled",
+   "definition": "Strangled.",
+   "chapters": [
+    37
+   ],
+   "defined_in": 37,
+   "pattern": "throttled?"
+  },
+  {
+   "word": "Transience",
+   "definition": "The state of passing away quickly.",
+   "chapters": [
+    31,
+    34,
+    37,
+    45,
+    47,
+    52
+   ],
+   "defined_in": 37,
+   "pattern": "transience"
   }
  ],
  "vocab_chapters": [
