@@ -15351,6 +15351,198 @@
    ],
    "defined_in": 41,
    "pattern": "windlass(?:es)?"
+  },
+  {
+   "word": "Adipose",
+   "definition": "Fatty.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "adipose"
+  },
+  {
+   "word": "Buccaneer",
+   "definition": "A pirate.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "buccaneers?"
+  },
+  {
+   "word": "Catafalque",
+   "definition": "A raised platform on which a coffin lies in state.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "catafalques?"
+  },
+  {
+   "word": "Contrariety",
+   "definition": "Opposition; contrariness.",
+   "chapters": [
+    42,
+    51
+   ],
+   "defined_in": 42,
+   "pattern": "contrariet(?:y|ies)"
+  },
+  {
+   "word": "Cordage",
+   "definition": "Ropes, especially the rigging of a ship.",
+   "chapters": [
+    31,
+    42,
+    47,
+    62
+   ],
+   "defined_in": 42,
+   "pattern": "cordages?"
+  },
+  {
+   "word": "Echoic",
+   "definition": "Echoing.",
+   "chapters": [
+    38,
+    42,
+    47,
+    52,
+    54,
+    62
+   ],
+   "defined_in": 42,
+   "pattern": "echoic"
+  },
+  {
+   "word": "Grimace",
+   "definition": "A twisted expression of the face.",
+   "chapters": [
+    38,
+    42,
+    52
+   ],
+   "defined_in": 42,
+   "pattern": "grimaces?"
+  },
+  {
+   "word": "Hen-pecked",
+   "definition": "Nagged and ruled by one’s wife.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "hen-?pecked"
+  },
+  {
+   "word": "Intrepid",
+   "definition": "Fearless.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "intrepid"
+  },
+  {
+   "word": "Numerologist",
+   "definition": "One who reads hidden meanings in numbers.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "numerologists?"
+  },
+  {
+   "word": "Pavilion",
+   "definition": "A large tent; a light ornamental building.",
+   "chapters": [
+    6,
+    42,
+    52,
+    65
+   ],
+   "defined_in": 42,
+   "pattern": "pavilions?"
+  },
+  {
+   "word": "Prepossessing",
+   "definition": "Making a good first impression.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "prepossessing"
+  },
+  {
+   "word": "Punctilious",
+   "definition": "Exact in matters of etiquette and detail.",
+   "chapters": [
+    42,
+    71,
+    82
+   ],
+   "defined_in": 42,
+   "pattern": "punctilious"
+  },
+  {
+   "word": "Rapacious",
+   "definition": "Greedy; predatory.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "rapacious"
+  },
+  {
+   "word": "Retort",
+   "definition": "A glass vessel with a long bent neck, used by alchemists for distilling.",
+   "chapters": [
+    34,
+    42,
+    62,
+    81
+   ],
+   "defined_in": 42,
+   "pattern": "retorts?"
+  },
+  {
+   "word": "Sedimentary",
+   "definition": "Settled out like sediment.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "sedimentary"
+  },
+  {
+   "word": "Taper",
+   "definition": "A slender candle.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "tapers?"
+  },
+  {
+   "word": "Testamentary",
+   "definition": "Of a will or testament.",
+   "chapters": [
+    42
+   ],
+   "defined_in": 42,
+   "pattern": "testamentary"
+  },
+  {
+   "word": "Will-o’-the-wisp",
+   "definition": "A flickering light over marshes that leads travelers astray; anything that deludes.",
+   "chapters": [
+    3,
+    42,
+    43
+   ],
+   "defined_in": 42,
+   "pattern": "will-o'-the-wisp"
   }
  ],
  "vocab_chapters": [
@@ -15395,6 +15587,7 @@
   39,
   40,
   41,
+  42,
   43
  ]
 }
