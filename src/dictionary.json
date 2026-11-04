@@ -14969,6 +14969,172 @@
    ],
    "defined_in": 39,
    "pattern": "variegated"
+  },
+  {
+   "word": "Altitudinous",
+   "definition": "Lofty.",
+   "chapters": [
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "altitudinous"
+  },
+  {
+   "word": "Aplomb",
+   "definition": "Self-assurance, poise.",
+   "chapters": [
+    40,
+    45
+   ],
+   "defined_in": 40,
+   "pattern": "aplomb"
+  },
+  {
+   "word": "Beau ideal",
+   "definition": "The perfect type or model.",
+   "chapters": [
+    40,
+    41
+   ],
+   "defined_in": 40,
+   "pattern": "beau ideal"
+  },
+  {
+   "word": "Beau monde",
+   "definition": "Fashionable society.",
+   "chapters": [
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "beau monde"
+  },
+  {
+   "word": "Caitiff",
+   "definition": "A base, despicable person.",
+   "chapters": [
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "caitiffs?"
+  },
+  {
+   "word": "Craven",
+   "definition": "Cowardly.",
+   "chapters": [
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "craven"
+  },
+  {
+   "word": "Gauntlet",
+   "definition": "An armored glove.",
+   "chapters": [
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "gauntlets?"
+  },
+  {
+   "word": "Halloo",
+   "definition": "A shout to urge on hounds.",
+   "chapters": [
+    40,
+    49
+   ],
+   "defined_in": 40,
+   "pattern": "halloo"
+  },
+  {
+   "word": "Inchoate",
+   "definition": "Only begun; unformed.",
+   "chapters": [
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "inchoate"
+  },
+  {
+   "word": "Irresolute",
+   "definition": "Undecided, wavering.",
+   "chapters": [
+    32,
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "irresolute"
+  },
+  {
+   "word": "Limpidly",
+   "definition": "Clearly.",
+   "chapters": [
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "limpidly"
+  },
+  {
+   "word": "Oratorio",
+   "definition": "A large musical work for voices and orchestra on a sacred theme.",
+   "chapters": [
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "oratorios?"
+  },
+  {
+   "word": "Pollarded",
+   "definition": "Cut back to the trunk to make a dense head of branches.",
+   "chapters": [
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "pollarded"
+  },
+  {
+   "word": "Sentinel",
+   "definition": "A guard or watchman.",
+   "chapters": [
+    30,
+    34,
+    40,
+    41,
+    45,
+    48,
+    54,
+    62
+   ],
+   "defined_in": 40,
+   "pattern": "sentinels?"
+  },
+  {
+   "word": "Tallyho",
+   "definition": "The huntsman’s cry on sighting the fox.",
+   "chapters": [
+    40,
+    53
+   ],
+   "defined_in": 40,
+   "pattern": "tallyho"
+  },
+  {
+   "word": "Ubiquity",
+   "definition": "The state of being everywhere at once.",
+   "chapters": [
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "ubiquity"
+  },
+  {
+   "word": "Venturesome",
+   "definition": "Daring.",
+   "chapters": [
+    34,
+    40
+   ],
+   "defined_in": 40,
+   "pattern": "venturesome"
   }
  ],
  "vocab_chapters": [
@@ -15011,6 +15177,7 @@
   37,
   38,
   39,
+  40,
   43
  ]
 }
