@@ -15135,6 +15135,223 @@
    ],
    "defined_in": 40,
    "pattern": "venturesome"
+  },
+  {
+   "word": "Acumen",
+   "definition": "Keen insight or shrewdness.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "acumen"
+  },
+  {
+   "word": "Apostate",
+   "definition": "One who abandons a faith or cause.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "apostates?"
+  },
+  {
+   "word": "Banditti",
+   "definition": "Bandits; the Italian plural.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "banditti"
+  },
+  {
+   "word": "Bier",
+   "definition": "A stand on which a corpse or coffin is carried.",
+   "chapters": [
+    41,
+    52,
+    66,
+    77
+   ],
+   "defined_in": 41,
+   "pattern": "biers?"
+  },
+  {
+   "word": "Cadaverous",
+   "definition": "Pale and gaunt, like a corpse.",
+   "chapters": [
+    41,
+    59,
+    62
+   ],
+   "defined_in": 41,
+   "pattern": "cadaverous"
+  },
+  {
+   "word": "Corsair",
+   "definition": "A pirate, or a pirate ship.",
+   "chapters": [
+    41,
+    47
+   ],
+   "defined_in": 41,
+   "pattern": "corsairs?"
+  },
+  {
+   "word": "Countermand",
+   "definition": "An order that cancels an earlier one.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "countermands?"
+  },
+  {
+   "word": "Countermarch",
+   "definition": "A march back the way one came.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "countermarch(?:es)?"
+  },
+  {
+   "word": "Cul-de-sac",
+   "definition": "A dead end.",
+   "chapters": [
+    41,
+    49
+   ],
+   "defined_in": 41,
+   "pattern": "cul-de-sacs?"
+  },
+  {
+   "word": "Lyrebird",
+   "definition": "An Australian songbird whose tail, spread, has the shape of a lyre.",
+   "chapters": [
+    3,
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "lyre ?birds?"
+  },
+  {
+   "word": "Martialing",
+   "definition": "Young’s spelling of marshaling, arranging in order, as troops.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "martialing"
+  },
+  {
+   "word": "Portcullis",
+   "definition": "A heavy iron grating lowered to close a castle gateway.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "portcullis"
+  },
+  {
+   "word": "Pulverized",
+   "definition": "Ground to powder.",
+   "chapters": [
+    36,
+    41,
+    47,
+    50,
+    51,
+    55,
+    56,
+    59,
+    61
+   ],
+   "defined_in": 41,
+   "pattern": "pulverized"
+  },
+  {
+   "word": "Pyramidal",
+   "definition": "Shaped like a pyramid.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "pyramidal"
+  },
+  {
+   "word": "Regurgitation",
+   "definition": "A flowing or casting back.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "regurgitations?"
+  },
+  {
+   "word": "Sequin",
+   "definition": "A small shining disk sewn on clothing; first the zecchino, a Venetian gold coin.",
+   "chapters": [
+    14,
+    39,
+    41,
+    42,
+    47,
+    49,
+    50,
+    51,
+    59,
+    62,
+    65
+   ],
+   "defined_in": 41,
+   "pattern": "sequins?"
+  },
+  {
+   "word": "Stalagmite",
+   "definition": "A column of mineral rising from a cave floor, built by drips from above.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "stalagmites?"
+  },
+  {
+   "word": "Tergiversation",
+   "definition": "Evasion; a turning of one’s back on a cause.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "tergiversations?"
+  },
+  {
+   "word": "Torrential",
+   "definition": "Rushing like a torrent.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "torrential"
+  },
+  {
+   "word": "Unprepossessing",
+   "definition": "Unattractive; making no good first impression.",
+   "chapters": [
+    41
+   ],
+   "defined_in": 41,
+   "pattern": "unprepossessing"
+  },
+  {
+   "word": "Windlass",
+   "definition": "A winch for hauling or hoisting.",
+   "chapters": [
+    41,
+    47,
+    54
+   ],
+   "defined_in": 41,
+   "pattern": "windlass(?:es)?"
   }
  ],
  "vocab_chapters": [
@@ -15178,6 +15395,7 @@
   38,
   39,
   40,
+  41,
   43
  ]
 }
