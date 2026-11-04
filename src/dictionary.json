@@ -15543,6 +15543,26 @@
    ],
    "defined_in": 42,
    "pattern": "will-o'-the-wisp"
+  },
+  {
+   "word": "Ashes of roses",
+   "definition": "A grayish pink; also a scent of roses.",
+   "chapters": [
+    42,
+    62
+   ],
+   "defined_in": 42,
+   "pattern": "ashes-of-roses"
+  },
+  {
+   "word": "Lacuna",
+   "definition": "A blank space or missing part; plural lacunae.",
+   "chapters": [
+    42,
+    54
+   ],
+   "defined_in": 42,
+   "pattern": "lacunae?"
   }
  ],
  "vocab_chapters": [
