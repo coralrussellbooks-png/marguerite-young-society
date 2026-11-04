@@ -14874,6 +14874,101 @@
    ],
    "defined_in": 38,
    "pattern": "turnkeys?"
+  },
+  {
+   "word": "Avant-garde",
+   "definition": "The vanguard; those who lead in new ideas.",
+   "chapters": [
+    39
+   ],
+   "defined_in": 39,
+   "pattern": "avant-? ?garde"
+  },
+  {
+   "word": "Benumbed",
+   "definition": "Made numb.",
+   "chapters": [
+    14,
+    29,
+    39
+   ],
+   "defined_in": 39,
+   "pattern": "benumbed"
+  },
+  {
+   "word": "Billows",
+   "definition": "Great waves.",
+   "chapters": [
+    4,
+    29,
+    39,
+    41,
+    45,
+    47,
+    49,
+    52,
+    72,
+    81
+   ],
+   "defined_in": 39,
+   "pattern": "billows?"
+  },
+  {
+   "word": "Casque",
+   "definition": "A helmet.",
+   "chapters": [
+    39
+   ],
+   "defined_in": 39,
+   "pattern": "casques?"
+  },
+  {
+   "word": "Genii",
+   "definition": "Spirits, jinn.",
+   "chapters": [
+    39
+   ],
+   "defined_in": 39,
+   "pattern": "genii"
+  },
+  {
+   "word": "Mantilla",
+   "definition": "A lace scarf worn over the head and shoulders.",
+   "chapters": [
+    39,
+    44,
+    47
+   ],
+   "defined_in": 39,
+   "pattern": "mantillas?"
+  },
+  {
+   "word": "Recreant",
+   "definition": "Cowardly; unfaithful to a belief.",
+   "chapters": [
+    39
+   ],
+   "defined_in": 39,
+   "pattern": "recreant"
+  },
+  {
+   "word": "Squire",
+   "definition": "A knight’s attendant.",
+   "chapters": [
+    6,
+    39
+   ],
+   "defined_in": 39,
+   "pattern": "squires?"
+  },
+  {
+   "word": "Variegated",
+   "definition": "Marked with patches of different colors.",
+   "chapters": [
+    39
+   ],
+   "defined_in": 39,
+   "pattern": "variegated"
   }
  ],
  "vocab_chapters": [
@@ -14915,6 +15010,7 @@
   36,
   37,
   38,
+  39,
   43
  ]
 }
