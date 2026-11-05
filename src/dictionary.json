@@ -11318,11 +11318,12 @@
    "chapters": [
     22,
     45,
+    49,
     50,
     58
    ],
    "defined_in": 22,
-   "pattern": "bellwethers?"
+   "pattern": "bellwether(?:s|ing)?"
   },
   {
    "word": "Camisole",
@@ -16370,6 +16371,193 @@
    ],
    "defined_in": 48,
    "pattern": "nebulae?|nebulas"
+  },
+  {
+   "word": "Barcarolle",
+   "definition": "A Venetian gondolier’s song, or music in its gentle rocking rhythm.",
+   "chapters": [
+    49,
+    62
+   ],
+   "defined_in": 49,
+   "pattern": "barcarolles?"
+  },
+  {
+   "word": "Cenotaph",
+   "definition": "An empty tomb or monument to someone buried elsewhere.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "cenotaphs?"
+  },
+  {
+   "word": "Empyrean",
+   "definition": "The highest heaven, the realm of pure fire or light.",
+   "chapters": [
+    49,
+    53
+   ],
+   "defined_in": 49,
+   "pattern": "empyrean"
+  },
+  {
+   "word": "Enceinte",
+   "definition": "Pregnant.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "enceinte"
+  },
+  {
+   "word": "Habitué",
+   "definition": "A regular visitor to a place.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "habitu[eé]s?"
+  },
+  {
+   "word": "Ineluctable",
+   "definition": "Not to be escaped or avoided.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "ineluctable"
+  },
+  {
+   "word": "Infrangible",
+   "definition": "Unbreakable; not to be violated.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "infrangible"
+  },
+  {
+   "word": "Interstice",
+   "definition": "A narrow space between things.",
+   "chapters": [
+    18,
+    49,
+    72
+   ],
+   "defined_in": 49,
+   "pattern": "interstices?"
+  },
+  {
+   "word": "Jinrikisha",
+   "definition": "A rickshaw, a light two-wheeled hooded carriage drawn by one or more people.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "jinrikishas?"
+  },
+  {
+   "word": "Jitney",
+   "definition": "A small bus or car carrying passengers for a low fare.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "jitneys?"
+  },
+  {
+   "word": "Legato",
+   "definition": "In music, smooth and connected, without breaks between notes.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "legato"
+  },
+  {
+   "word": "Mortice",
+   "definition": "A hole cut to receive a tenon in joining wood; also spelled mortise.",
+   "chapters": [
+    49,
+    59
+   ],
+   "defined_in": 49,
+   "pattern": "mortice|mortise"
+  },
+  {
+   "word": "Peccadillo",
+   "definition": "A small, trifling sin.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "peccadill(?:o|os|oes)"
+  },
+  {
+   "word": "Pouter",
+   "definition": "A breed of pigeon that puffs out its crop.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "pouters?|pouter-breasted"
+  },
+  {
+   "word": "Riparian",
+   "definition": "Of or on the bank of a river or stream.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "riparian"
+  },
+  {
+   "word": "Staccato",
+   "definition": "In music, short and detached, each note cut off from the next.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "staccato"
+  },
+  {
+   "word": "Striated",
+   "definition": "Marked with thin parallel lines or bands.",
+   "chapters": [
+    49,
+    72,
+    79
+   ],
+   "defined_in": 49,
+   "pattern": "striated"
+  },
+  {
+   "word": "Tempera",
+   "definition": "Paint made with egg yolk, or a picture painted with it.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "tempera"
+  },
+  {
+   "word": "Threnody",
+   "definition": "A song or poem of lament for the dead.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "threnod(?:y|ies)"
+  },
+  {
+   "word": "True bill",
+   "definition": "An indictment approved by a grand jury.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "true bills?"
   }
  ],
  "vocab_chapters": [
@@ -16420,6 +16608,7 @@
   45,
   46,
   47,
-  48
+  48,
+  49
  ]
 }
