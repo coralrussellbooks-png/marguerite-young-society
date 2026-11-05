@@ -15662,6 +15662,154 @@
    ],
    "defined_in": 44,
    "pattern": "seminal"
+  },
+  {
+   "word": "Acolyte",
+   "definition": "An attendant or follower; in church, one who assists the priest.",
+   "chapters": [
+    45
+   ],
+   "defined_in": 45,
+   "pattern": "acolytes?"
+  },
+  {
+   "word": "Bedouin",
+   "definition": "A nomadic desert Arab.",
+   "chapters": [
+    30,
+    34,
+    45,
+    53
+   ],
+   "defined_in": 45,
+   "pattern": "bedouins?"
+  },
+  {
+   "word": "Caisson",
+   "definition": "A two-wheeled cart for ammunition, used at military funerals to carry the coffin.",
+   "chapters": [
+    45
+   ],
+   "defined_in": 45,
+   "pattern": "caissons?"
+  },
+  {
+   "word": "Chaplet",
+   "definition": "A wreath or string of beads worn on the head.",
+   "chapters": [
+    45
+   ],
+   "defined_in": 45,
+   "pattern": "chaplets?"
+  },
+  {
+   "word": "Defile",
+   "definition": "A narrow pass between mountains.",
+   "chapters": [
+    45,
+    63,
+    73,
+    82
+   ],
+   "defined_in": 45,
+   "pattern": "defiles?"
+  },
+  {
+   "word": "Escutcheon",
+   "definition": "The shield bearing a coat of arms.",
+   "chapters": [
+    45,
+    63
+   ],
+   "defined_in": 45,
+   "pattern": "escutcheons?"
+  },
+  {
+   "word": "Intaglio",
+   "definition": "A design cut into the surface of a gem or stone.",
+   "chapters": [
+    45,
+    52,
+    59
+   ],
+   "defined_in": 45,
+   "pattern": "intaglios?"
+  },
+  {
+   "word": "Persian",
+   "definition": "A person of Persia, now Iran.",
+   "chapters": [
+    24,
+    30,
+    35,
+    40,
+    45,
+    61,
+    82
+   ],
+   "defined_in": 45,
+   "pattern": "persians?"
+  },
+  {
+   "word": "Philatelist",
+   "definition": "A stamp collector.",
+   "chapters": [
+    45,
+    55
+   ],
+   "defined_in": 45,
+   "pattern": "philatelists?"
+  },
+  {
+   "word": "Punctilio",
+   "definition": "A fine point of etiquette; exactness in form.",
+   "chapters": [
+    45,
+    57
+   ],
+   "defined_in": 45,
+   "pattern": "punctilio"
+  },
+  {
+   "word": "Sepulchre",
+   "definition": "A tomb cut in rock or built of stone.",
+   "chapters": [
+    45,
+    65
+   ],
+   "defined_in": 45,
+   "pattern": "sepulchres?"
+  },
+  {
+   "word": "Seraglio",
+   "definition": "The women’s quarters of a Muslim palace; a harem.",
+   "chapters": [
+    36,
+    37,
+    45,
+    49,
+    52
+   ],
+   "defined_in": 45,
+   "pattern": "seraglios?"
+  },
+  {
+   "word": "Shot silk",
+   "definition": "Silk woven with threads of two colors, so it changes color in the light.",
+   "chapters": [
+    45
+   ],
+   "defined_in": 45,
+   "pattern": "shot colors"
+  },
+  {
+   "word": "Windjammer",
+   "definition": "A large square-rigged sailing ship.",
+   "chapters": [
+    45
+   ],
+   "defined_in": 45,
+   "pattern": "windjammers?"
   }
  ],
  "vocab_chapters": [
@@ -15708,6 +15856,7 @@
   41,
   42,
   43,
-  44
+  44,
+  45
  ]
 }
