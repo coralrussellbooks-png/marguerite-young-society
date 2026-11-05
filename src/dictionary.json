@@ -15821,6 +15821,54 @@
    ],
    "defined_in": 45,
    "pattern": "ptarmigans?"
+  },
+  {
+   "word": "Alpenglow",
+   "definition": "The rosy light on high peaks just after sunset or before sunrise.",
+   "chapters": [
+    46
+   ],
+   "defined_in": 46,
+   "pattern": "alpenglow"
+  },
+  {
+   "word": "Corruscating",
+   "definition": "Young’s spelling of coruscating, flashing or sparkling.",
+   "chapters": [
+    46,
+    47
+   ],
+   "defined_in": 46,
+   "pattern": "corruscating"
+  },
+  {
+   "word": "Paladin",
+   "definition": "One of Charlemagne’s twelve knights; any heroic champion.",
+   "chapters": [
+    46
+   ],
+   "defined_in": 46,
+   "pattern": "paladins?"
+  },
+  {
+   "word": "Poseur",
+   "definition": "One who puts on airs to impress.",
+   "chapters": [
+    46
+   ],
+   "defined_in": 46,
+   "pattern": "poseurs?"
+  },
+  {
+   "word": "Steeplejack",
+   "definition": "One who climbs and repairs steeples and chimneys.",
+   "chapters": [
+    46,
+    47,
+    62
+   ],
+   "defined_in": 46,
+   "pattern": "steeple-?jacks?"
   }
  ],
  "vocab_chapters": [
@@ -15868,6 +15916,7 @@
   42,
   43,
   44,
-  45
+  45,
+  46
  ]
 }
