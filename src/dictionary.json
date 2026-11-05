@@ -10267,11 +10267,13 @@
     22,
     38,
     42,
+    47,
     50,
+    65,
     82
    ],
    "defined_in": 18,
-   "pattern": "seine"
+   "pattern": "sein(?:e|es|ed|ing)"
   },
   {
    "word": "Solstice",
@@ -16051,6 +16053,123 @@
    ],
    "defined_in": 47,
    "pattern": "wentletraps?"
+  },
+  {
+   "word": "Bailiff",
+   "definition": "An officer of a court who keeps order and serves its writs.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "bailiffs?"
+  },
+  {
+   "word": "Egregious",
+   "definition": "Outstandingly bad; flagrant.",
+   "chapters": [
+    13,
+    47,
+    49
+   ],
+   "defined_in": 47,
+   "pattern": "egregious"
+  },
+  {
+   "word": "Flotilla",
+   "definition": "A small fleet of boats or ships.",
+   "chapters": [
+    34,
+    47,
+    49
+   ],
+   "defined_in": 47,
+   "pattern": "flotillas?"
+  },
+  {
+   "word": "Flotsam",
+   "definition": "Wreckage or goods found floating on the sea.",
+   "chapters": [
+    47,
+    81,
+    82
+   ],
+   "defined_in": 47,
+   "pattern": "flotsam"
+  },
+  {
+   "word": "Litigant",
+   "definition": "A person engaged in a lawsuit.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "litigants?"
+  },
+  {
+   "word": "Maidenhair",
+   "definition": "A delicate fern with fan-shaped leaflets on dark, hair-thin stalks.",
+   "chapters": [
+    27,
+    47,
+    54
+   ],
+   "defined_in": 47,
+   "pattern": "maidenhair"
+  },
+  {
+   "word": "Phantasm",
+   "definition": "A ghostly figure or illusion of the mind.",
+   "chapters": [
+    14,
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "phantasms?"
+  },
+  {
+   "word": "Reprobate",
+   "definition": "A person beyond hope of salvation; an unprincipled person.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "reprobates?"
+  },
+  {
+   "word": "Somnolence",
+   "definition": "Sleepiness; drowsiness.",
+   "chapters": [
+    40,
+    47,
+    49,
+    51,
+    52,
+    58,
+    61
+   ],
+   "defined_in": 47,
+   "pattern": "somnolence"
+  },
+  {
+   "word": "True-lover’s knot",
+   "definition": "A knot of two interlaced loops, a token of lasting love.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "true-lover's knots?"
+  },
+  {
+   "word": "Viceroy",
+   "definition": "One who rules a province as the deputy of a king.",
+   "chapters": [
+    29,
+    38,
+    47,
+    57
+   ],
+   "defined_in": 47,
+   "pattern": "viceroys?"
   }
  ],
  "vocab_chapters": [
