@@ -16357,6 +16357,19 @@
    ],
    "defined_in": 48,
    "pattern": "widow(?:'s)? walks?"
+  },
+  {
+   "word": "Nebula",
+   "definition": "A cloud of gas and dust in space; once any hazy patch of light among the stars, including galaxies.",
+   "chapters": [
+    48,
+    49,
+    51,
+    66,
+    72
+   ],
+   "defined_in": 48,
+   "pattern": "nebulae?|nebulas"
   }
  ],
  "vocab_chapters": [
