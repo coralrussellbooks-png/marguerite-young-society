@@ -15563,6 +15563,105 @@
    ],
    "defined_in": 42,
    "pattern": "lacunae?"
+  },
+  {
+   "word": "Accolade",
+   "definition": "An award or praise; once the touch of a sword that made a knight.",
+   "chapters": [
+    44
+   ],
+   "defined_in": 44,
+   "pattern": "accolades?"
+  },
+  {
+   "word": "Addenda",
+   "definition": "Things added; plural of addendum.",
+   "chapters": [
+    44
+   ],
+   "defined_in": 44,
+   "pattern": "addend(?:a|um)"
+  },
+  {
+   "word": "Anchorite",
+   "definition": "A hermit who lives shut away from the world for religious reasons.",
+   "chapters": [
+    44,
+    47
+   ],
+   "defined_in": 44,
+   "pattern": "anchorites?"
+  },
+  {
+   "word": "Cashiered",
+   "definition": "Dismissed from the armed forces in disgrace.",
+   "chapters": [
+    44,
+    54
+   ],
+   "defined_in": 44,
+   "pattern": "cashiered"
+  },
+  {
+   "word": "Denigrate",
+   "definition": "To belittle or blacken.",
+   "chapters": [
+    44
+   ],
+   "defined_in": 44,
+   "pattern": "denigrat(?:e|es|ed|ing)"
+  },
+  {
+   "word": "Muleteer",
+   "definition": "A driver of mules.",
+   "chapters": [
+    44
+   ],
+   "defined_in": 44,
+   "pattern": "muleteers?"
+  },
+  {
+   "word": "Polyandrous",
+   "definition": "Having more than one husband at a time.",
+   "chapters": [
+    44
+   ],
+   "defined_in": 44,
+   "pattern": "polyandrous"
+  },
+  {
+   "word": "Porphyry",
+   "definition": "A hard purple-red rock with embedded crystals, prized by Roman emperors.",
+   "chapters": [
+    44,
+    47,
+    49
+   ],
+   "defined_in": 44,
+   "pattern": "porphyry"
+  },
+  {
+   "word": "Quavering",
+   "definition": "Trembling, as a voice.",
+   "chapters": [
+    35,
+    44,
+    47,
+    54,
+    55
+   ],
+   "defined_in": 44,
+   "pattern": "quavering"
+  },
+  {
+   "word": "Seminal",
+   "definition": "Seedlike; giving rise to later growth.",
+   "chapters": [
+    44,
+    51
+   ],
+   "defined_in": 44,
+   "pattern": "seminal"
   }
  ],
  "vocab_chapters": [
@@ -15608,6 +15707,7 @@
   40,
   41,
   42,
-  43
+  43,
+  44
  ]
 }
