@@ -15810,6 +15810,17 @@
    ],
    "defined_in": 45,
    "pattern": "windjammers?"
+  },
+  {
+   "word": "Ptarmigan",
+   "definition": "A grouse of cold mountains and the far north that turns white in winter.",
+   "chapters": [
+    35,
+    42,
+    45
+   ],
+   "defined_in": 45,
+   "pattern": "ptarmigans?"
   }
  ],
  "vocab_chapters": [
