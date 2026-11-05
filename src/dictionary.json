@@ -16170,6 +16170,193 @@
    ],
    "defined_in": 47,
    "pattern": "viceroys?"
+  },
+  {
+   "word": "Chancery",
+   "definition": "A court of equity, as distinct from a court of common law; in England, the Lord Chancellor’s court.",
+   "chapters": [
+    48,
+    55
+   ],
+   "defined_in": 48,
+   "pattern": "chancery"
+  },
+  {
+   "word": "Domino",
+   "definition": "A loose hooded cloak worn with a half mask at a masquerade.",
+   "chapters": [
+    1,
+    9,
+    17,
+    19,
+    29,
+    37,
+    41,
+    48,
+    52,
+    53,
+    55,
+    56,
+    77
+   ],
+   "defined_in": 48,
+   "pattern": "dominos?|dominoes"
+  },
+  {
+   "word": "Dubiety",
+   "definition": "Doubt; a feeling of uncertainty.",
+   "chapters": [
+    48,
+    49,
+    73
+   ],
+   "defined_in": 48,
+   "pattern": "dubiet(?:y|ies)"
+  },
+  {
+   "word": "Fanlight",
+   "definition": "A half-round window, often ribbed like a fan, over a door.",
+   "chapters": [
+    48
+   ],
+   "defined_in": 48,
+   "pattern": "fan ?lights?"
+  },
+  {
+   "word": "Henbane",
+   "definition": "A foul-smelling, poisonous plant of the nightshade family.",
+   "chapters": [
+    48
+   ],
+   "defined_in": 48,
+   "pattern": "henbane"
+  },
+  {
+   "word": "Hermetical",
+   "definition": "Sealed airtight; also secret or occult, from Hermes Trismegistus, the legendary father of alchemy.",
+   "chapters": [
+    29,
+    48
+   ],
+   "defined_in": 48,
+   "pattern": "hermetic(?:al)?(?:ly)?"
+  },
+  {
+   "word": "Incandescence",
+   "definition": "The giving off of light by something heated until it glows.",
+   "chapters": [
+    48,
+    49,
+    51,
+    57,
+    68
+   ],
+   "defined_in": 48,
+   "pattern": "incandescence"
+  },
+  {
+   "word": "Marsh light",
+   "definition": "A will-o’-the-wisp, a flickering light over marshes from burning marsh gas.",
+   "chapters": [
+    48
+   ],
+   "defined_in": 48,
+   "pattern": "marsh lights?"
+  },
+  {
+   "word": "Nacreous",
+   "definition": "Like mother-of-pearl; iridescent.",
+   "chapters": [
+    48,
+    51
+   ],
+   "defined_in": 48,
+   "pattern": "nacreous"
+  },
+  {
+   "word": "Octahedron",
+   "definition": "A solid figure with eight faces.",
+   "chapters": [
+    48
+   ],
+   "defined_in": 48,
+   "pattern": "octahedr(?:on|ons|a)"
+  },
+  {
+   "word": "Opalescence",
+   "definition": "A milky, shifting iridescence like that of an opal.",
+   "chapters": [
+    3,
+    14,
+    19,
+    25,
+    29,
+    32,
+    37,
+    41,
+    45,
+    46,
+    47,
+    48,
+    49,
+    51,
+    52,
+    62,
+    72,
+    76,
+    81
+   ],
+   "defined_in": 48,
+   "pattern": "opalescen(?:ce|t)"
+  },
+  {
+   "word": "Pigeoncote",
+   "definition": "A house for doves or pigeons, standing alone or built into a house; pigeons kept there were once an important source of food.",
+   "chapters": [
+    48
+   ],
+   "defined_in": 48,
+   "pattern": "pigeoncotes?"
+  },
+  {
+   "word": "Rhomb",
+   "definition": "A rhombus, a parallelogram with four equal sides.",
+   "chapters": [
+    48
+   ],
+   "defined_in": 48,
+   "pattern": "rhombs?"
+  },
+  {
+   "word": "Tort",
+   "definition": "A wrongful act, other than a breach of contract, for which one may sue.",
+   "chapters": [
+    47,
+    48,
+    53
+   ],
+   "defined_in": 48,
+   "pattern": "torts?"
+  },
+  {
+   "word": "Vicissitude",
+   "definition": "A change of fortune, usually for the worse.",
+   "chapters": [
+    48
+   ],
+   "defined_in": 48,
+   "pattern": "vicissitudes?"
+  },
+  {
+   "word": "Widow’s walk",
+   "definition": "A railed rooftop platform on a coastal house, said to be where wives watched for ships.",
+   "chapters": [
+    22,
+    35,
+    48
+   ],
+   "defined_in": 48,
+   "pattern": "widow(?:'s)? walks?"
   }
  ],
  "vocab_chapters": [
@@ -16219,6 +16406,7 @@
   44,
   45,
   46,
-  47
+  47,
+  48
  ]
 }
