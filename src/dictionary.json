@@ -15869,6 +15869,36 @@
    ],
    "defined_in": 46,
    "pattern": "steeple-?jacks?"
+  },
+  {
+   "word": "Boreal",
+   "definition": "Of the north; from Boreas, the north wind.",
+   "chapters": [
+    46,
+    61
+   ],
+   "defined_in": 46,
+   "pattern": "boreal"
+  },
+  {
+   "word": "Rheumed",
+   "definition": "Clouded or filmed, as eyes with rheum.",
+   "chapters": [
+    46
+   ],
+   "defined_in": 46,
+   "pattern": "rheumed"
+  },
+  {
+   "word": "Attrition",
+   "definition": "A wearing away by friction.",
+   "chapters": [
+    46,
+    50,
+    52
+   ],
+   "defined_in": 46,
+   "pattern": "attritions?"
   }
  ],
  "vocab_chapters": [
