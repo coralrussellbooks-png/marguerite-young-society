@@ -16558,6 +16558,57 @@
    ],
    "defined_in": 49,
    "pattern": "true bills?"
+  },
+  {
+   "word": "Crinoline",
+   "definition": "A stiff petticoat or hooped frame worn to spread a skirt.",
+   "chapters": [
+    41,
+    42,
+    45,
+    49,
+    52
+   ],
+   "defined_in": 49,
+   "pattern": "crinolines?"
+  },
+  {
+   "word": "Galleon",
+   "definition": "A large, many-decked sailing ship of the fifteenth to eighteenth centuries.",
+   "chapters": [
+    30,
+    49,
+    54
+   ],
+   "defined_in": 49,
+   "pattern": "galleons?"
+  },
+  {
+   "word": "Lodestone",
+   "definition": "A naturally magnetic stone; anything that draws or attracts.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "lodestones?"
+  },
+  {
+   "word": "Sedition",
+   "definition": "Speech or action inciting rebellion against the state.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "sedition"
+  },
+  {
+   "word": "Undulatory",
+   "definition": "Moving in waves.",
+   "chapters": [
+    49
+   ],
+   "defined_in": 49,
+   "pattern": "undulatory"
   }
  ],
  "vocab_chapters": [
