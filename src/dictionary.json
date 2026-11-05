@@ -15899,6 +15899,158 @@
    ],
    "defined_in": 46,
    "pattern": "attritions?"
+  },
+  {
+   "word": "Alderman",
+   "definition": "A member of a city council.",
+   "chapters": [
+    29,
+    47,
+    51
+   ],
+   "defined_in": 47,
+   "pattern": "aldermen|alderman"
+  },
+  {
+   "word": "Circumambient",
+   "definition": "Surrounding on all sides.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "circumambient"
+  },
+  {
+   "word": "Concatenated",
+   "definition": "Linked together in a chain.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "concatenated"
+  },
+  {
+   "word": "Enamellist",
+   "definition": "One who works in enamel.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "enamellists?"
+  },
+  {
+   "word": "Lapidarian",
+   "definition": "A cutter or polisher of gems.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "lapidarians?"
+  },
+  {
+   "word": "Largo",
+   "definition": "In music, very slow and broad.",
+   "chapters": [
+    47,
+    61,
+    62
+   ],
+   "defined_in": 47,
+   "pattern": "largo"
+  },
+  {
+   "word": "Memento mori",
+   "definition": "A reminder of death, such as a skull.",
+   "chapters": [
+    39,
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "memento mori"
+  },
+  {
+   "word": "Mosaicist",
+   "definition": "A maker of mosaics.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "mosaicists?"
+  },
+  {
+   "word": "Nocturne",
+   "definition": "A dreamy piece of music suggesting the night.",
+   "chapters": [
+    38,
+    47,
+    50,
+    62
+   ],
+   "defined_in": 47,
+   "pattern": "nocturnes?"
+  },
+  {
+   "word": "Purblind",
+   "definition": "Partly blind; dim-sighted.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "purblind"
+  },
+  {
+   "word": "Shrive",
+   "definition": "To hear confession and grant absolution.",
+   "chapters": [
+    47,
+    49
+   ],
+   "defined_in": 47,
+   "pattern": "shrive[sd]?"
+  },
+  {
+   "word": "Transmogrify",
+   "definition": "To change into something strange.",
+   "chapters": [
+    12,
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "transmogrif(?:y|ying|ied)"
+  },
+  {
+   "word": "Tremolo",
+   "definition": "A rapid trembling repetition of a note.",
+   "chapters": [
+    47,
+    58
+   ],
+   "defined_in": 47,
+   "pattern": "tremolos?"
+  },
+  {
+   "word": "Usufruct",
+   "definition": "The right to use and enjoy another’s property.",
+   "chapters": [
+    47
+   ],
+   "defined_in": 47,
+   "pattern": "usufruct"
+  },
+  {
+   "word": "Wentletrap",
+   "definition": "A sea snail whose shell winds like a spiral staircase.",
+   "chapters": [
+    35,
+    47,
+    48,
+    51,
+    52,
+    56,
+    62
+   ],
+   "defined_in": 47,
+   "pattern": "wentletraps?"
   }
  ],
  "vocab_chapters": [
@@ -15947,6 +16099,7 @@
   43,
   44,
   45,
-  46
+  46,
+  47
  ]
 }
