@@ -16857,6 +16857,207 @@
    ],
    "defined_in": 51,
    "pattern": "warp"
+  },
+  {
+   "word": "Calyx",
+   "definition": "The ring of sepals that encloses a flower in bud.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "calyx|calyxes|calyces"
+  },
+  {
+   "word": "Chrysalis",
+   "definition": "The hard case in which a caterpillar becomes a butterfly or moth.",
+   "chapters": [
+    29,
+    47,
+    52,
+    53,
+    55,
+    59,
+    61
+   ],
+   "defined_in": 52,
+   "pattern": "chrysalis|chrysalides|chrysalises"
+  },
+  {
+   "word": "Coif",
+   "definition": "A close-fitting cap, such as the white headdress a nun wears under her veil.",
+   "chapters": [
+    52,
+    55
+   ],
+   "defined_in": 52,
+   "pattern": "coifs?"
+  },
+  {
+   "word": "Corolla",
+   "definition": "The petals of a flower taken together.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "corollas?"
+  },
+  {
+   "word": "Edelweiss",
+   "definition": "A small alpine plant with woolly white star-shaped flower heads.",
+   "chapters": [
+    43,
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "edelweiss"
+  },
+  {
+   "word": "Glissando",
+   "definition": "A rapid slide up or down a musical scale.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "glissand(?:o|i|os)"
+  },
+  {
+   "word": "Hobble skirt",
+   "definition": "A long skirt so narrow below the knee that it hampered walking, fashionable about 1910.",
+   "chapters": [
+    52,
+    53
+   ],
+   "defined_in": 52,
+   "pattern": "hobble skirts?"
+  },
+  {
+   "word": "Jack-in-the-pulpit",
+   "definition": "A woodland plant whose flower spike stands under a hooded leaf, like a preacher in a pulpit.",
+   "chapters": [
+    6,
+    29,
+    52,
+    61,
+    74,
+    77,
+    80,
+    82
+   ],
+   "defined_in": 52,
+   "pattern": "jack-in-the-pulpit"
+  },
+  {
+   "word": "Kibitzer",
+   "definition": "An onlooker at a card game who offers unwanted advice.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "kibitzers?"
+  },
+  {
+   "word": "Mantua-maker",
+   "definition": "A dressmaker; from the mantua, a loose gown of the seventeenth and eighteenth centuries.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "mantua-makers?"
+  },
+  {
+   "word": "Matador",
+   "definition": "The bullfighter who kills the bull.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "matadors?"
+  },
+  {
+   "word": "Mourning cloak",
+   "definition": "A dark butterfly with pale-edged wings that survives the winter as an adult; also a black cloak worn in mourning.",
+   "chapters": [
+    29,
+    49,
+    50,
+    52,
+    53,
+    55,
+    59,
+    61
+   ],
+   "defined_in": 52,
+   "pattern": "mourning cloaks?"
+  },
+  {
+   "word": "Pannier",
+   "definition": "A frame or hoop worn under a skirt to widen it at the hips.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "panniers?"
+  },
+  {
+   "word": "Plumb line",
+   "definition": "A cord with a weight at the end, used to find the true vertical or to sound depth.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "plumb ?lines?"
+  },
+  {
+   "word": "Samovar",
+   "definition": "A metal urn used, especially in Russia, to boil water for tea.",
+   "chapters": [
+    52,
+    54
+   ],
+   "defined_in": 52,
+   "pattern": "samovars?"
+  },
+  {
+   "word": "Signet",
+   "definition": "A small seal, often set in a ring, used to stamp documents.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "signets?"
+  },
+  {
+   "word": "Stomacher",
+   "definition": "An ornamental panel worn over the chest and stomach under the lacing of a bodice.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "stomachers?"
+  },
+  {
+   "word": "Troubadour",
+   "definition": "A poet and singer of southern France in the eleventh to thirteenth centuries who sang of courtly love.",
+   "chapters": [
+    40,
+    44,
+    46,
+    47,
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "troubadours?"
+  },
+  {
+   "word": "Zither",
+   "definition": "A stringed instrument with a flat soundboard, played lying flat.",
+   "chapters": [
+    52,
+    55,
+    57
+   ],
+   "defined_in": 52,
+   "pattern": "zithers?"
   }
  ],
  "vocab_chapters": [
@@ -16910,6 +17111,7 @@
   48,
   49,
   50,
-  51
+  51,
+  52
  ]
 }
