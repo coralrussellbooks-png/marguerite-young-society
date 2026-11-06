@@ -448,14 +448,13 @@
   if (id !== 'guide-home' || !page) return;
   var box = document.createElement('div');
   box.className = 'offlinebox';
-  box.innerHTML = '<p><strong>Read it anywhere.</strong> Save all 83 pages of this guide on this device to read without a connection, or download the whole guide as a book.</p>' +
-    '<p><button type="button" class="offlinebtn" id="saveGuide">Save this guide offline</button> <span class="offlinestatus" id="saveStatus" aria-live="polite"></span></p>' +
-    '<p>Download: <a href="downloads/a-guide-to-reading-miss-macintosh-my-darling.epub" download>eBook (EPUB)</a> · <a href="downloads/a-guide-to-reading-miss-macintosh-my-darling.pdf" download>PDF</a></p>';
+  box.innerHTML = '<p><strong>Read it anywhere.</strong> Save all 83 pages of this guide on this device to read without a connection.</p>' +
+    '<p><button type="button" class="offlinebtn" id="saveGuide">Save this guide offline</button> <span class="offlinestatus" id="saveStatus" aria-live="polite"></span></p>';
   var h1 = page.querySelector('h1'), meta = page.querySelector('.pagemeta');
   var at = meta || h1;
   if (at && at.nextSibling) page.insertBefore(box, at.nextSibling); else page.appendChild(box);
   var btn = document.getElementById('saveGuide'), status = document.getElementById('saveStatus');
-  if (!('serviceWorker' in navigator)) { btn.disabled = true; status.textContent = 'This browser cannot save pages offline; the eBook or PDF will work instead.'; return; }
+  if (!('serviceWorker' in navigator)) { btn.disabled = true; status.textContent = 'This browser cannot save pages offline.'; return; }
   navigator.serviceWorker.addEventListener('message', function (e) {
     var d = e.data || {};
     if (d.type !== 'save-progress' || d.list !== 'guide') return;
