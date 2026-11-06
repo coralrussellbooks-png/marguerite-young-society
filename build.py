@@ -118,7 +118,7 @@ def shell(content, crumb, static):
   <nav class="side" id="side" aria-label="Contents"></nav>
   <main>
     <div class="column">
-      <div class="crumbrow"><div class="crumb" id="crumb">{e(crumb)}</div><button class="findopen" id="findOpen" type="button">Find on this page</button></div>
+      <div class="crumbrow"><div class="crumb" id="crumb">{e(crumb)}</div><span class="crumbtools"><button class="findopen" id="findOpen" type="button">Find on this page</button> <button class="findopen" id="printBtn" type="button" hidden>Save as PDF</button></span></div>
       <article id="page">{content}</article>
       <section id="results" hidden></section>
     </div>
@@ -184,6 +184,7 @@ def write_page(fname, pid, title, desc, img, crumb, content, kind='article', iso
            '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">\n'
            '<link rel="icon" href="favicon.ico" sizes="any">\n<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">\n'
            '<link rel="apple-touch-icon" href="apple-touch-icon.png">\n'
+           '<link rel="manifest" href="app.webmanifest">\n<meta name="theme-color" content="#1b2630">\n'
            f'<title>{e(full_title)}</title>\n' + head_extra + meta(title, desc, img, kind) + ld(pid, title, desc, img, url, crumb, iso, raw) + FONTS +
            '<link rel="stylesheet" href="site.css">\n</head>\n<body>\n' + shell(content, crumb, True) +
            '<script src="site.js"></script>\n</body>\n</html>\n')
@@ -229,3 +230,10 @@ sm.append('</urlset>')
 open(H + '/sitemap.xml', 'w').write('\n'.join(sm) + '\n')
 DATES.save()
 print('pages', count + 2, '| sitemap entries', len(PAGE_URLS))
+
+# Offline reading: the list of pages the "Save this guide offline" button stores on a reader's device.
+import json as _json
+_guide = sorted(f for f in os.listdir(H) if f.startswith('guide-') and f.endswith('.html'))
+_core = ['./', 'site.css', 'site.js', 'data/manifest.json', 'favicon.ico', 'icon-192.png', 'app.webmanifest']
+os.makedirs(H + '/offline', exist_ok=True)
+open(H + '/offline/guide.json', 'w').write(_json.dumps({'title': 'A Guide to Reading Miss MacIntosh, My Darling', 'urls': _core + _guide}, indent=0))

@@ -181,3 +181,21 @@ article dl.gloss dd { margin: 0.1rem 0 0; }
 .cite { font-family: var(--ui); font-size: 0.85rem; line-height: 1.45; color: var(--ink-2); margin-top: 2.4rem; padding-top: 0.9rem; border-top: 1px solid var(--rule); overflow-wrap: anywhere; }
 /* Questions and answers on the home page */
 .faq h3 { margin-bottom: 0.2rem; }
+
+/* Offline box on the guide home page */
+.crumbtools { display: inline-flex; gap: 0.4rem; flex-wrap: wrap; justify-content: flex-end; }
+.offlinebox { border: 1px solid var(--rule); border-left: 3px solid var(--accent); background: var(--accent-soft); padding: 0.7rem 1rem; margin: 1rem 0 1.5rem; border-radius: 4px; }
+.offlinebox p { margin: 0.35rem 0; }
+.offlinebtn { font: 600 0.85rem var(--ui); color: var(--paper); background: var(--ink); border: 0; border-radius: 4px; padding: 0.4rem 0.8rem; cursor: pointer; }
+.offlinebtn:disabled { opacity: 0.6; cursor: default; }
+.offlinestatus { font: 0.85rem var(--ui); color: var(--ink-2); }
+
+/* Printing or saving as PDF: just the page itself, no menu, search, or buttons. */
+@media print {
+  header.top, nav.side, .crumbrow, .site-foot, .findbar, #results, .offlinebox, .menu-btn { display: none !important; }
+  body, main, .layout, .column { background: #fff !important; color: #000 !important; display: block !important; margin: 0 !important; padding: 0 !important; max-width: none !important; width: auto !important; }
+  article#page { font-size: 11pt; line-height: 1.45; }
+  a { color: #000; text-decoration: none; }
+  h1, h2, h3 { page-break-after: avoid; break-after: avoid; }
+  li, p { orphans: 3; widows: 3; }
+}

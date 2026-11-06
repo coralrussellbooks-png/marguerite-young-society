@@ -1,0 +1,14 @@
+{
+  "name": "The Marguerite Young Society",
+  "short_name": "Marguerite Young",
+  "description": "A free companion to the life and work of Marguerite Young (1908 to 1995).",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef1f1",
+  "theme_color": "#1b2630",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
