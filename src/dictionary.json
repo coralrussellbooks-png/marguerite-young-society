@@ -17058,6 +17058,117 @@
    ],
    "defined_in": 52,
    "pattern": "zithers?"
+  },
+  {
+   "word": "Bodice",
+   "definition": "The close-fitting upper part of a dress.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "bodices?"
+  },
+  {
+   "word": "Chalet",
+   "definition": "A wooden Swiss mountain house with wide overhanging eaves.",
+   "chapters": [
+    30,
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "chalets?"
+  },
+  {
+   "word": "Chronometer",
+   "definition": "A timepiece of great accuracy, used at sea to find longitude.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "chronometers?"
+  },
+  {
+   "word": "Cusp",
+   "definition": "A point where two curves meet; a pointed end.",
+   "chapters": [
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "cusps?"
+  },
+  {
+   "word": "Dry dock",
+   "definition": "A dock that can be pumped dry so a ship’s hull can be repaired.",
+   "chapters": [
+    48,
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "dry ?docks?"
+  },
+  {
+   "word": "Etude",
+   "definition": "A piece of music written to practice a technique.",
+   "chapters": [
+    52,
+    53
+   ],
+   "defined_in": 52,
+   "pattern": "etudes?|études?"
+  },
+  {
+   "word": "Lintel",
+   "definition": "The horizontal beam across the top of a door or window.",
+   "chapters": [
+    52,
+    56
+   ],
+   "defined_in": 52,
+   "pattern": "lintels?"
+  },
+  {
+   "word": "Litigacious",
+   "definition": "An old form of litigious: fond of lawsuits; quarrelsome.",
+   "chapters": [
+    51,
+    52
+   ],
+   "defined_in": 52,
+   "pattern": "litigacious"
+  },
+  {
+   "word": "Psyche",
+   "definition": "A tall mirror that swings in a frame; also the soul.",
+   "chapters": [
+    1,
+    3,
+    29,
+    38,
+    40,
+    42,
+    47,
+    48,
+    49,
+    51,
+    52,
+    54,
+    55,
+    61
+   ],
+   "defined_in": 52,
+   "pattern": "psyches?"
+  },
+  {
+   "word": "Ward-heeler",
+   "definition": "A minor political worker who canvasses a city ward for a party boss.",
+   "chapters": [
+    52,
+    53,
+    54,
+    59
+   ],
+   "defined_in": 52,
+   "pattern": "ward-heelers?"
   }
  ],
  "vocab_chapters": [
