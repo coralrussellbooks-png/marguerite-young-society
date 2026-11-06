@@ -16706,6 +16706,147 @@
    ],
    "defined_in": 50,
    "pattern": "staggy"
+  },
+  {
+   "word": "Amphora",
+   "definition": "A tall two-handled jar of ancient Greece and Rome.",
+   "chapters": [
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "amphoras?|amphorae"
+  },
+  {
+   "word": "Arcana",
+   "definition": "Secrets; mysteries known only to the initiated.",
+   "chapters": [
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "arcana"
+  },
+  {
+   "word": "Copestone",
+   "definition": "The top stone of a wall or building; the crowning touch.",
+   "chapters": [
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "copestones?"
+  },
+  {
+   "word": "Impresario",
+   "definition": "The manager of an opera or concert company.",
+   "chapters": [
+    51,
+    54
+   ],
+   "defined_in": 51,
+   "pattern": "impresarios?"
+  },
+  {
+   "word": "Intestate",
+   "definition": "Having made no will.",
+   "chapters": [
+    51,
+    63
+   ],
+   "defined_in": 51,
+   "pattern": "intestate"
+  },
+  {
+   "word": "Laconic",
+   "definition": "Using very few words.",
+   "chapters": [
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "laconic"
+  },
+  {
+   "word": "Legatee",
+   "definition": "One who receives a legacy.",
+   "chapters": [
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "legatees?"
+  },
+  {
+   "word": "Lepidopterist",
+   "definition": "One who studies butterflies and moths.",
+   "chapters": [
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "lepidopterists?"
+  },
+  {
+   "word": "Liquescent",
+   "definition": "Melting or becoming liquid.",
+   "chapters": [
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "liquescent"
+  },
+  {
+   "word": "Mock moon",
+   "definition": "A bright spot beside the moon made by ice crystals; a paraselene.",
+   "chapters": [
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "mock moons?"
+  },
+  {
+   "word": "Pugilist",
+   "definition": "A boxer.",
+   "chapters": [
+    51,
+    65,
+    79
+   ],
+   "defined_in": 51,
+   "pattern": "pugilists?"
+  },
+  {
+   "word": "Scratch sheet",
+   "definition": "A racing sheet listing the day’s entries and the horses scratched.",
+   "chapters": [
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "scratch sheets?"
+  },
+  {
+   "word": "Semaphore",
+   "definition": "A signaling apparatus with arms or flags.",
+   "chapters": [
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "semaphores?"
+  },
+  {
+   "word": "Stirrup cup",
+   "definition": "A last drink taken in the saddle before riding off.",
+   "chapters": [
+    51,
+    54
+   ],
+   "defined_in": 51,
+   "pattern": "stirrup cups?"
+  },
+  {
+   "word": "Woof",
+   "definition": "The threads woven across the warp in a fabric.",
+   "chapters": [
+    22,
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "woof"
   }
  ],
  "vocab_chapters": [
@@ -16758,6 +16899,7 @@
   47,
   48,
   49,
-  50
+  50,
+  51
  ]
 }
