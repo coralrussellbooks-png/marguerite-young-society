@@ -39,7 +39,7 @@ def main():
             after = t[m.end():m.end() + 4]
             if re.match(r'\s*[.,;:]?\s*\(', after):
                 continue  # cited to another source
-            parts = [norm(p) for p in re.split(r'\.\.\.|…', q)]
+            parts = [norm(p) for p in re.split(r'\.\s?\.\s?\.|…|\[[^\]]*\]', q)]
             parts = [p for p in parts if len(p.split()) >= 5]
             miss = [p for p in parts if p not in book]
             if miss:
