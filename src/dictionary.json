@@ -17169,6 +17169,293 @@
    ],
    "defined_in": 52,
    "pattern": "ward-heelers?"
+  },
+  {
+   "word": "Apoplectic",
+   "definition": "Red-faced and shaking with rage, as if about to have a stroke.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "apoplectic"
+  },
+  {
+   "word": "Blasé",
+   "definition": "Bored and unimpressed from having seen too much.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "blasé|blase"
+  },
+  {
+   "word": "Brigantine",
+   "definition": "A two-masted sailing ship, square-rigged on the foremast.",
+   "chapters": [
+    53,
+    61
+   ],
+   "defined_in": 53,
+   "pattern": "brigantines?"
+  },
+  {
+   "word": "Calliope",
+   "definition": "A keyboard instrument of steam whistles, heard on showboats and at fairs.",
+   "chapters": [
+    53,
+    54
+   ],
+   "defined_in": 53,
+   "pattern": "calliopes?"
+  },
+  {
+   "word": "Cauliflower ear",
+   "definition": "An ear swollen and misshapen by repeated blows, common among boxers.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "cauliflower ears?"
+  },
+  {
+   "word": "Contrapuntal",
+   "definition": "Of counterpoint: two or more independent melodies sounding together.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "contrapuntal"
+  },
+  {
+   "word": "Equable",
+   "definition": "Even-tempered; not easily disturbed.",
+   "chapters": [
+    53,
+    55,
+    78
+   ],
+   "defined_in": 53,
+   "pattern": "equable"
+  },
+  {
+   "word": "Esse",
+   "definition": "Actual existence; being (Latin, “to be”), as in the phrase in esse.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "esse"
+  },
+  {
+   "word": "Fire-dog",
+   "definition": "An andiron, one of a pair of metal stands that hold logs in a fireplace.",
+   "chapters": [
+    22,
+    24,
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "fire-dogs?"
+  },
+  {
+   "word": "Hansom",
+   "definition": "A two-wheeled covered cab with the driver seated high behind.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "hansoms?"
+  },
+  {
+   "word": "Immolation",
+   "definition": "Sacrifice, especially by fire.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "immolations?"
+  },
+  {
+   "word": "Mace",
+   "definition": "A heavy club carried as a weapon or a symbol of authority; also the early stick used in billiards.",
+   "chapters": [
+    53,
+    54,
+    58
+   ],
+   "defined_in": 53,
+   "pattern": "maces?"
+  },
+  {
+   "word": "Pall",
+   "definition": "A cloth spread over a coffin; anything dark that covers.",
+   "chapters": [
+    49,
+    53,
+    62,
+    63
+   ],
+   "defined_in": 53,
+   "pattern": "palls?"
+  },
+  {
+   "word": "Parallelogram",
+   "definition": "A four-sided figure whose opposite sides are parallel.",
+   "chapters": [
+    48,
+    53,
+    55,
+    62
+   ],
+   "defined_in": 53,
+   "pattern": "parallelograms?"
+  },
+  {
+   "word": "Parsimonious",
+   "definition": "Very unwilling to spend money; stingy.",
+   "chapters": [
+    53,
+    55
+   ],
+   "defined_in": 53,
+   "pattern": "parsimonious"
+  },
+  {
+   "word": "Peregrination",
+   "definition": "A long, wandering journey.",
+   "chapters": [
+    14,
+    29,
+    43,
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "peregrinations?"
+  },
+  {
+   "word": "Polygon",
+   "definition": "A flat figure with many straight sides.",
+   "chapters": [
+    9,
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "polygons?"
+  },
+  {
+   "word": "Pram",
+   "definition": "A baby carriage.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "prams?"
+  },
+  {
+   "word": "Predilection",
+   "definition": "A preference or special liking.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "predilections?"
+  },
+  {
+   "word": "Punch-drunk",
+   "definition": "Dazed and confused from repeated blows to the head.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "punch-drunk"
+  },
+  {
+   "word": "Segno",
+   "definition": "A sign in written music marking where a repeat begins or ends.",
+   "chapters": [
+    53,
+    59,
+    62
+   ],
+   "defined_in": 53,
+   "pattern": "segnos?"
+  },
+  {
+   "word": "Sequestration",
+   "definition": "Seclusion; a setting apart.",
+   "chapters": [
+    53,
+    55
+   ],
+   "defined_in": 53,
+   "pattern": "sequestrations?"
+  },
+  {
+   "word": "Slalom",
+   "definition": "A downhill ski race on a winding course between pairs of flags.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "slaloms?"
+  },
+  {
+   "word": "Spats",
+   "definition": "Short cloth gaiters worn over the instep and ankle.",
+   "chapters": [
+    2,
+    53,
+    54,
+    58
+   ],
+   "defined_in": 53,
+   "pattern": "spats"
+  },
+  {
+   "word": "Speakeasy",
+   "definition": "An illegal bar during Prohibition.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "speakeasy|speakeasies"
+  },
+  {
+   "word": "Stumble-bum",
+   "definition": "A clumsy, punch-drunk boxer; a down-and-out.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "stumble-bums?"
+  },
+  {
+   "word": "Sublunary",
+   "definition": "Of this world; beneath the moon.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "sublunary"
+  },
+  {
+   "word": "Volitional",
+   "definition": "Of the will; done by choice.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "volitional"
+  },
+  {
+   "word": "Whirligig",
+   "definition": "A spinning toy; anything that whirls.",
+   "chapters": [
+    42,
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "whirligigs?"
   }
  ],
  "vocab_chapters": [
@@ -17223,6 +17510,7 @@
   49,
   50,
   51,
-  52
+  52,
+  53
  ]
 }
