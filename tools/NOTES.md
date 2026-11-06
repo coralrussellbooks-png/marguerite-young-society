@@ -15,6 +15,7 @@ These notes let any editing session pick up where the last one left off. Nothing
 - The 1964 cutoff is a suggestion, not a hard rule. Flag post-1964 items with their citation; do not cut them by default.
 - No first person in resources outside quotations. No em dashes, en dashes, or straight quotes in her own writing (dashes inside quotations stay). Punctuation goes inside closing quotation marks.
 - Cite properly. Use the King James Bible.
+- Quote the novel exactly. Anything in quotation marks presented as Young’s text must match the book word for word; a paraphrase is never put in quotation marks as if from the text. Misquotations and invented quotations (often left over from earlier drafts or AI summaries) are fixed to the exact words or removed, and shown to Coral first.
 - Mark uncited Wikipedia-derived passages “(Wikipedia)”.
 - Concepts present lists only concepts that are actually linked on the page.
 - Remove her interpretations that conflict with Young’s own statements, but show them first.
@@ -61,6 +62,7 @@ Make a new chapter’s head, rebuild, and tail from the last chapter’s with `s
 ## Checks
 
 - `python3 tools/lint.py N` before every publish. Known false positives: “I” in Roman numerals or “Meditation I”, dashes inside quotations, repeated words inside quotations.
+- `python3 tools/quotecheck.py N` on every pass: lists quotations not found in the novel. Each hit is a misquotation, a paraphrase in quotation marks, an OCR slip in the working copy of the novel (check the book), or an outside source that needs a citation in parentheses.
 - `python3 tools/grepsite.py "pattern" width` searches all chapter and concept pages.
 - `python3 tools/find.py` searches the novel text.
 
