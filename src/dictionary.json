@@ -17565,6 +17565,317 @@
    ],
    "defined_in": 53,
    "pattern": "satinwood"
+  },
+  {
+   "word": "Ancien régime",
+   "definition": "The old order; the French monarchy before the Revolution of 1789.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "ancien r[eé]gime"
+  },
+  {
+   "word": "Bonanza",
+   "definition": "A sudden source of great wealth, from a rich vein of ore.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "bonanzas?"
+  },
+  {
+   "word": "Boutonniere",
+   "definition": "A flower worn in a buttonhole.",
+   "chapters": [
+    54,
+    55
+   ],
+   "defined_in": 54,
+   "pattern": "boutonnieres?"
+  },
+  {
+   "word": "Buttress",
+   "definition": "A projecting support built against a wall; a flying buttress arches from a pier to the wall.",
+   "chapters": [
+    40,
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "buttress(?:es)?"
+  },
+  {
+   "word": "Cheroot",
+   "definition": "A cigar cut square at both ends.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "cheroots?"
+  },
+  {
+   "word": "Cowl",
+   "definition": "A hood; also a hooded cap on a chimney that turns with the wind.",
+   "chapters": [
+    54,
+    61,
+    81
+   ],
+   "defined_in": 54,
+   "pattern": "cowls?"
+  },
+  {
+   "word": "Crescendo",
+   "definition": "A gradual increase in loudness.",
+   "chapters": [
+    53,
+    54,
+    62
+   ],
+   "defined_in": 54,
+   "pattern": "crescendos?"
+  },
+  {
+   "word": "Debilitated",
+   "definition": "Weakened.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "debilitated"
+  },
+  {
+   "word": "Droshky",
+   "definition": "A low, open, four-wheeled Russian carriage.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "droshk(?:y|ies)"
+  },
+  {
+   "word": "Ennui",
+   "definition": "Weariness and boredom from lack of interest.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "ennui"
+  },
+  {
+   "word": "Equerry",
+   "definition": "An officer of a royal household who attends the sovereign.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "equerr(?:y|ies)"
+  },
+  {
+   "word": "Extradition",
+   "definition": "The handing over of an accused person to the country where the crime was committed.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "extradition"
+  },
+  {
+   "word": "Four-in-hand",
+   "definition": "A carriage drawn by four horses driven by one person; also a necktie knotted the same way.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "four-in-hands?"
+  },
+  {
+   "word": "Haberdasher",
+   "definition": "A dealer in men’s furnishings, such as hats and shirts; in Britain, in small sewing goods.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "haberdashers?"
+  },
+  {
+   "word": "Hackney",
+   "definition": "A carriage for hire.",
+   "chapters": [
+    54,
+    63
+   ],
+   "defined_in": 54,
+   "pattern": "hackneys?"
+  },
+  {
+   "word": "Hophead",
+   "definition": "A drug addict, especially one who uses opium.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "hopheads?"
+  },
+  {
+   "word": "Mansard",
+   "definition": "A roof with two slopes on each side, the lower one steep, named for François Mansart.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "mansards?"
+  },
+  {
+   "word": "Monocle",
+   "definition": "A single eyeglass held in place by the muscles around the eye.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "monocles?"
+  },
+  {
+   "word": "Mummer",
+   "definition": "An actor in a masked pantomime or folk play.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "mummers?"
+  },
+  {
+   "word": "Munificence",
+   "definition": "Lavish generosity.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "munificence"
+  },
+  {
+   "word": "Octave",
+   "definition": "The interval of eight notes between two tones of the same name.",
+   "chapters": [
+    14,
+    48,
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "octaves?"
+  },
+  {
+   "word": "Pecuniary",
+   "definition": "Having to do with money.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "pecuniary"
+  },
+  {
+   "word": "Primogeniture",
+   "definition": "The right of the first-born son to inherit the whole estate.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "primogeniture"
+  },
+  {
+   "word": "Quitclaim",
+   "definition": "A legal release of a claim or right.",
+   "chapters": [
+    54,
+    62
+   ],
+   "defined_in": 54,
+   "pattern": "quit-?claims?"
+  },
+  {
+   "word": "Serf",
+   "definition": "A peasant bound to the land and to its lord.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "serfs?"
+  },
+  {
+   "word": "Snowbird",
+   "definition": "Slang for a cocaine user; also a small finch of winter.",
+   "chapters": [
+    2,
+    5,
+    6,
+    38,
+    41,
+    42,
+    43,
+    50,
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "snow ?birds?"
+  },
+  {
+   "word": "Sonata",
+   "definition": "An instrumental composition, usually in three or four movements.",
+   "chapters": [
+    14,
+    54,
+    58,
+    60
+   ],
+   "defined_in": 54,
+   "pattern": "sonatas?"
+  },
+  {
+   "word": "Sostenuto",
+   "definition": "Sustained; a direction to hold the notes for their full value.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "sostenuto"
+  },
+  {
+   "word": "Steppe",
+   "definition": "A vast, treeless grassland, as in Russia.",
+   "chapters": [
+    34,
+    45,
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "steppes?"
+  },
+  {
+   "word": "Tertium quid",
+   "definition": "A third something, neither one thing nor the other (Latin).",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "tertium quid"
+  },
+  {
+   "word": "Trepidation",
+   "definition": "Fear and trembling.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "trepidation"
+  },
+  {
+   "word": "Troika",
+   "definition": "A Russian carriage or sleigh drawn by three horses abreast.",
+   "chapters": [
+    54
+   ],
+   "defined_in": 54,
+   "pattern": "troikas?"
   }
  ],
  "vocab_chapters": [
@@ -17620,6 +17931,7 @@
   50,
   51,
   52,
-  53
+  53,
+  54
  ]
 }
