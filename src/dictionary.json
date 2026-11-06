@@ -16609,6 +16609,103 @@
    ],
    "defined_in": 49,
    "pattern": "undulatory"
+  },
+  {
+   "word": "Cockscomb",
+   "definition": "The red crest of a rooster; also a jester’s cap, or a garden flower shaped like a crest.",
+   "chapters": [
+    50,
+    61,
+    64
+   ],
+   "defined_in": 50,
+   "pattern": "cockscombs?"
+  },
+  {
+   "word": "Emmet",
+   "definition": "An ant.",
+   "chapters": [
+    50
+   ],
+   "defined_in": 50,
+   "pattern": "emmets?"
+  },
+  {
+   "word": "Gentian",
+   "definition": "A plant with deep blue trumpet-shaped flowers.",
+   "chapters": [
+    50,
+    52,
+    61
+   ],
+   "defined_in": 50,
+   "pattern": "gentians?"
+  },
+  {
+   "word": "Holy Writ",
+   "definition": "The Bible; sacred scripture.",
+   "chapters": [
+    50
+   ],
+   "defined_in": 50,
+   "pattern": "holy writ"
+  },
+  {
+   "word": "Illimitable",
+   "definition": "Without limits; boundless.",
+   "chapters": [
+    50,
+    53
+   ],
+   "defined_in": 50,
+   "pattern": "illimitable"
+  },
+  {
+   "word": "Moondial",
+   "definition": "A dial that tells the time by the shadow cast by moonlight.",
+   "chapters": [
+    50
+   ],
+   "defined_in": 50,
+   "pattern": "moondials?"
+  },
+  {
+   "word": "Penumbra",
+   "definition": "The partly shaded outer region of a shadow cast by an opaque object.",
+   "chapters": [
+    50
+   ],
+   "defined_in": 50,
+   "pattern": "penumbra"
+  },
+  {
+   "word": "Sequestered",
+   "definition": "Set apart; hidden away.",
+   "chapters": [
+    36,
+    49,
+    50
+   ],
+   "defined_in": 50,
+   "pattern": "sequestered"
+  },
+  {
+   "word": "Sidereal",
+   "definition": "Of or measured by the stars.",
+   "chapters": [
+    50
+   ],
+   "defined_in": 50,
+   "pattern": "sidereal"
+  },
+  {
+   "word": "Staggy",
+   "definition": "Like a stag; rangy and long-legged.",
+   "chapters": [
+    50
+   ],
+   "defined_in": 50,
+   "pattern": "staggy"
   }
  ],
  "vocab_chapters": [
@@ -16660,6 +16757,7 @@
   46,
   47,
   48,
-  49
+  49,
+  50
  ]
 }
