@@ -17456,6 +17456,115 @@
    ],
    "defined_in": 53,
    "pattern": "whirligigs?"
+  },
+  {
+   "word": "Bookie",
+   "definition": "A bookmaker, who takes bets and pays off the winners.",
+   "chapters": [
+    14,
+    47,
+    53,
+    54,
+    82
+   ],
+   "defined_in": 53,
+   "pattern": "bookies?"
+  },
+  {
+   "word": "Bowler",
+   "definition": "A hard felt hat with a rounded crown, called a derby in America; also one who bowls.",
+   "chapters": [
+    53,
+    56,
+    57,
+    81
+   ],
+   "defined_in": 53,
+   "pattern": "bowlers?"
+  },
+  {
+   "word": "Crone",
+   "definition": "A withered old woman.",
+   "chapters": [
+    49,
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "crones?"
+  },
+  {
+   "word": "Harpsichord",
+   "definition": "A keyboard instrument, ancestor of the piano, whose strings are plucked rather than struck.",
+   "chapters": [
+    53,
+    60,
+    62
+   ],
+   "defined_in": 53,
+   "pattern": "harpsichords?"
+  },
+  {
+   "word": "Jaundiced",
+   "definition": "Sour and distrustful, as if seeing through the yellow of jaundice.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "jaundiced"
+  },
+  {
+   "word": "Lope",
+   "definition": "A long, easy, bounding stride.",
+   "chapters": [
+    18,
+    53,
+    54
+   ],
+   "defined_in": 53,
+   "pattern": "lopes?|loped|loping"
+  },
+  {
+   "word": "Miscue",
+   "definition": "In billiards, a stroke in which the cue slips off the ball; any blunder.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "miscues?|miscued"
+  },
+  {
+   "word": "Ninepins",
+   "definition": "A bowling game with nine pins, forerunner of tenpins.",
+   "chapters": [
+    3,
+    22,
+    53,
+    64,
+    65
+   ],
+   "defined_in": 53,
+   "pattern": "ninepins"
+  },
+  {
+   "word": "Roulette",
+   "definition": "A gambling game in which a ball comes to rest in a numbered slot of a spinning wheel.",
+   "chapters": [
+    14,
+    29,
+    53,
+    59
+   ],
+   "defined_in": 53,
+   "pattern": "roulettes?"
+  },
+  {
+   "word": "Satinwood",
+   "definition": "A hard, lustrous yellow wood used for fine furniture and instruments.",
+   "chapters": [
+    53
+   ],
+   "defined_in": 53,
+   "pattern": "satinwood"
   }
  ],
  "vocab_chapters": [
