@@ -16847,6 +16847,16 @@
    ],
    "defined_in": 51,
    "pattern": "woof"
+  },
+  {
+   "word": "Warp",
+   "definition": "The lengthwise threads on a loom, crossed by the woof.",
+   "chapters": [
+    22,
+    51
+   ],
+   "defined_in": 51,
+   "pattern": "warp"
   }
  ],
  "vocab_chapters": [
