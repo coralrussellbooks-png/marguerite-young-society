@@ -435,3 +435,39 @@
     if (location.hash.slice(1) !== start) location.hash = start; else show(decodeURIComponent(start));
   }).catch(function () { page.innerHTML = '<p class="status">The Society could not load its contents. Reload the page to try again.</p>'; });
 })();
+
+/* Offline reading and printing. None of this changes the site for readers who are online. */
+(function () {
+  if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+    window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
+  }
+  var pb = document.getElementById('printBtn');
+  if (pb && window.print) { pb.hidden = false; pb.addEventListener('click', function () { window.print(); }); }
+  var id = document.documentElement.getAttribute('data-page');
+  var page = document.getElementById('page');
+  if (id !== 'guide-home' || !page) return;
+  var box = document.createElement('div');
+  box.className = 'offlinebox';
+  box.innerHTML = '<p><strong>Read it anywhere.</strong> Save all 83 pages of this guide on this device to read without a connection, or download the whole guide as a book.</p>' +
+    '<p><button type="button" class="offlinebtn" id="saveGuide">Save this guide offline</button> <span class="offlinestatus" id="saveStatus" aria-live="polite"></span></p>' +
+    '<p>Download: <a href="downloads/a-guide-to-reading-miss-macintosh-my-darling.epub" download>eBook (EPUB)</a> · <a href="downloads/a-guide-to-reading-miss-macintosh-my-darling.pdf" download>PDF</a></p>';
+  var h1 = page.querySelector('h1'), meta = page.querySelector('.pagemeta');
+  var at = meta || h1;
+  if (at && at.nextSibling) page.insertBefore(box, at.nextSibling); else page.appendChild(box);
+  var btn = document.getElementById('saveGuide'), status = document.getElementById('saveStatus');
+  if (!('serviceWorker' in navigator)) { btn.disabled = true; status.textContent = 'This browser cannot save pages offline; the eBook or PDF will work instead.'; return; }
+  navigator.serviceWorker.addEventListener('message', function (e) {
+    var d = e.data || {};
+    if (d.type !== 'save-progress' || d.list !== 'guide') return;
+    status.textContent = d.done < d.total ? 'Saving ' + d.done + ' of ' + d.total + '…' :
+      (d.failed ? 'Saved ' + (d.total - d.failed) + ' of ' + d.total + '. Try again for the rest.' : 'Saved. The whole guide will open on this device without a connection.');
+    if (d.done >= d.total) btn.disabled = false;
+  });
+  btn.addEventListener('click', function () {
+    btn.disabled = true; status.textContent = 'Getting the list…';
+    Promise.all([fetch('offline/guide.json').then(function (r) { return r.json(); }), navigator.serviceWorker.ready]).then(function (x) {
+      var sw = x[1].active || navigator.serviceWorker.controller;
+      sw.postMessage({ type: 'save-list', list: 'guide', urls: x[0].urls });
+    }).catch(function () { btn.disabled = false; status.textContent = 'Could not save right now. Check the connection and try again.'; });
+  });
+})();
