@@ -17876,6 +17876,210 @@
    ],
    "defined_in": 54,
    "pattern": "troikas?"
+  },
+  {
+   "word": "Satire",
+   "definition": "The use of humor, irony, exaggeration, or ridicule to expose and criticize folly or vice.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "satire|satirist"
+  },
+  {
+   "word": "Plinth",
+   "definition": "The square block at the base of a column, pedestal, or statue.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "plinths?"
+  },
+  {
+   "word": "Isocheim",
+   "definition": "A line on a map joining places with the same average winter temperature.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "isocheims?"
+  },
+  {
+   "word": "Viol",
+   "definition": "A bowed stringed instrument of the Renaissance and Baroque, usually with six strings and frets, held upright.",
+   "chapters": [
+    32,
+    46,
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "viols?"
+  },
+  {
+   "word": "Avant-courier",
+   "definition": "One sent ahead to announce what is coming; a herald (French).",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "avant-couriers?"
+  },
+  {
+   "word": "Morceau",
+   "definition": "A short piece of music or writing (French, a morsel).",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "morceaux?"
+  },
+  {
+   "word": "Virginal",
+   "definition": "A small, legless harpsichord set on a table, popular in sixteenth- and seventeenth-century England.",
+   "chapters": [
+    2,
+    18,
+    32,
+    52,
+    55,
+    63
+   ],
+   "defined_in": 55,
+   "pattern": "virginals?"
+  },
+  {
+   "word": "Liqueur",
+   "definition": "A strong, sweet, flavored spirit taken after dinner.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "liqueurs?"
+  },
+  {
+   "word": "Patrimony",
+   "definition": "Property inherited from one’s father or ancestors.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "patrimony"
+  },
+  {
+   "word": "Altruist",
+   "definition": "One who acts for the good of others rather than for oneself.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "altruists?"
+  },
+  {
+   "word": "Egotist",
+   "definition": "One who thinks mainly of oneself.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "egotists?"
+  },
+  {
+   "word": "Extrovert",
+   "definition": "An outgoing person who draws energy from others.",
+   "chapters": [
+    55,
+    70
+   ],
+   "defined_in": 55,
+   "pattern": "extroverts?"
+  },
+  {
+   "word": "Inclemency",
+   "definition": "Harshness, especially of weather.",
+   "chapters": [
+    51,
+    53,
+    55,
+    63
+   ],
+   "defined_in": 55,
+   "pattern": "inclemenc(?:y|ies)"
+  },
+  {
+   "word": "Interlocutor",
+   "definition": "A person who takes part in a conversation.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "interlocutors?"
+  },
+  {
+   "word": "Tympanum",
+   "definition": "The eardrum; also the space within an arch above a door.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "tympan(?:um|ums|a)"
+  },
+  {
+   "word": "Lethargic",
+   "definition": "Sluggish and drowsy.",
+   "chapters": [
+    55,
+    64
+   ],
+   "defined_in": 55,
+   "pattern": "lethargic"
+  },
+  {
+   "word": "Schottische",
+   "definition": "A round dance like a slow polka, popular in the nineteenth century.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "schottisches?"
+  },
+  {
+   "word": "Minuet",
+   "definition": "A slow, stately dance in triple time for couples, and the music written for it.",
+   "chapters": [
+    35,
+    55,
+    70
+   ],
+   "defined_in": 55,
+   "pattern": "minuets?"
+  },
+  {
+   "word": "Fritillary",
+   "definition": "A butterfly with orange wings checked with black, often silver-spotted beneath.",
+   "chapters": [
+    55,
+    62
+   ],
+   "defined_in": 55,
+   "pattern": "fritillar(?:y|ies)"
+  },
+  {
+   "word": "Quadrant",
+   "definition": "An instrument for measuring the height of stars, used in navigation and surveying.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "quadrants?"
+  },
+  {
+   "word": "Pauperdom",
+   "definition": "The state of being a pauper; poverty.",
+   "chapters": [
+    55
+   ],
+   "defined_in": 55,
+   "pattern": "pauperdom"
   }
  ],
  "vocab_chapters": [
@@ -17932,6 +18136,7 @@
   51,
   52,
   53,
-  54
+  54,
+  55
  ]
 }
