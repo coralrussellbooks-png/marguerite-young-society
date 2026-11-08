@@ -1,0 +1,8 @@
+{
+  // Cloudflare publishes the finished website in the site folder.
+  "name": "marguerite-young-society",
+  "compatibility_date": "2025-10-01",
+  "assets": {
+    "directory": "./site"
+  }
+}
