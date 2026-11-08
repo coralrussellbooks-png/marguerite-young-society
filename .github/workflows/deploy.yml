@@ -1,0 +1,23 @@
+# Publishes the site folder to Cloudflare whenever main changes.
+# Needs one repository secret: CLOUDFLARE_API_TOKEN.
+name: Publish site
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+concurrency:
+  group: publish
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Deploy to Cloudflare
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: bd7d469001a679e56fbd03c650f06873
+        run: npx --yes wrangler@4 deploy
