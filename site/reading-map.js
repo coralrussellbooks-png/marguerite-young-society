@@ -11,6 +11,8 @@ const BUILT=['What Marguerite Young Built',SS+'what-marguerite-young-built'];
 const LIN=['The Lineage','art-01-the-lineage'];
 const INT=['Young’s Interviews Analyzed','youngs-interviews-analyzed'];
 const NEV=['Susan Neville’s profile','interview-neville-profile'];
+const PHIL=['Marguerite Young and the philosophical history of Radical Immanence',SS+'marguerite-young-spinoza-henry-deleuze-laruelle-connolly'];
+const PMM=['The Philosophy in MMMD','philosophy-of-mmmd-home'];
 const ERA={s:['Same Conditions, Independent Discovery',SS+'same-conditions-independent-discovery'],f:['When the Formal Becomes Feminist',SS+'when-the-formal-becomes-feminist'],t:['The Split',SS+'the-split'],d:['The Delayed Arrival',SS+'the-delayed-arrival'],n:['The Inheritance, Named',SS+'the-inheritance-named']};
 
 const FAM={
@@ -18,7 +20,8 @@ const FAM={
  S:{name:'What she read',color:'#9A6A1E',blurb:'Books Young herself named in interviews as the ones that formed her, in her own words where she gave them.'},
  C:{name:'Her circle',color:'#3E7D5E',blurb:'Students, champions, and writers who carried the novel with them.'},
  A:{name:'The American illusion and the con',color:'#2F5A8A',blurb:'The American books about the dream and the swindle that Miss MacIntosh, My Darling belongs beside.'},
- L:{name:'The lineage after her',color:'#7A3E6E',blurb:'Writers who arrived, by their own roads, at the discoveries Young made first.'}
+ L:{name:'The lineage after her',color:'#7A3E6E',blurb:'Writers who arrived, by their own roads, at the discoveries Young made first.'},
+ P:{name:'Philosophy',color:'#3F6470',blurb:'The philosophers the novel names or answers, and the philosophy of radical immanence that Young reached on her own, by fiction rather than argument.'}
 };
 const TH={
  p:['The plural self','I am more than one person.'],
@@ -26,9 +29,10 @@ const TH={
  r:['Recursion as politics','It keeps happening again.'],
  i:['Illusion as primary reality','I can’t tell the dream from the real.'],
  u:['The refusal of resolution','I don’t need it tied up.'],
- c:['The con','I believed the story I was sold.']
+ c:['The con','I believed the story I was sold.'],
+ s:['The sacred here','I want meaning here, not somewhere above.']
 };
-const PICK={p:'whitman',g:'housekeeping',r:'beloved',i:'quixote',u:'shandy',c:'confid'};
+const PICK={p:'whitman',g:'housekeeping',r:'beloved',i:'quixote',u:'shandy',c:'confid',s:'spinoza'};
 
 /* [id, family, title, author, year shown, year for placement, threads, what it is, how it meets Young, links, connected ids] */
 const B=[
@@ -58,6 +62,7 @@ const B=[
 ['emerson','S','Essays','Ralph Waldo Emerson','1841',1841,'i','Self-reliance, the Over-Soul, and the American idea that the self can make its own world.','She set the opium lady’s house near Boston because it was the home of “my beloved Emerson.”',[['On Emerson’s immortal beauty (Ch 41)','on-emersons-immortal-beauty-ch-41'],INT],['whitman','blithe']],
 ['whitman','S','Leaves of Grass','Walt Whitman','1855',1855,'p','One voice that holds a whole nation: “I am large, I contain multitudes” (“Song of Myself,” 51).','She described her novel as “a sad Walt Whitman,” built on his theme of the one and the many.',[INT],['james','emerson']],
 ['crusoe','S','Robinson Crusoe','Daniel Defoe','1719',1719,'i','A castaway builds a whole life, and a whole Calvinist account book, on an island.','She thought of Miss MacIntosh as a kind of Robinson Crusoe with her umbrella, a Calvinist figure set down in paradise.',[INT],['milton']],
+['burton','S','The Anatomy of Melancholy','Robert Burton','1621',1621,'gp','An Oxford scholar’s vast, digressive treatise on every kind of sadness, its causes, and its cures.','When she denied that Joyce had influenced her, Young named the Anatomy of Melancholy with Don Quixote, the Bible, and Saint Augustine as the older sources behind both of them.',[PHIL],['quixote','aug','shandy']],
 ['spoon','S','Spoon River Anthology','Edgar Lee Masters','1915',1915,'gp','The dead of a small Illinois town speak their own epitaphs, and the town’s secrets come out.','She thought about it a great deal while writing Angel in the Forest, together with Gray’s “Elegy Written in a Country Churchyard.”',[INT],['angel','winesburg']],
 ['tomjones','S','Tom Jones','Henry Fielding','1749',1749,'u','A foundling’s comic road through eighteenth-century England.','In Ronald Crane’s class at Chicago she read it thirteen times to study its structure, the training she valued most.',[INT],['shandy']],
 ['beagle','S','The Voyage of the Beagle','Charles Darwin','1839',1839,'r','Darwin’s journal of five years at sea, the notes that led to evolution.','Minna Weissenbach, the real opium lady, urged her to read it, and Young kept notebooks of her nature reading.',[INT],['opium']],
@@ -118,6 +123,31 @@ const B=[
 ['konnikova','A','The Confidence Game: Why We Fall for It … Every Time','Maria Konnikova','2016',2016,'ci','A psychologist on why the con works on the mind, and why the marks come back.','The illusion we help build, explained.',[SEVEN],['bigcon','james']],
 ['longest','A','The Longest Con: How Grifters, Swindlers, and Frauds Hijacked American Conservatism','Joe Conason','2024',2024,'cr','A history of the swindles run through a political movement, from mail-order fear to the present.','The con as politics, repeated.',[SEVEN],['cant']],
 
+['heraclitus','P','Fragments','Heraclitus','about 500 BC',-500,'ru','Sayings on fire, flux, and change: no one steps in the same river twice.','Young said she studied animal symbolism “from Heraclitus onward.” In Chapter 3 the road behind Vera allows no way “of walking twice in the same path.”',[['Heraclitus and Flux','heraclitus-and-flux'],INT],['nietzsche','bergson']],
+['plato','P','The Republic','Plato','about 375 BC',-375,'i','The cave, the Forms, and the true world above this one: the founding argument for transcendence.','The transcendence the novel defeats. In Chapter 24 the servants in the opium lady’s house decide that “Admiral Peary was to be put into the blue room which was already occupied by Plato’s boat,” the world above shrunk to a boat in a crowded house.',[['Plato and Platonism','plato-and-platonism'],['Plato’s Symposium','intertext-s6-platos-symposium'],PHIL],['spinoza','zhuangzi']],
+['zhuangzi','P','Zhuangzi','Zhuangzi','about 300 BC',-300,'i','Zhuangzi dreams he is a butterfly and wakes unsure whether he is a man who dreamed of a butterfly or a butterfly dreaming he is a man.','Chapter 2: “My mother pretended that the real was the dream, that the dream was the real.”',[['Taoism and Zhuangzi','taoism-and-zhuangzi'],['Life Is a Dream','intertext-s6-life-is-a-dream']],['plato','descartes']],
+['lucretius','P','On the Nature of Things','Lucretius','about 55 BC',-55,'s','A Roman poem of atoms falling through the void, a world with no gods steering it.','Lucretius was among the epic sources she studied at Chicago. Chapter 2 has “scattered hearts like motes dancing in a sunbeam,” his picture of the atoms.',[['Epicureanism','epicureanism'],INT],['spinoza']],
+['marcus','P','Meditations','Marcus Aurelius','about 170',170,'g','A Roman emperor’s private notes to himself on death, duty, and what is in his control.','Chapter 15 has “man is a little soul carrying around a heavy corpse,” which Marcus Aurelius quotes from Epictetus.',[['Stoicism','stoicism']],['boethius']],
+['boethius','P','The Consolation of Philosophy','Boethius','about 524',524,'gr','Written in a cell while he waited to be executed. Lady Philosophy shows him Fortune’s wheel.','The wheel Young used for her own book, with Miss MacIntosh at the hub. The one who has lost everything is the one at the still axis. Boethius is named in a long roll of names in Chapter 40, and All the Darlings is drawn after his music diagrams.',[PHIL,['All the Darlings','all-the-darlings']],['hegel','marcus']],
+['descartes','P','Meditations on First Philosophy','René Descartes','1641',1641,'ip','Descartes doubts everything, even whether he is awake, until only the thinking self is left.','The novel keeps asking his question, whether waking can be told from dreaming, and refuses his answer of one certain self.',[['Descartes and Dualism','descartes-and-dualism']],['zhuangzi','berkeley']],
+['spinoza','P','Ethics','Baruch Spinoza','1677',1677,'si','God or Nature, Deus sive Natura: one substance, with nothing outside or above the world.','The founder of immanence, and in Chapter 24 already at home in the opium lady’s house: “Spinoza and Shakespeare and Mrs. Sydington were already in the green.”',[['Spinoza','spinoza'],PHIL],['plato','deleuze','henry','hardt']],
+['berkeley','P','A Treatise Concerning the Principles of Human Knowledge','George Berkeley','1710',1710,'is','Nothing exists apart from being perceived; things go on when no one looks because God perceives them.','Chapter 2 borrows his phrase: “all the furnitures of earth and choirs of obsessed angels being also only an idea in the mind of God.”',[['Empiricism (Locke, Berkeley, Hume)','empiricism-locke-berkeley-hume']],['descartes','kant']],
+['kant','P','Critique of Pure Reason','Immanuel Kant','1781',1781,'i','What the mind brings to experience: the conditions that make any experience possible.','The background against which the later thinkers argue over immanence and transcendence.',[['Kant and Hegel','kant-and-hegel'],PHIL],['berkeley','husserl']],
+['hegel','P','Encyclopedia of the Philosophical Sciences','G. W. F. Hegel','1817',1817,'rp','Hegel’s whole system, which he described as “a circle of circles.”','Young’s own figure for her novel is close kin: Miss MacIntosh as “the center of the wheel, the hub,” the other characters the spokes, “and the wheel as endlessly expanding like a universe.”',[['Kant and Hegel','kant-and-hegel'],['The Wheel and the Spokes','wheel-and-spokes-home']],['boethius','kant']],
+['schopenhauer','P','The World as Will and Representation','Arthur Schopenhauer','1818',1818,'g','The world is our idea of it, driven underneath by a blind will that makes all life suffering.','Chapter 6: “Death was birth, and birth was death.”',[['Schopenhauer','schopenhauer']],['nietzsche']],
+['nietzsche','P','The Gay Science','Friedrich Nietzsche','1882',1882,'r','The book that announces that God is dead and asks whether a person could bear to live the same life over again forever.','Eternal return in Chapter 22: “Time was circled in a single week.”',[['Nietzsche','nietzsche'],['Thus Spoke Zarathustra','intertext-s6-thus-spoke-zarathustra']],['schopenhauer','heraclitus','deleuze']],
+['bergson','P','Creative Evolution','Henri Bergson','1907',1907,'rs','Life as a continuous creative surge, and time as lived duration rather than clock time.','The philosopher of duration who shaped Young’s whole generation. He won the Nobel Prize in Literature in 1927, while she was a student.',[PHIL],['james','deleuze']],
+['husserl','P','Ideas','Edmund Husserl','1913',1913,'i','Phenomenology: describe experience exactly as it appears, setting aside assumptions about the world behind it.','The French thinkers built radical immanence out of Husserl; Young built the same country out of a nursemaid, an opium addict, and a girl on a bus.',[['Phenomenology','phenomenology'],PHIL],['henry','levinas']],
+['wittgenstein','P','Tractatus Logico-Philosophicus','Ludwig Wittgenstein','1921',1921,'pu','Language pictures the world, and of what cannot be said one must be silent.','The novel is full of the mute and the deaf, and of the question of identity in Chapter 6: “You are you, and she is she. I am I, or am I?”',[['Wittgenstein','wittgenstein'],['On Wittgenstein’s silence (Ch 47)','on-wittgensteins-silence-ch-47']],['husserl']],
+['levinas','P','Totality and Infinity','Emmanuel Levinas','1961',1961,'sp','Ethics begins in the face of another person, which no system can contain.','Infinity found not in the heavens but in a human face: the witness who stays in the room.',[PHIL],['derrida','husserl']],
+['henry','P','The Essence of Manifestation','Michel Henry','1963',1963,'s','Life feels itself directly, with no reference to any world outside it: the first book to name radical immanence.','Henry reached the words two years ahead of Young’s novel. As far as any record shows she never read him; she arrived at the same place on her own.',[PHIL,['Radical Immanence','radical-immanence-the-philosophy-of-marguerite-young']],['spinoza','deleuze','husserl']],
+['derrida','P','Writing and Difference','Jacques Derrida','1967',1967,'u','Essays on how meaning is always deferred, never fully present, never complete.','Derrida comes into the history of the idea through incompletion, the unfinished that the novel refuses to close.',[PHIL],['levinas','deleuze']],
+['deleuze','P','Difference and Repetition','Gilles Deleuze','1968',1968,'srp','Difference comes before identity, and repetition makes the new. What Is Philosophy? (1991, with Félix Guattari) and Immanence: A Life (1995) carry the plane of immanence to its end.','The name most attached to immanence now, though his fullest statements came after Young’s novel. She stands with him by resemblance, not borrowing.',[PHIL],['spinoza','henry','nietzsche','laruelle']],
+['foucault','P','Discipline and Punish','Michel Foucault','1975',1975,'r','Power does not only press down from a throne; it runs through schools, prisons, and clinics, everywhere at once.','Part of the line of immanence that Agamben traces through Deleuze and Foucault.',[PHIL],['agamben','deleuze']],
+['laruelle','P','Principles of Non-Philosophy','François Laruelle','1996',1996,'s','A project, from the 1970s on, built around the radical immanence of what Laruelle calls the One.','The term keeps traveling after Young, mostly in academic philosophy.',[PHIL],['deleuze','henry']],
+['agamben','P','“Absolute Immanence”','Giorgio Agamben','1996',1996,'s','An essay tracing two lines through modern philosophy: immanence, through Deleuze and Foucault, and transcendence, through Derrida and Levinas.','A map of the company Young keeps by resemblance.',[PHIL],['foucault','derrida']],
+['connolly','P','Why I Am Not a Secularist','William E. Connolly','1999',1999,'sr','A political theorist argues for a democracy of many faiths and none, drawing on Deleuze’s philosophy of becoming.','Radical immanence carried into secularism and democracy.',[PHIL],['deleuze','hardt']],
+['hardt','P','Empire','Michael Hardt and Antonio Negri','2000',2000,'rs','The global order and the multitude that could remake it from below. Negri’s The Savage Anomaly (1981) had read Spinoza as a philosopher of constituent power.','Radical immanence turned into politics, carried into horizontal movements such as Occupy Wall Street.',[PHIL],['spinoza','connolly']],
 ['berg','L','Berg','Ann Quin','1964',1964,'pu','A man comes to a seaside town to kill his father, and interior and exterior stop being separate in the prose.','Working in Britain at almost the same moment as Young, with the same formal instinct and almost no shared audience.',[LIN],['gh']],
 ['gh','L','The Passion According to G.H.','Clarice Lispector','1964',1964,'pi','A woman’s encounter with a cockroach in a maid’s room becomes a dissolution of the self.','Brazil, the same decade, the same place reached from a different start.',[LIN],['berg']],
 ['slouching','L','Slouching Towards Bethlehem','Joan Didion','1968',1968,'ir','Essays on California and the 1960s, the center not holding.','The same conditions, an independent discovery: the dream examined from inside.',[ERA.s,BUILT],['magical','gatsby']],
@@ -146,9 +176,9 @@ const ids=B.map(b=>b[0]);
 ids.forEach(id=>by[id].x.forEach(o=>{if(!by[o])console.warn('rm: missing',o);else if(!by[o].x.includes(id))by[o].x.push(id)}));
 
 /* layout: families are wedges; distance from the center is distance in time from 1965 */
-const CX=400,CY=400,R0=74,R1=350,MAXD=1600;
+const CX=400,CY=400,R0=74,R1=350,MAXD=2500;
 const rad=y=>{const d=Math.min(Math.abs(y-1965),MAXD);return R0+(R1-R0)*Math.log(1+d)/Math.log(1+MAXD)};
-const order=['A','L','S','Y','C'];
+const order=['A','L','P','S','Y','C'];
 const count={};order.forEach(f=>count[f]=ids.filter(i=>by[i].fam===f&&i!=='mmmd').length);
 const wt=f=>Math.max(count[f],10);
 const tot=order.reduce((s,f)=>s+wt(f),0);
@@ -169,7 +199,7 @@ order.forEach(f=>{const[s,e]=wedge[f];
   el('path',{d:`M${CX},${CY} L${x1},${y1} A${R1+30},${R1+30} 0 ${e-s>Math.PI?1:0} 1 ${x2},${y2} Z`,fill:FAM[f].color,'fill-opacity':'.07',stroke:'#B4A88C','stroke-width':'.8'},gBack);
   const m=(s+e)/2,[lx,ly]=p(R1+16,m);const t=el('text',{x:lx,y:ly,'class':'fam-lab','text-anchor':Math.cos(m)>.3?'end':Math.cos(m)<-.3?'start':'middle','dominant-baseline':'middle',fill:FAM[f].color},gBack);t.textContent=FAM[f].name;
 });
-[[10,'10 years'],[50,'50'],[100,'100'],[300,'300'],[1000,'1,000 years from 1965']].forEach(([d,l])=>{const r=rad(1965+d);el('circle',{cx:CX,cy:CY,r,fill:'none',stroke:'#B4A88C','stroke-dasharray':'2 4','stroke-width':'.8'},gBack);const t=el('text',{x:CX+4,y:CY-r-3,'class':'ring-lab'},gBack);t.textContent=l});
+[[10,'10 years'],[50,'50'],[100,'100'],[300,'300'],[1000,'1,000'],[2000,'2,000 years from 1965']].forEach(([d,l])=>{const r=rad(1965+d);el('circle',{cx:CX,cy:CY,r,fill:'none',stroke:'#B4A88C','stroke-dasharray':'2 4','stroke-width':'.8'},gBack);const t=el('text',{x:CX+4,y:CY-r-3,'class':'ring-lab'},gBack);t.textContent=l});
 const center=el('g',{'class':'dot center',tabindex:'0',role:'button','aria-label':'Miss MacIntosh, My Darling, 1965'},gDots);
 el('circle',{cx:CX,cy:CY,r:R0-8,fill:'#1C1813'},center);
 ['Miss MacIntosh,','My Darling','1965'].forEach((s,i)=>{const t=el('text',{x:CX,y:CY-16+i*20,'text-anchor':'middle','class':i<2?'c-title':'c-year'},center);t.textContent=s});
@@ -234,15 +264,15 @@ function filter(kind,key){
 const fe=document.getElementById('rm-feel');
 Object.keys(TH).forEach(k=>{const b=document.createElement('button');b.type='button';b.dataset.k=k;b.dataset.kind='th';b.className='th-'+k;b.textContent=TH[k][1];b.setAttribute('aria-pressed','false');b.addEventListener('click',()=>filter('th',mode&&mode[1]===k?null:k));fe.appendChild(b)});
 const fa=document.getElementById('rm-fams');
-order.slice().sort((a,b)=>'YSCAL'.indexOf(a)-'YSCAL'.indexOf(b)).forEach(k=>{const b=document.createElement('button');b.type='button';b.dataset.k=k;b.dataset.kind='fam';b.innerHTML='<span class="sw" style="background:'+FAM[k].color+'"></span>'+esc(FAM[k].name);b.setAttribute('aria-pressed','false');b.addEventListener('click',()=>filter('fam',mode&&mode[1]===k?null:k));fa.appendChild(b)});
+order.slice().sort((a,b)=>'YSCPAL'.indexOf(a)-'YSCPAL'.indexOf(b)).forEach(k=>{const b=document.createElement('button');b.type='button';b.dataset.k=k;b.dataset.kind='fam';b.innerHTML='<span class="sw" style="background:'+FAM[k].color+'"></span>'+esc(FAM[k].name);b.setAttribute('aria-pressed','false');b.addEventListener('click',()=>filter('fam',mode&&mode[1]===k?null:k));fa.appendChild(b)});
 document.getElementById('rm-all').addEventListener('click',()=>{filter(null,null);select('mmmd',false)});
 /* list */
 const host=document.getElementById('rm-list');
-'YSCAL'.split('').forEach(f=>{const g=document.createElement('div');g.className='grp';g.innerHTML='<h3 style="color:'+FAM[f].color+'">'+esc(FAM[f].name)+'</h3><p class="gb">'+esc(FAM[f].blurb)+'</p>';
+'YSCPAL'.split('').forEach(f=>{const g=document.createElement('div');g.className='grp';g.innerHTML='<h3 style="color:'+FAM[f].color+'">'+esc(FAM[f].name)+'</h3><p class="gb">'+esc(FAM[f].blurb)+'</p>';
   ids.filter(i=>by[i].fam===f).sort((a,b)=>by[a].y-by[b].y).forEach(i=>{const b=by[i];const r=document.createElement('button');r.type='button';r.className='row';r.dataset.id=i;r.innerHTML='<span class="t"><i>'+esc(b.title)+'</i></span><span class="a">'+(b.author?esc(b.author)+', ':'')+esc(b.year)+'</span>';r.addEventListener('click',()=>{select(i,false);document.getElementById('rm-plate').scrollIntoView({behavior:'smooth',block:'start'})});g.appendChild(r)});
   host.appendChild(g)});
 const tl=document.getElementById('rm-tally');
-[[ids.length-1,'books around the center'],[5,'families'],[Object.values(by).reduce((s,d)=>s+d.x.length,0)/2,'connections']].forEach(([n,t])=>{const li=document.createElement('li');const b=document.createElement('b');b.textContent=n;li.append(b,t);tl.appendChild(li)});
+[[ids.length-1,'books around the center'],[6,'families'],[Object.values(by).reduce((s,d)=>s+d.x.length,0)/2,'connections']].forEach(([n,t])=>{const li=document.createElement('li');const b=document.createElement('b');b.textContent=n;li.append(b,t);tl.appendChild(li)});
 select('mmmd',false);
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
