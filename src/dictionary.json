@@ -18791,6 +18791,16 @@
    ],
    "defined_in": 61,
    "pattern": "gaiters?"
+  },
+  {
+   "word": "Bill of lading",
+   "definition": "A receipt a shipper gives for goods taken on board, listing the cargo.",
+   "chapters": [
+    61,
+    62
+   ],
+   "defined_in": 61,
+   "pattern": "bills? of lading"
   }
  ],
  "vocab_chapters": [
