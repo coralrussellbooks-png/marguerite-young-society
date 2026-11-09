@@ -19130,6 +19130,101 @@
    ],
    "defined_in": 63,
    "pattern": "crescentic"
+  },
+  {
+   "word": "Statistician",
+   "definition": "One who collects and studies numbers about people and things.",
+   "chapters": [
+    64
+   ],
+   "defined_in": 64,
+   "pattern": "statisticians?"
+  },
+  {
+   "word": "Toupee",
+   "definition": "A small wig.",
+   "chapters": [
+    64
+   ],
+   "defined_in": 64,
+   "pattern": "toupees?"
+  },
+  {
+   "word": "Matron",
+   "definition": "A woman in charge of an institution such as an orphanage.",
+   "chapters": [
+    64
+   ],
+   "defined_in": 64,
+   "pattern": "matrons?"
+  },
+  {
+   "word": "Phrenologist",
+   "definition": "One who claims to read character from the bumps of the skull.",
+   "chapters": [
+    64
+   ],
+   "defined_in": 64,
+   "pattern": "phrenologists?"
+  },
+  {
+   "word": "Percheron",
+   "definition": "A heavy French draft horse.",
+   "chapters": [
+    64
+   ],
+   "defined_in": 64,
+   "pattern": "percherons?"
+  },
+  {
+   "word": "Incarceration",
+   "definition": "Imprisonment.",
+   "chapters": [
+    64
+   ],
+   "defined_in": 64,
+   "pattern": "incarceration"
+  },
+  {
+   "word": "Perjurer",
+   "definition": "One who lies under oath.",
+   "chapters": [
+    64
+   ],
+   "defined_in": 64,
+   "pattern": "perjurers?"
+  },
+  {
+   "word": "Perfidious",
+   "definition": "Treacherous.",
+   "chapters": [
+    64,
+    65
+   ],
+   "defined_in": 64,
+   "pattern": "perfidious"
+  },
+  {
+   "word": "Hurricane lamp",
+   "definition": "An oil lamp with a glass chimney to shield the flame from wind.",
+   "chapters": [
+    22,
+    29,
+    64,
+    65,
+    66
+   ],
+   "defined_in": 64,
+   "pattern": "hurricane lamps?|hurricane lights?"
+  },
+  {
+   "word": "Nonconformist",
+   "definition": "A Protestant outside the established church; anyone who does not conform.",
+   "chapters": [
+    64
+   ],
+   "defined_in": 64,
+   "pattern": "nonconformists?"
   }
  ],
  "vocab_chapters": [
@@ -19195,6 +19290,7 @@
   60,
   61,
   62,
-  63
+  63,
+  64
  ]
 }
