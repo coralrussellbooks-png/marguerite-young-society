@@ -18811,6 +18811,235 @@
    ],
    "defined_in": 61,
    "pattern": "breves?"
+  },
+  {
+   "word": "Fin de siècle",
+   "definition": "The end of the nineteenth century, with its sense of an age closing in elegance and decay.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "fin de siecle|fin de siècle"
+  },
+  {
+   "word": "Hautboy",
+   "definition": "An old name for the oboe.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "hautboys?"
+  },
+  {
+   "word": "Naiad",
+   "definition": "A nymph of springs, streams, and fountains.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "naiads?"
+  },
+  {
+   "word": "Paraselene",
+   "definition": "A mock moon; a bright spot beside the moon seen through thin cloud.",
+   "chapters": [
+    29,
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "paraselenes?"
+  },
+  {
+   "word": "Mortmain",
+   "definition": "“Dead hand”; ownership that can never be passed on.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "mortmain"
+  },
+  {
+   "word": "Emolument",
+   "definition": "A salary or fee.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "emoluments?"
+  },
+  {
+   "word": "Escrow",
+   "definition": "Property held by a third party until a condition is met.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "escrow"
+  },
+  {
+   "word": "Coronach",
+   "definition": "A Scottish or Irish funeral lament.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "coronachs?"
+  },
+  {
+   "word": "Inkhorn",
+   "definition": "A small portable ink pot, once made of horn.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "inkhorns?"
+  },
+  {
+   "word": "Appoggiatura",
+   "definition": "A grace note that leans on the main note before resolving to it.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "appoggiaturas?"
+  },
+  {
+   "word": "Tenuto",
+   "definition": "A mark telling the player to hold a note its full value.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "tenuto"
+  },
+  {
+   "word": "Forfend",
+   "definition": "To ward off; to forbid.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "forfend(?:ed)?"
+  },
+  {
+   "word": "Quinquevalent",
+   "definition": "Having five valences; Young’s music of five roads.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "quinquevalent"
+  },
+  {
+   "word": "Aubade",
+   "definition": "A morning song or poem, often of lovers parting at dawn.",
+   "chapters": [
+    46,
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "aubades?"
+  },
+  {
+   "word": "Apogee",
+   "definition": "The point in an orbit farthest from the earth.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "apogee"
+  },
+  {
+   "word": "Perigee",
+   "definition": "The point in an orbit nearest the earth.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "perigee"
+  },
+  {
+   "word": "Fugacious",
+   "definition": "Fleeting; falling soon.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "fugacious"
+  },
+  {
+   "word": "Checkrein",
+   "definition": "A rein that keeps a horse from lowering its head.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "checkreins?"
+  },
+  {
+   "word": "Capriole",
+   "definition": "An upward leap of a trained horse, kicking out its hind legs.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "caprioles?"
+  },
+  {
+   "word": "Clew line",
+   "definition": "A rope that hauls the corner of a square sail up to its yard.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "clew lines?"
+  },
+  {
+   "word": "Apivorous",
+   "definition": "Bee-eating.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "apivorous"
+  },
+  {
+   "word": "Pavane",
+   "definition": "A slow, stately court dance.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "pavannes?|pavanes?"
+  },
+  {
+   "word": "Burden",
+   "definition": "The refrain of a song; also a load.",
+   "chapters": [
+    2,
+    3,
+    4,
+    6,
+    25,
+    39,
+    62,
+    63,
+    72,
+    74,
+    78,
+    80
+   ],
+   "defined_in": 62,
+   "pattern": "burdens?"
+  },
+  {
+   "word": "Pariah",
+   "definition": "An outcast.",
+   "chapters": [
+    62
+   ],
+   "defined_in": 62,
+   "pattern": "pariahs?"
   }
  ],
  "vocab_chapters": [
@@ -18874,6 +19103,7 @@
   58,
   59,
   60,
-  61
+  61,
+  62
  ]
 }
