@@ -18801,6 +18801,16 @@
    ],
    "defined_in": 61,
    "pattern": "bills? of lading"
+  },
+  {
+   "word": "Breve",
+   "definition": "A musical note twice the length of a whole note.",
+   "chapters": [
+    61,
+    62
+   ],
+   "defined_in": 61,
+   "pattern": "breves?"
   }
  ],
  "vocab_chapters": [
