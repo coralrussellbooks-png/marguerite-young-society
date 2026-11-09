@@ -76,3 +76,14 @@ Make a new chapter’s head, rebuild, and tail from the last chapter’s with `s
 
 - Offline reading: `site/sw.js` (service worker) and `site/app.webmanifest`. Pages are network-first, so online readers always get the newest copy. `build.py` writes `site/offline/guide.json`, the list used by “Save this guide offline” on the guide home page.
 - “Save as PDF” button on every page, with print styles in `src/site.css`.
+
+## Publishing (since November 2026)
+- GitHub put a hold on the account; Cloudflare's GitHub link and GitHub Actions no longer work, and the repo is hidden from anyone not signed in.
+- Claude still saves every change to GitHub (merge to main). Coral publishes by double-clicking publish-latest.bat on her desktop: it downloads main through her signed-in browser, runs npx wrangler deploy (wrangler.jsonc publishes ./site), and keeps a dated backup zip in Documents\MYS archive (copied to G:\My Drive\MYS archive when Google Drive for desktop is installed).
+- Publish once per finished chapter (after the check pass). Fallback: send her mys-publish.zip (site folder + wrangler.jsonc + publish.bat).
+- If GitHub closes the account, she attaches the newest backup zip to a new chat and the project is rebuilt from it.
+
+## Preservation, when the site is finished (Coral asked to keep this for later)
+- Upload the newest backup zip to the Internet Archive: archive.org, sign in, Upload, choose the zip, title and description such as "The Marguerite Young Society: Miss MacIntosh, My Darling study site."
+- Save the live pages in the Wayback Machine: web.archive.org/save, enter the site address, check Save outlinks.
+- Upload the final archive to GitHub too once the account hold is settled.
