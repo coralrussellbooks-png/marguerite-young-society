@@ -18422,6 +18422,91 @@
    ],
    "defined_in": 58,
    "pattern": "gavels?"
+  },
+  {
+   "word": "Cartilaginous",
+   "definition": "Made of or like cartilage, the tough, flexible tissue of the body.",
+   "chapters": [
+    59
+   ],
+   "defined_in": 59,
+   "pattern": "cartilaginous"
+  },
+  {
+   "word": "Circumlocution",
+   "definition": "A roundabout way of saying something.",
+   "chapters": [
+    59
+   ],
+   "defined_in": 59,
+   "pattern": "circumlocutions?"
+  },
+  {
+   "word": "Coruscate",
+   "definition": "To flash or sparkle.",
+   "chapters": [
+    59
+   ],
+   "defined_in": 59,
+   "pattern": "coruscat(?:e|es|ed|ing|ings|ion|ions)"
+  },
+  {
+   "word": "Disincarnate",
+   "definition": "Without a body.",
+   "chapters": [
+    59
+   ],
+   "defined_in": 59,
+   "pattern": "disincarnate"
+  },
+  {
+   "word": "Ossifrage",
+   "definition": "The bearded vulture; literally, bone-breaker.",
+   "chapters": [
+    59
+   ],
+   "defined_in": 59,
+   "pattern": "ossifrages?"
+  },
+  {
+   "word": "Surrogate",
+   "definition": "A substitute who acts in another’s place.",
+   "chapters": [
+    59
+   ],
+   "defined_in": 59,
+   "pattern": "surrogates?"
+  },
+  {
+   "word": "Swallowtail",
+   "definition": "A man’s formal tailcoat with long, divided tails.",
+   "chapters": [
+    29,
+    59
+   ],
+   "defined_in": 59,
+   "pattern": "swallowtails?"
+  },
+  {
+   "word": "Transmigration",
+   "definition": "The passing of a soul into another body after death.",
+   "chapters": [
+    59
+   ],
+   "defined_in": 59,
+   "pattern": "transmigrations?"
+  },
+  {
+   "word": "Ward heeler",
+   "definition": "A local worker for a political party machine.",
+   "chapters": [
+    52,
+    53,
+    54,
+    59
+   ],
+   "defined_in": 59,
+   "pattern": "ward-heelers?"
   }
  ],
  "vocab_chapters": [
@@ -18482,6 +18567,7 @@
   55,
   56,
   57,
-  58
+  58,
+  59
  ]
 }
