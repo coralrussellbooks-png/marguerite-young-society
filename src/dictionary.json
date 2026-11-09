@@ -18310,6 +18310,118 @@
    ],
    "defined_in": 57,
    "pattern": "nonentit(?:y|ies)"
+  },
+  {
+   "word": "Apoplexy",
+   "definition": "A sudden fit or stroke; a fit of rage.",
+   "chapters": [
+    58
+   ],
+   "defined_in": 58,
+   "pattern": "apoplexy"
+  },
+  {
+   "word": "Ague",
+   "definition": "A fever with fits of shivering.",
+   "chapters": [
+    58
+   ],
+   "defined_in": 58,
+   "pattern": "agues?"
+  },
+  {
+   "word": "Paroxysm",
+   "definition": "A sudden violent attack or outburst.",
+   "chapters": [
+    58
+   ],
+   "defined_in": 58,
+   "pattern": "paroxysms?"
+  },
+  {
+   "word": "Itinerant",
+   "definition": "Traveling from place to place.",
+   "chapters": [
+    58,
+    61
+   ],
+   "defined_in": 58,
+   "pattern": "itinerant"
+  },
+  {
+   "word": "Remuneration",
+   "definition": "Payment for work or service.",
+   "chapters": [
+    58
+   ],
+   "defined_in": 58,
+   "pattern": "remuneration"
+  },
+  {
+   "word": "Elucidation",
+   "definition": "A making clear; an explanation.",
+   "chapters": [
+    58
+   ],
+   "defined_in": 58,
+   "pattern": "elucidation"
+  },
+  {
+   "word": "Rhapsodic",
+   "definition": "Full of rapturous feeling.",
+   "chapters": [
+    53,
+    54,
+    58,
+    64,
+    70,
+    82
+   ],
+   "defined_in": 58,
+   "pattern": "rhapsodic"
+  },
+  {
+   "word": "Overture",
+   "definition": "An orchestral piece that opens an opera or other work.",
+   "chapters": [
+    33,
+    36,
+    53,
+    55,
+    58,
+    62
+   ],
+   "defined_in": 58,
+   "pattern": "overtures?"
+  },
+  {
+   "word": "Crosier",
+   "definition": "The hooked staff carried by a bishop.",
+   "chapters": [
+    58,
+    59
+   ],
+   "defined_in": 58,
+   "pattern": "crosiers?"
+  },
+  {
+   "word": "Taw",
+   "definition": "A large marble used for shooting; the line from which marbles are shot.",
+   "chapters": [
+    58
+   ],
+   "defined_in": 58,
+   "pattern": "taws?"
+  },
+  {
+   "word": "Gavel",
+   "definition": "A small mallet a judge or chairman uses to call for order.",
+   "chapters": [
+    58,
+    74
+   ],
+   "defined_in": 58,
+   "pattern": "gavels?"
   }
  ],
  "vocab_chapters": [
@@ -18369,6 +18481,7 @@
   54,
   55,
   56,
-  57
+  57,
+  58
  ]
 }
