@@ -18205,6 +18205,111 @@
    ],
    "defined_in": 56,
    "pattern": "whelks?"
+  },
+  {
+   "word": "Dun",
+   "definition": "A demand for payment of a debt.",
+   "chapters": [
+    57
+   ],
+   "defined_in": 57,
+   "pattern": "duns?"
+  },
+  {
+   "word": "Aspersion",
+   "definition": "A damaging remark; a slur.",
+   "chapters": [
+    57
+   ],
+   "defined_in": 57,
+   "pattern": "aspersions?"
+  },
+  {
+   "word": "Counterpart",
+   "definition": "A person or thing that closely matches another.",
+   "chapters": [
+    2,
+    14,
+    30,
+    34,
+    43,
+    48,
+    49,
+    51,
+    52,
+    55,
+    57,
+    63
+   ],
+   "defined_in": 57,
+   "pattern": "counterparts?"
+  },
+  {
+   "word": "Artifact",
+   "definition": "An object made by human hands.",
+   "chapters": [
+    57
+   ],
+   "defined_in": 57,
+   "pattern": "artifacts?"
+  },
+  {
+   "word": "Abacus",
+   "definition": "A frame with beads on wires, used for counting.",
+   "chapters": [
+    57,
+    58,
+    62,
+    72
+   ],
+   "defined_in": 57,
+   "pattern": "abacus"
+  },
+  {
+   "word": "Cartographer",
+   "definition": "A maker of maps.",
+   "chapters": [
+    57
+   ],
+   "defined_in": 57,
+   "pattern": "cartographers?"
+  },
+  {
+   "word": "Horticulturist",
+   "definition": "One who grows garden plants.",
+   "chapters": [
+    57
+   ],
+   "defined_in": 57,
+   "pattern": "horticulturists?"
+  },
+  {
+   "word": "Bustle",
+   "definition": "A pad or frame worn under a skirt to puff out the back.",
+   "chapters": [
+    57
+   ],
+   "defined_in": 57,
+   "pattern": "bustles?"
+  },
+  {
+   "word": "Shay",
+   "definition": "A light, one-horse carriage; a chaise.",
+   "chapters": [
+    57,
+    67
+   ],
+   "defined_in": 57,
+   "pattern": "shays?"
+  },
+  {
+   "word": "Nonentity",
+   "definition": "A thing that does not exist; also a person of no importance.",
+   "chapters": [
+    57
+   ],
+   "defined_in": 57,
+   "pattern": "nonentit(?:y|ies)"
   }
  ],
  "vocab_chapters": [
@@ -18263,6 +18368,7 @@
   53,
   54,
   55,
-  56
+  56,
+  57
  ]
 }
