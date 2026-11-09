@@ -19040,6 +19040,96 @@
    ],
    "defined_in": 62,
    "pattern": "pariahs?"
+  },
+  {
+   "word": "Vagary",
+   "definition": "A whim; an odd notion.",
+   "chapters": [
+    3,
+    53,
+    63,
+    73
+   ],
+   "defined_in": 63,
+   "pattern": "vagar(?:y|ies)"
+  },
+  {
+   "word": "Anathema",
+   "definition": "A thing or person hated; a curse.",
+   "chapters": [
+    63
+   ],
+   "defined_in": 63,
+   "pattern": "anathema"
+  },
+  {
+   "word": "Faugh",
+   "definition": "An exclamation of disgust.",
+   "chapters": [
+    63,
+    66
+   ],
+   "defined_in": 63,
+   "pattern": "faugh"
+  },
+  {
+   "word": "Twaddle",
+   "definition": "Silly talk.",
+   "chapters": [
+    22,
+    63
+   ],
+   "defined_in": 63,
+   "pattern": "twaddle"
+  },
+  {
+   "word": "Homily",
+   "definition": "A sermon; a moral saying.",
+   "chapters": [
+    63
+   ],
+   "defined_in": 63,
+   "pattern": "homil(?:y|ies)"
+  },
+  {
+   "word": "Chandler",
+   "definition": "A dealer in supplies, as a ship chandler; once a candle-maker.",
+   "chapters": [
+    63
+   ],
+   "defined_in": 63,
+   "pattern": "chandlers?"
+  },
+  {
+   "word": "Ironmonger",
+   "definition": "A dealer in hardware.",
+   "chapters": [
+    22,
+    63,
+    73
+   ],
+   "defined_in": 63,
+   "pattern": "iron-?mongers?"
+  },
+  {
+   "word": "Mongoose",
+   "definition": "A small, quick animal of Asia and Africa that kills snakes.",
+   "chapters": [
+    22,
+    23,
+    63
+   ],
+   "defined_in": 63,
+   "pattern": "mongoose"
+  },
+  {
+   "word": "Crescentic",
+   "definition": "Shaped like a crescent.",
+   "chapters": [
+    63
+   ],
+   "defined_in": 63,
+   "pattern": "crescentic"
   }
  ],
  "vocab_chapters": [
@@ -19104,6 +19194,7 @@
   59,
   60,
   61,
-  62
+  62,
+  63
  ]
 }
