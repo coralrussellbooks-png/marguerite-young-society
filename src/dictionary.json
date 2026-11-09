@@ -18654,6 +18654,143 @@
    ],
    "defined_in": 60,
    "pattern": "clefs?"
+  },
+  {
+   "word": "Labial",
+   "definition": "Of the lips; a sound made with the lips.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "labial"
+  },
+  {
+   "word": "Laryngeal",
+   "definition": "Of the larynx, the voice box.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "laryngeal"
+  },
+  {
+   "word": "Idée fixe",
+   "definition": "A fixed idea; an obsession.",
+   "chapters": [
+    38,
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "idee fixe|idée fixe"
+  },
+  {
+   "word": "Nosegay",
+   "definition": "A small bouquet.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "nosegays?"
+  },
+  {
+   "word": "Mignonette",
+   "definition": "A small, sweet-scented garden flower.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "mignonette"
+  },
+  {
+   "word": "Cerements",
+   "definition": "Grave clothes; a shroud.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "cerements?"
+  },
+  {
+   "word": "Susurrus",
+   "definition": "A whispering or rustling.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "susurrus"
+  },
+  {
+   "word": "Conchologist",
+   "definition": "One who studies shells.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "conchologists?"
+  },
+  {
+   "word": "Scabrous",
+   "definition": "Rough and scaly; also indecent.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "scabrous"
+  },
+  {
+   "word": "Tumescent",
+   "definition": "Swelling.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "tumescent"
+  },
+  {
+   "word": "Mantling",
+   "definition": "In falconry, a hawk’s spreading of its wings over its prey.",
+   "chapters": [
+    56,
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "mantling"
+  },
+  {
+   "word": "Presto",
+   "definition": "In music, very fast.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "presto"
+  },
+  {
+   "word": "Allegro",
+   "definition": "In music, lively and quick.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "allegro"
+  },
+  {
+   "word": "Lexicographer",
+   "definition": "One who writes dictionaries.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "lexicographers?"
+  },
+  {
+   "word": "Gaiter",
+   "definition": "A covering for the ankle and lower leg; an ankle boot.",
+   "chapters": [
+    61
+   ],
+   "defined_in": 61,
+   "pattern": "gaiters?"
   }
  ],
  "vocab_chapters": [
@@ -18716,6 +18853,7 @@
   57,
   58,
   59,
-  60
+  60,
+  61
  ]
 }
