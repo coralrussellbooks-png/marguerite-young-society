@@ -5674,10 +5674,11 @@
    "word": "Fogdog",
    "definition": "A bright patch of light seen in a bank of fog.",
    "chapters": [
-    5
+    5,
+    59
    ],
    "defined_in": 5,
-   "pattern": "fog-?dogs?"
+   "pattern": "fog-?dogs?|fog dogs?"
   },
   {
    "word": "Forceps",
@@ -18495,18 +18496,6 @@
    ],
    "defined_in": 59,
    "pattern": "transmigrations?"
-  },
-  {
-   "word": "Ward heeler",
-   "definition": "A local worker for a political party machine.",
-   "chapters": [
-    52,
-    53,
-    54,
-    59
-   ],
-   "defined_in": 59,
-   "pattern": "ward-heelers?"
   }
  ],
  "vocab_chapters": [
