@@ -18496,6 +18496,164 @@
    ],
    "defined_in": 59,
    "pattern": "transmigrations?"
+  },
+  {
+   "word": "Germinal",
+   "definition": "In the earliest stage of growth; like a seed.",
+   "chapters": [
+    60
+   ],
+   "defined_in": 60,
+   "pattern": "germinal"
+  },
+  {
+   "word": "Pedal point",
+   "definition": "A long-held note, usually in the bass, sounding on while the harmonies change.",
+   "chapters": [
+    60
+   ],
+   "defined_in": 60,
+   "pattern": "pedal notes?|pedal points?"
+  },
+  {
+   "word": "Hieroglyphics",
+   "definition": "Picture writing, as of ancient Egypt; any writing hard to read.",
+   "chapters": [
+    14,
+    40,
+    49,
+    54,
+    60,
+    61,
+    63
+   ],
+   "defined_in": 60,
+   "pattern": "hieroglyphics?"
+  },
+  {
+   "word": "Tine",
+   "definition": "A prong or point, as of an antler or fork.",
+   "chapters": [
+    60,
+    62
+   ],
+   "defined_in": 60,
+   "pattern": "tines?"
+  },
+  {
+   "word": "Basso profundo",
+   "definition": "The deepest bass voice.",
+   "chapters": [
+    60
+   ],
+   "defined_in": 60,
+   "pattern": "basso profundo"
+  },
+  {
+   "word": "Viola da gamba",
+   "definition": "The bass viol, an old fretted string instrument held between the knees.",
+   "chapters": [
+    60,
+    62
+   ],
+   "defined_in": 60,
+   "pattern": "viola da gamba"
+  },
+  {
+   "word": "Fugue",
+   "definition": "A composition in which one theme is taken up in turn by several voices; also a flight from one’s own identity.",
+   "chapters": [
+    14,
+    33,
+    60,
+    62
+   ],
+   "defined_in": 60,
+   "pattern": "fugues?"
+  },
+  {
+   "word": "Antiphony",
+   "definition": "Singing or playing in alternation between two groups, as of a divided choir.",
+   "chapters": [
+    60,
+    61
+   ],
+   "defined_in": 60,
+   "pattern": "antiphon(?:y|ies|al)"
+  },
+  {
+   "word": "Tempestuous",
+   "definition": "Stormy; violent in feeling.",
+   "chapters": [
+    25,
+    42,
+    47,
+    60
+   ],
+   "defined_in": 60,
+   "pattern": "tempestuous"
+  },
+  {
+   "word": "Trip hammer",
+   "definition": "A heavy power hammer raised by a cam and dropped again and again.",
+   "chapters": [
+    60
+   ],
+   "defined_in": 60,
+   "pattern": "trip ?hammers?"
+  },
+  {
+   "word": "Florin",
+   "definition": "A gold coin first struck in Florence in 1252; later a British two-shilling piece.",
+   "chapters": [
+    54,
+    60,
+    61
+   ],
+   "defined_in": 60,
+   "pattern": "florins?"
+  },
+  {
+   "word": "Shekel",
+   "definition": "An ancient Hebrew weight and coin of silver or gold.",
+   "chapters": [
+    54,
+    60
+   ],
+   "defined_in": 60,
+   "pattern": "shekels?"
+  },
+  {
+   "word": "Bone lace",
+   "definition": "Bobbin lace, made with bobbins once carved from bone.",
+   "chapters": [
+    60
+   ],
+   "defined_in": 60,
+   "pattern": "bone lace"
+  },
+  {
+   "word": "Polysyllabic",
+   "definition": "Having many syllables.",
+   "chapters": [
+    60
+   ],
+   "defined_in": 60,
+   "pattern": "polysyllabic"
+  },
+  {
+   "word": "Clef",
+   "definition": "A sign at the start of a staff fixing the pitch of the notes.",
+   "chapters": [
+    44,
+    47,
+    48,
+    49,
+    60,
+    62
+   ],
+   "defined_in": 60,
+   "pattern": "clefs?"
   }
  ],
  "vocab_chapters": [
@@ -18557,6 +18715,7 @@
   56,
   57,
   58,
-  59
+  59,
+  60
  ]
 }
