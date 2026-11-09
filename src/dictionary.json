@@ -18080,6 +18080,131 @@
    ],
    "defined_in": 55,
    "pattern": "pauperdom"
+  },
+  {
+   "word": "Legerdemain",
+   "definition": "Sleight of hand; trickery.",
+   "chapters": [
+    56
+   ],
+   "defined_in": 56,
+   "pattern": "legerdemain"
+  },
+  {
+   "word": "Sentimentalist",
+   "definition": "One who indulges in tender feeling, often more than the occasion warrants.",
+   "chapters": [
+    42,
+    56
+   ],
+   "defined_in": 56,
+   "pattern": "sentimentalists?"
+  },
+  {
+   "word": "Integument",
+   "definition": "An outer covering, such as skin, rind, or shell.",
+   "chapters": [
+    56
+   ],
+   "defined_in": 56,
+   "pattern": "integuments?"
+  },
+  {
+   "word": "Winterbourne",
+   "definition": "A stream that flows only in winter.",
+   "chapters": [
+    56
+   ],
+   "defined_in": 56,
+   "pattern": "winter-bornes?|winterbournes?"
+  },
+  {
+   "word": "Revers",
+   "definition": "The turned-back edge of a coat, as a lapel (French).",
+   "chapters": [
+    56
+   ],
+   "defined_in": 56,
+   "pattern": "revers"
+  },
+  {
+   "word": "Accoutered",
+   "definition": "Dressed and equipped, especially for a special occasion.",
+   "chapters": [
+    56
+   ],
+   "defined_in": 56,
+   "pattern": "accoutered|accoutred"
+  },
+  {
+   "word": "Profligacy",
+   "definition": "Reckless extravagance; wastefulness.",
+   "chapters": [
+    54,
+    56
+   ],
+   "defined_in": 56,
+   "pattern": "profligacy"
+  },
+  {
+   "word": "Sententiously",
+   "definition": "In a moralizing, pompous way.",
+   "chapters": [
+    56
+   ],
+   "defined_in": 56,
+   "pattern": "sententiously"
+  },
+  {
+   "word": "King post",
+   "definition": "The upright beam in the middle of a roof truss.",
+   "chapters": [
+    56,
+    65
+   ],
+   "defined_in": 56,
+   "pattern": "king posts?"
+  },
+  {
+   "word": "Ideograph",
+   "definition": "A written sign that stands for an idea or thing rather than a sound.",
+   "chapters": [
+    56
+   ],
+   "defined_in": 56,
+   "pattern": "ideographs?"
+  },
+  {
+   "word": "Swallow-tail",
+   "definition": "A man’s formal tailcoat, with tails like a swallow’s.",
+   "chapters": [
+    29,
+    56,
+    57,
+    61
+   ],
+   "defined_in": 56,
+   "pattern": "swallow-tails?"
+  },
+  {
+   "word": "Ascot",
+   "definition": "A broad neck scarf looped under the chin, named for the Ascot races.",
+   "chapters": [
+    56
+   ],
+   "defined_in": 56,
+   "pattern": "ascots?"
+  },
+  {
+   "word": "Whelk",
+   "definition": "A large sea snail with a spiral shell.",
+   "chapters": [
+    22,
+    56,
+    82
+   ],
+   "defined_in": 56,
+   "pattern": "whelks?"
   }
  ],
  "vocab_chapters": [
@@ -18137,6 +18262,7 @@
   52,
   53,
   54,
-  55
+  55,
+  56
  ]
 }
