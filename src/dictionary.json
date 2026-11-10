@@ -19234,6 +19234,81 @@
    ],
    "defined_in": 64,
    "pattern": "high-hat(?:s|ted)?"
+  },
+  {
+   "word": "Infanticide",
+   "definition": "The killing of an infant.",
+   "chapters": [
+    65,
+    76,
+    78
+   ],
+   "defined_in": 65,
+   "pattern": "infanticide"
+  },
+  {
+   "word": "Sallow",
+   "definition": "Of a sickly yellow color.",
+   "chapters": [
+    65
+   ],
+   "defined_in": 65,
+   "pattern": "sallow"
+  },
+  {
+   "word": "Harangue",
+   "definition": "To lecture loudly and at length.",
+   "chapters": [
+    65,
+    67
+   ],
+   "defined_in": 65,
+   "pattern": "harangu(?:e|ed|ing)"
+  },
+  {
+   "word": "Connubial",
+   "definition": "Of marriage.",
+   "chapters": [
+    65
+   ],
+   "defined_in": 65,
+   "pattern": "connubial"
+  },
+  {
+   "word": "Salubrious",
+   "definition": "Healthful.",
+   "chapters": [
+    65
+   ],
+   "defined_in": 65,
+   "pattern": "salubrious"
+  },
+  {
+   "word": "Hostelry",
+   "definition": "An inn.",
+   "chapters": [
+    65
+   ],
+   "defined_in": 65,
+   "pattern": "hostelr(?:y|ies)"
+  },
+  {
+   "word": "Avarice",
+   "definition": "Greed for wealth.",
+   "chapters": [
+    65
+   ],
+   "defined_in": 65,
+   "pattern": "avarice"
+  },
+  {
+   "word": "Laudanum",
+   "definition": "A tincture of opium.",
+   "chapters": [
+    65
+   ],
+   "defined_in": 65,
+   "pattern": "laudanum"
   }
  ],
  "vocab_chapters": [
@@ -19300,6 +19375,7 @@
   61,
   62,
   63,
-  64
+  64,
+  65
  ]
 }
