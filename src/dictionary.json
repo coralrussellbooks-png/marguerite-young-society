@@ -20408,6 +20408,87 @@
    ],
    "defined_in": 74,
    "pattern": "postscripts?"
+  },
+  {
+   "word": "Benign",
+   "definition": "Gentle, kindly; of a tumor, not cancerous.",
+   "chapters": [
+    72,
+    73,
+    75
+   ],
+   "defined_in": 75,
+   "pattern": "benign"
+  },
+  {
+   "word": "Gunny sack",
+   "definition": "A coarse sack of jute or burlap.",
+   "chapters": [
+    75
+   ],
+   "defined_in": 75,
+   "pattern": "gunny sacks?"
+  },
+  {
+   "word": "Ectoplasm",
+   "definition": "The ghostly substance said to flow from a medium in a trance.",
+   "chapters": [
+    75
+   ],
+   "defined_in": 75,
+   "pattern": "ectoplasms?"
+  },
+  {
+   "word": "Maypole",
+   "definition": "A tall pole wreathed with flowers and ribbons for dancing around on May Day.",
+   "chapters": [
+    75
+   ],
+   "defined_in": 75,
+   "pattern": "maypoles?"
+  },
+  {
+   "word": "Irksome",
+   "definition": "Annoying; tiresome.",
+   "chapters": [
+    75
+   ],
+   "defined_in": 75,
+   "pattern": "irksome"
+  },
+  {
+   "word": "Graham cracker",
+   "definition": "A sweet cracker of whole-wheat graham flour.",
+   "chapters": [
+    75
+   ],
+   "defined_in": 75,
+   "pattern": "graham crackers?"
+  },
+  {
+   "word": "Nettle",
+   "definition": "A plant with stinging hairs.",
+   "chapters": [
+    3,
+    18,
+    47,
+    49,
+    61,
+    75,
+    77,
+    79
+   ],
+   "defined_in": 75,
+   "pattern": "nettles?"
+  },
+  {
+   "word": "Misbegotten",
+   "definition": "Born out of wedlock; badly conceived.",
+   "chapters": [
+    75
+   ],
+   "defined_in": 75,
+   "pattern": "misbegotten"
   }
  ],
  "vocab_chapters": [
@@ -20484,6 +20565,7 @@
   71,
   72,
   73,
-  74
+  74,
+  75
  ]
 }
