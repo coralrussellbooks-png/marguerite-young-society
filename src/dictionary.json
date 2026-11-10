@@ -20083,6 +20083,120 @@
    ],
    "defined_in": 71,
    "pattern": "doxology|dogsology"
+  },
+  {
+   "word": "Caparisoned",
+   "definition": "Richly decked out, like a horse in ornamental trappings.",
+   "chapters": [
+    72
+   ],
+   "defined_in": 72,
+   "pattern": "caparisoned"
+  },
+  {
+   "word": "Kewpie",
+   "definition": "A plump, wide-eyed baby doll.",
+   "chapters": [
+    72,
+    81
+   ],
+   "defined_in": 72,
+   "pattern": "kewpies?"
+  },
+  {
+   "word": "Akimbo",
+   "definition": "With hands on hips and elbows turned out.",
+   "chapters": [
+    72,
+    79,
+    80
+   ],
+   "defined_in": 72,
+   "pattern": "akimbo"
+  },
+  {
+   "word": "Mastication",
+   "definition": "Chewing.",
+   "chapters": [
+    72
+   ],
+   "defined_in": 72,
+   "pattern": "mastication"
+  },
+  {
+   "word": "Fecundate",
+   "definition": "To make fertile.",
+   "chapters": [
+    72,
+    73
+   ],
+   "defined_in": 72,
+   "pattern": "fecundated?|fecundation"
+  },
+  {
+   "word": "Layette",
+   "definition": "A set of clothing and linens for a newborn.",
+   "chapters": [
+    72,
+    79
+   ],
+   "defined_in": 72,
+   "pattern": "layettes?"
+  },
+  {
+   "word": "Dropsical",
+   "definition": "Swollen with fluid; suffering from dropsy.",
+   "chapters": [
+    72
+   ],
+   "defined_in": 72,
+   "pattern": "dropsical"
+  },
+  {
+   "word": "Ergot",
+   "definition": "A fungus of rye and grasses, used to hasten childbirth.",
+   "chapters": [
+    72
+   ],
+   "defined_in": 72,
+   "pattern": "ergot"
+  },
+  {
+   "word": "Vertiginous",
+   "definition": "Dizzy; causing dizziness.",
+   "chapters": [
+    72
+   ],
+   "defined_in": 72,
+   "pattern": "vertiginous"
+  },
+  {
+   "word": "Perineum",
+   "definition": "The area between the genitals and the anus.",
+   "chapters": [
+    72
+   ],
+   "defined_in": 72,
+   "pattern": "perineum"
+  },
+  {
+   "word": "Breech",
+   "definition": "Of a birth, buttocks or feet first.",
+   "chapters": [
+    72
+   ],
+   "defined_in": 72,
+   "pattern": "breech"
+  },
+  {
+   "word": "Drummer",
+   "definition": "A traveling salesman.",
+   "chapters": [
+    49,
+    72
+   ],
+   "defined_in": 72,
+   "pattern": "drummers?"
   }
  ],
  "vocab_chapters": [
@@ -20156,6 +20270,7 @@
   68,
   69,
   70,
-  71
+  71,
+  72
  ]
 }
