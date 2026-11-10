@@ -19535,6 +19535,236 @@
    ],
    "defined_in": 67,
    "pattern": "bean-shooters?"
+  },
+  {
+   "word": "Iridescent",
+   "definition": "Shimmering with changing rainbow colors.",
+   "chapters": [
+    28,
+    29,
+    31,
+    33,
+    40,
+    47,
+    51,
+    53,
+    54,
+    57,
+    58,
+    61,
+    65,
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "iridescent"
+  },
+  {
+   "word": "Facade",
+   "definition": "The front of a building; a false front.",
+   "chapters": [
+    22,
+    26,
+    61,
+    68,
+    72,
+    82
+   ],
+   "defined_in": 68,
+   "pattern": "facade"
+  },
+  {
+   "word": "Scrofulous",
+   "definition": "Diseased with scrofula; shabby and corrupt.",
+   "chapters": [
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "scrofulous"
+  },
+  {
+   "word": "Lecherous",
+   "definition": "Lustful.",
+   "chapters": [
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "lecherous"
+  },
+  {
+   "word": "Mother lode",
+   "definition": "The main vein of ore in a mine; a rich source.",
+   "chapters": [
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "mother lode"
+  },
+  {
+   "word": "Discretion",
+   "definition": "Good judgment; tact in keeping a secret.",
+   "chapters": [
+    45,
+    53,
+    54,
+    68,
+    74
+   ],
+   "defined_in": 68,
+   "pattern": "discretion"
+  },
+  {
+   "word": "Galoshes",
+   "definition": "Rubber overshoes.",
+   "chapters": [
+    68,
+    71
+   ],
+   "defined_in": 68,
+   "pattern": "galoshes?"
+  },
+  {
+   "word": "Obtuseness",
+   "definition": "Slowness to understand.",
+   "chapters": [
+    54,
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "obtuseness"
+  },
+  {
+   "word": "Corpus delicti",
+   "definition": "The proof that a crime was committed.",
+   "chapters": [
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "corpus delicti"
+  },
+  {
+   "word": "Perfunctory",
+   "definition": "Done as a duty, without care or interest.",
+   "chapters": [
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "perfunctory"
+  },
+  {
+   "word": "Dementia",
+   "definition": "Madness; a decline of the mind.",
+   "chapters": [
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "dementias?"
+  },
+  {
+   "word": "Foetus",
+   "definition": "An unborn child.",
+   "chapters": [
+    5,
+    47,
+    68,
+    71,
+    72,
+    74,
+    75,
+    81
+   ],
+   "defined_in": 68,
+   "pattern": "foetus"
+  },
+  {
+   "word": "Spasmodic",
+   "definition": "Occurring in fits and starts.",
+   "chapters": [
+    32,
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "spasmodic"
+  },
+  {
+   "word": "Tout",
+   "definition": "One who sells racing tips.",
+   "chapters": [
+    65,
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "touts?"
+  },
+  {
+   "word": "Bluebeard",
+   "definition": "A man who murders his wives, after Perrault’s tale.",
+   "chapters": [
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "bluebeards?"
+  },
+  {
+   "word": "Commute",
+   "definition": "To reduce a sentence to a lesser one.",
+   "chapters": [
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "commuted"
+  },
+  {
+   "word": "Mandrake",
+   "definition": "A plant with a forked root once thought to scream when pulled up.",
+   "chapters": [
+    56,
+    68,
+    71
+   ],
+   "defined_in": 68,
+   "pattern": "mandrakes?"
+  },
+  {
+   "word": "Progeny",
+   "definition": "Offspring.",
+   "chapters": [
+    49,
+    68,
+    73,
+    80
+   ],
+   "defined_in": 68,
+   "pattern": "progeny"
+  },
+  {
+   "word": "Belligerently",
+   "definition": "In a hostile, quarrelsome way.",
+   "chapters": [
+    63,
+    68,
+    82
+   ],
+   "defined_in": 68,
+   "pattern": "belligerently"
+  },
+  {
+   "word": "Spittoon",
+   "definition": "A bowl for spitting into.",
+   "chapters": [
+    68,
+    71
+   ],
+   "defined_in": 68,
+   "pattern": "spittoons?"
+  },
+  {
+   "word": "Astigmatism",
+   "definition": "A defect of the eye that blurs vision.",
+   "chapters": [
+    68
+   ],
+   "defined_in": 68,
+   "pattern": "astigmatism"
   }
  ],
  "vocab_chapters": [
@@ -19604,6 +19834,7 @@
   64,
   65,
   66,
-  67
+  67,
+  68
  ]
 }
