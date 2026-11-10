@@ -20893,6 +20893,122 @@
    ],
    "defined_in": 78,
    "pattern": "traces"
+  },
+  {
+   "word": "Sardonic",
+   "definition": "Grimly mocking.",
+   "chapters": [
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "sardonic"
+  },
+  {
+   "word": "Concubine",
+   "definition": "A woman who lives with a man as a mate without being his wife.",
+   "chapters": [
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "concubines?"
+  },
+  {
+   "word": "Go-between",
+   "definition": "A person who carries messages or deals between two others.",
+   "chapters": [
+    29,
+    32,
+    79,
+    80
+   ],
+   "defined_in": 79,
+   "pattern": "go-betweens?"
+  },
+  {
+   "word": "Spiritualist",
+   "definition": "One who believes the living can speak with the spirits of the dead.",
+   "chapters": [
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "spiritualists?"
+  },
+  {
+   "word": "Gramophone",
+   "definition": "An early record player with a horn.",
+   "chapters": [
+    2,
+    54,
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "gramophones?"
+  },
+  {
+   "word": "Linoleum",
+   "definition": "A floor covering of linseed oil and cork on canvas.",
+   "chapters": [
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "linoleum"
+  },
+  {
+   "word": "Burlap",
+   "definition": "Coarse cloth of jute or hemp, used for sacks.",
+   "chapters": [
+    14,
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "burlap"
+  },
+  {
+   "word": "Treacle",
+   "definition": "Molasses; dark syrup from sugar cane.",
+   "chapters": [
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "treacl(?:e|ing)"
+  },
+  {
+   "word": "Larkspur",
+   "definition": "A garden and wild flower with spurred blue or purple blossoms.",
+   "chapters": [
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "larkspurs?"
+  },
+  {
+   "word": "Posterior",
+   "definition": "The buttocks; at the back.",
+   "chapters": [
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "posterior"
+  },
+  {
+   "word": "Conjugal",
+   "definition": "Of marriage, especially the sexual relation between husband and wife.",
+   "chapters": [
+    34,
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "conjugal"
+  },
+  {
+   "word": "Fore and aft",
+   "definition": "From front to back, as on a ship.",
+   "chapters": [
+    49,
+    79
+   ],
+   "defined_in": 79,
+   "pattern": "fore or aft|fore and aft"
   }
  ],
  "vocab_chapters": [
@@ -20973,6 +21089,7 @@
   75,
   76,
   77,
-  78
+  78,
+  79
  ]
 }
