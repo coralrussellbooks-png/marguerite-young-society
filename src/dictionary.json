@@ -19453,6 +19453,88 @@
    ],
    "defined_in": 66,
    "pattern": "blubber"
+  },
+  {
+   "word": "Carapaced",
+   "definition": "Covered with a hard shell, like a beetle or a turtle.",
+   "chapters": [
+    67
+   ],
+   "defined_in": 67,
+   "pattern": "carapaced"
+  },
+  {
+   "word": "Maudlin",
+   "definition": "Tearfully sentimental, as a drunk can be.",
+   "chapters": [
+    67,
+    70
+   ],
+   "defined_in": 67,
+   "pattern": "maudlin"
+  },
+  {
+   "word": "Melodiously",
+   "definition": "Tunefully.",
+   "chapters": [
+    55,
+    65,
+    67,
+    69,
+    70,
+    72
+   ],
+   "defined_in": 67,
+   "pattern": "melodiously"
+  },
+  {
+   "word": "Monopoly",
+   "definition": "Sole possession or control of something.",
+   "chapters": [
+    63,
+    67
+   ],
+   "defined_in": 67,
+   "pattern": "monopol(?:y|ies)"
+  },
+  {
+   "word": "Jugular",
+   "definition": "The great vein of the neck.",
+   "chapters": [
+    67
+   ],
+   "defined_in": 67,
+   "pattern": "jugular"
+  },
+  {
+   "word": "Seesaw",
+   "definition": "To move up and down or back and forth.",
+   "chapters": [
+    67
+   ],
+   "defined_in": 67,
+   "pattern": "seesaw(?:ing|ed|s)?"
+  },
+  {
+   "word": "Grandiose",
+   "definition": "Grand in an exaggerated, self-important way.",
+   "chapters": [
+    54,
+    55,
+    67
+   ],
+   "defined_in": 67,
+   "pattern": "grandiose"
+  },
+  {
+   "word": "Bean-shooter",
+   "definition": "A peashooter or slingshot.",
+   "chapters": [
+    67,
+    71
+   ],
+   "defined_in": 67,
+   "pattern": "bean-shooters?"
   }
  ],
  "vocab_chapters": [
@@ -19521,6 +19603,7 @@
   63,
   64,
   65,
-  66
+  66,
+  67
  ]
 }
