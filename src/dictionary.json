@@ -19743,6 +19743,140 @@
    ],
    "defined_in": 68,
    "pattern": "astigmatism"
+  },
+  {
+   "word": "Loquacious",
+   "definition": "Talkative.",
+   "chapters": [
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "loquacious"
+  },
+  {
+   "word": "Furlough",
+   "definition": "Leave from military duty.",
+   "chapters": [
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "furloughs?"
+  },
+  {
+   "word": "Silage",
+   "definition": "Green fodder stored to ferment for winter feed.",
+   "chapters": [
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "silage"
+  },
+  {
+   "word": "Ventriloquist",
+   "definition": "One who throws the voice so it seems to come from elsewhere.",
+   "chapters": [
+    63,
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "ventriloquists?"
+  },
+  {
+   "word": "Copulate",
+   "definition": "To mate.",
+   "chapters": [
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "copulat(?:e|ed|ing)"
+  },
+  {
+   "word": "Riotous",
+   "definition": "Wild and unrestrained.",
+   "chapters": [
+    34,
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "riotous"
+  },
+  {
+   "word": "Reticence",
+   "definition": "Reserve; a habit of keeping silent.",
+   "chapters": [
+    69,
+    80
+   ],
+   "defined_in": 69,
+   "pattern": "reticence"
+  },
+  {
+   "word": "Impostor",
+   "definition": "One who pretends to be someone else.",
+   "chapters": [
+    69,
+    70
+   ],
+   "defined_in": 69,
+   "pattern": "impostors?"
+  },
+  {
+   "word": "Wormwood",
+   "definition": "A bitter herb; bitterness itself.",
+   "chapters": [
+    5,
+    8,
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "wormwood"
+  },
+  {
+   "word": "Unctuously",
+   "definition": "With a smooth, oily, false earnestness.",
+   "chapters": [
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "unctuously"
+  },
+  {
+   "word": "Abortionist",
+   "definition": "One who performs abortions.",
+   "chapters": [
+    69,
+    74,
+    77
+   ],
+   "defined_in": 69,
+   "pattern": "abortionists?"
+  },
+  {
+   "word": "Decrepitly",
+   "definition": "In a worn-out, feeble way.",
+   "chapters": [
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "decrepitly"
+  },
+  {
+   "word": "Gonorrhea",
+   "definition": "A venereal disease.",
+   "chapters": [
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "gonorrh(?:o)?ea"
+  },
+  {
+   "word": "Venereal",
+   "definition": "Passed on by sexual contact.",
+   "chapters": [
+    69
+   ],
+   "defined_in": 69,
+   "pattern": "venereal"
   }
  ],
  "vocab_chapters": [
@@ -19813,6 +19947,7 @@
   65,
   66,
   67,
-  68
+  68,
+  69
  ]
 }
