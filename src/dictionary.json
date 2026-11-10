@@ -20159,6 +20159,134 @@
    ],
    "defined_in": 72,
    "pattern": "drummers?"
+  },
+  {
+   "word": "Superfecundation",
+   "definition": "The fertilizing of two or more eggs from one cycle in separate acts of intercourse, so that twins may have different fathers.",
+   "chapters": [
+    73
+   ],
+   "defined_in": 73,
+   "pattern": "super-?fecundation"
+  },
+  {
+   "word": "Visitant",
+   "definition": "A visitor, especially a ghostly or supernatural one.",
+   "chapters": [
+    63,
+    73
+   ],
+   "defined_in": 73,
+   "pattern": "visitants?"
+  },
+  {
+   "word": "Perineal",
+   "definition": "Of the perineum, the area between the genitals and the anus.",
+   "chapters": [
+    73,
+    76
+   ],
+   "defined_in": 73,
+   "pattern": "perineal"
+  },
+  {
+   "word": "Feint",
+   "definition": "A pretended blow meant to throw an opponent off guard.",
+   "chapters": [
+    22,
+    53,
+    73
+   ],
+   "defined_in": 73,
+   "pattern": "feint(?:s|ings?)?"
+  },
+  {
+   "word": "Bleachers",
+   "definition": "Cheap, uncovered rows of benches for spectators.",
+   "chapters": [
+    22,
+    65,
+    73
+   ],
+   "defined_in": 73,
+   "pattern": "bleachers"
+  },
+  {
+   "word": "Fishmoth",
+   "definition": "A silverfish, the small wingless insect that eats paper and starch.",
+   "chapters": [
+    73,
+    80
+   ],
+   "defined_in": 73,
+   "pattern": "fishmoths?"
+  },
+  {
+   "word": "Astraddle",
+   "definition": "With one leg on each side; astride.",
+   "chapters": [
+    73,
+    74,
+    79
+   ],
+   "defined_in": 73,
+   "pattern": "astraddle"
+  },
+  {
+   "word": "Sunbonnet",
+   "definition": "A wide-brimmed cloth bonnet that shades the face and neck.",
+   "chapters": [
+    73
+   ],
+   "defined_in": 73,
+   "pattern": "sunbonnets?"
+  },
+  {
+   "word": "Featherweight",
+   "definition": "In boxing, the class just above bantamweight, long limited to 126 pounds; anything very light.",
+   "chapters": [
+    53,
+    72,
+    73,
+    74,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81
+   ],
+   "defined_in": 73,
+   "pattern": "featherweights?"
+  },
+  {
+   "word": "Bantamweight",
+   "definition": "In boxing, the class just below featherweight, named for the small bantam chicken.",
+   "chapters": [
+    73
+   ],
+   "defined_in": 73,
+   "pattern": "bantamweights?"
+  },
+  {
+   "word": "Ossified",
+   "definition": "Turned to bone; hardened.",
+   "chapters": [
+    73,
+    76,
+    81
+   ],
+   "defined_in": 73,
+   "pattern": "ossified"
+  },
+  {
+   "word": "Washwoman",
+   "definition": "A woman who takes in washing for pay.",
+   "chapters": [
+    73
+   ],
+   "defined_in": 73,
+   "pattern": "washwom[ae]n"
   }
  ],
  "vocab_chapters": [
@@ -20233,6 +20361,7 @@
   69,
   70,
   71,
-  72
+  72,
+  73
  ]
 }
