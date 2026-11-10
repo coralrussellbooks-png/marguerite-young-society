@@ -20489,6 +20489,141 @@
    ],
    "defined_in": 75,
    "pattern": "misbegotten"
+  },
+  {
+   "word": "Papaw",
+   "definition": "A small native tree of the eastern woods with large, custardy fruit; also pawpaw.",
+   "chapters": [
+    76
+   ],
+   "defined_in": 76,
+   "pattern": "papaws?"
+  },
+  {
+   "word": "Pupa",
+   "definition": "An insect in its resting stage inside a cocoon, between larva and adult.",
+   "chapters": [
+    59,
+    76
+   ],
+   "defined_in": 76,
+   "pattern": "pupa"
+  },
+  {
+   "word": "Afterbirth",
+   "definition": "The placenta and membranes expelled after a birth.",
+   "chapters": [
+    76,
+    81
+   ],
+   "defined_in": 76,
+   "pattern": "afterbirths?"
+  },
+  {
+   "word": "Bargeman",
+   "definition": "A man who works on a river barge.",
+   "chapters": [
+    76
+   ],
+   "defined_in": 76,
+   "pattern": "bargem[ae]n"
+  },
+  {
+   "word": "Squeamish",
+   "definition": "Easily sickened or shocked.",
+   "chapters": [
+    66,
+    76
+   ],
+   "defined_in": 76,
+   "pattern": "squeamish"
+  },
+  {
+   "word": "Intrinsic",
+   "definition": "Belonging to the very nature of a thing.",
+   "chapters": [
+    54,
+    76
+   ],
+   "defined_in": 76,
+   "pattern": "intrinsic"
+  },
+  {
+   "word": "Obituary",
+   "definition": "A newspaper notice of a death.",
+   "chapters": [
+    14,
+    22,
+    49,
+    52,
+    53,
+    54,
+    56,
+    57,
+    60,
+    63,
+    76
+   ],
+   "defined_in": 76,
+   "pattern": "obituar(?:y|ies)"
+  },
+  {
+   "word": "Pendulum",
+   "definition": "A weight that swings back and forth, as in a clock.",
+   "chapters": [
+    6,
+    45,
+    47,
+    49,
+    64,
+    76,
+    79
+   ],
+   "defined_in": 76,
+   "pattern": "pendulums?"
+  },
+  {
+   "word": "Thorax",
+   "definition": "The chest; the part of the body between the neck and the belly.",
+   "chapters": [
+    59,
+    72,
+    73,
+    76
+   ],
+   "defined_in": 76,
+   "pattern": "thorax"
+  },
+  {
+   "word": "Labia",
+   "definition": "The lips of the vulva.",
+   "chapters": [
+    76
+   ],
+   "defined_in": 76,
+   "pattern": "labia"
+  },
+  {
+   "word": "Alder",
+   "definition": "A tree of wet ground, of the birch family.",
+   "chapters": [
+    76
+   ],
+   "defined_in": 76,
+   "pattern": "alders?"
+  },
+  {
+   "word": "Haw",
+   "definition": "The red berry of the hawthorn.",
+   "chapters": [
+    66,
+    76,
+    78,
+    80,
+    81
+   ],
+   "defined_in": 76,
+   "pattern": "haws?"
   }
  ],
  "vocab_chapters": [
@@ -20566,6 +20701,7 @@
   72,
   73,
   74,
-  75
+  75,
+  76
  ]
 }
