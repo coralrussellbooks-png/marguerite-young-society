@@ -20624,6 +20624,140 @@
    ],
    "defined_in": 76,
    "pattern": "haws?"
+  },
+  {
+   "word": "Epileptic",
+   "definition": "Having epilepsy, a disorder that brings seizures.",
+   "chapters": [
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "epileptic"
+  },
+  {
+   "word": "Go-cart",
+   "definition": "A small child’s wagon or walker.",
+   "chapters": [
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "go-carts?"
+  },
+  {
+   "word": "Mary Janes",
+   "definition": "Low, strapped shoes for children.",
+   "chapters": [
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "mary-janes?"
+  },
+  {
+   "word": "Dissolution",
+   "definition": "A breaking up; decay; death.",
+   "chapters": [
+    39,
+    42,
+    61,
+    65,
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "dissolution"
+  },
+  {
+   "word": "Riddance",
+   "definition": "Freedom from something unwanted, as in good riddance.",
+   "chapters": [
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "riddance"
+  },
+  {
+   "word": "Foreknowledge",
+   "definition": "Knowledge of a thing before it happens.",
+   "chapters": [
+    7,
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "foreknowledge"
+  },
+  {
+   "word": "Lair",
+   "definition": "A wild animal’s den; a hiding place.",
+   "chapters": [
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "lairs?"
+  },
+  {
+   "word": "Bellows",
+   "definition": "A device that blows air when squeezed, as for a fire.",
+   "chapters": [
+    5,
+    7,
+    45,
+    48,
+    49,
+    52,
+    61,
+    68,
+    71,
+    73,
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "bellows"
+  },
+  {
+   "word": "Tuning fork",
+   "definition": "A two-pronged steel fork that sounds one pitch when struck.",
+   "chapters": [
+    5,
+    51,
+    71,
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "tuning forks?"
+  },
+  {
+   "word": "Uterus",
+   "definition": "The womb.",
+   "chapters": [
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "uterus"
+  },
+  {
+   "word": "Census taker",
+   "definition": "A person who goes door to door counting people for the census.",
+   "chapters": [
+    42,
+    46,
+    47,
+    52,
+    54,
+    72,
+    73,
+    77,
+    80
+   ],
+   "defined_in": 77,
+   "pattern": "census-takers?"
+  },
+  {
+   "word": "Juryman",
+   "definition": "A man serving on a jury.",
+   "chapters": [
+    77
+   ],
+   "defined_in": 77,
+   "pattern": "jurym[ae]n"
   }
  ],
  "vocab_chapters": [
@@ -20702,6 +20836,7 @@
   73,
   74,
   75,
-  76
+  76,
+  77
  ]
 }
