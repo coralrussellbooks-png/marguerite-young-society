@@ -16271,33 +16271,6 @@
    "pattern": "octahedr(?:on|ons|a)"
   },
   {
-   "word": "Opalescence",
-   "definition": "A milky, shifting iridescence like that of an opal.",
-   "chapters": [
-    3,
-    14,
-    19,
-    25,
-    29,
-    32,
-    37,
-    41,
-    45,
-    46,
-    47,
-    48,
-    49,
-    51,
-    52,
-    62,
-    72,
-    76,
-    81
-   ],
-   "defined_in": 48,
-   "pattern": "opalescen(?:ce|t)"
-  },
-  {
    "word": "Pigeoncote",
    "definition": "A house for doves or pigeons, standing alone or built into a house; pigeons kept there were once an important source of food.",
    "chapters": [
@@ -16423,17 +16396,6 @@
    ],
    "defined_in": 49,
    "pattern": "infrangible"
-  },
-  {
-   "word": "Interstice",
-   "definition": "A narrow space between things.",
-   "chapters": [
-    18,
-    49,
-    72
-   ],
-   "defined_in": 49,
-   "pattern": "interstices?"
   },
   {
    "word": "Jinrikisha",
