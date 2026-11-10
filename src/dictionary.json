@@ -19877,6 +19877,119 @@
    ],
    "defined_in": 69,
    "pattern": "venereal"
+  },
+  {
+   "word": "Introversion",
+   "definition": "A turning inward of the mind.",
+   "chapters": [
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "introversion"
+  },
+  {
+   "word": "Rotund",
+   "definition": "Round and plump.",
+   "chapters": [
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "rotund"
+  },
+  {
+   "word": "Officious",
+   "definition": "Pushy in offering help or giving orders.",
+   "chapters": [
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "officious"
+  },
+  {
+   "word": "Seraphic",
+   "definition": "Angelic.",
+   "chapters": [
+    29,
+    53,
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "seraphic(?:ally)?"
+  },
+  {
+   "word": "Falsetto",
+   "definition": "An artificially high voice.",
+   "chapters": [
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "falsetto"
+  },
+  {
+   "word": "Pendulous",
+   "definition": "Hanging loosely.",
+   "chapters": [
+    49,
+    70,
+    80
+   ],
+   "defined_in": 70,
+   "pattern": "pendulous"
+  },
+  {
+   "word": "Podiatrist",
+   "definition": "A foot doctor.",
+   "chapters": [
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "podiatrist"
+  },
+  {
+   "word": "Parasitically",
+   "definition": "Like a parasite, living off another.",
+   "chapters": [
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "parasitically"
+  },
+  {
+   "word": "Déshabillé",
+   "definition": "The state of being partly dressed.",
+   "chapters": [
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "d[eé]shabill[eé]"
+  },
+  {
+   "word": "Kaleidoscope",
+   "definition": "A tube of mirrors and colored glass making changing patterns.",
+   "chapters": [
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "kaleidoscopes?"
+  },
+  {
+   "word": "Atomizer",
+   "definition": "A device that sprays liquid as a fine mist.",
+   "chapters": [
+    29,
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "atomizers?"
+  },
+  {
+   "word": "Interloper",
+   "definition": "An intruder.",
+   "chapters": [
+    70
+   ],
+   "defined_in": 70,
+   "pattern": "interlopers?"
   }
  ],
  "vocab_chapters": [
@@ -19948,6 +20061,7 @@
   66,
   67,
   68,
-  69
+  69,
+  70
  ]
 }
