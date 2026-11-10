@@ -19295,6 +19295,164 @@
    ],
    "defined_in": 65,
    "pattern": "laudanum"
+  },
+  {
+   "word": "Pigmentation",
+   "definition": "The natural coloring of skin, hair, or other tissue.",
+   "chapters": [
+    29,
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "pigmentation"
+  },
+  {
+   "word": "Traipse",
+   "definition": "To walk about wearily or aimlessly.",
+   "chapters": [
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "traips(?:e|ed|es|ing)"
+  },
+  {
+   "word": "Perjury",
+   "definition": "Lying under oath.",
+   "chapters": [
+    66,
+    76
+   ],
+   "defined_in": 66,
+   "pattern": "perjury"
+  },
+  {
+   "word": "Astuteness",
+   "definition": "Shrewdness; keen judgment.",
+   "chapters": [
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "astuteness"
+  },
+  {
+   "word": "Parlay",
+   "definition": "To build a small stake into a large one by betting the winnings again.",
+   "chapters": [
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "parlay(?:ed|s|ing)?"
+  },
+  {
+   "word": "Anthracite",
+   "definition": "Hard coal that burns with little smoke.",
+   "chapters": [
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "anthracite"
+  },
+  {
+   "word": "Potter’s field",
+   "definition": "A burial ground for the poor and the unknown.",
+   "chapters": [
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "potters?'? fields?"
+  },
+  {
+   "word": "Limpid",
+   "definition": "Clear and transparent.",
+   "chapters": [
+    14,
+    66,
+    81
+   ],
+   "defined_in": 66,
+   "pattern": "limpid"
+  },
+  {
+   "word": "Cold-water flat",
+   "definition": "A tenement apartment with no hot running water.",
+   "chapters": [
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "cold[ -]water flats?"
+  },
+  {
+   "word": "Obtrusive",
+   "definition": "Pushing oneself forward; unwelcome.",
+   "chapters": [
+    66,
+    76
+   ],
+   "defined_in": 66,
+   "pattern": "obtrusive"
+  },
+  {
+   "word": "Denudation",
+   "definition": "The act of stripping bare.",
+   "chapters": [
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "denudation"
+  },
+  {
+   "word": "Periphery",
+   "definition": "The outer edge.",
+   "chapters": [
+    3,
+    49,
+    52,
+    55,
+    61,
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "periphery"
+  },
+  {
+   "word": "Lave",
+   "definition": "To wash or bathe.",
+   "chapters": [
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "laves?|laved"
+  },
+  {
+   "word": "Oozy",
+   "definition": "Wet with soft mud or slime.",
+   "chapters": [
+    8,
+    10,
+    22,
+    61,
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "oozy"
+  },
+  {
+   "word": "Day-star",
+   "definition": "The morning star; also the sun.",
+   "chapters": [
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "day-star|daystar"
+  },
+  {
+   "word": "Blubber",
+   "definition": "The fat of whales and seals.",
+   "chapters": [
+    66
+   ],
+   "defined_in": 66,
+   "pattern": "blubber"
   }
  ],
  "vocab_chapters": [
@@ -19362,6 +19520,7 @@
   62,
   63,
   64,
-  65
+  65,
+  66
  ]
 }
