@@ -19225,6 +19225,15 @@
    ],
    "defined_in": 64,
    "pattern": "nonconformists?"
+  },
+  {
+   "word": "High-hat",
+   "definition": "Slang of the 1920s: to treat someone with snobbish disdain.",
+   "chapters": [
+    64
+   ],
+   "defined_in": 64,
+   "pattern": "high-hat(?:s|ted)?"
   }
  ],
  "vocab_chapters": [
