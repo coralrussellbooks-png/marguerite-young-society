@@ -14575,20 +14575,6 @@
    "pattern": "gibbets?"
   },
   {
-   "word": "Hoar frost",
-   "definition": "White frost.",
-   "chapters": [
-    37,
-    44,
-    63,
-    65,
-    72,
-    81
-   ],
-   "defined_in": 37,
-   "pattern": "hoar ?frost"
-  },
-  {
    "word": "Incipient",
    "definition": "Just beginning.",
    "chapters": [
