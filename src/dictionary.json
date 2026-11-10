@@ -20287,6 +20287,127 @@
    ],
    "defined_in": 73,
    "pattern": "washwom[ae]n"
+  },
+  {
+   "word": "Menses",
+   "definition": "The monthly flow of blood from the womb; menstruation.",
+   "chapters": [
+    74
+   ],
+   "defined_in": 74,
+   "pattern": "menses"
+  },
+  {
+   "word": "Amplitude",
+   "definition": "Largeness; fullness of size or extent.",
+   "chapters": [
+    38,
+    51,
+    61,
+    72,
+    74,
+    75,
+    78
+   ],
+   "defined_in": 74,
+   "pattern": "amplitude"
+  },
+  {
+   "word": "Contrition",
+   "definition": "Deep sorrow for a wrong one has done.",
+   "chapters": [
+    74
+   ],
+   "defined_in": 74,
+   "pattern": "contrition"
+  },
+  {
+   "word": "Prowess",
+   "definition": "Skill or daring, especially in fighting or in love.",
+   "chapters": [
+    40,
+    44,
+    74
+   ],
+   "defined_in": 74,
+   "pattern": "prowess"
+  },
+  {
+   "word": "Seepage",
+   "definition": "A slow oozing or leaking of liquid.",
+   "chapters": [
+    48,
+    74
+   ],
+   "defined_in": 74,
+   "pattern": "seepage"
+  },
+  {
+   "word": "Quicksilver",
+   "definition": "Mercury, the liquid metal; anything quick and shining.",
+   "chapters": [
+    49,
+    56,
+    57,
+    58,
+    62,
+    74,
+    79
+   ],
+   "defined_in": 74,
+   "pattern": "quicksilver"
+  },
+  {
+   "word": "Rimless",
+   "definition": "Of eyeglasses, with no frame around the lenses.",
+   "chapters": [
+    1,
+    3,
+    74
+   ],
+   "defined_in": 74,
+   "pattern": "rimless"
+  },
+  {
+   "word": "Vaultless",
+   "definition": "Without a vault or arched roof; open, unbounded.",
+   "chapters": [
+    47,
+    72,
+    74
+   ],
+   "defined_in": 74,
+   "pattern": "vaultless"
+  },
+  {
+   "word": "Incriminate",
+   "definition": "To make someone appear guilty of a crime.",
+   "chapters": [
+    74,
+    76
+   ],
+   "defined_in": 74,
+   "pattern": "incriminat(?:e|es|ed|ing)"
+  },
+  {
+   "word": "Inquest",
+   "definition": "A legal inquiry, especially into a death.",
+   "chapters": [
+    74,
+    75,
+    77
+   ],
+   "defined_in": 74,
+   "pattern": "inquests?"
+  },
+  {
+   "word": "Postscript",
+   "definition": "A note added after the signature of a letter.",
+   "chapters": [
+    74
+   ],
+   "defined_in": 74,
+   "pattern": "postscripts?"
   }
  ],
  "vocab_chapters": [
@@ -20362,6 +20483,7 @@
   70,
   71,
   72,
-  73
+  73,
+  74
  ]
 }
