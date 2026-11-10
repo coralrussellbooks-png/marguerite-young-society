@@ -19992,15 +19992,6 @@
    "pattern": "interlopers?"
   },
   {
-   "word": "Langorously",
-   "definition": "Languidly; in a dreamy, lingering way.",
-   "chapters": [
-    71
-   ],
-   "defined_in": 71,
-   "pattern": "langorously|languorously"
-  },
-  {
    "word": "Stickpin",
    "definition": "An ornamental pin worn in a necktie.",
    "chapters": [
@@ -20010,30 +20001,6 @@
    "pattern": "stickpins?"
   },
   {
-   "word": "Foreboding",
-   "definition": "A feeling that something bad will happen.",
-   "chapters": [
-    65,
-    71,
-    81
-   ],
-   "defined_in": 71,
-   "pattern": "foreboding"
-  },
-  {
-   "word": "Paling",
-   "definition": "A pointed stake of a fence.",
-   "chapters": [
-    3,
-    22,
-    47,
-    49,
-    71
-   ],
-   "defined_in": 71,
-   "pattern": "palings?|palinged"
-  },
-  {
    "word": "Anteroom",
    "definition": "A small room leading into a larger one.",
    "chapters": [
@@ -20041,15 +20008,6 @@
    ],
    "defined_in": 71,
    "pattern": "anteroom"
-  },
-  {
-   "word": "Dismemberment",
-   "definition": "A cutting apart, limb from limb.",
-   "chapters": [
-    71
-   ],
-   "defined_in": 71,
-   "pattern": "dismemberment"
   },
   {
    "word": "Embryo",
@@ -20091,15 +20049,6 @@
    "pattern": "astrolabes?"
   },
   {
-   "word": "Senility",
-   "definition": "The weakness of mind of old age.",
-   "chapters": [
-    71
-   ],
-   "defined_in": 71,
-   "pattern": "senility"
-  },
-  {
    "word": "Goiter",
    "definition": "A swelling of the thyroid gland in the neck.",
    "chapters": [
@@ -20116,19 +20065,6 @@
    ],
    "defined_in": 71,
    "pattern": "baize"
-  },
-  {
-   "word": "Ponderously",
-   "definition": "Heavily and slowly.",
-   "chapters": [
-    2,
-    14,
-    27,
-    33,
-    71
-   ],
-   "defined_in": 71,
-   "pattern": "ponderously"
   },
   {
    "word": "Mulatto",
