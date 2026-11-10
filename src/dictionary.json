@@ -19990,6 +19990,163 @@
    ],
    "defined_in": 70,
    "pattern": "interlopers?"
+  },
+  {
+   "word": "Langorously",
+   "definition": "Languidly; in a dreamy, lingering way.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "langorously|languorously"
+  },
+  {
+   "word": "Stickpin",
+   "definition": "An ornamental pin worn in a necktie.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "stickpins?"
+  },
+  {
+   "word": "Foreboding",
+   "definition": "A feeling that something bad will happen.",
+   "chapters": [
+    65,
+    71,
+    81
+   ],
+   "defined_in": 71,
+   "pattern": "foreboding"
+  },
+  {
+   "word": "Paling",
+   "definition": "A pointed stake of a fence.",
+   "chapters": [
+    3,
+    22,
+    47,
+    49,
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "palings?|palinged"
+  },
+  {
+   "word": "Anteroom",
+   "definition": "A small room leading into a larger one.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "anteroom"
+  },
+  {
+   "word": "Dismemberment",
+   "definition": "A cutting apart, limb from limb.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "dismemberment"
+  },
+  {
+   "word": "Embryo",
+   "definition": "An unborn creature in its earliest stage.",
+   "chapters": [
+    56,
+    71,
+    76,
+    80
+   ],
+   "defined_in": 71,
+   "pattern": "embryos?"
+  },
+  {
+   "word": "Crêpe de Chine",
+   "definition": "A fine, crinkled silk.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "cr[eê]pe de chine"
+  },
+  {
+   "word": "Procreation",
+   "definition": "The begetting of offspring.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "procreation"
+  },
+  {
+   "word": "Astrolabe",
+   "definition": "An old instrument for reckoning the positions of the stars.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "astrolabes?"
+  },
+  {
+   "word": "Senility",
+   "definition": "The weakness of mind of old age.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "senility"
+  },
+  {
+   "word": "Goiter",
+   "definition": "A swelling of the thyroid gland in the neck.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "goiters?"
+  },
+  {
+   "word": "Baize",
+   "definition": "A coarse green woolen cloth.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "baize"
+  },
+  {
+   "word": "Ponderously",
+   "definition": "Heavily and slowly.",
+   "chapters": [
+    2,
+    14,
+    27,
+    33,
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "ponderously"
+  },
+  {
+   "word": "Mulatto",
+   "definition": "An old and now offensive term for a person of mixed Black and white ancestry.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "mulattoes|mulattos?"
+  },
+  {
+   "word": "Doxology",
+   "definition": "A short hymn of praise to God.",
+   "chapters": [
+    71
+   ],
+   "defined_in": 71,
+   "pattern": "doxology|dogsology"
   }
  ],
  "vocab_chapters": [
@@ -20062,6 +20219,7 @@
   67,
   68,
   69,
-  70
+  70,
+  71
  ]
 }
