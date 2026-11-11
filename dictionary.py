@@ -33,9 +33,6 @@ for w in words:
     if L not in letters: letters.append(L)
 
 out = ['<h1>Dictionary of Miss MacIntosh, My Darling</h1>',
-       '<p>Short definitions of unfamiliar words in Miss MacIntosh, My Darling, with every chapter where each word appears. '
-       'Words are added as each chapter’s vocabulary is completed. The dictionary now covers the vocabulary of %s, %d words in all.</p>'
-       % (covered_text(), len(words)),
        '<p>' + ' · '.join('<a href="#%s--%s">%s</a>' % (PID, L.lower(), L) for L in letters) + '</p>']
 for L in letters:
     out.append('<h2>%s</h2>\n<dl class="gloss">' % L)
