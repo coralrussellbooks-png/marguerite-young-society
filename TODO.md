@@ -26,4 +26,4 @@ Present each batch as "Items that need your OK" (Current / Proposed / Why), then
   - Remove softened language now that the content notes are in place.
 - Consistency across chapters: the same allusion explained differently in two places, and corrections made late that earlier chapters still get wrong. Examples: Gabriel's horn (now sourced to "Blow Your Trumpet, Gabriel," Slave Songs of the United States, 1867), and nepenthe (Helen had it from Polydamna of Egypt and gave it to Menelaus and his guests).
 
-Next E number: E926. Step 2 progress: Chapters 1 to 3 done (E921 to E925); next is Chapter 4.
+Next E number: E930. Step 2 progress: Chapters 1 to 6 done (E921 to E929); next is Chapter 7. Coral approved treating encyclopedic passages as Wikipedia: mark them and list them for her OK.
