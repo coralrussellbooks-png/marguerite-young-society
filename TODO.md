@@ -25,4 +25,4 @@ Present each batch as "Items that need your OK" (Current / Proposed / Why), then
   - Remove softened language now that the content notes are in place.
 - Consistency across chapters: the same allusion explained differently in two places, and corrections made late that earlier chapters still get wrong. Examples: Gabriel's horn (now sourced to "Blow Your Trumpet, Gabriel," Slave Songs of the United States, 1867), and nepenthe (Helen had it from Polydamna of Egypt and gave it to Menelaus and his guests).
 
-Next E number: E913.
+Next E number: E914.
