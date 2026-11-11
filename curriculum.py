@@ -42,9 +42,7 @@ for s in subjects:
     pages[pid(s)] = '\n'.join(out)
 
 # the catalog section of the essay
-cat = ['<h2>The course catalog</h2>',
-       '<p>The novel’s references, sorted by subject the way a course catalog might sort them. Each subject page lists its topics chapter by chapter, with links to the full entries. The catalog now covers %s, %d of the novel’s %d chapters, and it grows as each chapter is completed.</p>'
-       % (chapters_text(covered), len(covered), TOTAL)]
+cat = ['<h2>The course catalog</h2>']
 for g in GROUPS:
     rows = []
     for s in subjects:
