@@ -21235,6 +21235,130 @@
    ],
    "defined_in": 81,
    "pattern": "window-?peepers?"
+  },
+  {
+   "word": "Jackdaw",
+   "definition": "A small crow known for picking up bright objects and sticks.",
+   "chapters": [
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "jackdaws?"
+  },
+  {
+   "word": "Metronome",
+   "definition": "A device that clicks a steady beat to keep musical time.",
+   "chapters": [
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "metronomes?"
+  },
+  {
+   "word": "Cabana",
+   "definition": "A small beach hut or shelter.",
+   "chapters": [
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "cabanas?"
+  },
+  {
+   "word": "Chanticleer",
+   "definition": "A name for a rooster, from the medieval beast fables.",
+   "chapters": [
+    12,
+    44,
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "chanticleers?"
+  },
+  {
+   "word": "Hart",
+   "definition": "A male deer.",
+   "chapters": [
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "harts?"
+  },
+  {
+   "word": "Clairvoyance",
+   "definition": "The supposed power of seeing what is hidden or yet to come.",
+   "chapters": [
+    65,
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "clairvoyan(?:ce|t)"
+  },
+  {
+   "word": "Braille",
+   "definition": "A system of raised dots read by touch.",
+   "chapters": [
+    12,
+    52,
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "braille"
+  },
+  {
+   "word": "Bobolink",
+   "definition": "A North American songbird of meadows.",
+   "chapters": [
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "bobolinks?"
+  },
+  {
+   "word": "Titmouse",
+   "definition": "A small songbird; a tit.",
+   "chapters": [
+    62,
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "titmouse|titmice"
+  },
+  {
+   "word": "Tern",
+   "definition": "A slender, fork-tailed seabird.",
+   "chapters": [
+    3,
+    49,
+    53,
+    54,
+    70,
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "terns?"
+  },
+  {
+   "word": "Sandpiper",
+   "definition": "A small wading shorebird that runs along the tide line.",
+   "chapters": [
+    2,
+    3,
+    6,
+    9,
+    22,
+    29,
+    39,
+    40,
+    47,
+    48,
+    49,
+    51,
+    64,
+    65,
+    82
+   ],
+   "defined_in": 82,
+   "pattern": "sandpipers?"
   }
  ],
  "vocab_chapters": [
@@ -21318,6 +21442,7 @@
   78,
   79,
   80,
-  81
+  81,
+  82
  ]
 }
