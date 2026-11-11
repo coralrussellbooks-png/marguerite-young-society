@@ -5,6 +5,7 @@
 All 82 chapters have had a first pass and a check pass. A scan of the live site after Chapter 82 found these items for one more sweep.
 
 ### Step 1: Mechanical fixes, sitewide, in one change
+DONE November 10, 2026 (E914 to E920 and mechanical fixes). The 84 "dash" flags are dashes inside novel quotations and stay; repeated words, ellipsis spaces, and regnal-number "first person" flags were checked and left alone.
 Show Coral anything that changes wording before it goes live.
 - Doubled "See" links: 45 in chapters 43, 55 to 65, 67, and 71. Merge each into one "See" line, as in the Chapter 82 check pass (E912).
 - Lint flags in 58 chapters, mostly chapters 1 to 35:
@@ -25,4 +26,4 @@ Present each batch as "Items that need your OK" (Current / Proposed / Why), then
   - Remove softened language now that the content notes are in place.
 - Consistency across chapters: the same allusion explained differently in two places, and corrections made late that earlier chapters still get wrong. Examples: Gabriel's horn (now sourced to "Blow Your Trumpet, Gabriel," Slave Songs of the United States, 1867), and nepenthe (Helen had it from Polydamna of Egypt and gave it to Menelaus and his guests).
 
-Next E number: E914.
+Next E number: E921.
