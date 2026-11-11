@@ -21009,6 +21009,130 @@
    ],
    "defined_in": 79,
    "pattern": "fore or aft|fore and aft"
+  },
+  {
+   "word": "Reverberation",
+   "definition": "An echo; a sound that rolls back and forth.",
+   "chapters": [
+    2,
+    3,
+    14,
+    33,
+    40,
+    41,
+    49,
+    51,
+    52,
+    53,
+    54,
+    55,
+    57,
+    59,
+    61,
+    63,
+    72,
+    73,
+    80,
+    82
+   ],
+   "defined_in": 80,
+   "pattern": "reverberations?"
+  },
+  {
+   "word": "Convulsive",
+   "definition": "Shaking in violent spasms.",
+   "chapters": [
+    80
+   ],
+   "defined_in": 80,
+   "pattern": "convulsive"
+  },
+  {
+   "word": "Widow’s weeds",
+   "definition": "The black mourning clothes of a widow.",
+   "chapters": [
+    80
+   ],
+   "defined_in": 80,
+   "pattern": "widow's weeds"
+  },
+  {
+   "word": "Muffler",
+   "definition": "A scarf worn around the neck for warmth.",
+   "chapters": [
+    7,
+    23,
+    59,
+    80
+   ],
+   "defined_in": 80,
+   "pattern": "mufflers?"
+  },
+  {
+   "word": "Disgorged",
+   "definition": "Thrown up; poured out.",
+   "chapters": [
+    80
+   ],
+   "defined_in": 80,
+   "pattern": "disgorged"
+  },
+  {
+   "word": "Sieve",
+   "definition": "A strainer with fine holes.",
+   "chapters": [
+    14,
+    52,
+    80
+   ],
+   "defined_in": 80,
+   "pattern": "sieves?"
+  },
+  {
+   "word": "Ill repute",
+   "definition": "A bad reputation.",
+   "chapters": [
+    80
+   ],
+   "defined_in": 80,
+   "pattern": "ill repute"
+  },
+  {
+   "word": "Heir apparent",
+   "definition": "The heir whose right cannot be set aside.",
+   "chapters": [
+    73,
+    80
+   ],
+   "defined_in": 80,
+   "pattern": "heir apparent"
+  },
+  {
+   "word": "Mealy-mouthed",
+   "definition": "Afraid to speak plainly.",
+   "chapters": [
+    80
+   ],
+   "defined_in": 80,
+   "pattern": "mealy-mouthed"
+  },
+  {
+   "word": "Slate",
+   "definition": "A small board of slate that schoolchildren wrote on with chalk.",
+   "chapters": [
+    15,
+    37,
+    41,
+    45,
+    47,
+    48,
+    49,
+    62,
+    80,
+    82
+   ],
+   "defined_in": 80,
+   "pattern": "slates?"
   }
  ],
  "vocab_chapters": [
@@ -21090,6 +21214,7 @@
   76,
   77,
   78,
-  79
+  79,
+  80
  ]
 }
