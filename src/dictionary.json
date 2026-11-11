@@ -21133,6 +21133,108 @@
    ],
    "defined_in": 80,
    "pattern": "slates?"
+  },
+  {
+   "word": "Ulster",
+   "definition": "A long, loose overcoat, often with a cape.",
+   "chapters": [
+    81
+   ],
+   "defined_in": 81,
+   "pattern": "ulsters?"
+  },
+  {
+   "word": "Pugnacious",
+   "definition": "Eager to fight.",
+   "chapters": [
+    81
+   ],
+   "defined_in": 81,
+   "pattern": "pugnacious"
+  },
+  {
+   "word": "Antiphon",
+   "definition": "A verse sung in turn by two choirs.",
+   "chapters": [
+    3,
+    62,
+    81
+   ],
+   "defined_in": 81,
+   "pattern": "antiphons?"
+  },
+  {
+   "word": "Antipodes",
+   "definition": "Places on exactly opposite sides of the earth.",
+   "chapters": [
+    22,
+    29,
+    81
+   ],
+   "defined_in": 81,
+   "pattern": "antipodes"
+  },
+  {
+   "word": "Stool pigeon",
+   "definition": "A police informer.",
+   "chapters": [
+    81
+   ],
+   "defined_in": 81,
+   "pattern": "stool pigeons?"
+  },
+  {
+   "word": "Fence",
+   "definition": "A dealer in stolen goods.",
+   "chapters": [
+    18,
+    73,
+    77,
+    79,
+    80,
+    81
+   ],
+   "defined_in": 81,
+   "pattern": "a fence"
+  },
+  {
+   "word": "Bandy-legged",
+   "definition": "Bow-legged.",
+   "chapters": [
+    81
+   ],
+   "defined_in": 81,
+   "pattern": "bandy-?legged"
+  },
+  {
+   "word": "Oculist",
+   "definition": "An eye doctor.",
+   "chapters": [
+    81
+   ],
+   "defined_in": 81,
+   "pattern": "oculists?"
+  },
+  {
+   "word": "Waistcoat",
+   "definition": "A vest.",
+   "chapters": [
+    56,
+    81
+   ],
+   "defined_in": 81,
+   "pattern": "waistcoats?"
+  },
+  {
+   "word": "Windowpeeper",
+   "definition": "A peeping Tom.",
+   "chapters": [
+    75,
+    76,
+    81
+   ],
+   "defined_in": 81,
+   "pattern": "window-?peepers?"
   }
  ],
  "vocab_chapters": [
@@ -21215,6 +21317,7 @@
   77,
   78,
   79,
-  80
+  80,
+  81
  ]
 }
