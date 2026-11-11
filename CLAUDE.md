@@ -7,3 +7,6 @@ Indigenous knowledge and the old civilizations of Africa, India, China, the Amer
 
 ## Standing rule: source every general summary
 Any resource that reads like a general summary (often Coral's own search summaries) gets a real source found and proposed, so the wording can be checked against it and corrected if needed. Do not leave such notes unmarked or unsourced. (Coral, November 11, 2026.)
+
+## Standing rule: trim generic interpretive passages
+The book already runs about 1,400 pages. In each batch, propose trims (E items with Current / Proposed / Why) for long resource passages: keep facts, sources, quotations, and observations tied to a line in Young's text; cut sentences that only restate the novel's big themes in general terms ("reflects the novel's themes of illusion and reality," "the boundary between life and death," "the interplay of light and shadow"). Never trim Coral's own arguments or views (for example on racism, slavery, the Magical Negro trope, the white suffrage movement). Nothing is cut without her OK. (Coral, November 11, 2026.)
