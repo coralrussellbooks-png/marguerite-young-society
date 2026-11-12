@@ -213,17 +213,5 @@ article dl.gloss dd { margin: 0.1rem 0 0; }
 .side .sec-7 { --sec-bg: #d7eded; --sec-c: #1f7373; }
 .side .sec-8 { --sec-bg: #f8e2d6; --sec-c: #b0502a; }
 .side .sec-9 { --sec-bg: #e0e4f3; --sec-c: #3f4f8f; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .side .sec { --sec-bg: #1c262e; } }
-:root[data-theme="dark"] .side .sec { --sec-bg: #1c262e; }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .side .sec-1 { --sec-bg: #182633; --sec-c: #7fb2dc; } :root:not([data-theme="light"]) .side .sec-2 { --sec-bg: #182a20; --sec-c: #7cc79a; }
-  :root:not([data-theme="light"]) .side .sec-3 { --sec-bg: #241d31; --sec-c: #b9a0dd; } :root:not([data-theme="light"]) .side .sec-4 { --sec-bg: #2e1c22; --sec-c: #e392a6; }
-  :root:not([data-theme="light"]) .side .sec-5 { --sec-bg: #2a2416; --sec-c: #d8ae48; } :root:not([data-theme="light"]) .side .sec-6 { --sec-bg: #2d2214; --sec-c: #e2a35c; }
-  :root:not([data-theme="light"]) .side .sec-7 { --sec-bg: #142a2a; --sec-c: #6fcaca; } :root:not([data-theme="light"]) .side .sec-8 { --sec-bg: #2e1d15; --sec-c: #ec9a74; }
-  :root:not([data-theme="light"]) .side .sec-9 { --sec-bg: #1b2036; --sec-c: #9eaee8; }
-}
-:root[data-theme="dark"] .side .sec-1 { --sec-bg: #182633; --sec-c: #7fb2dc; } :root[data-theme="dark"] .side .sec-2 { --sec-bg: #182a20; --sec-c: #7cc79a; }
-:root[data-theme="dark"] .side .sec-3 { --sec-bg: #241d31; --sec-c: #b9a0dd; } :root[data-theme="dark"] .side .sec-4 { --sec-bg: #2e1c22; --sec-c: #e392a6; }
-:root[data-theme="dark"] .side .sec-5 { --sec-bg: #2a2416; --sec-c: #d8ae48; } :root[data-theme="dark"] .side .sec-6 { --sec-bg: #2d2214; --sec-c: #e2a35c; }
-:root[data-theme="dark"] .side .sec-7 { --sec-bg: #142a2a; --sec-c: #6fcaca; } :root[data-theme="dark"] .side .sec-8 { --sec-bg: #2e1d15; --sec-c: #ec9a74; }
-:root[data-theme="dark"] .side .sec-9 { --sec-bg: #1b2036; --sec-c: #9eaee8; }
+/* The colored sections keep their light look in dark mode too (Coral, November 12, 2026). */
+.side .sec { --ink: #1b2630; --ink-2: #4b5966; --rule: #c7d0d3; --paper: #eef1f1; --rail: #e3e8e9; --link: #1d4c69; --accent: #8f6410; --accent-soft: #ecdfb6; color: var(--ink); }
