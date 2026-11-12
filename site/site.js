@@ -78,14 +78,14 @@
   function buildSide() {
     var S = M.special, h = '';
     function li(id, label) { return '<li><a href="' + link(id) + '" data-id="' + id + '">' + esc(label) + '</a></li>'; }
-    h += '<div><ul>' + li(S['The Marguerite Young Society'], 'The Marguerite Young Society') + li('substack', 'Read on Substack') + li('audio', 'Audio') + li('read-along-2028', 'Read-Along 2028–2030') + '</ul></div>';
-    h += '<div><h2>Her works</h2><ul>' + li(S['Miss MacIntosh, My Darling'], 'Miss MacIntosh, My Darling') + li(S['Angel in the Forest'], 'Angel in the Forest') + li(S['Harp Song for a Radical'], 'Harp Song for a Radical') + li(S['Inviting the Muses'], 'Inviting the Muses') + li(S['The Collected Poems of Marguerite Young'], 'The Collected Poems') + '</ul></div>';
-    h += '<div><h2>Radical Immanence</h2><ul>' + li(S['Radical Immanence the Philosophy of Marguerite Young'], 'The Philosophy of Marguerite Young') + li(S['The Eleven Pillars'], 'The Eleven Pillars') + li(S['Collection Home'], 'Radical Immanence Collection') + li(S['Writing Life Home'], 'Across Her Writing Life') + li(S['Whale Home'], 'Be Bak in a Whale') + li(S['Creative Home'], 'The Creative Radical Collection') + li(S['Art Home'], 'Art When Here Is Enough') + li(S['A Course in Radical Immanence'], 'A Course in Radical Immanence') + '</ul></div>';
-    h += '<div><h2>More About Young</h2><ul>' + li(S["Psychology in Young's Works"], "Psychology in Young's Works") + li(S["Politics in Young's Works"], "Politics in Young's Works") + li(S['Marguerite Young, Our Darling'], 'Marguerite Young, Our Darling') + li(S["Young's Interviews Analyzed"], "Young's Interviews Analyzed") + li(S['A Reading Map'], 'A Reading Map') + '</ul></div>';
-    h += '<div id="mmmdNav" class="mmmd-nav"><div class="work-head">Inside Miss MacIntosh, My Darling</div><div><ul>' + li(S['Start Here'], 'Start Here') + li('glossary', 'Glossary') + '</ul></div>';
-    h += '<div><h2>Read the novel</h2><ul>' + li(S['Chapter Hubs Home'], 'Chapter Hubs') + li(S['Story Arcs Home'], 'Story Arcs') + li('story-in-time', 'The Story in Time') + '</ul></div>';
-    h += '<div><h2>Follow an idea</h2><ul>' + li(S['Pillar Crosswalks Home'], 'Pillar Crosswalks') + li(S['Character Hubs Home'], 'Character Hubs') + '</ul></div>';
-    h += '<div><h2>The books</h2><ul>' +
+    h += '<div class="sec sec-1"><ul>' + li(S['The Marguerite Young Society'], 'The Marguerite Young Society') + li('substack', 'Read on Substack') + li('audio', 'Audio') + li('read-along-2028', 'Read-Along 2028–2030') + '</ul></div>';
+    h += '<div class="sec sec-2"><h2>Her works</h2><ul>' + li(S['Miss MacIntosh, My Darling'], 'Miss MacIntosh, My Darling') + li(S['Angel in the Forest'], 'Angel in the Forest') + li(S['Harp Song for a Radical'], 'Harp Song for a Radical') + li(S['Inviting the Muses'], 'Inviting the Muses') + li(S['The Collected Poems of Marguerite Young'], 'The Collected Poems') + '</ul></div>';
+    h += '<div class="sec sec-3"><h2>Radical Immanence</h2><ul>' + li(S['Radical Immanence the Philosophy of Marguerite Young'], 'The Philosophy of Marguerite Young') + li(S['The Eleven Pillars'], 'The Eleven Pillars') + li(S['Collection Home'], 'Radical Immanence Collection') + li(S['Writing Life Home'], 'Across Her Writing Life') + li(S['Whale Home'], 'Be Bak in a Whale') + li(S['Creative Home'], 'The Creative Radical Collection') + li(S['Art Home'], 'Art When Here Is Enough') + li(S['A Course in Radical Immanence'], 'A Course in Radical Immanence') + '</ul></div>';
+    h += '<div class="sec sec-4"><h2>More About Young</h2><ul>' + li(S["Psychology in Young's Works"], "Psychology in Young's Works") + li(S["Politics in Young's Works"], "Politics in Young's Works") + li(S['Marguerite Young, Our Darling'], 'Marguerite Young, Our Darling') + li(S["Young's Interviews Analyzed"], "Young's Interviews Analyzed") + li(S['A Reading Map'], 'A Reading Map') + '</ul></div>';
+    h += '<div id="mmmdNav" class="mmmd-nav"><div class="work-head">Inside Miss MacIntosh, My Darling</div><div class="sec sec-5"><ul>' + li(S['Start Here'], 'Start Here') + li('glossary', 'Glossary') + '</ul></div>';
+    h += '<div class="sec sec-6"><h2>Read the novel</h2><ul>' + li(S['Chapter Hubs Home'], 'Chapter Hubs') + li(S['Story Arcs Home'], 'Story Arcs') + li('story-in-time', 'The Story in Time') + '</ul></div>';
+    h += '<div class="sec sec-7"><h2>Follow an idea</h2><ul>' + li(S['Pillar Crosswalks Home'], 'Pillar Crosswalks') + li(S['Character Hubs Home'], 'Character Hubs') + '</ul></div>';
+    h += '<div class="sec sec-8"><h2>The books</h2><ul>' +
       li(S['Home'], 'To All My Darlings') + li(S['Guide Home'], 'A Guide to Reading MMMD') + li(S['Wheel and Spokes Home'], 'The Wheel and the Spokes') +
       li(S['Architecture Home'], 'The Deep Architecture') + li(S['Philosophy of MMMD Home'], 'The Philosophy in MMMD') + li(S['History in MMMD Home'], 'The History in MMMD') +
       li(S['Intertextuality in MMMD Home'], 'Intertextuality in MMMD') + li(S['Intertextual Index Home'], 'Intertextual Index') + li(S['Comedy in MMMD Home'], 'Comedy in MMMD') +
@@ -96,7 +96,7 @@
       if (!seen[a]) { seen[a] = { id: a, chs: [] }; arcs.push(seen[a]); }
       seen[a].chs.push(c);
     }
-    h += '<div><h2>Chapters by story arc</h2><div style="display:grid;gap:0.8rem">';
+    h += '<div class="sec sec-9"><h2>Chapters by story arc</h2><div style="display:grid;gap:0.8rem">';
     arcs.forEach(function (a) {
       h += '<div class="arc"><a class="arc-name" href="' + link(a.id) + '" data-id="' + a.id + '">' + esc(M.arcNames[a.id]) + '</a><div class="chips">';
       a.chs.forEach(function (c) { h += '<a class="chip" href="' + link(M.hubs[c]) + '" data-ch="' + c + '" aria-label="Chapter ' + c + '">' + c + '</a>'; });
