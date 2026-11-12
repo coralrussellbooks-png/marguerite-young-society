@@ -15,5 +15,7 @@ The book already runs about 1,400 pages. In each batch, propose trims (E items w
 (Coral, November 12, 2026, E1490 to E1497.)
 - Every quotation from the novel is exact, word for word. A paraphrase never goes in quotation marks.
 - No dashes in Coral's own writing. Dashes inside quotations from the novel or any other source stay.
+- Everything the Guide says happens must match what happens in the novel. In each chapter pass, check every plot statement (who is where, who says what, what happens) against the novel text and propose corrections (Coral, November 12, 2026, after E1523 and E1524: old Doc is not on the bus).
+- For the Curious is set for the Read-Along 2028; do not add, remove, or rename entries. Keep additions few; the research pages hold the rest.
 - No volume divisions. Miss MacIntosh, My Darling was published as one complete book; the two-volume editions were a later publishing decision, so the Guide does not say where a "Volume 1" or "Volume 2" begins or ends.
 
