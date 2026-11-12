@@ -1,12 +1,12 @@
 """Build the eBook editions of To All My Darlings (EPUB for Kindle, PDF for the Internet Archive)
 from the built site pages: the Introduction, Chapters 1 to 82, and the Dictionary.
-Usage: python3 tools/book_tamd.py OUTDIR   (run build.py first)"""
-import os, re, sys, html, subprocess, datetime
+Usage: python3 tools/book_tamd.py [OUTDIR]   (run build.py first; default site/downloads, linked from the home page)"""
+import os, re, sys, html, subprocess, datetime, tempfile, shutil
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, 'site')
 URL = 'https://marguerite-young-society.coralrussellbooks.workers.dev'
-OUT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, 'book'))
+OUT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else os.path.join(SITE, 'downloads'))
 NAME = 'to-all-my-darlings'
 TITLE = 'To All My Darlings'
 SUBTITLE = 'The Definitive Exploration of Marguerite Young’s Magnum Opus Miss MacIntosh, My Darling'
@@ -50,12 +50,13 @@ date = re.search(r'datetime="([\d-]+)"', open(os.path.join(SITE, 'chapter-01.htm
 nice = datetime.date.fromisoformat(date).strftime('%B %-d, %Y')
 year = date[:4]
 os.makedirs(OUT, exist_ok=True)
+TMP = tempfile.mkdtemp()          # working files stay out of OUT (OUT may be site/downloads)
 
 # ---------- EPUB (Kindle) ----------
 css = ('body{line-height:1.4}h1{page-break-before:always;margin-top:1em}h2{margin-top:1.4em}'
        'dt{font-weight:bold;margin-top:.6em}dd{margin-left:1.2em}p.notice{font-style:italic}')
-cssf = os.path.join(OUT, 'epub.css'); open(cssf, 'w', encoding='utf-8').write(css)
-src = os.path.join(OUT, NAME + '-epub.html')
+cssf = os.path.join(TMP, 'epub.css'); open(cssf, 'w', encoding='utf-8').write(css)
+src = os.path.join(TMP, NAME + '-epub.html')
 open(src, 'w', encoding='utf-8').write('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>%s</title></head><body>%s</body></html>'
                                        % (html.escape(TITLE), '\n'.join(parts)))
 subprocess.run(['pandoc', src, '-f', 'html', '-t', 'epub3', '-o', os.path.join(OUT, NAME + '.epub'),
@@ -80,7 +81,7 @@ pcss = ('@page{size:Letter;margin:0.8in 0.85in 0.9in 0.85in}'
         '.titlepage .sub{font-size:15pt;margin:1em 0.4in 2em}.titlepage .by{font-size:16pt}.titlepage .small{font-size:11pt;margin-top:3em}'
         '.toc ul{list-style:none;padding:0;columns:2}.toc li{margin:.15em 0}.toc a{text-decoration:underline}')
 pcss += '.toc li{display:flex;justify-content:space-between;padding-right:1.5em}'
-psrc = os.path.join(OUT, NAME + '-pdf.html'); pdf = os.path.join(OUT, NAME + '.pdf')
+psrc = os.path.join(TMP, NAME + '-pdf.html'); pdf = os.path.join(TMP, NAME + '.pdf')
 from playwright.sync_api import sync_playwright
 import pypdf
 nums = {p: '' for p in PAGES}
@@ -102,6 +103,9 @@ with sync_playwright() as pw:
         if new == nums: break
         nums = new
     br.close()
+subprocess.run(['qpdf', '--object-streams=generate', '--compress-streams=y', '--recompress-flate', '--compression-level=9',
+                pdf, os.path.join(OUT, NAME + '.pdf')], check=True)   # about 27 MB down to about 10 MB
+shutil.rmtree(TMP)
 print('contents page numbers:', nums['chapter-01'], '...', nums['dictionary'])
 for f in (NAME + '.epub', NAME + '.pdf'):
     print(f, os.path.getsize(os.path.join(OUT, f)))
