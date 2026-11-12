@@ -34,4 +34,4 @@ To All My Darlings is done. Build a print-ready PDF and an EPUB of the book from
 - KDP interactive table of contents: https://kdp.amazon.com/en_US/help/topic/G201605700
 - Read both pages first; confirm trim size, margins, fonts, and front matter with Coral before the full build.
 - Same files go to the Internet Archive.
-- Built November 12, 2026 with tools/book_tamd.py (eBook only, no paperback: Introduction, Chapters 1 to 82, Dictionary). EPUB passes EPUBCheck 5.1.0; PDF is Letter, 1,798 pages, with page-numbered contents and bookmarks.
+- Built November 12, 2026 with tools/book_tamd.py (eBook only, no paperback: Introduction, Chapters 1 to 82, Dictionary). EPUB passes EPUBCheck 5.1.0; PDF is Letter, 1,798 pages, with page-numbered contents and bookmarks. Both are in site/downloads and linked from the home page (Download the book). Rebuild them with python3 tools/book_tamd.py after site changes.
