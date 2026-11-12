@@ -199,3 +199,30 @@ article dl.gloss dd { margin: 0.1rem 0 0; }
   h1, h2, h3 { page-break-after: avoid; break-after: avoid; }
   li, p { orphans: 3; widows: 3; }
 }
+
+/* Sidebar sections: each group gets its own color so the long menu is easier to scan. */
+.side .sec { --sec-bg: #e9edef; --sec-c: #4b5966; background: var(--sec-bg); border-left: 4px solid var(--sec-c); border-radius: 4px; padding: 0.5rem 0.5rem 0.55rem 0.6rem; }
+.side .sec h2 { color: var(--sec-c); }
+.side .sec-1 { --sec-bg: #dce8f3; --sec-c: #2f6690; }
+.side .sec-2 { --sec-bg: #dcefe1; --sec-c: #2e7a4d; }
+.side .sec-3 { --sec-bg: #e9e1f4; --sec-c: #6a4c93; }
+.side .sec-4 { --sec-bg: #f5dfe4; --sec-c: #a23b55; }
+.side .sec-5 { --sec-bg: #f1ecd9; --sec-c: #8f6410; }
+.side .sec-6 { --sec-bg: #f6e8cf; --sec-c: #a8641a; }
+.side .sec-7 { --sec-bg: #d7eded; --sec-c: #1f7373; }
+.side .sec-8 { --sec-bg: #f8e2d6; --sec-c: #b0502a; }
+.side .sec-9 { --sec-bg: #e0e4f3; --sec-c: #3f4f8f; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .side .sec { --sec-bg: #1c262e; } }
+:root[data-theme="dark"] .side .sec { --sec-bg: #1c262e; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .side .sec-1 { --sec-bg: #182633; --sec-c: #7fb2dc; } :root:not([data-theme="light"]) .side .sec-2 { --sec-bg: #182a20; --sec-c: #7cc79a; }
+  :root:not([data-theme="light"]) .side .sec-3 { --sec-bg: #241d31; --sec-c: #b9a0dd; } :root:not([data-theme="light"]) .side .sec-4 { --sec-bg: #2e1c22; --sec-c: #e392a6; }
+  :root:not([data-theme="light"]) .side .sec-5 { --sec-bg: #2a2416; --sec-c: #d8ae48; } :root:not([data-theme="light"]) .side .sec-6 { --sec-bg: #2d2214; --sec-c: #e2a35c; }
+  :root:not([data-theme="light"]) .side .sec-7 { --sec-bg: #142a2a; --sec-c: #6fcaca; } :root:not([data-theme="light"]) .side .sec-8 { --sec-bg: #2e1d15; --sec-c: #ec9a74; }
+  :root:not([data-theme="light"]) .side .sec-9 { --sec-bg: #1b2036; --sec-c: #9eaee8; }
+}
+:root[data-theme="dark"] .side .sec-1 { --sec-bg: #182633; --sec-c: #7fb2dc; } :root[data-theme="dark"] .side .sec-2 { --sec-bg: #182a20; --sec-c: #7cc79a; }
+:root[data-theme="dark"] .side .sec-3 { --sec-bg: #241d31; --sec-c: #b9a0dd; } :root[data-theme="dark"] .side .sec-4 { --sec-bg: #2e1c22; --sec-c: #e392a6; }
+:root[data-theme="dark"] .side .sec-5 { --sec-bg: #2a2416; --sec-c: #d8ae48; } :root[data-theme="dark"] .side .sec-6 { --sec-bg: #2d2214; --sec-c: #e2a35c; }
+:root[data-theme="dark"] .side .sec-7 { --sec-bg: #142a2a; --sec-c: #6fcaca; } :root[data-theme="dark"] .side .sec-8 { --sec-bg: #2e1d15; --sec-c: #ec9a74; }
+:root[data-theme="dark"] .side .sec-9 { --sec-bg: #1b2036; --sec-c: #9eaee8; }
