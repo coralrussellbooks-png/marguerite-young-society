@@ -10,3 +10,10 @@ Any resource that reads like a general summary (often Coral's own search summari
 
 ## Standing rule: trim generic interpretive passages
 The book already runs about 1,400 pages. In each batch, propose trims (E items with Current / Proposed / Why) for long resource passages: keep facts, sources, quotations, and observations tied to a line in Young's text; cut sentences that only restate the novel's big themes in general terms ("reflects the novel's themes of illusion and reality," "the boundary between life and death," "the interplay of light and shadow"). Never trim Coral's own arguments or views (for example on racism, slavery, the Magical Negro trope, the white suffrage movement). Nothing is cut without her OK. (Coral, November 11, 2026.)
+
+## Standing rules for A Guide to Reading Miss MacIntosh, My Darling
+(Coral, November 12, 2026, E1490 to E1497.)
+- Every quotation from the novel is exact, word for word. A paraphrase never goes in quotation marks.
+- No dashes in Coral's own writing. Dashes inside quotations from the novel or any other source stay.
+- No volume divisions. Miss MacIntosh, My Darling was published as one complete book; the two-volume editions were a later publishing decision, so the Guide does not say where a "Volume 1" or "Volume 2" begins or ends.
+
