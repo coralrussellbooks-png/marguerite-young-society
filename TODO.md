@@ -45,3 +45,13 @@ To All My Darlings is done. Build a print-ready PDF and an EPUB of the book from
 ## Exploring Reality and Illusion eBook (Coral, November 15, 2026)
 - Built with tools/book_reality.py: EPUB (passes EPUBCheck 5.1.0, cover from img/covers/reality-home.jpg) and PDF (Letter, 45 pages, cover, page-numbered contents, bookmarks) in site/downloads, linked from reality-home (Download the book). Save offline button on reality-home (offline/reality.json, written by build.py; src/site.js OFF table). Rebuild the files with python3 tools/book_reality.py after changes to the reality pages.
 - To All My Darlings home page also has Save this book offline (Coral, November 15, 2026): offline/tamd.json (home, Introduction, Chapters 1 to 82, Dictionary, cover), 'home' entry in the src/site.js OFF table.
+
+## Next: The Wheel and the Spokes (Coral, November 15, 2026; work starts November 16)
+Pages: wheel-and-spokes-home, radical-immanence-introduction, the-eleven-pillars, 11 pillar pages (site/data/pillars.json), and wheel-chapter-01 to 82 (site/data/wheel.json, 11 pillar sections each, about 215,000 words).
+Rules for this pass (Coral):
+- Every quotation from the novel exact, word for word. Paraphrase never in quotation marks. Check tool: $S/wq.py N (straight-quote pairs; splits on ... and [ ]). Baseline November 15: 2,556 quotations, 2,188 exact, 188 with elisions or brackets, 73 found only in another chapter, 107 not found.
+- "my mother" in the Wheel's own prose becomes "Catherine" (35 places outside quotations); inside quotations from the novel it stays.
+- Every plot statement must match what happens in the novel (who, where, what is said, what happens), checked against $S/nN.txt.
+- Philosophy reference: the Claude Docs doc "Radical Immanence: The Eleven Pillars" (https://claude.ai/artifact/Ggw1CLvcpdiRtSQCbXYuCq, Series Overview plus 11 post tabs) and the site's pillar pages.
+- Change items numbered W1, W2, ... (pending Coral's OK), shown as Current / Proposed / Why; nothing applied without her OK. Coral's own arguments are never trimmed. No dashes in her prose (none found November 15).
+- After the pass: tools/book_wheel.py for EPUB and PDF in site/downloads, Download the book on wheel-and-spokes-home, Save this book offline button (OFF table in src/site.js, offline list in build.py).
