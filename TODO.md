@@ -44,3 +44,4 @@ To All My Darlings is done. Build a print-ready PDF and an EPUB of the book from
 
 ## Exploring Reality and Illusion eBook (Coral, November 15, 2026)
 - Built with tools/book_reality.py: EPUB (passes EPUBCheck 5.1.0, cover from img/covers/reality-home.jpg) and PDF (Letter, 45 pages, cover, page-numbered contents, bookmarks) in site/downloads, linked from reality-home (Download the book). Save offline button on reality-home (offline/reality.json, written by build.py; src/site.js OFF table). Rebuild the files with python3 tools/book_reality.py after changes to the reality pages.
+- To All My Darlings home page also has Save this book offline (Coral, November 15, 2026): offline/tamd.json (home, Introduction, Chapters 1 to 82, Dictionary, cover), 'home' entry in the src/site.js OFF table.
