@@ -20,3 +20,10 @@ The book already runs about 1,400 pages. In each batch, propose trims (E items w
 - Guide change items are numbered G1, G2, G3, ... (Coral, November 12, 2026). E numbers stay for To All My Darlings and the rest of the site. The next G number is in TODO.md.
 - No volume divisions. Miss MacIntosh, My Darling was published as one complete book; the two-volume editions were a later publishing decision, so the Guide does not say where a "Volume 1" or "Volume 2" begins or ends.
 
+## Standing rules for The Wheel and the Spokes
+(Coral, November 15, 2026.)
+- Change items are numbered W1, W2, W3, ... The next W number is in TODO.md.
+- Quotations from the novel match it exactly: no "..." cuts and no [bracketed] words. A paraphrase never goes in quotation marks.
+- Keep the block quotation layout (the offset line beside quoted passages).
+- In the Wheel's own prose, Vera's "my mother" is "Catherine"; inside quotations from the novel it stays as written.
+- Every plot statement must match what happens in the novel.
