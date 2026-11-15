@@ -447,6 +447,7 @@
   var page = document.getElementById('page');
   var OFF = {
     'guide-home': { list: 'guide', btn: 'Save this guide offline', lead: 'Save all 83 pages of this guide on this device to read without a connection.', done: 'Saved. The whole guide will open on this device without a connection.' },
+    'home': { list: 'tamd', btn: 'Save this book offline', lead: 'Save all 85 pages of To All My Darlings (the Introduction, all 82 chapters, the Dictionary, and this contents page) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
     'reality-home': { list: 'reality', btn: 'Save this book offline', lead: 'Save all 11 pages of this book on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' }
   };
   var cfg = OFF[id];

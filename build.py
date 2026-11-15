@@ -237,5 +237,7 @@ _guide = sorted(f for f in os.listdir(H) if f.startswith('guide-') and f.endswit
 _core = ['./', 'site.css', 'site.js', 'data/manifest.json', 'favicon.ico', 'icon-192.png', 'app.webmanifest']
 os.makedirs(H + '/offline', exist_ok=True)
 open(H + '/offline/guide.json', 'w').write(_json.dumps({'title': 'A Guide to Reading Miss MacIntosh, My Darling', 'urls': _core + _guide}, indent=0))
+_tamd = ['home.html', 'chapter-00-introduction.html'] + ['chapter-%02d.html' % n for n in range(1, 83)] + ['dictionary.html', 'img/covers/home.jpg']
+open(H + '/offline/tamd.json', 'w').write(_json.dumps({'title': 'To All My Darlings', 'urls': _core + _tamd}, indent=0))
 _reality = ['reality-home.html'] + sorted(f for f in os.listdir(H) if re.match(r'reality-\d\d-.*\.html$', f)) + ['img/covers/reality-home.jpg']
 open(H + '/offline/reality.json', 'w').write(_json.dumps({'title': 'Exploring Reality and Illusion in Miss MacIntosh, My Darling', 'urls': _core + _reality}, indent=0))
