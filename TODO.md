@@ -53,5 +53,6 @@ Rules for this pass (Coral):
 - "my mother" in the Wheel's own prose becomes "Catherine" (35 places outside quotations); inside quotations from the novel it stays.
 - Every plot statement must match what happens in the novel (who, where, what is said, what happens), checked against $S/nN.txt.
 - Philosophy reference: the Claude Docs doc "Radical Immanence: The Eleven Pillars" (https://claude.ai/artifact/Ggw1CLvcpdiRtSQCbXYuCq, Series Overview plus 11 post tabs) and the site's pillar pages.
-- Change items numbered W1, W2, ... (pending Coral's OK), shown as Current / Proposed / Why; nothing applied without her OK. Coral's own arguments are never trimmed. No dashes in her prose (none found November 15).
+- Coral's answers (November 15): quotations match the novel exactly, with no "..." cuts or [bracketed] words (rewrite each of the 188 as an exact quotation or a paraphrase out of quotation marks); keep the blockquote offset (the line beside block quotations) as it is. Batches of two chapters. Next W number: W1.
+- Change items numbered W1, W2, ... (Coral approved), shown as Current / Proposed / Why; nothing applied without her OK. Coral's own arguments are never trimmed. No dashes in her prose (none found November 15).
 - After the pass: tools/book_wheel.py for EPUB and PDF in site/downloads, Download the book on wheel-and-spokes-home, Save this book offline button (OFF table in src/site.js, offline list in build.py).
