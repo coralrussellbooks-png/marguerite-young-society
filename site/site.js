@@ -445,11 +445,16 @@
   if (pb && window.print) { pb.hidden = false; pb.addEventListener('click', function () { window.print(); }); }
   var id = document.documentElement.getAttribute('data-page');
   var page = document.getElementById('page');
-  if (id !== 'guide-home' || !page) return;
+  var OFF = {
+    'guide-home': { list: 'guide', btn: 'Save this guide offline', lead: 'Save all 83 pages of this guide on this device to read without a connection.', done: 'Saved. The whole guide will open on this device without a connection.' },
+    'reality-home': { list: 'reality', btn: 'Save this book offline', lead: 'Save all 11 pages of this book on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' }
+  };
+  var cfg = OFF[id];
+  if (!cfg || !page) return;
   var box = document.createElement('div');
   box.className = 'offlinebox';
-  box.innerHTML = '<p><strong>Read it anywhere.</strong> Save all 83 pages of this guide on this device to read without a connection.</p>' +
-    '<p><button type="button" class="offlinebtn" id="saveGuide">Save this guide offline</button> <span class="offlinestatus" id="saveStatus" aria-live="polite"></span></p>';
+  box.innerHTML = '<p><strong>Read it anywhere.</strong> ' + cfg.lead + '</p>' +
+    '<p><button type="button" class="offlinebtn" id="saveGuide">' + cfg.btn + '</button> <span class="offlinestatus" id="saveStatus" aria-live="polite"></span></p>';
   var h1 = page.querySelector('h1'), meta = page.querySelector('.pagemeta');
   var at = meta || h1;
   if (at && at.nextSibling) page.insertBefore(box, at.nextSibling); else page.appendChild(box);
@@ -457,16 +462,16 @@
   if (!('serviceWorker' in navigator)) { btn.disabled = true; status.textContent = 'This browser cannot save pages offline.'; return; }
   navigator.serviceWorker.addEventListener('message', function (e) {
     var d = e.data || {};
-    if (d.type !== 'save-progress' || d.list !== 'guide') return;
+    if (d.type !== 'save-progress' || d.list !== cfg.list) return;
     status.textContent = d.done < d.total ? 'Saving ' + d.done + ' of ' + d.total + '…' :
-      (d.failed ? 'Saved ' + (d.total - d.failed) + ' of ' + d.total + '. Try again for the rest.' : 'Saved. The whole guide will open on this device without a connection.');
+      (d.failed ? 'Saved ' + (d.total - d.failed) + ' of ' + d.total + '. Try again for the rest.' : cfg.done);
     if (d.done >= d.total) btn.disabled = false;
   });
   btn.addEventListener('click', function () {
     btn.disabled = true; status.textContent = 'Getting the list…';
-    Promise.all([fetch('offline/guide.json').then(function (r) { return r.json(); }), navigator.serviceWorker.ready]).then(function (x) {
+    Promise.all([fetch('offline/' + cfg.list + '.json').then(function (r) { return r.json(); }), navigator.serviceWorker.ready]).then(function (x) {
       var sw = x[1].active || navigator.serviceWorker.controller;
-      sw.postMessage({ type: 'save-list', list: 'guide', urls: x[0].urls });
+      sw.postMessage({ type: 'save-list', list: cfg.list, urls: x[0].urls });
     }).catch(function () { btn.disabled = false; status.textContent = 'Could not save right now. Check the connection and try again.'; });
   });
 })();
