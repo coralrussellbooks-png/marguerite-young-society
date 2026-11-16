@@ -27,3 +27,7 @@ The book already runs about 1,400 pages. In each batch, propose trims (E items w
 - Keep the block quotation layout (the offset line beside quoted passages).
 - In the Wheel's own prose, Vera's "my mother" is "Catherine"; inside quotations from the novel it stays as written.
 - Every plot statement must match what happens in the novel.
+- Name every mother as the specific woman she is: there is no general "mother" in the novel. "The mother," "my mother," "a mother," "Vera's mother" for Catherine all become "Catherine" in the Wheel's prose (quotations stay as written). Same for other roles used as names (the nursemaid is Miss MacIntosh). (Coral, November 16, 2026.)
+- "The child" and "the narrator" become "Vera" when they mean her; the novel has many other children, so check which child is meant. Vera is the only narrator. (Coral, November 16, 2026.)
+- Female characters are sometimes mixed up in the Wheel; check who is who in every chapter. (Coral, November 16, 2026.)
+- Vera tells many scenes she is not present for (Mr. Spitzer alone, Esther, Miss MacIntosh's past). Never write that Vera sees or watches what she only tells; use "as Vera tells it."
