@@ -9,7 +9,7 @@ URL = 'https://marguerite-young-society.coralrussellbooks.workers.dev'
 OUT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else os.path.join(SITE, 'downloads'))
 NAME = 'the-wheel-and-the-spokes'
 TITLE = 'The Wheel and the Spokes'
-SUBTITLE = 'The Eleven Pillars of Radical Immanence in Miss MacIntosh, My Darling, Chapter by Chapter'
+SUBTITLE = 'Radical Immanence in Miss MacIntosh, My Darling'   # as printed on the cover (KDP requires the metadata to match the cover)
 AUTHOR = 'Coral Russell'
 PUBLISHER = 'The Marguerite Young Society'
 COVER = os.path.join(SITE, 'img', 'covers', 'wheel-and-spokes-home.jpg')
@@ -70,6 +70,27 @@ subprocess.run(['pandoc', src, '-f', 'html', '-t', 'epub3', '-o', os.path.join(O
                 '--metadata', 'title=' + TITLE, '--metadata', 'subtitle=' + SUBTITLE, '--metadata', 'author=' + AUTHOR, '--metadata', 'lang=en-US',
                 '--metadata', 'date=' + date, '--metadata', 'publisher=' + PUBLISHER,
                 '--metadata', 'rights=© %s %s' % (year, AUTHOR), '--metadata', 'toc-title=Contents'], check=True)
+
+# ---------- Kindle (KDP) EPUB: set KDP_OUT=DIR to also write NAME-kdp.epub there ----------
+# Adds a copyright page, and turns links to the website into plain text (the eBook reads on its own).
+KDP_OUT = os.environ.get('KDP_OUT')
+if KDP_OUT:
+    kparts = [re.sub(r'<a [^>]*?href="https?://[^"]*"[^>]*>(.*?)</a>', r'\1', x, flags=re.S) for x in parts]
+    copy = ('<h1>Copyright</h1><div class="copyright"><p>%s</p><p>%s</p><p>by %s</p><p>Copyright © %s %s. All rights reserved.</p>'
+            '<p>Published by %s.</p><p>Quotations from <em>Miss MacIntosh, My Darling</em> by Marguerite Young (1965) are given for commentary and study.</p>'
+            '<p>The Marguerite Young Society: %s</p></div>'
+            % (TITLE, SUBTITLE, AUTHOR, year, AUTHOR, PUBLISHER, URL.replace('https://', '')))
+    kcss = css + '.copyright{margin-top:3em;text-align:center}.copyright p{margin:.6em 0;text-indent:0}'
+    kcssf = os.path.join(TMP, 'kdp.css'); open(kcssf, 'w', encoding='utf-8').write(kcss)
+    ksrc = os.path.join(TMP, NAME + '-kdp.html')
+    open(ksrc, 'w', encoding='utf-8').write('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>%s</title></head><body>%s%s</body></html>'
+                                            % (html.escape(TITLE), copy, '\n'.join(kparts)))
+    os.makedirs(KDP_OUT, exist_ok=True)
+    subprocess.run(['pandoc', ksrc, '-f', 'html', '-t', 'epub3', '-o', os.path.join(KDP_OUT, NAME + '-kdp.epub'),
+                    '--toc', '--toc-depth=1', '--split-level=1', '--css', kcssf, '--epub-cover-image=' + COVER,
+                    '--metadata', 'title=' + TITLE, '--metadata', 'subtitle=' + SUBTITLE, '--metadata', 'author=' + AUTHOR, '--metadata', 'lang=en-US',
+                    '--metadata', 'date=' + date, '--metadata', 'publisher=' + PUBLISHER,
+                    '--metadata', 'rights=© %s %s' % (year, AUTHOR), '--metadata', 'toc-title=Contents'], check=True)
 
 # ---------- PDF ----------
 cover = 'data:image/jpeg;base64,' + base64.b64encode(open(COVER, 'rb').read()).decode()
