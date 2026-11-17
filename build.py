@@ -241,3 +241,5 @@ _tamd = ['home.html', 'chapter-00-introduction.html'] + ['chapter-%02d.html' % n
 open(H + '/offline/tamd.json', 'w').write(_json.dumps({'title': 'To All My Darlings', 'urls': _core + _tamd}, indent=0))
 _reality = ['reality-home.html'] + sorted(f for f in os.listdir(H) if re.match(r'reality-\d\d-.*\.html$', f)) + ['img/covers/reality-home.jpg']
 open(H + '/offline/reality.json', 'w').write(_json.dumps({'title': 'Exploring Reality and Illusion in Miss MacIntosh, My Darling', 'urls': _core + _reality}, indent=0))
+_wheel = ['wheel-and-spokes-home.html', 'radical-immanence-introduction.html'] + ['wheel-chapter-%02d.html' % n for n in range(1, 83)] + ['the-eleven-pillars.html'] + sorted(f for f in os.listdir(H) if re.match(r'pillar-\d+-.*\.html$', f) and not f.endswith('-defined.html')) + ['img/covers/wheel-and-spokes-home.jpg']
+open(H + '/offline/wheel.json', 'w').write(_json.dumps({'title': 'The Wheel and the Spokes', 'urls': _core + _wheel}, indent=0))
