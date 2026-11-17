@@ -49,3 +49,9 @@ The book already runs about 1,400 pages. In each batch, propose trims (E items w
 
 ## Standing rule: link Character Hubs
 Every mention of "Character Hub" or "Character Hubs" in page text links to the Character Hubs page (#character-hubs-home), which also holds Coral's Boethian map "All the Darlings." Link wherever that map or Boethius's diagrams are discussed. (Coral, November 17, 2026.)
+
+## Standing rule: Young's own wording
+(Coral, November 17, 2026, after D114: Heraclitus in Chapter 13 and the river in Chapters 5 and 52.)
+- Young puts philosophies, sayings, and sources into her own wording; names are often left out and phrases are changed. A philosopher or idea can be in the novel without its name or its famous phrase.
+- Before saying the novel does not name, echo, or use a source, search for the idea itself: its images, its key words in other forms, paraphrases, and the To All My Darlings notes, which often already trace the line to its source.
+- Never cut or "correct" a claim that Young drew on a source only because the name is missing. Bring every find, and every place where the link is uncertain, to Coral to review.
