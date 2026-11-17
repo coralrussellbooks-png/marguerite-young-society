@@ -46,3 +46,6 @@ The book already runs about 1,400 pages. In each batch, propose trims (E items w
 - If the search still finds nothing, use what Coral said and note "(from Coral's reading)" in the TODO, not in the text; ask only for the citation details needed for the page (title, publication, date), never whether the fact is true.
 - Raise a question only when a source actually found says something different, and then show that source.
 - Settled from her reading: Young was not influenced by Joyce; their styles are completely different. Young read Ulysses and admired it. She met Joyce's sister once.
+
+## Standing rule: link Character Hubs
+Every mention of "Character Hub" or "Character Hubs" in page text links to the Character Hubs page (#character-hubs-home), which also holds Coral's Boethian map "All the Darlings." Link wherever that map or Boethius's diagrams are discussed. (Coral, November 17, 2026.)
