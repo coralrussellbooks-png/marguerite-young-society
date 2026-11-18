@@ -82,3 +82,13 @@ Plan, in order:
 ## The site as an app (Coral, November 18, 2026)
 - Done: "Install the App" page (install-the-app) with steps for iPhone, Android, and computers, an install button where the browser offers one, and a "Save the whole site" button (offline/all.json, built by build.py; size shown from the list). Linked from the home page and the sidebar. Saving now goes in batches of 150 so long saves are not cut off.
 - Optional later: app store versions through PWABuilder (Microsoft Store free; Google Play $25 plus a 12-tester, 14-day closed test; Apple $99 a year and often rejects website wrappers).
+
+## Next: The Philosophy in MMMD revision (Coral, November 18, 2026)
+Pages: philosophy-of-mmmd-home and the 23 essays philosophy-01 to philosophy-23 in site/data/essays.json (about 16,300 words, four Parts). Change items are P1, P2, ... (Current / Proposed / Why), nothing applied without Coral's OK. Next P number: P1.
+First scan (November 18): 248 quotations checked against both texts (working copy and Dalkey dk/dN.txt); 222 match both, the rest are scanning slips except "death-bed" (print: "deathbed," Ch 43, essay 7). All 107 chapter citations are right. Word counts in essay 9 hold (dream about 1,500, illusion 186 to 195). No essay depends on the end of Ch 50 or the missing Ch 60 passage.
+Plan:
+1. Quotations and sources: find the exact wording of Young's interview passages ("examined all the illusions of life" credited to Friedman and Fuchs here but to Ruas on writing-life-03; the leader and "poetic novel" passages worded differently on interview-friedmanfuchs-conversation) and bring them with "deathbed."
+2. Plot pass, four or five essays per batch, against dk: essay 23 "the last words are misspelled" (last sentence is "For she could not spell either."); essay 7 "Cousin Hannah never appears in the novel alive"; essay 20 "the last reflective sentence" and "the mother she has just lost." Name Vera and Catherine for "the narrator" (8) and "the mother"; "as Vera tells it"; check each "Chapters discussed" line.
+3. Housekeeping as in the Deep Architecture: remove "Definition from research" (23 essays), link the first mention of Radical Immanence, check pillar names and links, propose trims of generic passages.
+4. Additions kept few: Palestrina (Ch 50) for Unfinished Is Honest or the music passages.
+5. Rebuild: EPUB, PDF, and "Save this book offline" for this book once the text is settled.

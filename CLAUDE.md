@@ -39,6 +39,10 @@ The book already runs about 1,400 pages. In each batch, propose trims (E items w
 - Material from the Drive folder "Architecture of Illusion" is drafted with unverified quotations and facts: check every quotation against the novel and look up every fact before proposing it.
 - Keep the Deep Architecture's warm, friendly voice for the casual reader, not academics (Coral, November 17, 2026). Architecture of Illusion material is rewritten into that voice, not pasted: shorter sentences, plain words, each philosopher introduced in a line, no "this monograph," and no academic terms (epistemological, ontological, historicism, totalizing, interiority, the democratic imperative) unless one is explained in plain words where it appears. New passages written for the book follow the same voice.
 
+## Standing rule for The Philosophy in MMMD
+(Coral, November 18, 2026.)
+- Change items are numbered P1, P2, P3, ... The next P number is in TODO.md.
+
 ## Standing rule: trust Coral's reading
 (Coral, November 17, 2026, after the "American Ulysses" source: Anais Nin, "One Writer's Version of a Complete Universe," Los Angeles Times, January 9, 1966.)
 - Coral has read the interviews, reviews, letters, and records on Young for years. When she states a fact from her reading, it stands. Do not argue it, hold it back, or leave it out for lack of an online match.
