@@ -93,3 +93,9 @@ Plan:
    In every batch, search for each philosopher and idea the essay discusses by its images and Young's rewordings, not only by name (Nietzsche is never named in the novel, yet his images run through it); also look for philosophies the essays have missed, and bring finds as P items.
 4. Additions kept few: Palestrina (Ch 50) for Unfinished Is Honest or the music passages.
 5. Rebuild: EPUB, PDF, and "Save this book offline" for this book once the text is settled.
+
+## Corrected copy of the novel (Coral, November 18, 2026; for Coral's private use only, never posted)
+- Source: the Dalkey PDF (InDesign, October 2023, real text layer, printed page = PDF page minus 15). Working copy: the four MMMD_chap PDFs.
+- Coral's typo list (57 items): the attached Dalkey PDF already reads correctly in all but 7 (pp. 505, 644, 656, 783, 965, 1007, 1174); those 7 applied in place in "Dalkey corrected v1" (scratchpad fix/patch.py rewrites the line in the embedded Caslon, justified to the column).
+- Comparison with the working copy found about 48 more candidates, numbered N1 to N48 for Coral's OK (scratchpad fix/cand.json). Next N number: N49.
+- The working copy is also missing a passage in Ch 52 (p. 751, Mr. Spitzer covers the dead woman with the horse blanket, "is there no tune, rune, music, memory of her") and one in Ch 54 (p. 817, "Since then, he had tried to be more watchful"), besides the end of Ch 50 and the Ch 60 passage. Always check dk.
