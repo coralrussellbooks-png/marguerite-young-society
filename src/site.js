@@ -78,7 +78,7 @@
   function buildSide() {
     var S = M.special, h = '';
     function li(id, label) { return '<li><a href="' + link(id) + '" data-id="' + id + '">' + esc(label) + '</a></li>'; }
-    h += '<div class="sec sec-1"><ul>' + li(S['The Marguerite Young Society'], 'The Marguerite Young Society') + li('substack', 'Read on Substack') + li('audio', 'Audio') + li('read-along-2028', 'Read-Along 2028–2030') + '</ul></div>';
+    h += '<div class="sec sec-1"><ul>' + li(S['The Marguerite Young Society'], 'The Marguerite Young Society') + li('substack', 'Read on Substack') + li('audio', 'Audio') + li('read-along-2028', 'Read-Along 2028–2030') + li('install-the-app', 'Install the App') + '</ul></div>';
     h += '<div class="sec sec-2"><h2>Her works</h2><ul>' + li(S['Miss MacIntosh, My Darling'], 'Miss MacIntosh, My Darling') + li(S['Angel in the Forest'], 'Angel in the Forest') + li(S['Harp Song for a Radical'], 'Harp Song for a Radical') + li(S['Inviting the Muses'], 'Inviting the Muses') + li(S['The Collected Poems of Marguerite Young'], 'The Collected Poems') + '</ul></div>';
     h += '<div class="sec sec-3"><h2>Radical Immanence</h2><ul>' + li(S['Radical Immanence the Philosophy of Marguerite Young'], 'The Philosophy of Marguerite Young') + li(S['The Eleven Pillars'], 'The Eleven Pillars') + li(S['Collection Home'], 'Radical Immanence Collection') + li(S['Writing Life Home'], 'Across Her Writing Life') + li(S['Whale Home'], 'Bee Bak in a Whale') + li(S['Creative Home'], 'The Creative Radical Collection') + li(S['Art Home'], 'Art When Here Is Enough') + li(S['A Course in Radical Immanence'], 'A Course in Radical Immanence') + '</ul></div>';
     h += '<div class="sec sec-4"><h2>More About Young</h2><ul>' + li(S["Psychology in Young's Works"], "Psychology in Young's Works") + li(S["Politics in Young's Works"], "Politics in Young's Works") + li(S['Marguerite Young, Our Darling'], 'Marguerite Young, Our Darling') + li(S["Young's Interviews Analyzed"], "Young's Interviews Analyzed") + li(S['A Reading Map'], 'A Reading Map') + '</ul></div>';
@@ -450,8 +450,25 @@
     'home': { list: 'tamd', btn: 'Save this book offline', lead: 'Save all 85 pages of To All My Darlings (the Introduction, all 82 chapters, the Dictionary, and this contents page) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
     'wheel-and-spokes-home': { list: 'wheel', btn: 'Save this book offline', lead: 'Save all 96 pages of The Wheel and the Spokes (this contents page, the Introduction, all 82 chapters, The Eleven Pillars, and the eleven pillar pages) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
     'architecture-home': { list: 'architecture', btn: 'Save this book offline', lead: 'Save all 46 pages of The Deep Architecture (this contents page, the Preface, all 43 essays, and the Conclusion) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
+    'install-the-app': { list: 'all', btn: 'Save the whole site', lead: 'Save every page, picture, and the full-text search of The Marguerite Young Society on this device (<span class="offsize">about 90 MB</span>) to read without a connection.', done: 'Saved. The whole site will open on this device without a connection.' },
     'reality-home': { list: 'reality', btn: 'Save this book offline', lead: 'Save all 11 pages of this book on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' }
   };
+  /* The Install the App page: an install button where the browser offers one, or a note when the app is already in use. */
+  var installEv = null;
+  function installSpot() {
+    var spot = document.getElementById('installNow'); if (!spot) return;
+    var standalone = (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) || navigator.standalone;
+    if (standalone) { spot.innerHTML = '<div class="offlinebox"><p><strong>Installed.</strong> This site is already open as an app on this device.</p></div>'; return; }
+    if (!installEv) { spot.innerHTML = ''; return; }
+    spot.innerHTML = '<div class="offlinebox"><p><strong>This browser can install it now.</strong> <button type="button" class="offlinebtn" id="installBtn">Install the app</button></p></div>';
+    document.getElementById('installBtn').addEventListener('click', function () {
+      var ev = installEv; installEv = null; if (!ev) return;
+      ev.prompt(); (ev.userChoice || Promise.resolve()).then(function () { installSpot(); });
+    });
+  }
+  window.addEventListener('beforeinstallprompt', function (e) { e.preventDefault(); installEv = e; installSpot(); });
+  window.addEventListener('appinstalled', function () { installEv = null; installSpot(); });
+  installSpot();
   var cfg = OFF[id];
   if (!cfg || !page) return;
   var box = document.createElement('div');
@@ -459,22 +476,36 @@
   box.innerHTML = '<p><strong>Read it anywhere.</strong> ' + cfg.lead + '</p>' +
     '<p><button type="button" class="offlinebtn" id="saveGuide">' + cfg.btn + '</button> <span class="offlinestatus" id="saveStatus" aria-live="polite"></span></p>';
   var h1 = page.querySelector('h1'), meta = page.querySelector('.pagemeta');
-  var at = meta || h1;
-  if (at && at.nextSibling) page.insertBefore(box, at.nextSibling); else page.appendChild(box);
+  var at = meta || h1, here = document.getElementById('offlineHere');
+  if (here) here.appendChild(box);
+  else if (at && at.nextSibling) page.insertBefore(box, at.nextSibling); else page.appendChild(box);
   var btn = document.getElementById('saveGuide'), status = document.getElementById('saveStatus');
   if (!('serviceWorker' in navigator)) { btn.disabled = true; status.textContent = 'This browser cannot save pages offline.'; return; }
+  var sizeEl = box.querySelector('.offsize');
+  if (sizeEl) fetch('offline/' + cfg.list + '.json').then(function (r) { return r.json(); }).then(function (l) { if (l.mb) sizeEl.textContent = 'about ' + l.mb + ' MB'; }).catch(function () {});
+  /* The list goes to the saver in batches, so a long save is never cut off partway. */
+  var CHUNK = 150, waiting = null;
   navigator.serviceWorker.addEventListener('message', function (e) {
     var d = e.data || {};
-    if (d.type !== 'save-progress' || d.list !== cfg.list) return;
-    status.textContent = d.done < d.total ? 'Saving ' + d.done + ' of ' + d.total + '…' :
-      (d.failed ? 'Saved ' + (d.total - d.failed) + ' of ' + d.total + '. Try again for the rest.' : cfg.done);
-    if (d.done >= d.total) btn.disabled = false;
+    if (d.type !== 'save-progress' || d.list !== cfg.list || !waiting) return;
+    waiting.onProgress(d);
   });
+  function finish(text) { btn.disabled = false; status.textContent = text; }
   btn.addEventListener('click', function () {
     btn.disabled = true; status.textContent = 'Getting the list…';
     Promise.all([fetch('offline/' + cfg.list + '.json').then(function (r) { return r.json(); }), navigator.serviceWorker.ready]).then(function (x) {
+      var urls = x[0].urls, total = urls.length, start = 0, failed = 0;
       var sw = x[1].active || navigator.serviceWorker.controller;
-      sw.postMessage({ type: 'save-list', list: cfg.list, urls: x[0].urls });
-    }).catch(function () { btn.disabled = false; status.textContent = 'Could not save right now. Check the connection and try again.'; });
+      function batch() {
+        if (start >= total) { waiting = null; finish(failed ? 'Saved ' + (total - failed) + ' of ' + total + '. Tap again for the rest.' : cfg.done); return; }
+        var part = urls.slice(start, start + CHUNK);
+        waiting = { onProgress: function (d) {
+          status.textContent = 'Saving ' + (start + d.done) + ' of ' + total + '…';
+          if (d.done >= d.total) { failed += d.failed; start += part.length; batch(); }
+        } };
+        sw.postMessage({ type: 'save-list', list: cfg.list, urls: part });
+      }
+      batch();
+    }).catch(function () { finish('Could not save right now. Check the connection and try again.'); });
   });
 })();

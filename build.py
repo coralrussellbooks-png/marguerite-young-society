@@ -245,3 +245,12 @@ _wheel = ['wheel-and-spokes-home.html', 'radical-immanence-introduction.html'] +
 open(H + '/offline/wheel.json', 'w').write(_json.dumps({'title': 'The Wheel and the Spokes', 'urls': _core + _wheel}, indent=0))
 _arch = ['architecture-home.html'] + sorted(k + '.html' for k in _json.load(open(os.path.join(ROOT, 'site/data/architecture.json'))) if k != 'architecture-home') + ['img/covers/architecture-home.jpg']
 open(H + '/offline/architecture.json', 'w').write(_json.dumps({'title': 'The Deep Architecture of Miss MacIntosh, My Darling', 'urls': _core + _arch}, indent=0))
+# "Save the whole site" on the Install the App page: every page, picture, and search file (the eBook downloads are left out).
+_all = sorted(f for f in os.listdir(H) if f.endswith('.html') and f != 'index.html')
+_all += ['apple-touch-icon.png', 'favicon-32.png', 'icon-512.png', 'darlings-map.css', 'darlings-map.js', 'reading-map.css', 'reading-map.js']
+_all += sorted(os.path.relpath(os.path.join(d, f), H).replace(os.sep, '/') for d, _, fs in os.walk(H + '/img') for f in fs)
+_all += sorted('data/' + f for f in os.listdir(H + '/data') if f.endswith('.json') and f != 'manifest.json')
+_all = [u for u in _all if os.path.exists(os.path.join(H, u))]
+_mb = round((sum(os.path.getsize(os.path.join(H, u)) for u in _all) + sum(os.path.getsize(os.path.join(H, u)) for u in _core if u != './' and os.path.exists(os.path.join(H, u)))) / 1048576)
+open(H + '/offline/all.json', 'w').write(_json.dumps({'title': 'The Marguerite Young Society', 'mb': _mb, 'urls': _core + _all}, indent=0))
+print('whole site offline:', len(_core + _all), 'files,', _mb, 'MB')
