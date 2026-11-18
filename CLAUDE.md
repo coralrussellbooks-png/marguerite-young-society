@@ -44,6 +44,10 @@ The book already runs about 1,400 pages. In each batch, propose trims (E items w
 - Change items are numbered P1, P2, P3, ... The next P number is in TODO.md.
 - Young's own wording (rule below) applies to every essay: she reworded philosophers and philosophies and often left the names out. Before saying the novel does not name, echo, or use a philosopher or idea, search both texts (working copy and Dalkey dk/dN.txt) for its images, key words in other forms, and paraphrases, and check the To All My Darlings notes. Bring every find, and every uncertain link, to Coral as a P item. Never cut a claim that Young drew on a source only because the name is missing.
 
+## Standing rule for The History in MMMD
+(Coral, November 18, 2026.)
+- Change items are numbered H1, H2, H3, ... The next H number is in TODO.md.
+
 ## Standing rule: trust Coral's reading
 (Coral, November 17, 2026, after the "American Ulysses" source: Anais Nin, "One Writer's Version of a Complete Universe," Los Angeles Times, January 9, 1966.)
 - Coral has read the interviews, reviews, letters, and records on Young for years. When she states a fact from her reading, it stands. Do not argue it, hold it back, or leave it out for lack of an online match.
