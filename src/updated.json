@@ -328,7 +328,7 @@
 "2026-10-29"
 ],
 "architecture-home": [
-"5f8b18c222eed58e",
+"db9b4abfa88d75d3",
 "2026-11-18"
 ],
 "arctic": [
@@ -1964,7 +1964,7 @@
 "2026-10-29"
 ],
 "character-hub-catherine-cartwheel": [
-"65dd5c96095d928a",
+"a846b2a69090b726",
 "2026-11-18"
 ],
 "character-hub-coleman-bluebough": [
@@ -1980,7 +1980,7 @@
 "2026-10-29"
 ],
 "character-hub-esther-longtree": [
-"286b05f0952b6bca",
+"f07f67b54fdef755",
 "2026-11-18"
 ],
 "character-hub-esthers-father": [
@@ -2032,7 +2032,7 @@
 "2026-10-29"
 ],
 "character-hub-joachim-spitzer": [
-"400adce572a40149",
+"3e7366b65f50e465",
 "2026-11-18"
 ],
 "character-hub-jock-cartwheel": [
@@ -2096,7 +2096,7 @@
 "2026-10-29"
 ],
 "character-hub-miss-macintosh": [
-"dd211251bb3d5b9e",
+"eddc5dc3ba4570e5",
 "2026-11-18"
 ],
 "character-hub-miss-pebbles": [
@@ -2316,7 +2316,7 @@
 "2026-10-29"
 ],
 "character-hub-vera-cartwheel": [
-"d6423e29c14ab229",
+"c68ee0b23d354065",
 "2026-11-18"
 ],
 "character-hub-veras-grandparents": [
@@ -7076,7 +7076,7 @@
 "2026-10-29"
 ],
 "not-the-overman": [
-"1f18baa8358e7e55",
+"1b517bdbf97a2453",
 "2026-11-18"
 ],
 "o-tempora-ch-18": [
@@ -10212,7 +10212,7 @@
 "2026-11-09"
 ],
 "the-grey-goose-bus-as-cosmic-vehicle": [
-"562313a7e427be37",
+"fd00fbc891716415",
 "2026-11-18"
 ],
 "the-grief-you-are-wearing": [
@@ -10502,6 +10502,10 @@
 "the-search-for-meaning": [
 "c19017ec2cbc7443",
 "2026-11-06"
+],
+"the-sentence-is-the-argument": [
+"6c4ee2dfe636806a",
+"2026-11-18"
 ],
 "the-ship-of-theseus-ch-6": [
 "b6089097d81f41b5",
