@@ -449,6 +449,7 @@
     'guide-home': { list: 'guide', btn: 'Save this guide offline', lead: 'Save all 83 pages of this guide on this device to read without a connection.', done: 'Saved. The whole guide will open on this device without a connection.' },
     'home': { list: 'tamd', btn: 'Save this book offline', lead: 'Save all 85 pages of To All My Darlings (the Introduction, all 82 chapters, the Dictionary, and this contents page) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
     'wheel-and-spokes-home': { list: 'wheel', btn: 'Save this book offline', lead: 'Save all 96 pages of The Wheel and the Spokes (this contents page, the Introduction, all 82 chapters, The Eleven Pillars, and the eleven pillar pages) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
+    'architecture-home': { list: 'architecture', btn: 'Save this book offline', lead: 'Save all 46 pages of The Deep Architecture (this contents page, the Preface, all 43 essays, and the Conclusion) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
     'reality-home': { list: 'reality', btn: 'Save this book offline', lead: 'Save all 11 pages of this book on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' }
   };
   var cfg = OFF[id];

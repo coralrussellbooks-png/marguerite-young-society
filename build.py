@@ -243,3 +243,5 @@ _reality = ['reality-home.html'] + sorted(f for f in os.listdir(H) if re.match(r
 open(H + '/offline/reality.json', 'w').write(_json.dumps({'title': 'Exploring Reality and Illusion in Miss MacIntosh, My Darling', 'urls': _core + _reality}, indent=0))
 _wheel = ['wheel-and-spokes-home.html', 'radical-immanence-introduction.html'] + ['wheel-chapter-%02d.html' % n for n in range(1, 83)] + ['the-eleven-pillars.html'] + sorted(f for f in os.listdir(H) if re.match(r'pillar-\d+-.*\.html$', f) and not f.endswith('-defined.html')) + ['img/covers/wheel-and-spokes-home.jpg']
 open(H + '/offline/wheel.json', 'w').write(_json.dumps({'title': 'The Wheel and the Spokes', 'urls': _core + _wheel}, indent=0))
+_arch = ['architecture-home.html'] + sorted(k + '.html' for k in _json.load(open(os.path.join(ROOT, 'site/data/architecture.json'))) if k != 'architecture-home') + ['img/covers/architecture-home.jpg']
+open(H + '/offline/architecture.json', 'w').write(_json.dumps({'title': 'The Deep Architecture of Miss MacIntosh, My Darling', 'urls': _core + _arch}, indent=0))
