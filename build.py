@@ -245,6 +245,8 @@ _wheel = ['wheel-and-spokes-home.html', 'radical-immanence-introduction.html'] +
 open(H + '/offline/wheel.json', 'w').write(_json.dumps({'title': 'The Wheel and the Spokes', 'urls': _core + _wheel}, indent=0))
 _arch = ['architecture-home.html'] + sorted(k + '.html' for k in _json.load(open(os.path.join(ROOT, 'site/data/architecture.json'))) if k != 'architecture-home') + ['img/covers/architecture-home.jpg']
 open(H + '/offline/architecture.json', 'w').write(_json.dumps({'title': 'The Deep Architecture of Miss MacIntosh, My Darling', 'urls': _core + _arch}, indent=0))
+_phil = ['philosophy-of-mmmd-home.html'] + sorted(k + '.html' for k in _json.load(open(os.path.join(ROOT, 'site/data/essays.json'))) if k.startswith('philosophy-') and k != 'philosophy-of-mmmd-home')
+open(H + '/offline/philosophy.json', 'w').write(_json.dumps({'title': 'The Philosophy of Marguerite Young’s Miss MacIntosh, My Darling', 'urls': _core + _phil}, indent=0, ensure_ascii=False))
 # "Save the whole site" on the Install the App page: every page, picture, and search file (the eBook downloads are left out).
 _all = sorted(f for f in os.listdir(H) if f.endswith('.html') and f != 'index.html')
 _all += ['apple-touch-icon.png', 'favicon-32.png', 'icon-512.png', 'darlings-map.css', 'darlings-map.js', 'reading-map.css', 'reading-map.js']
