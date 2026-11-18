@@ -48,6 +48,10 @@ The book already runs about 1,400 pages. In each batch, propose trims (E items w
 (Coral, November 18, 2026.)
 - Change items are numbered H1, H2, H3, ... The next H number is in TODO.md.
 
+## Standing rule for Intertextuality in MMMD
+(Coral, November 18, 2026.)
+- Change items are numbered T1, T2, T3, ... The next T number is in TODO.md.
+
 ## Standing rule: trust Coral's reading
 (Coral, November 17, 2026, after the "American Ulysses" source: Anais Nin, "One Writer's Version of a Complete Universe," Los Angeles Times, January 9, 1966.)
 - Coral has read the interviews, reviews, letters, and records on Young for years. When she states a fact from her reading, it stands. Do not argue it, hold it back, or leave it out for lack of an online match.
