@@ -115,3 +115,8 @@ Plan: 1. quotations and sources; 2. plot check in five or six batches (Sections 
 - Allusions 71 to 99: added Alice, Ancient Mariner, Arabian Nights, Boethius, Life is a dream, Childe Roland, Egyptian sailor, Epicurus, Hanway, Heraclitus, Kolokol, Leibniz, Lusitania and Titanic, Marne, Melville, Milton, Nietzsche, Plato, Poe, Schopenhauer, Shakespeare, Spinoza, Sterne, Tao Te Ching, Upanishads, Whitman, William James, Zhuangzi (chapters from the To All My Darlings notes or the novel). Charon, Crusades, Jesus, Washington chapters added; King Solomon 10 and 22 are the turtle (moved to Animals).
 - Animals 18 to 21: singing frog, pack rat, Kirtland's warbler; Solomon the turtle 9, 10, 22, 64.
 - Full audit in five batches (Coral OKd direct fixes unless they rewrite her writing): 1 Allusions and Places DONE November 23; 2 Animals and Objects DONE November 23 (common images now "passim; esp."); 3 main characters with sub-entries DONE November 23; 4 the other characters DONE November 23; 5 Themes and Ideas DONE November 23. Audit complete.
+
+## Religion in MMMD completeness check against To All My Darlings (Coral, November 23, 2026)
+- About 950 religious references in the To All My Darlings resource notes were missing from the Religion chapter pages. They are being added in five batches, each placed where its passage falls in the chapter; the existing paragraphs on every Religion chapter page were put in chapter order (November 23).
+- Batches: 1 Chapters 1 to 16 DONE November 23 (193 added; skipped non-religious notes and ones the page already covered); 2 Chapters 17 to 35; 3 Chapters 36 to 52; 4 Chapters 53 to 65; 5 Chapters 66 to 82.
+- Then the same check for the other three books centered on the novel that Coral names.
