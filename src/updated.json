@@ -1236,12 +1236,12 @@
 "2026-10-29"
 ],
 "carrier-miss-macintosh": [
-"7d2b287a4f5f85b1",
-"2026-11-19"
+"37d0f051f03cbbad",
+"2026-11-23"
 ],
 "carrier-mr-bonebreaker": [
-"0c39cc3459a75592",
-"2026-10-29"
+"b7b19ce9c5e2b622",
+"2026-11-23"
 ],
 "carrier-mr-spitzer": [
 "27d63701bc067fdc",
@@ -1308,8 +1308,8 @@
 "2026-11-11"
 ],
 "chapter-02": [
-"cf4ebe417af6df0a",
-"2026-11-12"
+"71c8bd19eef786ea",
+"2026-11-23"
 ],
 "chapter-02-hub": [
 "c39d069afed73d3a",
@@ -3608,8 +3608,8 @@
 "2026-10-29"
 ],
 "emperor-constantine": [
-"19b0da7d240724db",
-"2026-10-29"
+"2dbc10a6dded3484",
+"2026-11-23"
 ],
 "emperor-hadrian": [
 "21b5b9ffa1ab6b3d",
@@ -5072,8 +5072,8 @@
 "2026-10-29"
 ],
 "index-chapter-65": [
-"75c5a772a4814ea4",
-"2026-10-29"
+"00b9d8e0f1d83f98",
+"2026-11-23"
 ],
 "index-chapter-66": [
 "bdd6c1d119b2d791",
@@ -5299,6 +5299,10 @@
 "796ae2a22f8c3e79",
 "2026-10-29"
 ],
+"intertext-s6-alice-in-wonderland-and-through-the-looking-glass": [
+"51e3e7858751376d",
+"2026-11-23"
+],
 "intertext-s6-benjamin-franklin-and-poor-richards-almanack": [
 "9df830a1e662b1cb",
 "2026-11-23"
@@ -5308,7 +5312,7 @@
 "2026-11-23"
 ],
 "intertext-s6-common-sense-and-american-pragmatism": [
-"4bde5a6c82b07482",
+"ba9d3a89929fb3ed",
 "2026-11-23"
 ],
 "intertext-s6-dante-and-the-divine-comedy": [
@@ -5320,8 +5324,8 @@
 "2026-11-23"
 ],
 "intertext-s6-essays-on-the-major-texts": [
-"eebf467f8289d720",
-"2026-10-29"
+"8ac4be46ad42a5cb",
+"2026-11-23"
 ],
 "intertext-s6-falada-and-the-goose-girl": [
 "07e9c78a47619152",
@@ -5340,7 +5344,7 @@
 "2026-11-23"
 ],
 "intertext-s6-penelope-and-the-odyssey": [
-"c7d7feab346b38ab",
+"a1dccea09fad8003",
 "2026-11-23"
 ],
 "intertext-s6-pilgrims-progress": [
@@ -5355,6 +5359,10 @@
 "f8bea6b429c5f2df",
 "2026-11-23"
 ],
+"intertext-s6-the-arabian-nights": [
+"6f344f788ff58d47",
+"2026-11-23"
+],
 "intertext-s6-the-pastoral-poems-marlowe-raleigh-and-williams": [
 "ac3d26e42416a337",
 "2026-11-23"
@@ -5363,8 +5371,16 @@
 "f31f09cf137ee11c",
 "2026-11-23"
 ],
+"intertext-s6-the-rime-of-the-ancient-mariner": [
+"9313513c05e6a3f5",
+"2026-11-23"
+],
 "intertext-s6-the-tale-of-the-shipwrecked-sailor": [
-"628b8f496cca7d64",
+"f2187630e7639041",
+"2026-11-23"
+],
+"intertext-s6-three-american-voices-poe-melville-and-whitman": [
+"55f2dc2677713c68",
 "2026-11-23"
 ],
 "intertext-s6-thus-spoke-zarathustra": [
@@ -5420,20 +5436,20 @@
 "2026-11-23"
 ],
 "intertext-s8-the-reference-index": [
-"b2758cfeea1bb152",
-"2026-10-29"
+"73c1f40ed7bd139e",
+"2026-11-23"
 ],
 "intertextual-index-home": [
-"7f46795be19a25d0",
-"2026-10-29"
+"3b196a70e50520d9",
+"2026-11-23"
 ],
 "intertextuality-as-construction-method": [
 "48ed6af78e17cc98",
 "2026-11-18"
 ],
 "intertextuality-in-mmmd-home": [
-"405a585385e9a11a",
-"2026-11-19"
+"7f75824008e15b4f",
+"2026-11-23"
 ],
 "interview-aapl-1983": [
 "4551c8a94053c21b",
