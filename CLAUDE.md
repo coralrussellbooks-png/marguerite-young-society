@@ -68,3 +68,8 @@ Every mention of "Character Hub" or "Character Hubs" in page text links to the C
 - Young puts philosophies, sayings, and sources into her own wording; names are often left out and phrases are changed. A philosopher or idea can be in the novel without its name or its famous phrase.
 - Before saying the novel does not name, echo, or use a source, search for the idea itself: its images, its key words in other forms, paraphrases, and the To All My Darlings notes, which often already trace the line to its source.
 - Never cut or "correct" a claim that Young drew on a source only because the name is missing. Bring every find, and every place where the link is uncertain, to Coral to review.
+
+## Standing rule: ask before making a book
+(Coral, November 23, 2026.)
+- Do not build or rebuild any EPUB, PDF, or Kindle (KDP) file without asking Coral first, even when a book's content changes. The website is the place readers are told to find the latest, kept-up-to-date information; the downloads are not.
+- When content changes for a book that has downloads, say in one line that its downloads were not rebuilt, and offer to rebuild them.
