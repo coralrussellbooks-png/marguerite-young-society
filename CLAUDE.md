@@ -69,7 +69,7 @@ Every mention of "Character Hub" or "Character Hubs" in page text links to the C
 - Before saying the novel does not name, echo, or use a source, search for the idea itself: its images, its key words in other forms, paraphrases, and the To All My Darlings notes, which often already trace the line to its source.
 - Never cut or "correct" a claim that Young drew on a source only because the name is missing. Bring every find, and every place where the link is uncertain, to Coral to review.
 
-## Standing rule: ask before making a book
+## Standing rule: keep the site's books up to date; ask only for outside copies
 (Coral, November 23, 2026.)
-- Do not build or rebuild any EPUB, PDF, or Kindle (KDP) file without asking Coral first, even when a book's content changes. The website is the place readers are told to find the latest, kept-up-to-date information; the downloads are not.
-- When content changes for a book that has downloads, say in one line that its downloads were not rebuilt, and offer to rebuild them.
+- Always rebuild the site and keep the downloadable books on the site (site/downloads, EPUB and PDF) up to date: whenever a book's content changes, rebuild its downloads and update the sizes and page counts on its home page.
+- Ask Coral first before making copies for the Internet Archive or Amazon KDP (for example NAME-kdp.epub). The website is where readers are told to find the latest information.
