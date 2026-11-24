@@ -73,3 +73,8 @@ Every mention of "Character Hub" or "Character Hubs" in page text links to the C
 (Coral, November 23, 2026.)
 - Always rebuild the site and keep the downloadable books on the site (site/downloads, EPUB and PDF) up to date: whenever a book's content changes, rebuild its downloads and update the sizes and page counts on its home page.
 - Ask Coral first before making copies for the Internet Archive or Amazon KDP (for example NAME-kdp.epub). The website is where readers are told to find the latest information.
+
+## Standing rule: Young's repetitions
+(Coral, November 24, 2026.)
+- When something already noted in an earlier chapter comes up again in a later chapter, keep the later mention and link back to the earlier chapter. Young was big on repetition, and the repeats may show a pattern not yet explored. Never drop a later mention as a duplicate of an earlier chapter; only a second note on the same passage in the same chapter is a duplicate.
+- In Religion in MMMD, each paragraph that repeats an earlier chapter's verse or note ends with "Earlier in Chapter N," linked to that chapter's Religion page.
