@@ -16,6 +16,12 @@ BOOKS = {
     'comedy': ('comedy-in-mmmd-home', 'essays', 'comedy-in-miss-macintosh-my-darling', 'Comedy in Miss MacIntosh, My Darling', 'mmmd-studies.jpg'),
     'intertextual-index': ('intertextual-index-home', 'refindex', 'the-intertextual-index', 'The Intertextual Index of Miss MacIntosh, My Darling', None),
     'index': ('index-of-mmmd-home', 'essays', 'index-to-miss-macintosh-my-darling', 'Index to Miss MacIntosh, My Darling', None),
+    'collection': ('collection-home', 'ri', 'radical-immanence-the-complete-collection', 'Radical Immanence: The Complete Collection', 'collection-home.jpg'),
+    'writing-life': ('writing-life-home', 'ri', 'radical-immanence-across-marguerite-youngs-writing-life', 'Radical Immanence Across Marguerite Young\u2019s Writing Life', 'writing-life-home.jpg'),
+    'whale': ('whale-home', 'ri', 'bee-bak-in-a-whale', 'Bee Bak in a Whale', 'whale-home.jpg'),
+    'creative': ('creative-home', 'ri', 'the-creative-radical-collection', 'The Creative Radical Collection', 'creative-home.jpg'),
+    'art': ('art-home', 'ri', 'art-when-here-is-enough', 'Art When Here Is Enough', 'art-home.jpg'),
+    'floor': ('floor-home', 'politics', 'the-floor-and-the-framework', 'The Floor and the Framework', 'floor-home.jpg'),
 }
 BOOK = sys.argv[1]
 HOMEKEY, DATAFILE, NAME, TITLE, CFILE = BOOKS[BOOK]
@@ -41,7 +47,7 @@ else:
         slugs = [s for s in re.findall(r'<li><a href="#([^"]+)">', blk) if s in DATA and s != HOMEKEY and s not in seen_pages]
         if not slugs:
             continue
-        if m:
+        if m and html.unescape(re.sub(r'<[^>]+>', '', m.group(1))) != 'Contents':
             head = html.unescape(re.sub(r'<[^>]+>', '', m.group(1)))
             mid = 'movement-%d' % (sum(1 for _, k in ITEMS if k == 'movement') + 1)
             ITEMS.append((mid, 'movement')); LABEL[mid] = head
