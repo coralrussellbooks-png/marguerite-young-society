@@ -22,6 +22,9 @@ BOOKS = {
     'creative': ('creative-home', 'ri', 'the-creative-radical-collection', 'The Creative Radical Collection', 'creative-home.jpg'),
     'art': ('art-home', 'ri', 'art-when-here-is-enough', 'Art When Here Is Enough', 'art-home.jpg'),
     'floor': ('floor-home', 'politics', 'the-floor-and-the-framework', 'The Floor and the Framework', 'floor-home.jpg'),
+    'poetry': ('poetry-home', 'society', 'exploring-youngs-poetry', 'Exploring Young’s Poetry', 'poetry-home.jpg'),
+    'weather-never': ('weather-never-home', 'psych', 'the-weather-you-were-never-allowed-to-have', 'The Weather You Were Never Allowed to Have', 'weather-never-home.jpg'),
+    'weather-inside': ('weather-inside-home', 'psych', 'the-weather-inside', 'The Weather Inside', 'weather-inside-home.jpg'),
 }
 BOOK = sys.argv[1]
 HOMEKEY, DATAFILE, NAME, TITLE, CFILE = BOOKS[BOOK]
