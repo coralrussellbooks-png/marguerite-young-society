@@ -264,7 +264,10 @@ for _list, _home, _file, _title in [('llt', 'llt-home', 'llt', 'Life, Love, and 
         ('whale', 'whale-home', 'ri', 'Bee Bak in a Whale'),
         ('creative', 'creative-home', 'ri', 'The Creative Radical Collection'),
         ('art', 'art-home', 'ri', 'Art When Here Is Enough'),
-        ('floor', 'floor-home', 'politics', 'The Floor and the Framework')]:
+        ('floor', 'floor-home', 'politics', 'The Floor and the Framework'),
+        ('poetry', 'poetry-home', 'society', 'Exploring Young’s Poetry'),
+        ('weather-never', 'weather-never-home', 'psych', 'The Weather You Were Never Allowed to Have'),
+        ('weather-inside', 'weather-inside-home', 'psych', 'The Weather Inside')]:
     _d = _json.load(open(os.path.join(ROOT, 'site/data/%s.json' % _file)))
     _pp = [_home]
     for _s in re.findall(r'<li><a href="#([^"]+)">', _d[_home]):

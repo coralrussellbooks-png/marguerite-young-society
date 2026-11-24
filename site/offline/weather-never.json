@@ -1,0 +1,30 @@
+{
+"title": "The Weather You Were Never Allowed to Have",
+"urls": [
+"./",
+"site.css",
+"site.js",
+"data/manifest.json",
+"favicon.ico",
+"icon-192.png",
+"app.webmanifest",
+"weather-never-home.html",
+"weather-never-01-concept-statement.html",
+"weather-never-02-part-one-what-you-were-told-about-yourself.html",
+"weather-never-02-01-chapter-one-the-closed-room.html",
+"weather-never-03-part-two-the-five-frameworks.html",
+"weather-never-03-01-chapter-four-the-chorus-model.html",
+"weather-never-03-02-chapter-five-the-working-story.html",
+"weather-never-03-03-chapter-six-you-were-told-this-would-end.html",
+"weather-never-03-04-chapter-seven-the-standing-still.html",
+"weather-never-03-05-chapter-eight-the-reef-method.html",
+"weather-never-04-part-three-living-it.html",
+"weather-never-04-01-chapter-nine-when-the-frameworks-conflict.html",
+"weather-never-04-02-chapter-ten-the-people-around-you.html",
+"weather-never-04-03-chapter-eleven-what-we-build-from-here.html",
+"weather-never-05-authors-note.html",
+"weather-never-06-appendix-a-the-five-frameworks-at-a-glance.html",
+"weather-never-07-appendix-b-further-reading.html",
+"img/covers/weather-never-home.jpg"
+]
+}

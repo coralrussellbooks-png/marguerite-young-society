@@ -1,0 +1,29 @@
+{
+"title": "Exploring Young’s Poetry",
+"urls": [
+"./",
+"site.css",
+"site.js",
+"data/manifest.json",
+"favicon.ico",
+"icon-192.png",
+"app.webmanifest",
+"poetry-home.html",
+"poetry-01-the-ground-underfoot.html",
+"poetry-01-01-radical-immanence-explained.html",
+"poetry-01-02-the-poems-in-movements.html",
+"poetry-01-03-movement-i-diminished-heaven-the-sacred-in-the-small.html",
+"poetry-01-04-movement-ii-dubious-ground-the-constructed-and-uncertain-real.html",
+"poetry-01-05-movement-iii-the-ones-who-do-not-fit-the-margins-reveal-the-truth.html",
+"poetry-01-06-movement-iv-grief-that-stays-the-weather-that-does-not-lift.html",
+"poetry-01-07-movement-v-the-many-selves-the-self-that-will-not-stay-one.html",
+"poetry-01-08-movement-vi-the-crossing-point-what-one-generation-spends.html",
+"poetry-01-09-movement-vii-naming-the-made-word.html",
+"poetry-02-poems-that-bridge-pillars.html",
+"poetry-03-the-thesis-tested.html",
+"poetry-04-the-vision-at-its-most-concentrated.html",
+"poetry-04-01-the-same-ideas-across-the-four-books.html",
+"poetry-05-conclusion.html",
+"img/covers/poetry-home.jpg"
+]
+}

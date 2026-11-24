@@ -1,0 +1,31 @@
+{
+"title": "The Weather Inside",
+"urls": [
+"./",
+"site.css",
+"site.js",
+"data/manifest.json",
+"favicon.ico",
+"icon-192.png",
+"app.webmanifest",
+"weather-inside-home.html",
+"weather-inside-01-concept-statement.html",
+"weather-inside-02-part-one-what-you-were-told-about-yourself.html",
+"weather-inside-02-01-chapter-one-the-stable-self-is-a-story.html",
+"weather-inside-03-part-two-the-five-frameworks.html",
+"weather-inside-03-01-chapter-four-the-chorus-model.html",
+"weather-inside-03-02-chapter-five-the-working-story.html",
+"weather-inside-03-03-chapter-six-you-were-told-this-would-end.html",
+"weather-inside-03-04-chapter-seven-the-standing-still.html",
+"weather-inside-03-05-chapter-eight-the-reef-method.html",
+"weather-inside-04-part-three-living-it.html",
+"weather-inside-04-01-chapter-nine-when-the-frameworks-conflict.html",
+"weather-inside-04-02-chapter-ten-the-people-around-you.html",
+"weather-inside-04-03-chapter-eleven-what-we-build-from-here.html",
+"weather-inside-05-authors-note.html",
+"weather-inside-06-appendix-a-the-five-frameworks-at-a-glance.html",
+"weather-inside-07-appendix-b-further-reading.html",
+"weather-inside-08-endnotes.html",
+"img/covers/weather-inside-home.jpg"
+]
+}
