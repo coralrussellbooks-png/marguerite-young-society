@@ -251,6 +251,24 @@ _hist = ['history-in-mmmd-home.html'] + sorted(k + '.html' for k in _json.load(o
 open(H + '/offline/history.json', 'w').write(_json.dumps({'title': 'History as Something Done in Miss MacIntosh, My Darling', 'urls': _core + _hist}, indent=0, ensure_ascii=False))
 _inter = ['intertextuality-in-mmmd-home.html'] + sorted(k + '.html' for k in _json.load(open(os.path.join(ROOT, 'site/data/essays.json'))) if k.startswith('intertext-'))
 open(H + '/offline/intertext.json', 'w').write(_json.dumps({'title': 'Intertextuality in Miss MacIntosh, My Darling', 'urls': _core + _inter}, indent=0, ensure_ascii=False))
+# The other study books: the contents page, every page it lists in the book's own data file, and the cover.
+for _list, _home, _file, _title in [('llt', 'llt-home', 'llt', 'Life, Love, and Truth That Doesn’t Fail'),
+        ('masterclass', 'master-class-home', 'masterclass', 'Teaching a Writing Masterclass'),
+        ('woman', 'woman-in-mmmd-home', 'woman', 'Woman in Young’s Magnum Opus'),
+        ('religion', 'religion-in-mmmd-home', 'essays', 'Christianity and Religion in Miss MacIntosh, My Darling'),
+        ('comedy', 'comedy-in-mmmd-home', 'essays', 'Comedy in Miss MacIntosh, My Darling'),
+        ('intertextual-index', 'intertextual-index-home', 'refindex', 'The Intertextual Index of Miss MacIntosh, My Darling'),
+        ('index', 'index-of-mmmd-home', 'essays', 'Index to Miss MacIntosh, My Darling')]:
+    _d = _json.load(open(os.path.join(ROOT, 'site/data/%s.json' % _file)))
+    _pp = [_home]
+    for _s in re.findall(r'<li><a href="#([^"]+)">', _d[_home]):
+        if _s in _d and _s not in _pp: _pp.append(_s)
+    _urls = [p + '.html' for p in _pp]
+    for _c in (_home + '.jpg', 'mmmd-studies.jpg'):
+        if _home in ('religion-in-mmmd-home', 'comedy-in-mmmd-home') and _c != 'mmmd-studies.jpg': continue
+        if os.path.exists(os.path.join(H, 'img/covers', _c)): _urls.append('img/covers/' + _c); break
+    open(H + '/offline/%s.json' % _list, 'w').write(_json.dumps({'title': _title, 'urls': _core + _urls}, indent=0, ensure_ascii=False))
+    print('offline list', _list, len(_pp), 'pages')
 # "Save the whole site" on the Install the App page: every page, picture, and search file (the eBook downloads are left out).
 _all = sorted(f for f in os.listdir(H) if f.endswith('.html') and f != 'index.html')
 _all += ['apple-touch-icon.png', 'favicon-32.png', 'icon-512.png', 'darlings-map.css', 'darlings-map.js', 'reading-map.css', 'reading-map.js']

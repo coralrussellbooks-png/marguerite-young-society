@@ -454,7 +454,14 @@
     'philosophy-of-mmmd-home': { list: 'philosophy', btn: 'Save this book offline', lead: 'Save all 25 pages of The Philosophy of Marguerite Young’s Miss MacIntosh, My Darling (this contents page and all 24 chapters) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
     'architecture-home': { list: 'architecture', btn: 'Save this book offline', lead: 'Save all 46 pages of The Deep Architecture (this contents page, the Preface, all 43 essays, and the Conclusion) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
     'install-the-app': { list: 'all', btn: 'Save the whole site', lead: 'Save every page, picture, and the full-text search of The Marguerite Young Society on this device (<span class="offsize">about 90 MB</span>) to read without a connection.', done: 'Saved. The whole site will open on this device without a connection.' },
-    'reality-home': { list: 'reality', btn: 'Save this book offline', lead: 'Save all 11 pages of this book on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' }
+    'reality-home': { list: 'reality', btn: 'Save this book offline', lead: 'Save all 11 pages of this book on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
+    'llt-home': { list: 'llt', btn: 'Save this book offline', lead: 'Save all 90 pages of Life, Love, and Truth That Doesn’t Fail (this contents page and every page it lists) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
+    'master-class-home': { list: 'masterclass', btn: 'Save this book offline', lead: 'Save all 58 pages of Teaching a Writing Masterclass (this contents page and every page it lists) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
+    'woman-in-mmmd-home': { list: 'woman', btn: 'Save this book offline', lead: 'Save all 89 pages of Woman in Young’s Magnum Opus (this contents page and every page it lists) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
+    'religion-in-mmmd-home': { list: 'religion', btn: 'Save this book offline', lead: 'Save all 126 pages of Christianity and Religion in Miss MacIntosh, My Darling (this contents page and every page it lists) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
+    'comedy-in-mmmd-home': { list: 'comedy', btn: 'Save this book offline', lead: 'Save all 74 pages of Comedy in Miss MacIntosh, My Darling (this contents page and every page it lists) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
+    'intertextual-index-home': { list: 'intertextual-index', btn: 'Save this book offline', lead: 'Save all 111 pages of The Intertextual Index (this contents page and every page it lists) on this device to read without a connection.', done: 'Saved. The whole book will open on this device without a connection.' },
+    'index-of-mmmd-home': { list: 'index', btn: 'Save the Index offline', lead: 'Save the whole Index to Miss MacIntosh, My Darling on this device to read without a connection.', done: 'Saved. The whole Index will open on this device without a connection.' }
   };
   /* The Install the App page: an install button where the browser offers one, or a note when the app is already in use. */
   var installEv = null;
@@ -476,7 +483,8 @@
   if (!cfg || !page) return;
   var box = document.createElement('div');
   box.className = 'offlinebox';
-  box.innerHTML = '<p><strong>Read it anywhere.</strong> ' + cfg.lead + '</p>' +
+  var hereSpot = document.getElementById('offlineHere');
+  box.innerHTML = '<p>' + (hereSpot && id !== 'install-the-app' ? '' : '<strong>Read it anywhere.</strong> ') + cfg.lead + '</p>' +
     '<p><button type="button" class="offlinebtn" id="saveGuide">' + cfg.btn + '</button> <span class="offlinestatus" id="saveStatus" aria-live="polite"></span></p>';
   var h1 = page.querySelector('h1'), meta = page.querySelector('.pagemeta');
   var at = meta || h1, here = document.getElementById('offlineHere');
