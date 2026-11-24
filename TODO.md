@@ -118,5 +118,5 @@ Plan: 1. quotations and sources; 2. plot check in five or six batches (Sections 
 
 ## Religion in MMMD completeness check against To All My Darlings (Coral, November 23, 2026)
 - About 950 religious references in the To All My Darlings resource notes were missing from the Religion chapter pages. They are being added in five batches, each placed where its passage falls in the chapter; the existing paragraphs on every Religion chapter page were put in chapter order (November 23).
-- Batches: 1 Chapters 1 to 16 DONE November 23 (193 added; skipped non-religious notes and ones the page already covered); 2 Chapters 17 to 35; 3 Chapters 36 to 52; 4 Chapters 53 to 65; 5 Chapters 66 to 82.
+- Batches: 1 Chapters 1 to 16 DONE November 23 (193 added; skipped non-religious notes and ones the page already covered); 2 Chapters 17 to 35 DONE November 24 (148 added; E1669 on the Chapters 26 to 28 page awaits Coral); 3 Chapters 36 to 52; 4 Chapters 53 to 65; 5 Chapters 66 to 82.
 - Then the same check for the other three books centered on the novel that Coral names.
