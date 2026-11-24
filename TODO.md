@@ -120,3 +120,11 @@ Plan: 1. quotations and sources; 2. plot check in five or six batches (Sections 
 - About 950 religious references in the To All My Darlings resource notes were missing from the Religion chapter pages. They are being added in five batches, each placed where its passage falls in the chapter; the existing paragraphs on every Religion chapter page were put in chapter order (November 23).
 - Batches: 1 Chapters 1 to 16 DONE November 23 (193 added; skipped non-religious notes and ones the page already covered); 2 Chapters 17 to 35 DONE November 24 (151 added, E1669 applied; "Earlier in Chapter N" links added through Chapter 35, rerun /home/claude/work/relback.py addbacks(N) after each batch); 3 Chapters 36 to 52 DONE November 24 (205 added, Earlier in links through Chapter 52); 4 Chapters 53 to 65 DONE November 24 (137 added, Earlier in links through Chapter 65); 5 Chapters 66 to 82 DONE November 24 (107 added, Earlier in links through Chapter 82). Religion check complete.
 - Then the same check for the other three books centered on the novel that Coral names.
+
+## Read-Along 2028 (Coral, November 24, 2026)
+- Set for now; a volunteer will test it later in 2027.
+- Reflection questions for the read-along will come from the books and be posted on Substack. Later, analyze them and pull the best couple of questions for each chapter.
+
+## Life, Love, and Truth check against the new To All My Darlings material (started November 24, 2026)
+- Batches: 1 Chapters 1 to 16 (E1686 to E1700 proposed November 24); 2 Chapters 17 to 35; 3 Chapters 36 to 52; 4 Chapters 53 to 65; 5 Chapters 66 to 82 with the Opening and Closing pages.
+- Then the Masterclass, Woman in Young's Magnum Opus, and the Index of MMMD.
