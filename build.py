@@ -258,7 +258,13 @@ for _list, _home, _file, _title in [('llt', 'llt-home', 'llt', 'Life, Love, and 
         ('religion', 'religion-in-mmmd-home', 'essays', 'Christianity and Religion in Miss MacIntosh, My Darling'),
         ('comedy', 'comedy-in-mmmd-home', 'essays', 'Comedy in Miss MacIntosh, My Darling'),
         ('intertextual-index', 'intertextual-index-home', 'refindex', 'The Intertextual Index of Miss MacIntosh, My Darling'),
-        ('index', 'index-of-mmmd-home', 'essays', 'Index to Miss MacIntosh, My Darling')]:
+        ('index', 'index-of-mmmd-home', 'essays', 'Index to Miss MacIntosh, My Darling'),
+        ('collection', 'collection-home', 'ri', 'Radical Immanence: The Complete Collection'),
+        ('writing-life', 'writing-life-home', 'ri', 'Radical Immanence Across Marguerite Young’s Writing Life'),
+        ('whale', 'whale-home', 'ri', 'Bee Bak in a Whale'),
+        ('creative', 'creative-home', 'ri', 'The Creative Radical Collection'),
+        ('art', 'art-home', 'ri', 'Art When Here Is Enough'),
+        ('floor', 'floor-home', 'politics', 'The Floor and the Framework')]:
     _d = _json.load(open(os.path.join(ROOT, 'site/data/%s.json' % _file)))
     _pp = [_home]
     for _s in re.findall(r'<li><a href="#([^"]+)">', _d[_home]):

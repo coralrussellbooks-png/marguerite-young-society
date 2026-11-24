@@ -1,0 +1,32 @@
+{
+"title": "The Floor and the Framework",
+"urls": [
+"./",
+"site.css",
+"site.js",
+"data/manifest.json",
+"favicon.ico",
+"icon-192.png",
+"app.webmanifest",
+"floor-home.html",
+"floor-01-why-this-constitution-exists-and-how-it-can-change.html",
+"floor-02-on-the-economic-preconditions-of-a-philosophically-whole-life.html",
+"floor-03-constitution-of-the-united-states-revised-draft.html",
+"floor-04-a-note-on-these-documents.html",
+"floor-05-patriarchy-sexism-and-misogyny.html",
+"floor-06-women-children-and-the-unpaid-economy.html",
+"floor-07-education.html",
+"floor-08-the-abolition-of-private-schooling.html",
+"floor-09-the-economic-system.html",
+"floor-10-voting-and-electoral-systems.html",
+"floor-11-citizenship-and-immigration.html",
+"floor-12-healthcare.html",
+"floor-13-historical-grief-and-reparative-justice.html",
+"floor-14-criminal-justice-and-the-carceral-system.html",
+"floor-15-environmental-rights-and-obligations.html",
+"floor-16-media-and-information.html",
+"floor-17-security-and-the-common-defense.html",
+"floor-18-from-the-floor-to-the-charter.html",
+"img/covers/floor-home.jpg"
+]
+}
