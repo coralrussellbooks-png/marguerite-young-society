@@ -143,3 +143,6 @@ Plan: 1. quotations and sources; 2. plot check in five or six batches (Sections 
 - First make the two lists and show them to Coral; nothing changes until she OKs them. Flag accounts to keep even if they do not follow back (Young scholars, Dalkey Archive, writers and publications she reads) and likely spam or bot followers to skip.
 - Work in small batches the size the Substack app shows at a time, spread over several days, so the account is not flagged. Coral has already been doing this by hand in batches.
 
+## Comedy in MMMD addition (Coral, November 25, 2026)
+- Add Mr. Spitzer with the stamp on his forehead to the Comedy section. Found in Ch 51: he dreams "that there was a cancelled postage stamp stuck upon his forehead," and later the stamp he dreamed he wore is "a postage stamp of no known realm and an issue sought by no collector." The site does not cover it yet. Check comedy-chapter-51 and propose the addition as an E item.
+
