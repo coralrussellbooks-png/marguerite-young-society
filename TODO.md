@@ -138,3 +138,8 @@ Plan: 1. quotations and sources; 2. plot check in five or six batches (Sections 
 - Fitted for the site: novel quotations matched to the print text ("married, it had seemed, to the suffrage movement," Ch 35; the trunks quote from Ch 52; "just like her own," Ch 41, where Catherine says both lives were imaginary in one breath); "it might only be an eight-hour day" (Young said it, in an interview); "the misfit, the wrecked..." credited to Charles Ruas; the Friedman and Fuchs quotation credited; Debs's 1909 and 1912 words on Anthony put in quotation marks with sources; the Wikipedia birth sentence and the Occidental Literary Club sentences reworded; "many biographers" now Irving Stone and later writers (from the Kate chapter); a repeated sentence in Part Three kept once; Sources lists added to Parts Two to Five.
 - From Coral's reading (no online source found): Young on the letters Debs and Kate exchanged as "Signal" and "Headlight"; "jackass Socialists" in the voice of Debs's enemies.
 
+## Substack follower cleanup (Coral, November 25, 2026; for when she reconnects Chrome)
+- Unfollow people who do not follow Coral back, and follow back the people who follow her.
+- First make the two lists and show them to Coral; nothing changes until she OKs them. Flag accounts to keep even if they do not follow back (Young scholars, Dalkey Archive, writers and publications she reads) and likely spam or bot followers to skip.
+- Work in small batches the size the Substack app shows at a time, spread over several days, so the account is not flagged. Coral has already been doing this by hand in batches.
+
