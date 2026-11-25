@@ -132,3 +132,9 @@ Plan: 1. quotations and sources; 2. plot check in five or six batches (Sections 
 ## Substack link cleanup (Coral, November 24 to 25, 2026)
 - Done: internal post links (44 posts) and BookFunnel, Payhip, margueriteyoung.site, Amazon, and Drive links to books on the site (123 posts), all republished without email. Log in /home/claude/work/substack/decisions.md.
 - Not needed (Coral): checking other outside links (Wikipedia and the like); the 107 unpublished drafts, which Coral will fix herself before publishing.
+
+## The Suffragette and the Socialist (Coral, November 25, 2026)
+- New five-part series on Cousin Hannah and Eugene Debs (hannah-debs-home and hannah-debs-01 to -05), listed under Study materials on harp-song-for-a-radical and on Cousin Hannah's Character Hub. Cousin Hannah links to her Character Hub in each part.
+- Fitted for the site: novel quotations matched to the print text ("married, it had seemed, to the suffrage movement," Ch 35; the trunks quote from Ch 52; "just like her own," Ch 41, where Catherine says both lives were imaginary in one breath); "it might only be an eight-hour day" (Young said it, in an interview); "the misfit, the wrecked..." credited to Charles Ruas; the Friedman and Fuchs quotation credited; Debs's 1909 and 1912 words on Anthony put in quotation marks with sources; the Wikipedia birth sentence and the Occidental Literary Club sentences reworded; "many biographers" now Irving Stone and later writers (from the Kate chapter); a repeated sentence in Part Three kept once; Sources lists added to Parts Two to Five.
+- From Coral's reading (no online source found): Young on the letters Debs and Kate exchanged as "Signal" and "Headlight"; "jackass Socialists" in the voice of Debs's enemies.
+
