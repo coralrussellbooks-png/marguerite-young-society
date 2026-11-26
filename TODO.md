@@ -146,3 +146,20 @@ Plan: 1. quotations and sources; 2. plot check in five or six batches (Sections 
 ## Comedy in MMMD addition (Coral, November 25, 2026)
 - Add Mr. Spitzer with the stamp on his forehead to the Comedy section. Found in Ch 51: he dreams "that there was a cancelled postage stamp stuck upon his forehead," and later the stamp he dreamed he wore is "a postage stamp of no known realm and an issue sought by no collector." The site does not cover it yet. Check comedy-chapter-51 and propose the addition as an E item.
 
+## 2027: Chagall and Mr. Spitzer, a Substack series (Coral, November 26, 2026)
+Coral's reading: Mr. Spitzer's section is written as if his life and his moving through it were a Chagall painting. Young named Chagall among the artists she loved (from Coral's reading).
+- Sources on the site: Callison 2 (Chagall influenced Esther); Terkel 1965 (the pregnant mule-faced bride painting, which Young "had not seen when I wrote the book": frame the Spitzer link as kinship, not a proven source); "The Artist as Wanderer" (Inviting the Muses, muses-part-6: Gislebertus, Bernini, Rouault, Chagall, Ben Shahn; the artist as the Wandering Jew); master-class-14 (Young admired Chagall). Chagall lived in New York 1941 to 1948; MoMA retrospective April 9 to June 23, 1946 (Time Is a River without Banks was a color plate in the catalogue).
+- Spitzer chapters (Arc 3, Ch 25 to 29; Arc 5, Ch 53 to 62) have about 2.5 times the novel's rate of violin and fiddle images and 1.5 times its rate of floating and flying images.
+- Passages, checked against the Dalkey text: Ch 53 the icy quay, "the snow white as a shroud upon the steeples and the black roofs," "his high silk hat as big as another roof" (Over Vitebsk, "he walks over the houses"); Ch 53 "the Jew who was knocked out by an angel," "had seen the Jew at every street crossing where the streets crossed eternity into infinity" (the Wandering Jew; the novel never says Mr. Spitzer is Jewish); Ch 56 the funeral violinist "with that arm which was the empty sleeve" (The Dead Man, 1908, the roof fiddler); Ch 58 the old violinist, "his head turned permanently to one side as if he still carried a box under his chin"; Ch 55 Ole Bull "transported to a cloud, a cloud of music"; Ch 27 "his dead brother's wrist watch" (Time Is a River without Banks); Ch 29 butterflies on "his high silk chimney hat," "like a sea bird drifting through the air"; Ch 55 "no heron's blue eye floated out of his forehead"; Ch 51 the cancelled postage stamp on his forehead (also in the Comedy item above).
+- Proposed series: 1 Young and Chagall; 2 He walks over the houses (Ch 53); 3 The fiddler (Ch 55, 56, 58); 4 Time without banks (Ch 27); 5 The floating world, ending on Esther's mule bride.
+
+## 2027: Artists who did not fit the Reading Map (Coral, November 26, 2026)
+Explore each for places in Young's work where she uses them as inspiration; any with a book she read can go on the map.
+- Marc Chagall (Esther; "The Artist as Wanderer"; his memoir My Life could qualify for the map).
+- Charlie Chaplin ("influenced every book I've ever written"; Esther and The Gold Rush).
+- W. C. Fields (the passive policeman, Esther's father).
+- Ethel Barrymore (Miss MacIntosh's walk).
+- Salvador Dalí: Young compared her childhood as the dead baby Harry born again to Dalí taking the place of a dead brother, the root of "the dualities of life" (Ruas); fits Mr. Spitzer and his dead twin. Biographies of Dalí are on her students' reading list (muses-part-7).
+- Gislebertus, Bernini, Georges Rouault, Ben Shahn ("The Artist as Wanderer"; Shahn's father fleeing the Nazis with a shrouded baby read as the Wandering Jew and the Christ child).
+- Howard Mitcham, the deaf painter she names in the Ruas interview; check against the stone-deaf man in the novel.
+
